@@ -1,0 +1,7 @@
+1) Dividir temas:
+  · Carlos: Paser y Recolección.
+  · Tania: Script para la BD lógica.
+2) Nuestra BD: CSV separados por ";".
+3) Ver avances sabado: 2/11/19.
+4) Sabado 9/11/19 Correr los script.
+5) Lunes: Reunicon con el Prof. Sosa.
