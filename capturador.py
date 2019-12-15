@@ -5,9 +5,9 @@ import GetOldTweets3 as g
 import re
 import csv
 """*********************************************DEFINICIONES DE VARIABLES A SER UTILIZADAS*****************************************************************"""
-term_busq = '@AsuncionMuni OR @Ferreiromario1 OR @msaludpy OR @Ops_Paraguay OR #alertacontraelmosquito' #Termino de busqueda
-exp_reg = '.lluvia.|inund.|.crecid.|.agua.|.servida.|.desag.|.llueve.|.raudal.|.basura.|.recicla.|.desecho.|.vertedero.|.escombro.|.dengue.|.mosquito.|\
-        .aedes.|.criadero.|.minga.|.fumiga.|.repelen.|.espiral|.mosquitero.' #expresion regular por medio del cual se filtra los tweets
+term_busq = '@Telefuturo OR @AsuncionMuni OR @sntcanal9 OR @Ferreiromario1 OR @msaludpy OR @Ops_Paraguay OR @lanacionpy OR @diariocronicapy OR @SenepaParaguay OR @mambiente_py OR @ABCDigital OR #alertacontraelmosquito' #Termino de busqueda
+			
+exp_reg = '.lluvia.|inund.|.crecid.|.agua.|.servida.|.desag.|.llueve.|.raudal.|.basura.|.recicla.|.desecho.|.vertedero.|.escombro.|.dengue.|.mosquito.|.aedes.|.criadero.|.minga.|.fumiga.|.repelen.|.espiral|.mosquitero.' #expresion regular por medio del cual se filtra los tweets
 tweetsCriteria = g.manager.TweetCriteria() #objeto para capturar el tweets
 tweets_filtrado = 0
 """*********************************************************************************************************************************************************"""
@@ -23,7 +23,7 @@ def capturar_old_tweets_mes(fecha_inicio, fecha_fin,term):
     tweetsCriteria.setQuerySearch(term)
     tweetsCriteria.setSince(fecha_inicio)
     tweetsCriteria.setUntil(fecha_fin)
-    tweetsCriteria.setMaxTweets(10000000)
+    tweetsCriteria.setMaxTweets(100000000)
     tweet_history = g.manager.TweetManager.getTweets(tweetsCriteria)
     return tweet_history
 

@@ -1,15 +1,6 @@
 import  itertools
 from itertools import combinations
 
-def leer():
-    diferencias = []
-    for item in open('archivos_txt/noepidemia.txt'):
-        if item not in open('archivos_txt/epidemia.txt'):
-            line = item.rstrip("\n")
-            diferencias.append(line)
-    return (diferencias)
-
-
 #funcion que permite eliminar los duplicados y realizar las combinaciones
 def combinar_sustantivos(lista_sustantivos):
     lista_nueva = []
@@ -32,23 +23,29 @@ def leer_txt(path):
     File.close()
     return lista
 
-def escribir_archivo(lista_combinada):
-    f = open('ejemplos_negativos.pl', 'w')
-    f.write('%Ejemplos negativos' + '\n')
-    for elemento in lista_combinada:
-        line = ','.join(str(x) for x in elemento)
-        f.write('combinado_con(' + line + ')' + ':- fail.' + '\n')
-    f.close()
-
-
 def escribir_archivo_positivo(lista_combinada):
-    f = open('ejemplos_positivos.pl', 'w')
+    f = open('data/ejemplos_positivos.pl', 'w')
     f.write('%Ejemplos positivos' + '\n')
     for elemento in lista_combinada:
-        line = ','.join(str(x) for x in elemento)
-        f.write('combinado_con(' + line + ')' + ':- fail.' + '\n')
+        line = ', '.join(str(x) for x in elemento)
+        f.write('combinado_con(' + line + ').' + '\n')
     f.close()
 
-escribir_archivo_positivo(combinar_sustantivos(leer_txt('data/tweets_sustantivos.txt')))
-escribir_archivo(combinar_sustantivos(leer()))
+def conocimiento_base(data):
+    conocimiento_base = []
+    for i in data:
+        conocimiento_base.append("es_sustantivo_dengue("+i+").")
+    return conocimiento_base
+def escribir_txt(path,data):
+    try:
+        with open(path, 'w+') as File:
+            for i in data:
+                File.write(str(i)+'\n')
+    except:
+        print("path de escritura "+path+" incorrecto..")
+        exit(0)
+    File.close()
 
+resp = leer_txt('data/tweets_sustantivos.txt')
+escribir_txt('data/es_sustantivos.pl',conocimiento_base(resp))
+escribir_archivo_positivo(combinar_sustantivos(resp))

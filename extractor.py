@@ -4,7 +4,6 @@ from itertools import combinations
 import ast
 import re
 exp_reg = '@.|#|.1.|.2.|.0.|.3.|.4.|.5.|.6.|.7.|.8.|.9.'
-nlp = spacy.load("es_core_news_sm")
 
 
 def leer_txt(path):
@@ -47,6 +46,16 @@ def escribir_txt(path,data):
         exit(0)
     File.close()
 
+def conocimiento_base(data):
+    conocimiento_base = []
+    for i in data:
+        conocimiento_base.append("es_sustantivo_dengue("+i+").")
+    return conocimiento_base
+    
+
+
 sust = extraer_sustantivos(leer_txt("data/tweets_parseados.txt"))
-escribir_txt('data/tweets_sustantivos.txt',quitar_repetidos(sust))
+resp = quitar_repetidos(sust)
+escribir_txt('data/tweets_sustantivos.txt',resp)
+escribir_txt('data/es_sustantivos.pl',conocimiento_base(resp))
 
