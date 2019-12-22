@@ -1,8 +1,16 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+"""************************************SE IMPORTAN LAS LIBRERIAS A UTILIZAR********************************************************************************"""
 import spacy
 import csv
 from spacy.lang.es.examples import sentences
+from trabajar_archivos import leer_txt, escribir_txt
 
 def procesar(data):
+    """Método que parsea los tweets
+    @data: lista de tweets
+    @dic2: diccionario de tweets parseados
+    """
     nlp = spacy.load('es_core_news_sm')
     dic2 = {}
     for text in data:
@@ -14,36 +22,10 @@ def procesar(data):
 
     return dic2
         
-        
-
-def leer_txt(path):
-    lista = []
-    try:
-        with open(path,'r') as File:
-            for line in File:
-                lista.append(line)
-            
-    except:
-       print("path de lectura "+path+" incorrecto..")
-       exit(0)
-    File.close()
-    return lista
-
-def escribir_txt(path,data):
-    try:
-        with open(path, 'w') as File:
-            for i in data:
-                File.write(str(i)+'\n')
-    except:
-        print("path de escritura "+path+" incorrecto..")
-        exit(0)
-    File.close()
-
 if __name__ == "__main__":    
     result = leer_txt("data/tweets_capturados.txt")
     result2 = procesar(result)
     l = []
     for i in result2.values():
         l.append(i)
-        
     escribir_txt('data/tweets_parseados.txt',l)

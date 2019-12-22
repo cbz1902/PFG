@@ -1,9 +1,11 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
-
+"""************************************SE IMPORTAN LAS LIBRERIAS A UTILIZAR********************************************************************************"""
 import GetOldTweets3 as g
 import re
 import csv
+from trabajar_archivos import escribir_txt
+
 """*********************************************DEFINICIONES DE VARIABLES A SER UTILIZADAS*****************************************************************"""
 term_busq = '@Telefuturo OR @AsuncionMuni OR @sntcanal9 OR @Ferreiromario1 OR @msaludpy OR @Ops_Paraguay OR @lanacionpy OR @diariocronicapy OR @SenepaParaguay OR @mambiente_py OR @ABCDigital OR #alertacontraelmosquito' #Termino de busqueda
 			
@@ -23,7 +25,7 @@ def capturar_old_tweets_mes(fecha_inicio, fecha_fin,term):
     tweetsCriteria.setQuerySearch(term)
     tweetsCriteria.setSince(fecha_inicio)
     tweetsCriteria.setUntil(fecha_fin)
-    tweetsCriteria.setMaxTweets(100000000)
+    tweetsCriteria.setMaxTweets(500000000)
     tweet_history = g.manager.TweetManager.getTweets(tweetsCriteria)
     return tweet_history
 
@@ -39,18 +41,8 @@ def filtrar_tweets(tweets):
             tweets_filtrado +=1
     return lista
 
-def escribir_archivo(path,data):
-    try:
-        with open(path, 'w') as File:
-            for i in data:
-                File.write(i) 
-    except:
-        print("path de escritura "+path+" incorrecto..")
-        exit(0)
-    File.close()
-
-
-old_tweets = capturar_old_tweets_mes("2017-09-01","2018-03-30",term_busq)
-escribir_archivo('data/tweets_capturados.txt',filtrar_tweets(old_tweets))
-print("########### "+str(tweets_filtrado)+" FILTRADOS ###########")
-print("########### TXT CREADO CON EXITO ###########")
+if __name__ == "__main__":    
+    old_tweets = capturar_old_tweets_mes("2017-09-01","2018-03-30",term_busq)
+    escribir_txt('data/tweets_capturados.txt',filtrar_tweets(old_tweets))
+    print("########### "+str(tweets_filtrado)+" FILTRADOS ###########")
+    print("########### TXT CREADO CON EXITO ###########")

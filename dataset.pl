@@ -1,8133 +1,8142 @@
-%Ejemplos positivos
-combinado_con(compromiso, sector).
-combinado_con(compromiso, herramientas).
-combinado_con(compromiso, mosquitos).
-combinado_con(compromiso, persona).
-combinado_con(compromiso, casos).
-combinado_con(compromiso, enfermedad).
-combinado_con(compromiso, calle).
-combinado_con(compromiso, intervención).
-combinado_con(compromiso, culpa).
-combinado_con(compromiso, ciudadano).
-combinado_con(compromiso, plaza).
-combinado_con(compromiso, abandono).
-combinado_con(compromiso, ciudades).
-combinado_con(compromiso, ruinas).
-combinado_con(compromiso, predio).
-combinado_con(compromiso, avenida).
-combinado_con(compromiso, chikungunya).
-combinado_con(compromiso, población).
-combinado_con(compromiso, patios).
-combinado_con(compromiso, criaderos).
-combinado_con(compromiso, ministro).
-combinado_con(compromiso, brotes).
-combinado_con(compromiso, zonas).
-combinado_con(compromiso, municipios).
-combinado_con(compromiso, alerta).
-combinado_con(compromiso, focos).
-combinado_con(compromiso, fiebre).
-combinado_con(compromiso, gente).
-combinado_con(compromiso, paciente).
-combinado_con(compromiso, dengue).
-combinado_con(compromiso, muerte).
-combinado_con(compromiso, precio).
-combinado_con(compromiso, casas).
-combinado_con(compromiso, enfermos).
-combinado_con(compromiso, presencia).
-combinado_con(compromiso, sintomas).
-combinado_con(compromiso, salud).
-combinado_con(compromiso, agua).
-combinado_con(compromiso, barrios).
-combinado_con(compromiso, piscinas).
-combinado_con(compromiso, inconsciencia).
-combinado_con(compromiso, pileta).
-combinado_con(compromiso, multas).
-combinado_con(compromiso, titular).
-combinado_con(compromiso, ciudad).
-combinado_con(compromiso, instalaciones).
-combinado_con(compromiso, vector).
-combinado_con(compromiso, educación).
-combinado_con(compromiso, disposición).
-combinado_con(compromiso, recursos).
-combinado_con(compromiso, lucha).
-combinado_con(compromiso, denuncias).
-combinado_con(compromiso, neumáticos).
-combinado_con(compromiso, chatarras).
-combinado_con(compromiso, ayudarnos).
-combinado_con(compromiso, supuesto).
-combinado_con(compromiso, senadora).
-combinado_con(compromiso, emergencia).
-combinado_con(compromiso, terrenos).
-combinado_con(compromiso, mosquito).
-combinado_con(compromiso, calles).
-combinado_con(compromiso, servicios).
-combinado_con(compromiso, aumento).
-combinado_con(compromiso, dr).
-combinado_con(compromiso, pacientes).
-combinado_con(compromiso, conciencia).
-combinado_con(compromiso, dispersión).
-combinado_con(compromiso, notifaciones).
-combinado_con(compromiso, epidemia).
-combinado_con(compromiso, funcionarios).
-combinado_con(compromiso, extinción).
-combinado_con(compromiso, barrio).
-combinado_con(compromiso, cuadra).
-combinado_con(compromiso, basura).
-combinado_con(compromiso, eliminación).
-combinado_con(compromiso, instituciones).
-combinado_con(compromiso, trabajos).
-combinado_con(compromiso, rastrillaje).
-combinado_con(compromiso, autoridades).
-combinado_con(compromiso, institución).
-combinado_con(compromiso, intendentes).
-combinado_con(compromiso, municipalidad).
-combinado_con(compromiso, acciones).
-combinado_con(compromiso, sanciones).
-combinado_con(compromiso, limpieza).
-combinado_con(compromiso, yuyales).
-combinado_con(compromiso, propagación).
-combinado_con(compromiso, ministerio).
-combinado_con(compromiso, rebrote).
-combinado_con(compromiso, problema).
-combinado_con(compromiso, capacidad).
-combinado_con(compromiso, propiedad).
-combinado_con(compromiso, antecedentes).
-combinado_con(compromiso, recomendaciones).
-combinado_con(compromiso, causa).
-combinado_con(compromiso, sospecha).
-combinado_con(compromiso, infestación).
-combinado_con(compromiso, imputación).
-combinado_con(compromiso, serotipo).
-combinado_con(compromiso, comunidad).
-combinado_con(compromiso, combate).
-combinado_con(compromiso, muertes).
-combinado_con(compromiso, cifra).
-combinado_con(compromiso, síntomas).
-combinado_con(compromiso, medicamentos).
-combinado_con(compromiso, urgencias).
-combinado_con(compromiso, afectados).
-combinado_con(compromiso, gobierno).
-combinado_con(compromiso, cuidados).
-combinado_con(compromiso, promedio).
-combinado_con(compromiso, brote).
-combinado_con(compromiso, hospitalizaciones).
-combinado_con(compromiso, cuadro).
-combinado_con(compromiso, enfermedades).
-combinado_con(compromiso, recolección).
-combinado_con(compromiso, basuras).
-combinado_con(compromiso, riesgo).
-combinado_con(compromiso, lluvias).
-combinado_con(compromiso, concienciación).
-combinado_con(compromiso, inacción).
-combinado_con(compromiso, baldíos).
-combinado_con(compromiso, crecimiento).
-combinado_con(compromiso, río).
-combinado_con(compromiso, época).
-combinado_con(compromiso, plástico).
-combinado_con(compromiso, bolsitas).
-combinado_con(compromiso, inundaciones).
-combinado_con(sector, herramientas).
-combinado_con(sector, mosquitos).
-combinado_con(sector, persona).
-combinado_con(sector, casos).
-combinado_con(sector, enfermedad).
-combinado_con(sector, calle).
-combinado_con(sector, intervención).
-combinado_con(sector, culpa).
-combinado_con(sector, ciudadano).
-combinado_con(sector, plaza).
-combinado_con(sector, abandono).
-combinado_con(sector, ciudades).
-combinado_con(sector, ruinas).
-combinado_con(sector, predio).
-combinado_con(sector, avenida).
-combinado_con(sector, chikungunya).
-combinado_con(sector, población).
-combinado_con(sector, patios).
-combinado_con(sector, criaderos).
-combinado_con(sector, ministro).
-combinado_con(sector, brotes).
-combinado_con(sector, zonas).
-combinado_con(sector, municipios).
-combinado_con(sector, alerta).
-combinado_con(sector, focos).
-combinado_con(sector, fiebre).
-combinado_con(sector, gente).
-combinado_con(sector, paciente).
-combinado_con(sector, dengue).
-combinado_con(sector, muerte).
-combinado_con(sector, precio).
-combinado_con(sector, casas).
-combinado_con(sector, enfermos).
-combinado_con(sector, presencia).
-combinado_con(sector, sintomas).
-combinado_con(sector, salud).
-combinado_con(sector, agua).
-combinado_con(sector, barrios).
-combinado_con(sector, piscinas).
-combinado_con(sector, inconsciencia).
-combinado_con(sector, pileta).
-combinado_con(sector, multas).
-combinado_con(sector, titular).
-combinado_con(sector, ciudad).
-combinado_con(sector, instalaciones).
-combinado_con(sector, vector).
-combinado_con(sector, educación).
-combinado_con(sector, disposición).
-combinado_con(sector, recursos).
-combinado_con(sector, lucha).
-combinado_con(sector, denuncias).
-combinado_con(sector, neumáticos).
-combinado_con(sector, chatarras).
-combinado_con(sector, ayudarnos).
-combinado_con(sector, supuesto).
-combinado_con(sector, senadora).
-combinado_con(sector, emergencia).
-combinado_con(sector, terrenos).
-combinado_con(sector, mosquito).
-combinado_con(sector, calles).
-combinado_con(sector, servicios).
-combinado_con(sector, aumento).
-combinado_con(sector, dr).
-combinado_con(sector, pacientes).
-combinado_con(sector, conciencia).
-combinado_con(sector, dispersión).
-combinado_con(sector, notifaciones).
-combinado_con(sector, epidemia).
-combinado_con(sector, funcionarios).
-combinado_con(sector, extinción).
-combinado_con(sector, barrio).
-combinado_con(sector, cuadra).
-combinado_con(sector, basura).
-combinado_con(sector, eliminación).
-combinado_con(sector, instituciones).
-combinado_con(sector, trabajos).
-combinado_con(sector, rastrillaje).
-combinado_con(sector, autoridades).
-combinado_con(sector, institución).
-combinado_con(sector, intendentes).
-combinado_con(sector, municipalidad).
-combinado_con(sector, acciones).
-combinado_con(sector, sanciones).
-combinado_con(sector, limpieza).
-combinado_con(sector, yuyales).
-combinado_con(sector, propagación).
-combinado_con(sector, ministerio).
-combinado_con(sector, rebrote).
-combinado_con(sector, problema).
-combinado_con(sector, capacidad).
-combinado_con(sector, propiedad).
-combinado_con(sector, antecedentes).
-combinado_con(sector, recomendaciones).
-combinado_con(sector, causa).
-combinado_con(sector, sospecha).
-combinado_con(sector, infestación).
-combinado_con(sector, imputación).
-combinado_con(sector, serotipo).
-combinado_con(sector, comunidad).
-combinado_con(sector, combate).
-combinado_con(sector, muertes).
-combinado_con(sector, cifra).
-combinado_con(sector, síntomas).
-combinado_con(sector, medicamentos).
-combinado_con(sector, urgencias).
-combinado_con(sector, afectados).
-combinado_con(sector, gobierno).
-combinado_con(sector, cuidados).
-combinado_con(sector, promedio).
-combinado_con(sector, brote).
-combinado_con(sector, hospitalizaciones).
-combinado_con(sector, cuadro).
-combinado_con(sector, enfermedades).
-combinado_con(sector, recolección).
-combinado_con(sector, basuras).
-combinado_con(sector, riesgo).
-combinado_con(sector, lluvias).
-combinado_con(sector, concienciación).
-combinado_con(sector, inacción).
-combinado_con(sector, baldíos).
-combinado_con(sector, crecimiento).
-combinado_con(sector, río).
-combinado_con(sector, época).
-combinado_con(sector, plástico).
-combinado_con(sector, bolsitas).
-combinado_con(sector, inundaciones).
-combinado_con(herramientas, mosquitos).
-combinado_con(herramientas, persona).
-combinado_con(herramientas, casos).
-combinado_con(herramientas, enfermedad).
-combinado_con(herramientas, calle).
-combinado_con(herramientas, intervención).
-combinado_con(herramientas, culpa).
-combinado_con(herramientas, ciudadano).
-combinado_con(herramientas, plaza).
-combinado_con(herramientas, abandono).
-combinado_con(herramientas, ciudades).
-combinado_con(herramientas, ruinas).
-combinado_con(herramientas, predio).
-combinado_con(herramientas, avenida).
-combinado_con(herramientas, chikungunya).
-combinado_con(herramientas, población).
-combinado_con(herramientas, patios).
-combinado_con(herramientas, criaderos).
-combinado_con(herramientas, ministro).
-combinado_con(herramientas, brotes).
-combinado_con(herramientas, zonas).
-combinado_con(herramientas, municipios).
-combinado_con(herramientas, alerta).
-combinado_con(herramientas, focos).
-combinado_con(herramientas, fiebre).
-combinado_con(herramientas, gente).
-combinado_con(herramientas, paciente).
-combinado_con(herramientas, dengue).
-combinado_con(herramientas, muerte).
-combinado_con(herramientas, precio).
-combinado_con(herramientas, casas).
-combinado_con(herramientas, enfermos).
-combinado_con(herramientas, presencia).
-combinado_con(herramientas, sintomas).
-combinado_con(herramientas, salud).
-combinado_con(herramientas, agua).
-combinado_con(herramientas, barrios).
-combinado_con(herramientas, piscinas).
-combinado_con(herramientas, inconsciencia).
-combinado_con(herramientas, pileta).
-combinado_con(herramientas, multas).
-combinado_con(herramientas, titular).
-combinado_con(herramientas, ciudad).
-combinado_con(herramientas, instalaciones).
-combinado_con(herramientas, vector).
-combinado_con(herramientas, educación).
-combinado_con(herramientas, disposición).
-combinado_con(herramientas, recursos).
-combinado_con(herramientas, lucha).
-combinado_con(herramientas, denuncias).
-combinado_con(herramientas, neumáticos).
-combinado_con(herramientas, chatarras).
-combinado_con(herramientas, ayudarnos).
-combinado_con(herramientas, supuesto).
-combinado_con(herramientas, senadora).
-combinado_con(herramientas, emergencia).
-combinado_con(herramientas, terrenos).
-combinado_con(herramientas, mosquito).
-combinado_con(herramientas, calles).
-combinado_con(herramientas, servicios).
-combinado_con(herramientas, aumento).
-combinado_con(herramientas, dr).
-combinado_con(herramientas, pacientes).
-combinado_con(herramientas, conciencia).
-combinado_con(herramientas, dispersión).
-combinado_con(herramientas, notifaciones).
-combinado_con(herramientas, epidemia).
-combinado_con(herramientas, funcionarios).
-combinado_con(herramientas, extinción).
-combinado_con(herramientas, barrio).
-combinado_con(herramientas, cuadra).
-combinado_con(herramientas, basura).
-combinado_con(herramientas, eliminación).
-combinado_con(herramientas, instituciones).
-combinado_con(herramientas, trabajos).
-combinado_con(herramientas, rastrillaje).
-combinado_con(herramientas, autoridades).
-combinado_con(herramientas, institución).
-combinado_con(herramientas, intendentes).
-combinado_con(herramientas, municipalidad).
-combinado_con(herramientas, acciones).
-combinado_con(herramientas, sanciones).
-combinado_con(herramientas, limpieza).
-combinado_con(herramientas, yuyales).
-combinado_con(herramientas, propagación).
-combinado_con(herramientas, ministerio).
-combinado_con(herramientas, rebrote).
-combinado_con(herramientas, problema).
-combinado_con(herramientas, capacidad).
-combinado_con(herramientas, propiedad).
-combinado_con(herramientas, antecedentes).
-combinado_con(herramientas, recomendaciones).
-combinado_con(herramientas, causa).
-combinado_con(herramientas, sospecha).
-combinado_con(herramientas, infestación).
-combinado_con(herramientas, imputación).
-combinado_con(herramientas, serotipo).
-combinado_con(herramientas, comunidad).
-combinado_con(herramientas, combate).
-combinado_con(herramientas, muertes).
-combinado_con(herramientas, cifra).
-combinado_con(herramientas, síntomas).
-combinado_con(herramientas, medicamentos).
-combinado_con(herramientas, urgencias).
-combinado_con(herramientas, afectados).
-combinado_con(herramientas, gobierno).
-combinado_con(herramientas, cuidados).
-combinado_con(herramientas, promedio).
-combinado_con(herramientas, brote).
-combinado_con(herramientas, hospitalizaciones).
-combinado_con(herramientas, cuadro).
-combinado_con(herramientas, enfermedades).
-combinado_con(herramientas, recolección).
-combinado_con(herramientas, basuras).
-combinado_con(herramientas, riesgo).
-combinado_con(herramientas, lluvias).
-combinado_con(herramientas, concienciación).
-combinado_con(herramientas, inacción).
-combinado_con(herramientas, baldíos).
-combinado_con(herramientas, crecimiento).
-combinado_con(herramientas, río).
-combinado_con(herramientas, época).
-combinado_con(herramientas, plástico).
-combinado_con(herramientas, bolsitas).
-combinado_con(herramientas, inundaciones).
-combinado_con(mosquitos, persona).
-combinado_con(mosquitos, casos).
-combinado_con(mosquitos, enfermedad).
-combinado_con(mosquitos, calle).
-combinado_con(mosquitos, intervención).
-combinado_con(mosquitos, culpa).
-combinado_con(mosquitos, ciudadano).
-combinado_con(mosquitos, plaza).
-combinado_con(mosquitos, abandono).
-combinado_con(mosquitos, ciudades).
-combinado_con(mosquitos, ruinas).
-combinado_con(mosquitos, predio).
-combinado_con(mosquitos, avenida).
-combinado_con(mosquitos, chikungunya).
-combinado_con(mosquitos, población).
-combinado_con(mosquitos, patios).
-combinado_con(mosquitos, criaderos).
-combinado_con(mosquitos, ministro).
-combinado_con(mosquitos, brotes).
-combinado_con(mosquitos, zonas).
-combinado_con(mosquitos, municipios).
-combinado_con(mosquitos, alerta).
-combinado_con(mosquitos, focos).
-combinado_con(mosquitos, fiebre).
-combinado_con(mosquitos, gente).
-combinado_con(mosquitos, paciente).
-combinado_con(mosquitos, dengue).
-combinado_con(mosquitos, muerte).
-combinado_con(mosquitos, precio).
-combinado_con(mosquitos, casas).
-combinado_con(mosquitos, enfermos).
-combinado_con(mosquitos, presencia).
-combinado_con(mosquitos, sintomas).
-combinado_con(mosquitos, salud).
-combinado_con(mosquitos, agua).
-combinado_con(mosquitos, barrios).
-combinado_con(mosquitos, piscinas).
-combinado_con(mosquitos, inconsciencia).
-combinado_con(mosquitos, pileta).
-combinado_con(mosquitos, multas).
-combinado_con(mosquitos, titular).
-combinado_con(mosquitos, ciudad).
-combinado_con(mosquitos, instalaciones).
-combinado_con(mosquitos, vector).
-combinado_con(mosquitos, educación).
-combinado_con(mosquitos, disposición).
-combinado_con(mosquitos, recursos).
-combinado_con(mosquitos, lucha).
-combinado_con(mosquitos, denuncias).
-combinado_con(mosquitos, neumáticos).
-combinado_con(mosquitos, chatarras).
-combinado_con(mosquitos, ayudarnos).
-combinado_con(mosquitos, supuesto).
-combinado_con(mosquitos, senadora).
-combinado_con(mosquitos, emergencia).
-combinado_con(mosquitos, terrenos).
-combinado_con(mosquitos, mosquito).
-combinado_con(mosquitos, calles).
-combinado_con(mosquitos, servicios).
-combinado_con(mosquitos, aumento).
-combinado_con(mosquitos, dr).
-combinado_con(mosquitos, pacientes).
-combinado_con(mosquitos, conciencia).
-combinado_con(mosquitos, dispersión).
-combinado_con(mosquitos, notifaciones).
-combinado_con(mosquitos, epidemia).
-combinado_con(mosquitos, funcionarios).
-combinado_con(mosquitos, extinción).
-combinado_con(mosquitos, barrio).
-combinado_con(mosquitos, cuadra).
-combinado_con(mosquitos, basura).
-combinado_con(mosquitos, eliminación).
-combinado_con(mosquitos, instituciones).
-combinado_con(mosquitos, trabajos).
-combinado_con(mosquitos, rastrillaje).
-combinado_con(mosquitos, autoridades).
-combinado_con(mosquitos, institución).
-combinado_con(mosquitos, intendentes).
-combinado_con(mosquitos, municipalidad).
-combinado_con(mosquitos, acciones).
-combinado_con(mosquitos, sanciones).
-combinado_con(mosquitos, limpieza).
-combinado_con(mosquitos, yuyales).
-combinado_con(mosquitos, propagación).
-combinado_con(mosquitos, ministerio).
-combinado_con(mosquitos, rebrote).
-combinado_con(mosquitos, problema).
-combinado_con(mosquitos, capacidad).
-combinado_con(mosquitos, propiedad).
-combinado_con(mosquitos, antecedentes).
-combinado_con(mosquitos, recomendaciones).
-combinado_con(mosquitos, causa).
-combinado_con(mosquitos, sospecha).
-combinado_con(mosquitos, infestación).
-combinado_con(mosquitos, imputación).
-combinado_con(mosquitos, serotipo).
-combinado_con(mosquitos, comunidad).
-combinado_con(mosquitos, combate).
-combinado_con(mosquitos, muertes).
-combinado_con(mosquitos, cifra).
-combinado_con(mosquitos, síntomas).
-combinado_con(mosquitos, medicamentos).
-combinado_con(mosquitos, urgencias).
-combinado_con(mosquitos, afectados).
-combinado_con(mosquitos, gobierno).
-combinado_con(mosquitos, cuidados).
-combinado_con(mosquitos, promedio).
-combinado_con(mosquitos, brote).
-combinado_con(mosquitos, hospitalizaciones).
-combinado_con(mosquitos, cuadro).
-combinado_con(mosquitos, enfermedades).
-combinado_con(mosquitos, recolección).
-combinado_con(mosquitos, basuras).
-combinado_con(mosquitos, riesgo).
-combinado_con(mosquitos, lluvias).
-combinado_con(mosquitos, concienciación).
-combinado_con(mosquitos, inacción).
-combinado_con(mosquitos, baldíos).
-combinado_con(mosquitos, crecimiento).
-combinado_con(mosquitos, río).
-combinado_con(mosquitos, época).
-combinado_con(mosquitos, plástico).
-combinado_con(mosquitos, bolsitas).
-combinado_con(mosquitos, inundaciones).
-combinado_con(persona, casos).
-combinado_con(persona, enfermedad).
-combinado_con(persona, calle).
-combinado_con(persona, intervención).
-combinado_con(persona, culpa).
-combinado_con(persona, ciudadano).
-combinado_con(persona, plaza).
-combinado_con(persona, abandono).
-combinado_con(persona, ciudades).
-combinado_con(persona, ruinas).
-combinado_con(persona, predio).
-combinado_con(persona, avenida).
-combinado_con(persona, chikungunya).
-combinado_con(persona, población).
-combinado_con(persona, patios).
-combinado_con(persona, criaderos).
-combinado_con(persona, ministro).
-combinado_con(persona, brotes).
-combinado_con(persona, zonas).
-combinado_con(persona, municipios).
-combinado_con(persona, alerta).
-combinado_con(persona, focos).
-combinado_con(persona, fiebre).
-combinado_con(persona, gente).
-combinado_con(persona, paciente).
-combinado_con(persona, dengue).
-combinado_con(persona, muerte).
-combinado_con(persona, precio).
-combinado_con(persona, casas).
-combinado_con(persona, enfermos).
-combinado_con(persona, presencia).
-combinado_con(persona, sintomas).
-combinado_con(persona, salud).
-combinado_con(persona, agua).
-combinado_con(persona, barrios).
-combinado_con(persona, piscinas).
-combinado_con(persona, inconsciencia).
-combinado_con(persona, pileta).
-combinado_con(persona, multas).
-combinado_con(persona, titular).
-combinado_con(persona, ciudad).
-combinado_con(persona, instalaciones).
-combinado_con(persona, vector).
-combinado_con(persona, educación).
-combinado_con(persona, disposición).
-combinado_con(persona, recursos).
-combinado_con(persona, lucha).
-combinado_con(persona, denuncias).
-combinado_con(persona, neumáticos).
-combinado_con(persona, chatarras).
-combinado_con(persona, ayudarnos).
-combinado_con(persona, supuesto).
-combinado_con(persona, senadora).
-combinado_con(persona, emergencia).
-combinado_con(persona, terrenos).
-combinado_con(persona, mosquito).
-combinado_con(persona, calles).
-combinado_con(persona, servicios).
-combinado_con(persona, aumento).
-combinado_con(persona, dr).
-combinado_con(persona, pacientes).
-combinado_con(persona, conciencia).
-combinado_con(persona, dispersión).
-combinado_con(persona, notifaciones).
-combinado_con(persona, epidemia).
-combinado_con(persona, funcionarios).
-combinado_con(persona, extinción).
-combinado_con(persona, barrio).
-combinado_con(persona, cuadra).
-combinado_con(persona, basura).
-combinado_con(persona, eliminación).
-combinado_con(persona, instituciones).
-combinado_con(persona, trabajos).
-combinado_con(persona, rastrillaje).
-combinado_con(persona, autoridades).
-combinado_con(persona, institución).
-combinado_con(persona, intendentes).
-combinado_con(persona, municipalidad).
-combinado_con(persona, acciones).
-combinado_con(persona, sanciones).
-combinado_con(persona, limpieza).
-combinado_con(persona, yuyales).
-combinado_con(persona, propagación).
-combinado_con(persona, ministerio).
-combinado_con(persona, rebrote).
-combinado_con(persona, problema).
-combinado_con(persona, capacidad).
-combinado_con(persona, propiedad).
-combinado_con(persona, antecedentes).
-combinado_con(persona, recomendaciones).
-combinado_con(persona, causa).
-combinado_con(persona, sospecha).
-combinado_con(persona, infestación).
-combinado_con(persona, imputación).
-combinado_con(persona, serotipo).
-combinado_con(persona, comunidad).
-combinado_con(persona, combate).
-combinado_con(persona, muertes).
-combinado_con(persona, cifra).
-combinado_con(persona, síntomas).
-combinado_con(persona, medicamentos).
-combinado_con(persona, urgencias).
-combinado_con(persona, afectados).
-combinado_con(persona, gobierno).
-combinado_con(persona, cuidados).
-combinado_con(persona, promedio).
-combinado_con(persona, brote).
-combinado_con(persona, hospitalizaciones).
-combinado_con(persona, cuadro).
-combinado_con(persona, enfermedades).
-combinado_con(persona, recolección).
-combinado_con(persona, basuras).
-combinado_con(persona, riesgo).
-combinado_con(persona, lluvias).
-combinado_con(persona, concienciación).
-combinado_con(persona, inacción).
-combinado_con(persona, baldíos).
-combinado_con(persona, crecimiento).
-combinado_con(persona, río).
-combinado_con(persona, época).
-combinado_con(persona, plástico).
-combinado_con(persona, bolsitas).
-combinado_con(persona, inundaciones).
-combinado_con(casos, enfermedad).
-combinado_con(casos, calle).
-combinado_con(casos, intervención).
-combinado_con(casos, culpa).
-combinado_con(casos, ciudadano).
-combinado_con(casos, plaza).
-combinado_con(casos, abandono).
-combinado_con(casos, ciudades).
-combinado_con(casos, ruinas).
-combinado_con(casos, predio).
-combinado_con(casos, avenida).
-combinado_con(casos, chikungunya).
-combinado_con(casos, población).
-combinado_con(casos, patios).
-combinado_con(casos, criaderos).
-combinado_con(casos, ministro).
-combinado_con(casos, brotes).
-combinado_con(casos, zonas).
-combinado_con(casos, municipios).
-combinado_con(casos, alerta).
-combinado_con(casos, focos).
-combinado_con(casos, fiebre).
-combinado_con(casos, gente).
-combinado_con(casos, paciente).
-combinado_con(casos, dengue).
-combinado_con(casos, muerte).
-combinado_con(casos, precio).
-combinado_con(casos, casas).
-combinado_con(casos, enfermos).
-combinado_con(casos, presencia).
-combinado_con(casos, sintomas).
-combinado_con(casos, salud).
-combinado_con(casos, agua).
-combinado_con(casos, barrios).
-combinado_con(casos, piscinas).
-combinado_con(casos, inconsciencia).
-combinado_con(casos, pileta).
-combinado_con(casos, multas).
-combinado_con(casos, titular).
-combinado_con(casos, ciudad).
-combinado_con(casos, instalaciones).
-combinado_con(casos, vector).
-combinado_con(casos, educación).
-combinado_con(casos, disposición).
-combinado_con(casos, recursos).
-combinado_con(casos, lucha).
-combinado_con(casos, denuncias).
-combinado_con(casos, neumáticos).
-combinado_con(casos, chatarras).
-combinado_con(casos, ayudarnos).
-combinado_con(casos, supuesto).
-combinado_con(casos, senadora).
-combinado_con(casos, emergencia).
-combinado_con(casos, terrenos).
-combinado_con(casos, mosquito).
-combinado_con(casos, calles).
-combinado_con(casos, servicios).
-combinado_con(casos, aumento).
-combinado_con(casos, dr).
-combinado_con(casos, pacientes).
-combinado_con(casos, conciencia).
-combinado_con(casos, dispersión).
-combinado_con(casos, notifaciones).
-combinado_con(casos, epidemia).
-combinado_con(casos, funcionarios).
-combinado_con(casos, extinción).
-combinado_con(casos, barrio).
-combinado_con(casos, cuadra).
-combinado_con(casos, basura).
-combinado_con(casos, eliminación).
-combinado_con(casos, instituciones).
-combinado_con(casos, trabajos).
-combinado_con(casos, rastrillaje).
-combinado_con(casos, autoridades).
-combinado_con(casos, institución).
-combinado_con(casos, intendentes).
-combinado_con(casos, municipalidad).
-combinado_con(casos, acciones).
-combinado_con(casos, sanciones).
-combinado_con(casos, limpieza).
-combinado_con(casos, yuyales).
-combinado_con(casos, propagación).
-combinado_con(casos, ministerio).
-combinado_con(casos, rebrote).
-combinado_con(casos, problema).
-combinado_con(casos, capacidad).
-combinado_con(casos, propiedad).
-combinado_con(casos, antecedentes).
-combinado_con(casos, recomendaciones).
-combinado_con(casos, causa).
-combinado_con(casos, sospecha).
-combinado_con(casos, infestación).
-combinado_con(casos, imputación).
-combinado_con(casos, serotipo).
-combinado_con(casos, comunidad).
-combinado_con(casos, combate).
-combinado_con(casos, muertes).
-combinado_con(casos, cifra).
-combinado_con(casos, síntomas).
-combinado_con(casos, medicamentos).
-combinado_con(casos, urgencias).
-combinado_con(casos, afectados).
-combinado_con(casos, gobierno).
-combinado_con(casos, cuidados).
-combinado_con(casos, promedio).
-combinado_con(casos, brote).
-combinado_con(casos, hospitalizaciones).
-combinado_con(casos, cuadro).
-combinado_con(casos, enfermedades).
-combinado_con(casos, recolección).
-combinado_con(casos, basuras).
-combinado_con(casos, riesgo).
-combinado_con(casos, lluvias).
-combinado_con(casos, concienciación).
-combinado_con(casos, inacción).
-combinado_con(casos, baldíos).
-combinado_con(casos, crecimiento).
-combinado_con(casos, río).
-combinado_con(casos, época).
-combinado_con(casos, plástico).
-combinado_con(casos, bolsitas).
-combinado_con(casos, inundaciones).
-combinado_con(enfermedad, calle).
-combinado_con(enfermedad, intervención).
-combinado_con(enfermedad, culpa).
-combinado_con(enfermedad, ciudadano).
-combinado_con(enfermedad, plaza).
-combinado_con(enfermedad, abandono).
-combinado_con(enfermedad, ciudades).
-combinado_con(enfermedad, ruinas).
-combinado_con(enfermedad, predio).
-combinado_con(enfermedad, avenida).
-combinado_con(enfermedad, chikungunya).
-combinado_con(enfermedad, población).
-combinado_con(enfermedad, patios).
-combinado_con(enfermedad, criaderos).
-combinado_con(enfermedad, ministro).
-combinado_con(enfermedad, brotes).
-combinado_con(enfermedad, zonas).
-combinado_con(enfermedad, municipios).
-combinado_con(enfermedad, alerta).
-combinado_con(enfermedad, focos).
-combinado_con(enfermedad, fiebre).
-combinado_con(enfermedad, gente).
-combinado_con(enfermedad, paciente).
-combinado_con(enfermedad, dengue).
-combinado_con(enfermedad, muerte).
-combinado_con(enfermedad, precio).
-combinado_con(enfermedad, casas).
-combinado_con(enfermedad, enfermos).
-combinado_con(enfermedad, presencia).
-combinado_con(enfermedad, sintomas).
-combinado_con(enfermedad, salud).
-combinado_con(enfermedad, agua).
-combinado_con(enfermedad, barrios).
-combinado_con(enfermedad, piscinas).
-combinado_con(enfermedad, inconsciencia).
-combinado_con(enfermedad, pileta).
-combinado_con(enfermedad, multas).
-combinado_con(enfermedad, titular).
-combinado_con(enfermedad, ciudad).
-combinado_con(enfermedad, instalaciones).
-combinado_con(enfermedad, vector).
-combinado_con(enfermedad, educación).
-combinado_con(enfermedad, disposición).
-combinado_con(enfermedad, recursos).
-combinado_con(enfermedad, lucha).
-combinado_con(enfermedad, denuncias).
-combinado_con(enfermedad, neumáticos).
-combinado_con(enfermedad, chatarras).
-combinado_con(enfermedad, ayudarnos).
-combinado_con(enfermedad, supuesto).
-combinado_con(enfermedad, senadora).
-combinado_con(enfermedad, emergencia).
-combinado_con(enfermedad, terrenos).
-combinado_con(enfermedad, mosquito).
-combinado_con(enfermedad, calles).
-combinado_con(enfermedad, servicios).
-combinado_con(enfermedad, aumento).
-combinado_con(enfermedad, dr).
-combinado_con(enfermedad, pacientes).
-combinado_con(enfermedad, conciencia).
-combinado_con(enfermedad, dispersión).
-combinado_con(enfermedad, notifaciones).
-combinado_con(enfermedad, epidemia).
-combinado_con(enfermedad, funcionarios).
-combinado_con(enfermedad, extinción).
-combinado_con(enfermedad, barrio).
-combinado_con(enfermedad, cuadra).
-combinado_con(enfermedad, basura).
-combinado_con(enfermedad, eliminación).
-combinado_con(enfermedad, instituciones).
-combinado_con(enfermedad, trabajos).
-combinado_con(enfermedad, rastrillaje).
-combinado_con(enfermedad, autoridades).
-combinado_con(enfermedad, institución).
-combinado_con(enfermedad, intendentes).
-combinado_con(enfermedad, municipalidad).
-combinado_con(enfermedad, acciones).
-combinado_con(enfermedad, sanciones).
-combinado_con(enfermedad, limpieza).
-combinado_con(enfermedad, yuyales).
-combinado_con(enfermedad, propagación).
-combinado_con(enfermedad, ministerio).
-combinado_con(enfermedad, rebrote).
-combinado_con(enfermedad, problema).
-combinado_con(enfermedad, capacidad).
-combinado_con(enfermedad, propiedad).
-combinado_con(enfermedad, antecedentes).
-combinado_con(enfermedad, recomendaciones).
-combinado_con(enfermedad, causa).
-combinado_con(enfermedad, sospecha).
-combinado_con(enfermedad, infestación).
-combinado_con(enfermedad, imputación).
-combinado_con(enfermedad, serotipo).
-combinado_con(enfermedad, comunidad).
-combinado_con(enfermedad, combate).
-combinado_con(enfermedad, muertes).
-combinado_con(enfermedad, cifra).
-combinado_con(enfermedad, síntomas).
-combinado_con(enfermedad, medicamentos).
-combinado_con(enfermedad, urgencias).
-combinado_con(enfermedad, afectados).
-combinado_con(enfermedad, gobierno).
-combinado_con(enfermedad, cuidados).
-combinado_con(enfermedad, promedio).
-combinado_con(enfermedad, brote).
-combinado_con(enfermedad, hospitalizaciones).
-combinado_con(enfermedad, cuadro).
-combinado_con(enfermedad, enfermedades).
-combinado_con(enfermedad, recolección).
-combinado_con(enfermedad, basuras).
-combinado_con(enfermedad, riesgo).
-combinado_con(enfermedad, lluvias).
-combinado_con(enfermedad, concienciación).
-combinado_con(enfermedad, inacción).
-combinado_con(enfermedad, baldíos).
-combinado_con(enfermedad, crecimiento).
-combinado_con(enfermedad, río).
-combinado_con(enfermedad, época).
-combinado_con(enfermedad, plástico).
-combinado_con(enfermedad, bolsitas).
-combinado_con(enfermedad, inundaciones).
-combinado_con(calle, intervención).
-combinado_con(calle, culpa).
-combinado_con(calle, ciudadano).
-combinado_con(calle, plaza).
-combinado_con(calle, abandono).
-combinado_con(calle, ciudades).
-combinado_con(calle, ruinas).
-combinado_con(calle, predio).
-combinado_con(calle, avenida).
-combinado_con(calle, chikungunya).
-combinado_con(calle, población).
-combinado_con(calle, patios).
-combinado_con(calle, criaderos).
-combinado_con(calle, ministro).
-combinado_con(calle, brotes).
-combinado_con(calle, zonas).
-combinado_con(calle, municipios).
-combinado_con(calle, alerta).
-combinado_con(calle, focos).
-combinado_con(calle, fiebre).
-combinado_con(calle, gente).
-combinado_con(calle, paciente).
-combinado_con(calle, dengue).
-combinado_con(calle, muerte).
-combinado_con(calle, precio).
-combinado_con(calle, casas).
-combinado_con(calle, enfermos).
-combinado_con(calle, presencia).
-combinado_con(calle, sintomas).
-combinado_con(calle, salud).
-combinado_con(calle, agua).
-combinado_con(calle, barrios).
-combinado_con(calle, piscinas).
-combinado_con(calle, inconsciencia).
-combinado_con(calle, pileta).
-combinado_con(calle, multas).
-combinado_con(calle, titular).
-combinado_con(calle, ciudad).
-combinado_con(calle, instalaciones).
-combinado_con(calle, vector).
-combinado_con(calle, educación).
-combinado_con(calle, disposición).
-combinado_con(calle, recursos).
-combinado_con(calle, lucha).
-combinado_con(calle, denuncias).
-combinado_con(calle, neumáticos).
-combinado_con(calle, chatarras).
-combinado_con(calle, ayudarnos).
-combinado_con(calle, supuesto).
-combinado_con(calle, senadora).
-combinado_con(calle, emergencia).
-combinado_con(calle, terrenos).
-combinado_con(calle, mosquito).
-combinado_con(calle, calles).
-combinado_con(calle, servicios).
-combinado_con(calle, aumento).
-combinado_con(calle, dr).
-combinado_con(calle, pacientes).
-combinado_con(calle, conciencia).
-combinado_con(calle, dispersión).
-combinado_con(calle, notifaciones).
-combinado_con(calle, epidemia).
-combinado_con(calle, funcionarios).
-combinado_con(calle, extinción).
-combinado_con(calle, barrio).
-combinado_con(calle, cuadra).
-combinado_con(calle, basura).
-combinado_con(calle, eliminación).
-combinado_con(calle, instituciones).
-combinado_con(calle, trabajos).
-combinado_con(calle, rastrillaje).
-combinado_con(calle, autoridades).
-combinado_con(calle, institución).
-combinado_con(calle, intendentes).
-combinado_con(calle, municipalidad).
-combinado_con(calle, acciones).
-combinado_con(calle, sanciones).
-combinado_con(calle, limpieza).
-combinado_con(calle, yuyales).
-combinado_con(calle, propagación).
-combinado_con(calle, ministerio).
-combinado_con(calle, rebrote).
-combinado_con(calle, problema).
-combinado_con(calle, capacidad).
-combinado_con(calle, propiedad).
-combinado_con(calle, antecedentes).
-combinado_con(calle, recomendaciones).
-combinado_con(calle, causa).
-combinado_con(calle, sospecha).
-combinado_con(calle, infestación).
-combinado_con(calle, imputación).
-combinado_con(calle, serotipo).
-combinado_con(calle, comunidad).
-combinado_con(calle, combate).
-combinado_con(calle, muertes).
-combinado_con(calle, cifra).
-combinado_con(calle, síntomas).
-combinado_con(calle, medicamentos).
-combinado_con(calle, urgencias).
-combinado_con(calle, afectados).
-combinado_con(calle, gobierno).
-combinado_con(calle, cuidados).
-combinado_con(calle, promedio).
-combinado_con(calle, brote).
-combinado_con(calle, hospitalizaciones).
-combinado_con(calle, cuadro).
-combinado_con(calle, enfermedades).
-combinado_con(calle, recolección).
-combinado_con(calle, basuras).
-combinado_con(calle, riesgo).
-combinado_con(calle, lluvias).
-combinado_con(calle, concienciación).
-combinado_con(calle, inacción).
-combinado_con(calle, baldíos).
-combinado_con(calle, crecimiento).
-combinado_con(calle, río).
-combinado_con(calle, época).
-combinado_con(calle, plástico).
-combinado_con(calle, bolsitas).
-combinado_con(calle, inundaciones).
-combinado_con(intervención, culpa).
-combinado_con(intervención, ciudadano).
-combinado_con(intervención, plaza).
-combinado_con(intervención, abandono).
-combinado_con(intervención, ciudades).
-combinado_con(intervención, ruinas).
-combinado_con(intervención, predio).
-combinado_con(intervención, avenida).
-combinado_con(intervención, chikungunya).
-combinado_con(intervención, población).
-combinado_con(intervención, patios).
-combinado_con(intervención, criaderos).
-combinado_con(intervención, ministro).
-combinado_con(intervención, brotes).
-combinado_con(intervención, zonas).
-combinado_con(intervención, municipios).
-combinado_con(intervención, alerta).
-combinado_con(intervención, focos).
-combinado_con(intervención, fiebre).
-combinado_con(intervención, gente).
-combinado_con(intervención, paciente).
-combinado_con(intervención, dengue).
-combinado_con(intervención, muerte).
-combinado_con(intervención, precio).
-combinado_con(intervención, casas).
-combinado_con(intervención, enfermos).
-combinado_con(intervención, presencia).
-combinado_con(intervención, sintomas).
-combinado_con(intervención, salud).
-combinado_con(intervención, agua).
-combinado_con(intervención, barrios).
-combinado_con(intervención, piscinas).
-combinado_con(intervención, inconsciencia).
-combinado_con(intervención, pileta).
-combinado_con(intervención, multas).
-combinado_con(intervención, titular).
-combinado_con(intervención, ciudad).
-combinado_con(intervención, instalaciones).
-combinado_con(intervención, vector).
-combinado_con(intervención, educación).
-combinado_con(intervención, disposición).
-combinado_con(intervención, recursos).
-combinado_con(intervención, lucha).
-combinado_con(intervención, denuncias).
-combinado_con(intervención, neumáticos).
-combinado_con(intervención, chatarras).
-combinado_con(intervención, ayudarnos).
-combinado_con(intervención, supuesto).
-combinado_con(intervención, senadora).
-combinado_con(intervención, emergencia).
-combinado_con(intervención, terrenos).
-combinado_con(intervención, mosquito).
-combinado_con(intervención, calles).
-combinado_con(intervención, servicios).
-combinado_con(intervención, aumento).
-combinado_con(intervención, dr).
-combinado_con(intervención, pacientes).
-combinado_con(intervención, conciencia).
-combinado_con(intervención, dispersión).
-combinado_con(intervención, notifaciones).
-combinado_con(intervención, epidemia).
-combinado_con(intervención, funcionarios).
-combinado_con(intervención, extinción).
-combinado_con(intervención, barrio).
-combinado_con(intervención, cuadra).
-combinado_con(intervención, basura).
-combinado_con(intervención, eliminación).
-combinado_con(intervención, instituciones).
-combinado_con(intervención, trabajos).
-combinado_con(intervención, rastrillaje).
-combinado_con(intervención, autoridades).
-combinado_con(intervención, institución).
-combinado_con(intervención, intendentes).
-combinado_con(intervención, municipalidad).
-combinado_con(intervención, acciones).
-combinado_con(intervención, sanciones).
-combinado_con(intervención, limpieza).
-combinado_con(intervención, yuyales).
-combinado_con(intervención, propagación).
-combinado_con(intervención, ministerio).
-combinado_con(intervención, rebrote).
-combinado_con(intervención, problema).
-combinado_con(intervención, capacidad).
-combinado_con(intervención, propiedad).
-combinado_con(intervención, antecedentes).
-combinado_con(intervención, recomendaciones).
-combinado_con(intervención, causa).
-combinado_con(intervención, sospecha).
-combinado_con(intervención, infestación).
-combinado_con(intervención, imputación).
-combinado_con(intervención, serotipo).
-combinado_con(intervención, comunidad).
-combinado_con(intervención, combate).
-combinado_con(intervención, muertes).
-combinado_con(intervención, cifra).
-combinado_con(intervención, síntomas).
-combinado_con(intervención, medicamentos).
-combinado_con(intervención, urgencias).
-combinado_con(intervención, afectados).
-combinado_con(intervención, gobierno).
-combinado_con(intervención, cuidados).
-combinado_con(intervención, promedio).
-combinado_con(intervención, brote).
-combinado_con(intervención, hospitalizaciones).
-combinado_con(intervención, cuadro).
-combinado_con(intervención, enfermedades).
-combinado_con(intervención, recolección).
-combinado_con(intervención, basuras).
-combinado_con(intervención, riesgo).
-combinado_con(intervención, lluvias).
-combinado_con(intervención, concienciación).
-combinado_con(intervención, inacción).
-combinado_con(intervención, baldíos).
-combinado_con(intervención, crecimiento).
-combinado_con(intervención, río).
-combinado_con(intervención, época).
-combinado_con(intervención, plástico).
-combinado_con(intervención, bolsitas).
-combinado_con(intervención, inundaciones).
-combinado_con(culpa, ciudadano).
-combinado_con(culpa, plaza).
-combinado_con(culpa, abandono).
-combinado_con(culpa, ciudades).
-combinado_con(culpa, ruinas).
-combinado_con(culpa, predio).
-combinado_con(culpa, avenida).
-combinado_con(culpa, chikungunya).
-combinado_con(culpa, población).
-combinado_con(culpa, patios).
-combinado_con(culpa, criaderos).
-combinado_con(culpa, ministro).
-combinado_con(culpa, brotes).
-combinado_con(culpa, zonas).
-combinado_con(culpa, municipios).
-combinado_con(culpa, alerta).
-combinado_con(culpa, focos).
-combinado_con(culpa, fiebre).
-combinado_con(culpa, gente).
-combinado_con(culpa, paciente).
-combinado_con(culpa, dengue).
-combinado_con(culpa, muerte).
-combinado_con(culpa, precio).
-combinado_con(culpa, casas).
-combinado_con(culpa, enfermos).
-combinado_con(culpa, presencia).
-combinado_con(culpa, sintomas).
-combinado_con(culpa, salud).
-combinado_con(culpa, agua).
-combinado_con(culpa, barrios).
-combinado_con(culpa, piscinas).
-combinado_con(culpa, inconsciencia).
-combinado_con(culpa, pileta).
-combinado_con(culpa, multas).
-combinado_con(culpa, titular).
-combinado_con(culpa, ciudad).
-combinado_con(culpa, instalaciones).
-combinado_con(culpa, vector).
-combinado_con(culpa, educación).
-combinado_con(culpa, disposición).
-combinado_con(culpa, recursos).
-combinado_con(culpa, lucha).
-combinado_con(culpa, denuncias).
-combinado_con(culpa, neumáticos).
-combinado_con(culpa, chatarras).
-combinado_con(culpa, ayudarnos).
-combinado_con(culpa, supuesto).
-combinado_con(culpa, senadora).
-combinado_con(culpa, emergencia).
-combinado_con(culpa, terrenos).
-combinado_con(culpa, mosquito).
-combinado_con(culpa, calles).
-combinado_con(culpa, servicios).
-combinado_con(culpa, aumento).
-combinado_con(culpa, dr).
-combinado_con(culpa, pacientes).
-combinado_con(culpa, conciencia).
-combinado_con(culpa, dispersión).
-combinado_con(culpa, notifaciones).
-combinado_con(culpa, epidemia).
-combinado_con(culpa, funcionarios).
-combinado_con(culpa, extinción).
-combinado_con(culpa, barrio).
-combinado_con(culpa, cuadra).
-combinado_con(culpa, basura).
-combinado_con(culpa, eliminación).
-combinado_con(culpa, instituciones).
-combinado_con(culpa, trabajos).
-combinado_con(culpa, rastrillaje).
-combinado_con(culpa, autoridades).
-combinado_con(culpa, institución).
-combinado_con(culpa, intendentes).
-combinado_con(culpa, municipalidad).
-combinado_con(culpa, acciones).
-combinado_con(culpa, sanciones).
-combinado_con(culpa, limpieza).
-combinado_con(culpa, yuyales).
-combinado_con(culpa, propagación).
-combinado_con(culpa, ministerio).
-combinado_con(culpa, rebrote).
-combinado_con(culpa, problema).
-combinado_con(culpa, capacidad).
-combinado_con(culpa, propiedad).
-combinado_con(culpa, antecedentes).
-combinado_con(culpa, recomendaciones).
-combinado_con(culpa, causa).
-combinado_con(culpa, sospecha).
-combinado_con(culpa, infestación).
-combinado_con(culpa, imputación).
-combinado_con(culpa, serotipo).
-combinado_con(culpa, comunidad).
-combinado_con(culpa, combate).
-combinado_con(culpa, muertes).
-combinado_con(culpa, cifra).
-combinado_con(culpa, síntomas).
-combinado_con(culpa, medicamentos).
-combinado_con(culpa, urgencias).
-combinado_con(culpa, afectados).
-combinado_con(culpa, gobierno).
-combinado_con(culpa, cuidados).
-combinado_con(culpa, promedio).
-combinado_con(culpa, brote).
-combinado_con(culpa, hospitalizaciones).
-combinado_con(culpa, cuadro).
-combinado_con(culpa, enfermedades).
-combinado_con(culpa, recolección).
-combinado_con(culpa, basuras).
-combinado_con(culpa, riesgo).
-combinado_con(culpa, lluvias).
-combinado_con(culpa, concienciación).
-combinado_con(culpa, inacción).
-combinado_con(culpa, baldíos).
-combinado_con(culpa, crecimiento).
-combinado_con(culpa, río).
-combinado_con(culpa, época).
-combinado_con(culpa, plástico).
-combinado_con(culpa, bolsitas).
-combinado_con(culpa, inundaciones).
-combinado_con(ciudadano, plaza).
-combinado_con(ciudadano, abandono).
-combinado_con(ciudadano, ciudades).
-combinado_con(ciudadano, ruinas).
-combinado_con(ciudadano, predio).
-combinado_con(ciudadano, avenida).
-combinado_con(ciudadano, chikungunya).
-combinado_con(ciudadano, población).
-combinado_con(ciudadano, patios).
-combinado_con(ciudadano, criaderos).
-combinado_con(ciudadano, ministro).
-combinado_con(ciudadano, brotes).
-combinado_con(ciudadano, zonas).
-combinado_con(ciudadano, municipios).
-combinado_con(ciudadano, alerta).
-combinado_con(ciudadano, focos).
-combinado_con(ciudadano, fiebre).
-combinado_con(ciudadano, gente).
-combinado_con(ciudadano, paciente).
-combinado_con(ciudadano, dengue).
-combinado_con(ciudadano, muerte).
-combinado_con(ciudadano, precio).
-combinado_con(ciudadano, casas).
-combinado_con(ciudadano, enfermos).
-combinado_con(ciudadano, presencia).
-combinado_con(ciudadano, sintomas).
-combinado_con(ciudadano, salud).
-combinado_con(ciudadano, agua).
-combinado_con(ciudadano, barrios).
-combinado_con(ciudadano, piscinas).
-combinado_con(ciudadano, inconsciencia).
-combinado_con(ciudadano, pileta).
-combinado_con(ciudadano, multas).
-combinado_con(ciudadano, titular).
-combinado_con(ciudadano, ciudad).
-combinado_con(ciudadano, instalaciones).
-combinado_con(ciudadano, vector).
-combinado_con(ciudadano, educación).
-combinado_con(ciudadano, disposición).
-combinado_con(ciudadano, recursos).
-combinado_con(ciudadano, lucha).
-combinado_con(ciudadano, denuncias).
-combinado_con(ciudadano, neumáticos).
-combinado_con(ciudadano, chatarras).
-combinado_con(ciudadano, ayudarnos).
-combinado_con(ciudadano, supuesto).
-combinado_con(ciudadano, senadora).
-combinado_con(ciudadano, emergencia).
-combinado_con(ciudadano, terrenos).
-combinado_con(ciudadano, mosquito).
-combinado_con(ciudadano, calles).
-combinado_con(ciudadano, servicios).
-combinado_con(ciudadano, aumento).
-combinado_con(ciudadano, dr).
-combinado_con(ciudadano, pacientes).
-combinado_con(ciudadano, conciencia).
-combinado_con(ciudadano, dispersión).
-combinado_con(ciudadano, notifaciones).
-combinado_con(ciudadano, epidemia).
-combinado_con(ciudadano, funcionarios).
-combinado_con(ciudadano, extinción).
-combinado_con(ciudadano, barrio).
-combinado_con(ciudadano, cuadra).
-combinado_con(ciudadano, basura).
-combinado_con(ciudadano, eliminación).
-combinado_con(ciudadano, instituciones).
-combinado_con(ciudadano, trabajos).
-combinado_con(ciudadano, rastrillaje).
-combinado_con(ciudadano, autoridades).
-combinado_con(ciudadano, institución).
-combinado_con(ciudadano, intendentes).
-combinado_con(ciudadano, municipalidad).
-combinado_con(ciudadano, acciones).
-combinado_con(ciudadano, sanciones).
-combinado_con(ciudadano, limpieza).
-combinado_con(ciudadano, yuyales).
-combinado_con(ciudadano, propagación).
-combinado_con(ciudadano, ministerio).
-combinado_con(ciudadano, rebrote).
-combinado_con(ciudadano, problema).
-combinado_con(ciudadano, capacidad).
-combinado_con(ciudadano, propiedad).
-combinado_con(ciudadano, antecedentes).
-combinado_con(ciudadano, recomendaciones).
-combinado_con(ciudadano, causa).
-combinado_con(ciudadano, sospecha).
-combinado_con(ciudadano, infestación).
-combinado_con(ciudadano, imputación).
-combinado_con(ciudadano, serotipo).
-combinado_con(ciudadano, comunidad).
-combinado_con(ciudadano, combate).
-combinado_con(ciudadano, muertes).
-combinado_con(ciudadano, cifra).
-combinado_con(ciudadano, síntomas).
-combinado_con(ciudadano, medicamentos).
-combinado_con(ciudadano, urgencias).
-combinado_con(ciudadano, afectados).
-combinado_con(ciudadano, gobierno).
-combinado_con(ciudadano, cuidados).
-combinado_con(ciudadano, promedio).
-combinado_con(ciudadano, brote).
-combinado_con(ciudadano, hospitalizaciones).
-combinado_con(ciudadano, cuadro).
-combinado_con(ciudadano, enfermedades).
-combinado_con(ciudadano, recolección).
-combinado_con(ciudadano, basuras).
-combinado_con(ciudadano, riesgo).
-combinado_con(ciudadano, lluvias).
-combinado_con(ciudadano, concienciación).
-combinado_con(ciudadano, inacción).
-combinado_con(ciudadano, baldíos).
-combinado_con(ciudadano, crecimiento).
-combinado_con(ciudadano, río).
-combinado_con(ciudadano, época).
-combinado_con(ciudadano, plástico).
-combinado_con(ciudadano, bolsitas).
-combinado_con(ciudadano, inundaciones).
-combinado_con(plaza, abandono).
-combinado_con(plaza, ciudades).
-combinado_con(plaza, ruinas).
-combinado_con(plaza, predio).
-combinado_con(plaza, avenida).
-combinado_con(plaza, chikungunya).
-combinado_con(plaza, población).
-combinado_con(plaza, patios).
-combinado_con(plaza, criaderos).
-combinado_con(plaza, ministro).
-combinado_con(plaza, brotes).
-combinado_con(plaza, zonas).
-combinado_con(plaza, municipios).
-combinado_con(plaza, alerta).
-combinado_con(plaza, focos).
-combinado_con(plaza, fiebre).
-combinado_con(plaza, gente).
-combinado_con(plaza, paciente).
-combinado_con(plaza, dengue).
-combinado_con(plaza, muerte).
-combinado_con(plaza, precio).
-combinado_con(plaza, casas).
-combinado_con(plaza, enfermos).
-combinado_con(plaza, presencia).
-combinado_con(plaza, sintomas).
-combinado_con(plaza, salud).
-combinado_con(plaza, agua).
-combinado_con(plaza, barrios).
-combinado_con(plaza, piscinas).
-combinado_con(plaza, inconsciencia).
-combinado_con(plaza, pileta).
-combinado_con(plaza, multas).
-combinado_con(plaza, titular).
-combinado_con(plaza, ciudad).
-combinado_con(plaza, instalaciones).
-combinado_con(plaza, vector).
-combinado_con(plaza, educación).
-combinado_con(plaza, disposición).
-combinado_con(plaza, recursos).
-combinado_con(plaza, lucha).
-combinado_con(plaza, denuncias).
-combinado_con(plaza, neumáticos).
-combinado_con(plaza, chatarras).
-combinado_con(plaza, ayudarnos).
-combinado_con(plaza, supuesto).
-combinado_con(plaza, senadora).
-combinado_con(plaza, emergencia).
-combinado_con(plaza, terrenos).
-combinado_con(plaza, mosquito).
-combinado_con(plaza, calles).
-combinado_con(plaza, servicios).
-combinado_con(plaza, aumento).
-combinado_con(plaza, dr).
-combinado_con(plaza, pacientes).
-combinado_con(plaza, conciencia).
-combinado_con(plaza, dispersión).
-combinado_con(plaza, notifaciones).
-combinado_con(plaza, epidemia).
-combinado_con(plaza, funcionarios).
-combinado_con(plaza, extinción).
-combinado_con(plaza, barrio).
-combinado_con(plaza, cuadra).
-combinado_con(plaza, basura).
-combinado_con(plaza, eliminación).
-combinado_con(plaza, instituciones).
-combinado_con(plaza, trabajos).
-combinado_con(plaza, rastrillaje).
-combinado_con(plaza, autoridades).
-combinado_con(plaza, institución).
-combinado_con(plaza, intendentes).
-combinado_con(plaza, municipalidad).
-combinado_con(plaza, acciones).
-combinado_con(plaza, sanciones).
-combinado_con(plaza, limpieza).
-combinado_con(plaza, yuyales).
-combinado_con(plaza, propagación).
-combinado_con(plaza, ministerio).
-combinado_con(plaza, rebrote).
-combinado_con(plaza, problema).
-combinado_con(plaza, capacidad).
-combinado_con(plaza, propiedad).
-combinado_con(plaza, antecedentes).
-combinado_con(plaza, recomendaciones).
-combinado_con(plaza, causa).
-combinado_con(plaza, sospecha).
-combinado_con(plaza, infestación).
-combinado_con(plaza, imputación).
-combinado_con(plaza, serotipo).
-combinado_con(plaza, comunidad).
-combinado_con(plaza, combate).
-combinado_con(plaza, muertes).
-combinado_con(plaza, cifra).
-combinado_con(plaza, síntomas).
-combinado_con(plaza, medicamentos).
-combinado_con(plaza, urgencias).
-combinado_con(plaza, afectados).
-combinado_con(plaza, gobierno).
-combinado_con(plaza, cuidados).
-combinado_con(plaza, promedio).
-combinado_con(plaza, brote).
-combinado_con(plaza, hospitalizaciones).
-combinado_con(plaza, cuadro).
-combinado_con(plaza, enfermedades).
-combinado_con(plaza, recolección).
-combinado_con(plaza, basuras).
-combinado_con(plaza, riesgo).
-combinado_con(plaza, lluvias).
-combinado_con(plaza, concienciación).
-combinado_con(plaza, inacción).
-combinado_con(plaza, baldíos).
-combinado_con(plaza, crecimiento).
-combinado_con(plaza, río).
-combinado_con(plaza, época).
-combinado_con(plaza, plástico).
-combinado_con(plaza, bolsitas).
-combinado_con(plaza, inundaciones).
-combinado_con(abandono, ciudades).
-combinado_con(abandono, ruinas).
-combinado_con(abandono, predio).
-combinado_con(abandono, avenida).
-combinado_con(abandono, chikungunya).
-combinado_con(abandono, población).
-combinado_con(abandono, patios).
-combinado_con(abandono, criaderos).
-combinado_con(abandono, ministro).
-combinado_con(abandono, brotes).
-combinado_con(abandono, zonas).
-combinado_con(abandono, municipios).
-combinado_con(abandono, alerta).
-combinado_con(abandono, focos).
-combinado_con(abandono, fiebre).
-combinado_con(abandono, gente).
-combinado_con(abandono, paciente).
-combinado_con(abandono, dengue).
-combinado_con(abandono, muerte).
-combinado_con(abandono, precio).
-combinado_con(abandono, casas).
-combinado_con(abandono, enfermos).
-combinado_con(abandono, presencia).
-combinado_con(abandono, sintomas).
-combinado_con(abandono, salud).
-combinado_con(abandono, agua).
-combinado_con(abandono, barrios).
-combinado_con(abandono, piscinas).
-combinado_con(abandono, inconsciencia).
-combinado_con(abandono, pileta).
-combinado_con(abandono, multas).
-combinado_con(abandono, titular).
-combinado_con(abandono, ciudad).
-combinado_con(abandono, instalaciones).
-combinado_con(abandono, vector).
-combinado_con(abandono, educación).
-combinado_con(abandono, disposición).
-combinado_con(abandono, recursos).
-combinado_con(abandono, lucha).
-combinado_con(abandono, denuncias).
-combinado_con(abandono, neumáticos).
-combinado_con(abandono, chatarras).
-combinado_con(abandono, ayudarnos).
-combinado_con(abandono, supuesto).
-combinado_con(abandono, senadora).
-combinado_con(abandono, emergencia).
-combinado_con(abandono, terrenos).
-combinado_con(abandono, mosquito).
-combinado_con(abandono, calles).
-combinado_con(abandono, servicios).
-combinado_con(abandono, aumento).
-combinado_con(abandono, dr).
-combinado_con(abandono, pacientes).
-combinado_con(abandono, conciencia).
-combinado_con(abandono, dispersión).
-combinado_con(abandono, notifaciones).
-combinado_con(abandono, epidemia).
-combinado_con(abandono, funcionarios).
-combinado_con(abandono, extinción).
-combinado_con(abandono, barrio).
-combinado_con(abandono, cuadra).
-combinado_con(abandono, basura).
-combinado_con(abandono, eliminación).
-combinado_con(abandono, instituciones).
-combinado_con(abandono, trabajos).
-combinado_con(abandono, rastrillaje).
-combinado_con(abandono, autoridades).
-combinado_con(abandono, institución).
-combinado_con(abandono, intendentes).
-combinado_con(abandono, municipalidad).
-combinado_con(abandono, acciones).
-combinado_con(abandono, sanciones).
-combinado_con(abandono, limpieza).
-combinado_con(abandono, yuyales).
-combinado_con(abandono, propagación).
-combinado_con(abandono, ministerio).
-combinado_con(abandono, rebrote).
-combinado_con(abandono, problema).
-combinado_con(abandono, capacidad).
-combinado_con(abandono, propiedad).
-combinado_con(abandono, antecedentes).
-combinado_con(abandono, recomendaciones).
-combinado_con(abandono, causa).
-combinado_con(abandono, sospecha).
-combinado_con(abandono, infestación).
-combinado_con(abandono, imputación).
-combinado_con(abandono, serotipo).
-combinado_con(abandono, comunidad).
-combinado_con(abandono, combate).
-combinado_con(abandono, muertes).
-combinado_con(abandono, cifra).
-combinado_con(abandono, síntomas).
-combinado_con(abandono, medicamentos).
-combinado_con(abandono, urgencias).
-combinado_con(abandono, afectados).
-combinado_con(abandono, gobierno).
-combinado_con(abandono, cuidados).
-combinado_con(abandono, promedio).
-combinado_con(abandono, brote).
-combinado_con(abandono, hospitalizaciones).
-combinado_con(abandono, cuadro).
-combinado_con(abandono, enfermedades).
-combinado_con(abandono, recolección).
-combinado_con(abandono, basuras).
-combinado_con(abandono, riesgo).
-combinado_con(abandono, lluvias).
-combinado_con(abandono, concienciación).
-combinado_con(abandono, inacción).
-combinado_con(abandono, baldíos).
-combinado_con(abandono, crecimiento).
-combinado_con(abandono, río).
-combinado_con(abandono, época).
-combinado_con(abandono, plástico).
-combinado_con(abandono, bolsitas).
-combinado_con(abandono, inundaciones).
-combinado_con(ciudades, ruinas).
-combinado_con(ciudades, predio).
-combinado_con(ciudades, avenida).
-combinado_con(ciudades, chikungunya).
-combinado_con(ciudades, población).
-combinado_con(ciudades, patios).
-combinado_con(ciudades, criaderos).
-combinado_con(ciudades, ministro).
-combinado_con(ciudades, brotes).
-combinado_con(ciudades, zonas).
-combinado_con(ciudades, municipios).
-combinado_con(ciudades, alerta).
-combinado_con(ciudades, focos).
-combinado_con(ciudades, fiebre).
-combinado_con(ciudades, gente).
-combinado_con(ciudades, paciente).
-combinado_con(ciudades, dengue).
-combinado_con(ciudades, muerte).
-combinado_con(ciudades, precio).
-combinado_con(ciudades, casas).
-combinado_con(ciudades, enfermos).
-combinado_con(ciudades, presencia).
-combinado_con(ciudades, sintomas).
-combinado_con(ciudades, salud).
-combinado_con(ciudades, agua).
-combinado_con(ciudades, barrios).
-combinado_con(ciudades, piscinas).
-combinado_con(ciudades, inconsciencia).
-combinado_con(ciudades, pileta).
-combinado_con(ciudades, multas).
-combinado_con(ciudades, titular).
-combinado_con(ciudades, ciudad).
-combinado_con(ciudades, instalaciones).
-combinado_con(ciudades, vector).
-combinado_con(ciudades, educación).
-combinado_con(ciudades, disposición).
-combinado_con(ciudades, recursos).
-combinado_con(ciudades, lucha).
-combinado_con(ciudades, denuncias).
-combinado_con(ciudades, neumáticos).
-combinado_con(ciudades, chatarras).
-combinado_con(ciudades, ayudarnos).
-combinado_con(ciudades, supuesto).
-combinado_con(ciudades, senadora).
-combinado_con(ciudades, emergencia).
-combinado_con(ciudades, terrenos).
-combinado_con(ciudades, mosquito).
-combinado_con(ciudades, calles).
-combinado_con(ciudades, servicios).
-combinado_con(ciudades, aumento).
-combinado_con(ciudades, dr).
-combinado_con(ciudades, pacientes).
-combinado_con(ciudades, conciencia).
-combinado_con(ciudades, dispersión).
-combinado_con(ciudades, notifaciones).
-combinado_con(ciudades, epidemia).
-combinado_con(ciudades, funcionarios).
-combinado_con(ciudades, extinción).
-combinado_con(ciudades, barrio).
-combinado_con(ciudades, cuadra).
-combinado_con(ciudades, basura).
-combinado_con(ciudades, eliminación).
-combinado_con(ciudades, instituciones).
-combinado_con(ciudades, trabajos).
-combinado_con(ciudades, rastrillaje).
-combinado_con(ciudades, autoridades).
-combinado_con(ciudades, institución).
-combinado_con(ciudades, intendentes).
-combinado_con(ciudades, municipalidad).
-combinado_con(ciudades, acciones).
-combinado_con(ciudades, sanciones).
-combinado_con(ciudades, limpieza).
-combinado_con(ciudades, yuyales).
-combinado_con(ciudades, propagación).
-combinado_con(ciudades, ministerio).
-combinado_con(ciudades, rebrote).
-combinado_con(ciudades, problema).
-combinado_con(ciudades, capacidad).
-combinado_con(ciudades, propiedad).
-combinado_con(ciudades, antecedentes).
-combinado_con(ciudades, recomendaciones).
-combinado_con(ciudades, causa).
-combinado_con(ciudades, sospecha).
-combinado_con(ciudades, infestación).
-combinado_con(ciudades, imputación).
-combinado_con(ciudades, serotipo).
-combinado_con(ciudades, comunidad).
-combinado_con(ciudades, combate).
-combinado_con(ciudades, muertes).
-combinado_con(ciudades, cifra).
-combinado_con(ciudades, síntomas).
-combinado_con(ciudades, medicamentos).
-combinado_con(ciudades, urgencias).
-combinado_con(ciudades, afectados).
-combinado_con(ciudades, gobierno).
-combinado_con(ciudades, cuidados).
-combinado_con(ciudades, promedio).
-combinado_con(ciudades, brote).
-combinado_con(ciudades, hospitalizaciones).
-combinado_con(ciudades, cuadro).
-combinado_con(ciudades, enfermedades).
-combinado_con(ciudades, recolección).
-combinado_con(ciudades, basuras).
-combinado_con(ciudades, riesgo).
-combinado_con(ciudades, lluvias).
-combinado_con(ciudades, concienciación).
-combinado_con(ciudades, inacción).
-combinado_con(ciudades, baldíos).
-combinado_con(ciudades, crecimiento).
-combinado_con(ciudades, río).
-combinado_con(ciudades, época).
-combinado_con(ciudades, plástico).
-combinado_con(ciudades, bolsitas).
-combinado_con(ciudades, inundaciones).
-combinado_con(ruinas, predio).
-combinado_con(ruinas, avenida).
-combinado_con(ruinas, chikungunya).
-combinado_con(ruinas, población).
-combinado_con(ruinas, patios).
-combinado_con(ruinas, criaderos).
-combinado_con(ruinas, ministro).
-combinado_con(ruinas, brotes).
-combinado_con(ruinas, zonas).
-combinado_con(ruinas, municipios).
-combinado_con(ruinas, alerta).
-combinado_con(ruinas, focos).
-combinado_con(ruinas, fiebre).
-combinado_con(ruinas, gente).
-combinado_con(ruinas, paciente).
-combinado_con(ruinas, dengue).
-combinado_con(ruinas, muerte).
-combinado_con(ruinas, precio).
-combinado_con(ruinas, casas).
-combinado_con(ruinas, enfermos).
-combinado_con(ruinas, presencia).
-combinado_con(ruinas, sintomas).
-combinado_con(ruinas, salud).
-combinado_con(ruinas, agua).
-combinado_con(ruinas, barrios).
-combinado_con(ruinas, piscinas).
-combinado_con(ruinas, inconsciencia).
-combinado_con(ruinas, pileta).
-combinado_con(ruinas, multas).
-combinado_con(ruinas, titular).
-combinado_con(ruinas, ciudad).
-combinado_con(ruinas, instalaciones).
-combinado_con(ruinas, vector).
-combinado_con(ruinas, educación).
-combinado_con(ruinas, disposición).
-combinado_con(ruinas, recursos).
-combinado_con(ruinas, lucha).
-combinado_con(ruinas, denuncias).
-combinado_con(ruinas, neumáticos).
-combinado_con(ruinas, chatarras).
-combinado_con(ruinas, ayudarnos).
-combinado_con(ruinas, supuesto).
-combinado_con(ruinas, senadora).
-combinado_con(ruinas, emergencia).
-combinado_con(ruinas, terrenos).
-combinado_con(ruinas, mosquito).
-combinado_con(ruinas, calles).
-combinado_con(ruinas, servicios).
-combinado_con(ruinas, aumento).
-combinado_con(ruinas, dr).
-combinado_con(ruinas, pacientes).
-combinado_con(ruinas, conciencia).
-combinado_con(ruinas, dispersión).
-combinado_con(ruinas, notifaciones).
-combinado_con(ruinas, epidemia).
-combinado_con(ruinas, funcionarios).
-combinado_con(ruinas, extinción).
-combinado_con(ruinas, barrio).
-combinado_con(ruinas, cuadra).
-combinado_con(ruinas, basura).
-combinado_con(ruinas, eliminación).
-combinado_con(ruinas, instituciones).
-combinado_con(ruinas, trabajos).
-combinado_con(ruinas, rastrillaje).
-combinado_con(ruinas, autoridades).
-combinado_con(ruinas, institución).
-combinado_con(ruinas, intendentes).
-combinado_con(ruinas, municipalidad).
-combinado_con(ruinas, acciones).
-combinado_con(ruinas, sanciones).
-combinado_con(ruinas, limpieza).
-combinado_con(ruinas, yuyales).
-combinado_con(ruinas, propagación).
-combinado_con(ruinas, ministerio).
-combinado_con(ruinas, rebrote).
-combinado_con(ruinas, problema).
-combinado_con(ruinas, capacidad).
-combinado_con(ruinas, propiedad).
-combinado_con(ruinas, antecedentes).
-combinado_con(ruinas, recomendaciones).
-combinado_con(ruinas, causa).
-combinado_con(ruinas, sospecha).
-combinado_con(ruinas, infestación).
-combinado_con(ruinas, imputación).
-combinado_con(ruinas, serotipo).
-combinado_con(ruinas, comunidad).
-combinado_con(ruinas, combate).
-combinado_con(ruinas, muertes).
-combinado_con(ruinas, cifra).
-combinado_con(ruinas, síntomas).
-combinado_con(ruinas, medicamentos).
-combinado_con(ruinas, urgencias).
-combinado_con(ruinas, afectados).
-combinado_con(ruinas, gobierno).
-combinado_con(ruinas, cuidados).
-combinado_con(ruinas, promedio).
-combinado_con(ruinas, brote).
-combinado_con(ruinas, hospitalizaciones).
-combinado_con(ruinas, cuadro).
-combinado_con(ruinas, enfermedades).
-combinado_con(ruinas, recolección).
-combinado_con(ruinas, basuras).
-combinado_con(ruinas, riesgo).
-combinado_con(ruinas, lluvias).
-combinado_con(ruinas, concienciación).
-combinado_con(ruinas, inacción).
-combinado_con(ruinas, baldíos).
-combinado_con(ruinas, crecimiento).
-combinado_con(ruinas, río).
-combinado_con(ruinas, época).
-combinado_con(ruinas, plástico).
-combinado_con(ruinas, bolsitas).
-combinado_con(ruinas, inundaciones).
-combinado_con(predio, avenida).
-combinado_con(predio, chikungunya).
-combinado_con(predio, población).
-combinado_con(predio, patios).
-combinado_con(predio, criaderos).
-combinado_con(predio, ministro).
-combinado_con(predio, brotes).
-combinado_con(predio, zonas).
-combinado_con(predio, municipios).
-combinado_con(predio, alerta).
-combinado_con(predio, focos).
-combinado_con(predio, fiebre).
-combinado_con(predio, gente).
-combinado_con(predio, paciente).
-combinado_con(predio, dengue).
-combinado_con(predio, muerte).
-combinado_con(predio, precio).
-combinado_con(predio, casas).
-combinado_con(predio, enfermos).
-combinado_con(predio, presencia).
-combinado_con(predio, sintomas).
-combinado_con(predio, salud).
-combinado_con(predio, agua).
-combinado_con(predio, barrios).
-combinado_con(predio, piscinas).
-combinado_con(predio, inconsciencia).
-combinado_con(predio, pileta).
-combinado_con(predio, multas).
-combinado_con(predio, titular).
-combinado_con(predio, ciudad).
-combinado_con(predio, instalaciones).
-combinado_con(predio, vector).
-combinado_con(predio, educación).
-combinado_con(predio, disposición).
-combinado_con(predio, recursos).
-combinado_con(predio, lucha).
-combinado_con(predio, denuncias).
-combinado_con(predio, neumáticos).
-combinado_con(predio, chatarras).
-combinado_con(predio, ayudarnos).
-combinado_con(predio, supuesto).
-combinado_con(predio, senadora).
-combinado_con(predio, emergencia).
-combinado_con(predio, terrenos).
-combinado_con(predio, mosquito).
-combinado_con(predio, calles).
-combinado_con(predio, servicios).
-combinado_con(predio, aumento).
-combinado_con(predio, dr).
-combinado_con(predio, pacientes).
-combinado_con(predio, conciencia).
-combinado_con(predio, dispersión).
-combinado_con(predio, notifaciones).
-combinado_con(predio, epidemia).
-combinado_con(predio, funcionarios).
-combinado_con(predio, extinción).
-combinado_con(predio, barrio).
-combinado_con(predio, cuadra).
-combinado_con(predio, basura).
-combinado_con(predio, eliminación).
-combinado_con(predio, instituciones).
-combinado_con(predio, trabajos).
-combinado_con(predio, rastrillaje).
-combinado_con(predio, autoridades).
-combinado_con(predio, institución).
-combinado_con(predio, intendentes).
-combinado_con(predio, municipalidad).
-combinado_con(predio, acciones).
-combinado_con(predio, sanciones).
-combinado_con(predio, limpieza).
-combinado_con(predio, yuyales).
-combinado_con(predio, propagación).
-combinado_con(predio, ministerio).
-combinado_con(predio, rebrote).
-combinado_con(predio, problema).
-combinado_con(predio, capacidad).
-combinado_con(predio, propiedad).
-combinado_con(predio, antecedentes).
-combinado_con(predio, recomendaciones).
-combinado_con(predio, causa).
-combinado_con(predio, sospecha).
-combinado_con(predio, infestación).
-combinado_con(predio, imputación).
-combinado_con(predio, serotipo).
-combinado_con(predio, comunidad).
-combinado_con(predio, combate).
-combinado_con(predio, muertes).
-combinado_con(predio, cifra).
-combinado_con(predio, síntomas).
-combinado_con(predio, medicamentos).
-combinado_con(predio, urgencias).
-combinado_con(predio, afectados).
-combinado_con(predio, gobierno).
-combinado_con(predio, cuidados).
-combinado_con(predio, promedio).
-combinado_con(predio, brote).
-combinado_con(predio, hospitalizaciones).
-combinado_con(predio, cuadro).
-combinado_con(predio, enfermedades).
-combinado_con(predio, recolección).
-combinado_con(predio, basuras).
-combinado_con(predio, riesgo).
-combinado_con(predio, lluvias).
-combinado_con(predio, concienciación).
-combinado_con(predio, inacción).
-combinado_con(predio, baldíos).
-combinado_con(predio, crecimiento).
-combinado_con(predio, río).
-combinado_con(predio, época).
-combinado_con(predio, plástico).
-combinado_con(predio, bolsitas).
-combinado_con(predio, inundaciones).
-combinado_con(avenida, chikungunya).
-combinado_con(avenida, población).
-combinado_con(avenida, patios).
-combinado_con(avenida, criaderos).
-combinado_con(avenida, ministro).
-combinado_con(avenida, brotes).
-combinado_con(avenida, zonas).
-combinado_con(avenida, municipios).
-combinado_con(avenida, alerta).
-combinado_con(avenida, focos).
-combinado_con(avenida, fiebre).
-combinado_con(avenida, gente).
-combinado_con(avenida, paciente).
-combinado_con(avenida, dengue).
-combinado_con(avenida, muerte).
-combinado_con(avenida, precio).
-combinado_con(avenida, casas).
-combinado_con(avenida, enfermos).
-combinado_con(avenida, presencia).
-combinado_con(avenida, sintomas).
-combinado_con(avenida, salud).
-combinado_con(avenida, agua).
-combinado_con(avenida, barrios).
-combinado_con(avenida, piscinas).
-combinado_con(avenida, inconsciencia).
-combinado_con(avenida, pileta).
-combinado_con(avenida, multas).
-combinado_con(avenida, titular).
-combinado_con(avenida, ciudad).
-combinado_con(avenida, instalaciones).
-combinado_con(avenida, vector).
-combinado_con(avenida, educación).
-combinado_con(avenida, disposición).
-combinado_con(avenida, recursos).
-combinado_con(avenida, lucha).
-combinado_con(avenida, denuncias).
-combinado_con(avenida, neumáticos).
-combinado_con(avenida, chatarras).
-combinado_con(avenida, ayudarnos).
-combinado_con(avenida, supuesto).
-combinado_con(avenida, senadora).
-combinado_con(avenida, emergencia).
-combinado_con(avenida, terrenos).
-combinado_con(avenida, mosquito).
-combinado_con(avenida, calles).
-combinado_con(avenida, servicios).
-combinado_con(avenida, aumento).
-combinado_con(avenida, dr).
-combinado_con(avenida, pacientes).
-combinado_con(avenida, conciencia).
-combinado_con(avenida, dispersión).
-combinado_con(avenida, notifaciones).
-combinado_con(avenida, epidemia).
-combinado_con(avenida, funcionarios).
-combinado_con(avenida, extinción).
-combinado_con(avenida, barrio).
-combinado_con(avenida, cuadra).
-combinado_con(avenida, basura).
-combinado_con(avenida, eliminación).
-combinado_con(avenida, instituciones).
-combinado_con(avenida, trabajos).
-combinado_con(avenida, rastrillaje).
-combinado_con(avenida, autoridades).
-combinado_con(avenida, institución).
-combinado_con(avenida, intendentes).
-combinado_con(avenida, municipalidad).
-combinado_con(avenida, acciones).
-combinado_con(avenida, sanciones).
-combinado_con(avenida, limpieza).
-combinado_con(avenida, yuyales).
-combinado_con(avenida, propagación).
-combinado_con(avenida, ministerio).
-combinado_con(avenida, rebrote).
-combinado_con(avenida, problema).
-combinado_con(avenida, capacidad).
-combinado_con(avenida, propiedad).
-combinado_con(avenida, antecedentes).
-combinado_con(avenida, recomendaciones).
-combinado_con(avenida, causa).
-combinado_con(avenida, sospecha).
-combinado_con(avenida, infestación).
-combinado_con(avenida, imputación).
-combinado_con(avenida, serotipo).
-combinado_con(avenida, comunidad).
-combinado_con(avenida, combate).
-combinado_con(avenida, muertes).
-combinado_con(avenida, cifra).
-combinado_con(avenida, síntomas).
-combinado_con(avenida, medicamentos).
-combinado_con(avenida, urgencias).
-combinado_con(avenida, afectados).
-combinado_con(avenida, gobierno).
-combinado_con(avenida, cuidados).
-combinado_con(avenida, promedio).
-combinado_con(avenida, brote).
-combinado_con(avenida, hospitalizaciones).
-combinado_con(avenida, cuadro).
-combinado_con(avenida, enfermedades).
-combinado_con(avenida, recolección).
-combinado_con(avenida, basuras).
-combinado_con(avenida, riesgo).
-combinado_con(avenida, lluvias).
-combinado_con(avenida, concienciación).
-combinado_con(avenida, inacción).
-combinado_con(avenida, baldíos).
-combinado_con(avenida, crecimiento).
-combinado_con(avenida, río).
-combinado_con(avenida, época).
-combinado_con(avenida, plástico).
-combinado_con(avenida, bolsitas).
-combinado_con(avenida, inundaciones).
-combinado_con(chikungunya, población).
-combinado_con(chikungunya, patios).
-combinado_con(chikungunya, criaderos).
-combinado_con(chikungunya, ministro).
-combinado_con(chikungunya, brotes).
-combinado_con(chikungunya, zonas).
-combinado_con(chikungunya, municipios).
-combinado_con(chikungunya, alerta).
-combinado_con(chikungunya, focos).
-combinado_con(chikungunya, fiebre).
-combinado_con(chikungunya, gente).
-combinado_con(chikungunya, paciente).
-combinado_con(chikungunya, dengue).
-combinado_con(chikungunya, muerte).
-combinado_con(chikungunya, precio).
-combinado_con(chikungunya, casas).
-combinado_con(chikungunya, enfermos).
-combinado_con(chikungunya, presencia).
-combinado_con(chikungunya, sintomas).
-combinado_con(chikungunya, salud).
-combinado_con(chikungunya, agua).
-combinado_con(chikungunya, barrios).
-combinado_con(chikungunya, piscinas).
-combinado_con(chikungunya, inconsciencia).
-combinado_con(chikungunya, pileta).
-combinado_con(chikungunya, multas).
-combinado_con(chikungunya, titular).
-combinado_con(chikungunya, ciudad).
-combinado_con(chikungunya, instalaciones).
-combinado_con(chikungunya, vector).
-combinado_con(chikungunya, educación).
-combinado_con(chikungunya, disposición).
-combinado_con(chikungunya, recursos).
-combinado_con(chikungunya, lucha).
-combinado_con(chikungunya, denuncias).
-combinado_con(chikungunya, neumáticos).
-combinado_con(chikungunya, chatarras).
-combinado_con(chikungunya, ayudarnos).
-combinado_con(chikungunya, supuesto).
-combinado_con(chikungunya, senadora).
-combinado_con(chikungunya, emergencia).
-combinado_con(chikungunya, terrenos).
-combinado_con(chikungunya, mosquito).
-combinado_con(chikungunya, calles).
-combinado_con(chikungunya, servicios).
-combinado_con(chikungunya, aumento).
-combinado_con(chikungunya, dr).
-combinado_con(chikungunya, pacientes).
-combinado_con(chikungunya, conciencia).
-combinado_con(chikungunya, dispersión).
-combinado_con(chikungunya, notifaciones).
-combinado_con(chikungunya, epidemia).
-combinado_con(chikungunya, funcionarios).
-combinado_con(chikungunya, extinción).
-combinado_con(chikungunya, barrio).
-combinado_con(chikungunya, cuadra).
-combinado_con(chikungunya, basura).
-combinado_con(chikungunya, eliminación).
-combinado_con(chikungunya, instituciones).
-combinado_con(chikungunya, trabajos).
-combinado_con(chikungunya, rastrillaje).
-combinado_con(chikungunya, autoridades).
-combinado_con(chikungunya, institución).
-combinado_con(chikungunya, intendentes).
-combinado_con(chikungunya, municipalidad).
-combinado_con(chikungunya, acciones).
-combinado_con(chikungunya, sanciones).
-combinado_con(chikungunya, limpieza).
-combinado_con(chikungunya, yuyales).
-combinado_con(chikungunya, propagación).
-combinado_con(chikungunya, ministerio).
-combinado_con(chikungunya, rebrote).
-combinado_con(chikungunya, problema).
-combinado_con(chikungunya, capacidad).
-combinado_con(chikungunya, propiedad).
-combinado_con(chikungunya, antecedentes).
-combinado_con(chikungunya, recomendaciones).
-combinado_con(chikungunya, causa).
-combinado_con(chikungunya, sospecha).
-combinado_con(chikungunya, infestación).
-combinado_con(chikungunya, imputación).
-combinado_con(chikungunya, serotipo).
-combinado_con(chikungunya, comunidad).
-combinado_con(chikungunya, combate).
-combinado_con(chikungunya, muertes).
-combinado_con(chikungunya, cifra).
-combinado_con(chikungunya, síntomas).
-combinado_con(chikungunya, medicamentos).
-combinado_con(chikungunya, urgencias).
-combinado_con(chikungunya, afectados).
-combinado_con(chikungunya, gobierno).
-combinado_con(chikungunya, cuidados).
-combinado_con(chikungunya, promedio).
-combinado_con(chikungunya, brote).
-combinado_con(chikungunya, hospitalizaciones).
-combinado_con(chikungunya, cuadro).
-combinado_con(chikungunya, enfermedades).
-combinado_con(chikungunya, recolección).
-combinado_con(chikungunya, basuras).
-combinado_con(chikungunya, riesgo).
-combinado_con(chikungunya, lluvias).
-combinado_con(chikungunya, concienciación).
-combinado_con(chikungunya, inacción).
-combinado_con(chikungunya, baldíos).
-combinado_con(chikungunya, crecimiento).
-combinado_con(chikungunya, río).
-combinado_con(chikungunya, época).
-combinado_con(chikungunya, plástico).
-combinado_con(chikungunya, bolsitas).
-combinado_con(chikungunya, inundaciones).
-combinado_con(población, patios).
-combinado_con(población, criaderos).
-combinado_con(población, ministro).
-combinado_con(población, brotes).
-combinado_con(población, zonas).
-combinado_con(población, municipios).
-combinado_con(población, alerta).
-combinado_con(población, focos).
-combinado_con(población, fiebre).
-combinado_con(población, gente).
-combinado_con(población, paciente).
-combinado_con(población, dengue).
-combinado_con(población, muerte).
-combinado_con(población, precio).
-combinado_con(población, casas).
-combinado_con(población, enfermos).
-combinado_con(población, presencia).
-combinado_con(población, sintomas).
-combinado_con(población, salud).
-combinado_con(población, agua).
-combinado_con(población, barrios).
-combinado_con(población, piscinas).
-combinado_con(población, inconsciencia).
-combinado_con(población, pileta).
-combinado_con(población, multas).
-combinado_con(población, titular).
-combinado_con(población, ciudad).
-combinado_con(población, instalaciones).
-combinado_con(población, vector).
-combinado_con(población, educación).
-combinado_con(población, disposición).
-combinado_con(población, recursos).
-combinado_con(población, lucha).
-combinado_con(población, denuncias).
-combinado_con(población, neumáticos).
-combinado_con(población, chatarras).
-combinado_con(población, ayudarnos).
-combinado_con(población, supuesto).
-combinado_con(población, senadora).
-combinado_con(población, emergencia).
-combinado_con(población, terrenos).
-combinado_con(población, mosquito).
-combinado_con(población, calles).
-combinado_con(población, servicios).
-combinado_con(población, aumento).
-combinado_con(población, dr).
-combinado_con(población, pacientes).
-combinado_con(población, conciencia).
-combinado_con(población, dispersión).
-combinado_con(población, notifaciones).
-combinado_con(población, epidemia).
-combinado_con(población, funcionarios).
-combinado_con(población, extinción).
-combinado_con(población, barrio).
-combinado_con(población, cuadra).
-combinado_con(población, basura).
-combinado_con(población, eliminación).
-combinado_con(población, instituciones).
-combinado_con(población, trabajos).
-combinado_con(población, rastrillaje).
-combinado_con(población, autoridades).
-combinado_con(población, institución).
-combinado_con(población, intendentes).
-combinado_con(población, municipalidad).
-combinado_con(población, acciones).
-combinado_con(población, sanciones).
-combinado_con(población, limpieza).
-combinado_con(población, yuyales).
-combinado_con(población, propagación).
-combinado_con(población, ministerio).
-combinado_con(población, rebrote).
-combinado_con(población, problema).
-combinado_con(población, capacidad).
-combinado_con(población, propiedad).
-combinado_con(población, antecedentes).
-combinado_con(población, recomendaciones).
-combinado_con(población, causa).
-combinado_con(población, sospecha).
-combinado_con(población, infestación).
-combinado_con(población, imputación).
-combinado_con(población, serotipo).
-combinado_con(población, comunidad).
-combinado_con(población, combate).
-combinado_con(población, muertes).
-combinado_con(población, cifra).
-combinado_con(población, síntomas).
-combinado_con(población, medicamentos).
-combinado_con(población, urgencias).
-combinado_con(población, afectados).
-combinado_con(población, gobierno).
-combinado_con(población, cuidados).
-combinado_con(población, promedio).
-combinado_con(población, brote).
-combinado_con(población, hospitalizaciones).
-combinado_con(población, cuadro).
-combinado_con(población, enfermedades).
-combinado_con(población, recolección).
-combinado_con(población, basuras).
-combinado_con(población, riesgo).
-combinado_con(población, lluvias).
-combinado_con(población, concienciación).
-combinado_con(población, inacción).
-combinado_con(población, baldíos).
-combinado_con(población, crecimiento).
-combinado_con(población, río).
-combinado_con(población, época).
-combinado_con(población, plástico).
-combinado_con(población, bolsitas).
-combinado_con(población, inundaciones).
-combinado_con(patios, criaderos).
-combinado_con(patios, ministro).
-combinado_con(patios, brotes).
-combinado_con(patios, zonas).
-combinado_con(patios, municipios).
-combinado_con(patios, alerta).
-combinado_con(patios, focos).
-combinado_con(patios, fiebre).
-combinado_con(patios, gente).
-combinado_con(patios, paciente).
-combinado_con(patios, dengue).
-combinado_con(patios, muerte).
-combinado_con(patios, precio).
-combinado_con(patios, casas).
-combinado_con(patios, enfermos).
-combinado_con(patios, presencia).
-combinado_con(patios, sintomas).
-combinado_con(patios, salud).
-combinado_con(patios, agua).
-combinado_con(patios, barrios).
-combinado_con(patios, piscinas).
-combinado_con(patios, inconsciencia).
-combinado_con(patios, pileta).
-combinado_con(patios, multas).
-combinado_con(patios, titular).
-combinado_con(patios, ciudad).
-combinado_con(patios, instalaciones).
-combinado_con(patios, vector).
-combinado_con(patios, educación).
-combinado_con(patios, disposición).
-combinado_con(patios, recursos).
-combinado_con(patios, lucha).
-combinado_con(patios, denuncias).
-combinado_con(patios, neumáticos).
-combinado_con(patios, chatarras).
-combinado_con(patios, ayudarnos).
-combinado_con(patios, supuesto).
-combinado_con(patios, senadora).
-combinado_con(patios, emergencia).
-combinado_con(patios, terrenos).
-combinado_con(patios, mosquito).
-combinado_con(patios, calles).
-combinado_con(patios, servicios).
-combinado_con(patios, aumento).
-combinado_con(patios, dr).
-combinado_con(patios, pacientes).
-combinado_con(patios, conciencia).
-combinado_con(patios, dispersión).
-combinado_con(patios, notifaciones).
-combinado_con(patios, epidemia).
-combinado_con(patios, funcionarios).
-combinado_con(patios, extinción).
-combinado_con(patios, barrio).
-combinado_con(patios, cuadra).
-combinado_con(patios, basura).
-combinado_con(patios, eliminación).
-combinado_con(patios, instituciones).
-combinado_con(patios, trabajos).
-combinado_con(patios, rastrillaje).
-combinado_con(patios, autoridades).
-combinado_con(patios, institución).
-combinado_con(patios, intendentes).
-combinado_con(patios, municipalidad).
-combinado_con(patios, acciones).
-combinado_con(patios, sanciones).
-combinado_con(patios, limpieza).
-combinado_con(patios, yuyales).
-combinado_con(patios, propagación).
-combinado_con(patios, ministerio).
-combinado_con(patios, rebrote).
-combinado_con(patios, problema).
-combinado_con(patios, capacidad).
-combinado_con(patios, propiedad).
-combinado_con(patios, antecedentes).
-combinado_con(patios, recomendaciones).
-combinado_con(patios, causa).
-combinado_con(patios, sospecha).
-combinado_con(patios, infestación).
-combinado_con(patios, imputación).
-combinado_con(patios, serotipo).
-combinado_con(patios, comunidad).
-combinado_con(patios, combate).
-combinado_con(patios, muertes).
-combinado_con(patios, cifra).
-combinado_con(patios, síntomas).
-combinado_con(patios, medicamentos).
-combinado_con(patios, urgencias).
-combinado_con(patios, afectados).
-combinado_con(patios, gobierno).
-combinado_con(patios, cuidados).
-combinado_con(patios, promedio).
-combinado_con(patios, brote).
-combinado_con(patios, hospitalizaciones).
-combinado_con(patios, cuadro).
-combinado_con(patios, enfermedades).
-combinado_con(patios, recolección).
-combinado_con(patios, basuras).
-combinado_con(patios, riesgo).
-combinado_con(patios, lluvias).
-combinado_con(patios, concienciación).
-combinado_con(patios, inacción).
-combinado_con(patios, baldíos).
-combinado_con(patios, crecimiento).
-combinado_con(patios, río).
-combinado_con(patios, época).
-combinado_con(patios, plástico).
-combinado_con(patios, bolsitas).
-combinado_con(patios, inundaciones).
-combinado_con(criaderos, ministro).
-combinado_con(criaderos, brotes).
-combinado_con(criaderos, zonas).
-combinado_con(criaderos, municipios).
-combinado_con(criaderos, alerta).
-combinado_con(criaderos, focos).
-combinado_con(criaderos, fiebre).
-combinado_con(criaderos, gente).
-combinado_con(criaderos, paciente).
-combinado_con(criaderos, dengue).
-combinado_con(criaderos, muerte).
-combinado_con(criaderos, precio).
-combinado_con(criaderos, casas).
-combinado_con(criaderos, enfermos).
-combinado_con(criaderos, presencia).
-combinado_con(criaderos, sintomas).
-combinado_con(criaderos, salud).
-combinado_con(criaderos, agua).
-combinado_con(criaderos, barrios).
-combinado_con(criaderos, piscinas).
-combinado_con(criaderos, inconsciencia).
-combinado_con(criaderos, pileta).
-combinado_con(criaderos, multas).
-combinado_con(criaderos, titular).
-combinado_con(criaderos, ciudad).
-combinado_con(criaderos, instalaciones).
-combinado_con(criaderos, vector).
-combinado_con(criaderos, educación).
-combinado_con(criaderos, disposición).
-combinado_con(criaderos, recursos).
-combinado_con(criaderos, lucha).
-combinado_con(criaderos, denuncias).
-combinado_con(criaderos, neumáticos).
-combinado_con(criaderos, chatarras).
-combinado_con(criaderos, ayudarnos).
-combinado_con(criaderos, supuesto).
-combinado_con(criaderos, senadora).
-combinado_con(criaderos, emergencia).
-combinado_con(criaderos, terrenos).
-combinado_con(criaderos, mosquito).
-combinado_con(criaderos, calles).
-combinado_con(criaderos, servicios).
-combinado_con(criaderos, aumento).
-combinado_con(criaderos, dr).
-combinado_con(criaderos, pacientes).
-combinado_con(criaderos, conciencia).
-combinado_con(criaderos, dispersión).
-combinado_con(criaderos, notifaciones).
-combinado_con(criaderos, epidemia).
-combinado_con(criaderos, funcionarios).
-combinado_con(criaderos, extinción).
-combinado_con(criaderos, barrio).
-combinado_con(criaderos, cuadra).
-combinado_con(criaderos, basura).
-combinado_con(criaderos, eliminación).
-combinado_con(criaderos, instituciones).
-combinado_con(criaderos, trabajos).
-combinado_con(criaderos, rastrillaje).
-combinado_con(criaderos, autoridades).
-combinado_con(criaderos, institución).
-combinado_con(criaderos, intendentes).
-combinado_con(criaderos, municipalidad).
-combinado_con(criaderos, acciones).
-combinado_con(criaderos, sanciones).
-combinado_con(criaderos, limpieza).
-combinado_con(criaderos, yuyales).
-combinado_con(criaderos, propagación).
-combinado_con(criaderos, ministerio).
-combinado_con(criaderos, rebrote).
-combinado_con(criaderos, problema).
-combinado_con(criaderos, capacidad).
-combinado_con(criaderos, propiedad).
-combinado_con(criaderos, antecedentes).
-combinado_con(criaderos, recomendaciones).
-combinado_con(criaderos, causa).
-combinado_con(criaderos, sospecha).
-combinado_con(criaderos, infestación).
-combinado_con(criaderos, imputación).
-combinado_con(criaderos, serotipo).
-combinado_con(criaderos, comunidad).
-combinado_con(criaderos, combate).
-combinado_con(criaderos, muertes).
-combinado_con(criaderos, cifra).
-combinado_con(criaderos, síntomas).
-combinado_con(criaderos, medicamentos).
-combinado_con(criaderos, urgencias).
-combinado_con(criaderos, afectados).
-combinado_con(criaderos, gobierno).
-combinado_con(criaderos, cuidados).
-combinado_con(criaderos, promedio).
-combinado_con(criaderos, brote).
-combinado_con(criaderos, hospitalizaciones).
-combinado_con(criaderos, cuadro).
-combinado_con(criaderos, enfermedades).
-combinado_con(criaderos, recolección).
-combinado_con(criaderos, basuras).
-combinado_con(criaderos, riesgo).
-combinado_con(criaderos, lluvias).
-combinado_con(criaderos, concienciación).
-combinado_con(criaderos, inacción).
-combinado_con(criaderos, baldíos).
-combinado_con(criaderos, crecimiento).
-combinado_con(criaderos, río).
-combinado_con(criaderos, época).
-combinado_con(criaderos, plástico).
-combinado_con(criaderos, bolsitas).
-combinado_con(criaderos, inundaciones).
-combinado_con(ministro, brotes).
-combinado_con(ministro, zonas).
-combinado_con(ministro, municipios).
-combinado_con(ministro, alerta).
-combinado_con(ministro, focos).
-combinado_con(ministro, fiebre).
-combinado_con(ministro, gente).
-combinado_con(ministro, paciente).
-combinado_con(ministro, dengue).
-combinado_con(ministro, muerte).
-combinado_con(ministro, precio).
-combinado_con(ministro, casas).
-combinado_con(ministro, enfermos).
-combinado_con(ministro, presencia).
-combinado_con(ministro, sintomas).
-combinado_con(ministro, salud).
-combinado_con(ministro, agua).
-combinado_con(ministro, barrios).
-combinado_con(ministro, piscinas).
-combinado_con(ministro, inconsciencia).
-combinado_con(ministro, pileta).
-combinado_con(ministro, multas).
-combinado_con(ministro, titular).
-combinado_con(ministro, ciudad).
-combinado_con(ministro, instalaciones).
-combinado_con(ministro, vector).
-combinado_con(ministro, educación).
-combinado_con(ministro, disposición).
-combinado_con(ministro, recursos).
-combinado_con(ministro, lucha).
-combinado_con(ministro, denuncias).
-combinado_con(ministro, neumáticos).
-combinado_con(ministro, chatarras).
-combinado_con(ministro, ayudarnos).
-combinado_con(ministro, supuesto).
-combinado_con(ministro, senadora).
-combinado_con(ministro, emergencia).
-combinado_con(ministro, terrenos).
-combinado_con(ministro, mosquito).
-combinado_con(ministro, calles).
-combinado_con(ministro, servicios).
-combinado_con(ministro, aumento).
-combinado_con(ministro, dr).
-combinado_con(ministro, pacientes).
-combinado_con(ministro, conciencia).
-combinado_con(ministro, dispersión).
-combinado_con(ministro, notifaciones).
-combinado_con(ministro, epidemia).
-combinado_con(ministro, funcionarios).
-combinado_con(ministro, extinción).
-combinado_con(ministro, barrio).
-combinado_con(ministro, cuadra).
-combinado_con(ministro, basura).
-combinado_con(ministro, eliminación).
-combinado_con(ministro, instituciones).
-combinado_con(ministro, trabajos).
-combinado_con(ministro, rastrillaje).
-combinado_con(ministro, autoridades).
-combinado_con(ministro, institución).
-combinado_con(ministro, intendentes).
-combinado_con(ministro, municipalidad).
-combinado_con(ministro, acciones).
-combinado_con(ministro, sanciones).
-combinado_con(ministro, limpieza).
-combinado_con(ministro, yuyales).
-combinado_con(ministro, propagación).
-combinado_con(ministro, ministerio).
-combinado_con(ministro, rebrote).
-combinado_con(ministro, problema).
-combinado_con(ministro, capacidad).
-combinado_con(ministro, propiedad).
-combinado_con(ministro, antecedentes).
-combinado_con(ministro, recomendaciones).
-combinado_con(ministro, causa).
-combinado_con(ministro, sospecha).
-combinado_con(ministro, infestación).
-combinado_con(ministro, imputación).
-combinado_con(ministro, serotipo).
-combinado_con(ministro, comunidad).
-combinado_con(ministro, combate).
-combinado_con(ministro, muertes).
-combinado_con(ministro, cifra).
-combinado_con(ministro, síntomas).
-combinado_con(ministro, medicamentos).
-combinado_con(ministro, urgencias).
-combinado_con(ministro, afectados).
-combinado_con(ministro, gobierno).
-combinado_con(ministro, cuidados).
-combinado_con(ministro, promedio).
-combinado_con(ministro, brote).
-combinado_con(ministro, hospitalizaciones).
-combinado_con(ministro, cuadro).
-combinado_con(ministro, enfermedades).
-combinado_con(ministro, recolección).
-combinado_con(ministro, basuras).
-combinado_con(ministro, riesgo).
-combinado_con(ministro, lluvias).
-combinado_con(ministro, concienciación).
-combinado_con(ministro, inacción).
-combinado_con(ministro, baldíos).
-combinado_con(ministro, crecimiento).
-combinado_con(ministro, río).
-combinado_con(ministro, época).
-combinado_con(ministro, plástico).
-combinado_con(ministro, bolsitas).
-combinado_con(ministro, inundaciones).
-combinado_con(brotes, zonas).
-combinado_con(brotes, municipios).
-combinado_con(brotes, alerta).
-combinado_con(brotes, focos).
-combinado_con(brotes, fiebre).
-combinado_con(brotes, gente).
-combinado_con(brotes, paciente).
-combinado_con(brotes, dengue).
-combinado_con(brotes, muerte).
-combinado_con(brotes, precio).
-combinado_con(brotes, casas).
-combinado_con(brotes, enfermos).
-combinado_con(brotes, presencia).
-combinado_con(brotes, sintomas).
-combinado_con(brotes, salud).
-combinado_con(brotes, agua).
-combinado_con(brotes, barrios).
-combinado_con(brotes, piscinas).
-combinado_con(brotes, inconsciencia).
-combinado_con(brotes, pileta).
-combinado_con(brotes, multas).
-combinado_con(brotes, titular).
-combinado_con(brotes, ciudad).
-combinado_con(brotes, instalaciones).
-combinado_con(brotes, vector).
-combinado_con(brotes, educación).
-combinado_con(brotes, disposición).
-combinado_con(brotes, recursos).
-combinado_con(brotes, lucha).
-combinado_con(brotes, denuncias).
-combinado_con(brotes, neumáticos).
-combinado_con(brotes, chatarras).
-combinado_con(brotes, ayudarnos).
-combinado_con(brotes, supuesto).
-combinado_con(brotes, senadora).
-combinado_con(brotes, emergencia).
-combinado_con(brotes, terrenos).
-combinado_con(brotes, mosquito).
-combinado_con(brotes, calles).
-combinado_con(brotes, servicios).
-combinado_con(brotes, aumento).
-combinado_con(brotes, dr).
-combinado_con(brotes, pacientes).
-combinado_con(brotes, conciencia).
-combinado_con(brotes, dispersión).
-combinado_con(brotes, notifaciones).
-combinado_con(brotes, epidemia).
-combinado_con(brotes, funcionarios).
-combinado_con(brotes, extinción).
-combinado_con(brotes, barrio).
-combinado_con(brotes, cuadra).
-combinado_con(brotes, basura).
-combinado_con(brotes, eliminación).
-combinado_con(brotes, instituciones).
-combinado_con(brotes, trabajos).
-combinado_con(brotes, rastrillaje).
-combinado_con(brotes, autoridades).
-combinado_con(brotes, institución).
-combinado_con(brotes, intendentes).
-combinado_con(brotes, municipalidad).
-combinado_con(brotes, acciones).
-combinado_con(brotes, sanciones).
-combinado_con(brotes, limpieza).
-combinado_con(brotes, yuyales).
-combinado_con(brotes, propagación).
-combinado_con(brotes, ministerio).
-combinado_con(brotes, rebrote).
-combinado_con(brotes, problema).
-combinado_con(brotes, capacidad).
-combinado_con(brotes, propiedad).
-combinado_con(brotes, antecedentes).
-combinado_con(brotes, recomendaciones).
-combinado_con(brotes, causa).
-combinado_con(brotes, sospecha).
-combinado_con(brotes, infestación).
-combinado_con(brotes, imputación).
-combinado_con(brotes, serotipo).
-combinado_con(brotes, comunidad).
-combinado_con(brotes, combate).
-combinado_con(brotes, muertes).
-combinado_con(brotes, cifra).
-combinado_con(brotes, síntomas).
-combinado_con(brotes, medicamentos).
-combinado_con(brotes, urgencias).
-combinado_con(brotes, afectados).
-combinado_con(brotes, gobierno).
-combinado_con(brotes, cuidados).
-combinado_con(brotes, promedio).
-combinado_con(brotes, brote).
-combinado_con(brotes, hospitalizaciones).
-combinado_con(brotes, cuadro).
-combinado_con(brotes, enfermedades).
-combinado_con(brotes, recolección).
-combinado_con(brotes, basuras).
-combinado_con(brotes, riesgo).
-combinado_con(brotes, lluvias).
-combinado_con(brotes, concienciación).
-combinado_con(brotes, inacción).
-combinado_con(brotes, baldíos).
-combinado_con(brotes, crecimiento).
-combinado_con(brotes, río).
-combinado_con(brotes, época).
-combinado_con(brotes, plástico).
-combinado_con(brotes, bolsitas).
-combinado_con(brotes, inundaciones).
-combinado_con(zonas, municipios).
-combinado_con(zonas, alerta).
-combinado_con(zonas, focos).
-combinado_con(zonas, fiebre).
-combinado_con(zonas, gente).
-combinado_con(zonas, paciente).
-combinado_con(zonas, dengue).
-combinado_con(zonas, muerte).
-combinado_con(zonas, precio).
-combinado_con(zonas, casas).
-combinado_con(zonas, enfermos).
-combinado_con(zonas, presencia).
-combinado_con(zonas, sintomas).
-combinado_con(zonas, salud).
-combinado_con(zonas, agua).
-combinado_con(zonas, barrios).
-combinado_con(zonas, piscinas).
-combinado_con(zonas, inconsciencia).
-combinado_con(zonas, pileta).
-combinado_con(zonas, multas).
-combinado_con(zonas, titular).
-combinado_con(zonas, ciudad).
-combinado_con(zonas, instalaciones).
-combinado_con(zonas, vector).
-combinado_con(zonas, educación).
-combinado_con(zonas, disposición).
-combinado_con(zonas, recursos).
-combinado_con(zonas, lucha).
-combinado_con(zonas, denuncias).
-combinado_con(zonas, neumáticos).
-combinado_con(zonas, chatarras).
-combinado_con(zonas, ayudarnos).
-combinado_con(zonas, supuesto).
-combinado_con(zonas, senadora).
-combinado_con(zonas, emergencia).
-combinado_con(zonas, terrenos).
-combinado_con(zonas, mosquito).
-combinado_con(zonas, calles).
-combinado_con(zonas, servicios).
-combinado_con(zonas, aumento).
-combinado_con(zonas, dr).
-combinado_con(zonas, pacientes).
-combinado_con(zonas, conciencia).
-combinado_con(zonas, dispersión).
-combinado_con(zonas, notifaciones).
-combinado_con(zonas, epidemia).
-combinado_con(zonas, funcionarios).
-combinado_con(zonas, extinción).
-combinado_con(zonas, barrio).
-combinado_con(zonas, cuadra).
-combinado_con(zonas, basura).
-combinado_con(zonas, eliminación).
-combinado_con(zonas, instituciones).
-combinado_con(zonas, trabajos).
-combinado_con(zonas, rastrillaje).
-combinado_con(zonas, autoridades).
-combinado_con(zonas, institución).
-combinado_con(zonas, intendentes).
-combinado_con(zonas, municipalidad).
-combinado_con(zonas, acciones).
-combinado_con(zonas, sanciones).
-combinado_con(zonas, limpieza).
-combinado_con(zonas, yuyales).
-combinado_con(zonas, propagación).
-combinado_con(zonas, ministerio).
-combinado_con(zonas, rebrote).
-combinado_con(zonas, problema).
-combinado_con(zonas, capacidad).
-combinado_con(zonas, propiedad).
-combinado_con(zonas, antecedentes).
-combinado_con(zonas, recomendaciones).
-combinado_con(zonas, causa).
-combinado_con(zonas, sospecha).
-combinado_con(zonas, infestación).
-combinado_con(zonas, imputación).
-combinado_con(zonas, serotipo).
-combinado_con(zonas, comunidad).
-combinado_con(zonas, combate).
-combinado_con(zonas, muertes).
-combinado_con(zonas, cifra).
-combinado_con(zonas, síntomas).
-combinado_con(zonas, medicamentos).
-combinado_con(zonas, urgencias).
-combinado_con(zonas, afectados).
-combinado_con(zonas, gobierno).
-combinado_con(zonas, cuidados).
-combinado_con(zonas, promedio).
-combinado_con(zonas, brote).
-combinado_con(zonas, hospitalizaciones).
-combinado_con(zonas, cuadro).
-combinado_con(zonas, enfermedades).
-combinado_con(zonas, recolección).
-combinado_con(zonas, basuras).
-combinado_con(zonas, riesgo).
-combinado_con(zonas, lluvias).
-combinado_con(zonas, concienciación).
-combinado_con(zonas, inacción).
-combinado_con(zonas, baldíos).
-combinado_con(zonas, crecimiento).
-combinado_con(zonas, río).
-combinado_con(zonas, época).
-combinado_con(zonas, plástico).
-combinado_con(zonas, bolsitas).
-combinado_con(zonas, inundaciones).
-combinado_con(municipios, alerta).
-combinado_con(municipios, focos).
-combinado_con(municipios, fiebre).
-combinado_con(municipios, gente).
-combinado_con(municipios, paciente).
-combinado_con(municipios, dengue).
-combinado_con(municipios, muerte).
-combinado_con(municipios, precio).
-combinado_con(municipios, casas).
-combinado_con(municipios, enfermos).
-combinado_con(municipios, presencia).
-combinado_con(municipios, sintomas).
-combinado_con(municipios, salud).
-combinado_con(municipios, agua).
-combinado_con(municipios, barrios).
-combinado_con(municipios, piscinas).
-combinado_con(municipios, inconsciencia).
-combinado_con(municipios, pileta).
-combinado_con(municipios, multas).
-combinado_con(municipios, titular).
-combinado_con(municipios, ciudad).
-combinado_con(municipios, instalaciones).
-combinado_con(municipios, vector).
-combinado_con(municipios, educación).
-combinado_con(municipios, disposición).
-combinado_con(municipios, recursos).
-combinado_con(municipios, lucha).
-combinado_con(municipios, denuncias).
-combinado_con(municipios, neumáticos).
-combinado_con(municipios, chatarras).
-combinado_con(municipios, ayudarnos).
-combinado_con(municipios, supuesto).
-combinado_con(municipios, senadora).
-combinado_con(municipios, emergencia).
-combinado_con(municipios, terrenos).
-combinado_con(municipios, mosquito).
-combinado_con(municipios, calles).
-combinado_con(municipios, servicios).
-combinado_con(municipios, aumento).
-combinado_con(municipios, dr).
-combinado_con(municipios, pacientes).
-combinado_con(municipios, conciencia).
-combinado_con(municipios, dispersión).
-combinado_con(municipios, notifaciones).
-combinado_con(municipios, epidemia).
-combinado_con(municipios, funcionarios).
-combinado_con(municipios, extinción).
-combinado_con(municipios, barrio).
-combinado_con(municipios, cuadra).
-combinado_con(municipios, basura).
-combinado_con(municipios, eliminación).
-combinado_con(municipios, instituciones).
-combinado_con(municipios, trabajos).
-combinado_con(municipios, rastrillaje).
-combinado_con(municipios, autoridades).
-combinado_con(municipios, institución).
-combinado_con(municipios, intendentes).
-combinado_con(municipios, municipalidad).
-combinado_con(municipios, acciones).
-combinado_con(municipios, sanciones).
-combinado_con(municipios, limpieza).
-combinado_con(municipios, yuyales).
-combinado_con(municipios, propagación).
-combinado_con(municipios, ministerio).
-combinado_con(municipios, rebrote).
-combinado_con(municipios, problema).
-combinado_con(municipios, capacidad).
-combinado_con(municipios, propiedad).
-combinado_con(municipios, antecedentes).
-combinado_con(municipios, recomendaciones).
-combinado_con(municipios, causa).
-combinado_con(municipios, sospecha).
-combinado_con(municipios, infestación).
-combinado_con(municipios, imputación).
-combinado_con(municipios, serotipo).
-combinado_con(municipios, comunidad).
-combinado_con(municipios, combate).
-combinado_con(municipios, muertes).
-combinado_con(municipios, cifra).
-combinado_con(municipios, síntomas).
-combinado_con(municipios, medicamentos).
-combinado_con(municipios, urgencias).
-combinado_con(municipios, afectados).
-combinado_con(municipios, gobierno).
-combinado_con(municipios, cuidados).
-combinado_con(municipios, promedio).
-combinado_con(municipios, brote).
-combinado_con(municipios, hospitalizaciones).
-combinado_con(municipios, cuadro).
-combinado_con(municipios, enfermedades).
-combinado_con(municipios, recolección).
-combinado_con(municipios, basuras).
-combinado_con(municipios, riesgo).
-combinado_con(municipios, lluvias).
-combinado_con(municipios, concienciación).
-combinado_con(municipios, inacción).
-combinado_con(municipios, baldíos).
-combinado_con(municipios, crecimiento).
-combinado_con(municipios, río).
-combinado_con(municipios, época).
-combinado_con(municipios, plástico).
-combinado_con(municipios, bolsitas).
-combinado_con(municipios, inundaciones).
-combinado_con(alerta, focos).
-combinado_con(alerta, fiebre).
-combinado_con(alerta, gente).
-combinado_con(alerta, paciente).
-combinado_con(alerta, dengue).
-combinado_con(alerta, muerte).
-combinado_con(alerta, precio).
-combinado_con(alerta, casas).
-combinado_con(alerta, enfermos).
-combinado_con(alerta, presencia).
-combinado_con(alerta, sintomas).
-combinado_con(alerta, salud).
-combinado_con(alerta, agua).
-combinado_con(alerta, barrios).
-combinado_con(alerta, piscinas).
-combinado_con(alerta, inconsciencia).
-combinado_con(alerta, pileta).
-combinado_con(alerta, multas).
-combinado_con(alerta, titular).
-combinado_con(alerta, ciudad).
-combinado_con(alerta, instalaciones).
-combinado_con(alerta, vector).
-combinado_con(alerta, educación).
-combinado_con(alerta, disposición).
-combinado_con(alerta, recursos).
-combinado_con(alerta, lucha).
-combinado_con(alerta, denuncias).
-combinado_con(alerta, neumáticos).
-combinado_con(alerta, chatarras).
-combinado_con(alerta, ayudarnos).
-combinado_con(alerta, supuesto).
-combinado_con(alerta, senadora).
-combinado_con(alerta, emergencia).
-combinado_con(alerta, terrenos).
-combinado_con(alerta, mosquito).
-combinado_con(alerta, calles).
-combinado_con(alerta, servicios).
-combinado_con(alerta, aumento).
-combinado_con(alerta, dr).
-combinado_con(alerta, pacientes).
-combinado_con(alerta, conciencia).
-combinado_con(alerta, dispersión).
-combinado_con(alerta, notifaciones).
-combinado_con(alerta, epidemia).
-combinado_con(alerta, funcionarios).
-combinado_con(alerta, extinción).
-combinado_con(alerta, barrio).
-combinado_con(alerta, cuadra).
-combinado_con(alerta, basura).
-combinado_con(alerta, eliminación).
-combinado_con(alerta, instituciones).
-combinado_con(alerta, trabajos).
-combinado_con(alerta, rastrillaje).
-combinado_con(alerta, autoridades).
-combinado_con(alerta, institución).
-combinado_con(alerta, intendentes).
-combinado_con(alerta, municipalidad).
-combinado_con(alerta, acciones).
-combinado_con(alerta, sanciones).
-combinado_con(alerta, limpieza).
-combinado_con(alerta, yuyales).
-combinado_con(alerta, propagación).
-combinado_con(alerta, ministerio).
-combinado_con(alerta, rebrote).
-combinado_con(alerta, problema).
-combinado_con(alerta, capacidad).
-combinado_con(alerta, propiedad).
-combinado_con(alerta, antecedentes).
-combinado_con(alerta, recomendaciones).
-combinado_con(alerta, causa).
-combinado_con(alerta, sospecha).
-combinado_con(alerta, infestación).
-combinado_con(alerta, imputación).
-combinado_con(alerta, serotipo).
-combinado_con(alerta, comunidad).
-combinado_con(alerta, combate).
-combinado_con(alerta, muertes).
-combinado_con(alerta, cifra).
-combinado_con(alerta, síntomas).
-combinado_con(alerta, medicamentos).
-combinado_con(alerta, urgencias).
-combinado_con(alerta, afectados).
-combinado_con(alerta, gobierno).
-combinado_con(alerta, cuidados).
-combinado_con(alerta, promedio).
-combinado_con(alerta, brote).
-combinado_con(alerta, hospitalizaciones).
-combinado_con(alerta, cuadro).
-combinado_con(alerta, enfermedades).
-combinado_con(alerta, recolección).
-combinado_con(alerta, basuras).
-combinado_con(alerta, riesgo).
-combinado_con(alerta, lluvias).
-combinado_con(alerta, concienciación).
-combinado_con(alerta, inacción).
-combinado_con(alerta, baldíos).
-combinado_con(alerta, crecimiento).
-combinado_con(alerta, río).
-combinado_con(alerta, época).
-combinado_con(alerta, plástico).
-combinado_con(alerta, bolsitas).
-combinado_con(alerta, inundaciones).
-combinado_con(focos, fiebre).
-combinado_con(focos, gente).
-combinado_con(focos, paciente).
-combinado_con(focos, dengue).
-combinado_con(focos, muerte).
-combinado_con(focos, precio).
-combinado_con(focos, casas).
-combinado_con(focos, enfermos).
-combinado_con(focos, presencia).
-combinado_con(focos, sintomas).
-combinado_con(focos, salud).
-combinado_con(focos, agua).
-combinado_con(focos, barrios).
-combinado_con(focos, piscinas).
-combinado_con(focos, inconsciencia).
-combinado_con(focos, pileta).
-combinado_con(focos, multas).
-combinado_con(focos, titular).
-combinado_con(focos, ciudad).
-combinado_con(focos, instalaciones).
-combinado_con(focos, vector).
-combinado_con(focos, educación).
-combinado_con(focos, disposición).
-combinado_con(focos, recursos).
-combinado_con(focos, lucha).
-combinado_con(focos, denuncias).
-combinado_con(focos, neumáticos).
-combinado_con(focos, chatarras).
-combinado_con(focos, ayudarnos).
-combinado_con(focos, supuesto).
-combinado_con(focos, senadora).
-combinado_con(focos, emergencia).
-combinado_con(focos, terrenos).
-combinado_con(focos, mosquito).
-combinado_con(focos, calles).
-combinado_con(focos, servicios).
-combinado_con(focos, aumento).
-combinado_con(focos, dr).
-combinado_con(focos, pacientes).
-combinado_con(focos, conciencia).
-combinado_con(focos, dispersión).
-combinado_con(focos, notifaciones).
-combinado_con(focos, epidemia).
-combinado_con(focos, funcionarios).
-combinado_con(focos, extinción).
-combinado_con(focos, barrio).
-combinado_con(focos, cuadra).
-combinado_con(focos, basura).
-combinado_con(focos, eliminación).
-combinado_con(focos, instituciones).
-combinado_con(focos, trabajos).
-combinado_con(focos, rastrillaje).
-combinado_con(focos, autoridades).
-combinado_con(focos, institución).
-combinado_con(focos, intendentes).
-combinado_con(focos, municipalidad).
-combinado_con(focos, acciones).
-combinado_con(focos, sanciones).
-combinado_con(focos, limpieza).
-combinado_con(focos, yuyales).
-combinado_con(focos, propagación).
-combinado_con(focos, ministerio).
-combinado_con(focos, rebrote).
-combinado_con(focos, problema).
-combinado_con(focos, capacidad).
-combinado_con(focos, propiedad).
-combinado_con(focos, antecedentes).
-combinado_con(focos, recomendaciones).
-combinado_con(focos, causa).
-combinado_con(focos, sospecha).
-combinado_con(focos, infestación).
-combinado_con(focos, imputación).
-combinado_con(focos, serotipo).
-combinado_con(focos, comunidad).
-combinado_con(focos, combate).
-combinado_con(focos, muertes).
-combinado_con(focos, cifra).
-combinado_con(focos, síntomas).
-combinado_con(focos, medicamentos).
-combinado_con(focos, urgencias).
-combinado_con(focos, afectados).
-combinado_con(focos, gobierno).
-combinado_con(focos, cuidados).
-combinado_con(focos, promedio).
-combinado_con(focos, brote).
-combinado_con(focos, hospitalizaciones).
-combinado_con(focos, cuadro).
-combinado_con(focos, enfermedades).
-combinado_con(focos, recolección).
-combinado_con(focos, basuras).
-combinado_con(focos, riesgo).
-combinado_con(focos, lluvias).
-combinado_con(focos, concienciación).
-combinado_con(focos, inacción).
-combinado_con(focos, baldíos).
-combinado_con(focos, crecimiento).
-combinado_con(focos, río).
-combinado_con(focos, época).
-combinado_con(focos, plástico).
-combinado_con(focos, bolsitas).
-combinado_con(focos, inundaciones).
-combinado_con(fiebre, gente).
-combinado_con(fiebre, paciente).
-combinado_con(fiebre, dengue).
-combinado_con(fiebre, muerte).
-combinado_con(fiebre, precio).
-combinado_con(fiebre, casas).
-combinado_con(fiebre, enfermos).
-combinado_con(fiebre, presencia).
-combinado_con(fiebre, sintomas).
-combinado_con(fiebre, salud).
-combinado_con(fiebre, agua).
-combinado_con(fiebre, barrios).
-combinado_con(fiebre, piscinas).
-combinado_con(fiebre, inconsciencia).
-combinado_con(fiebre, pileta).
-combinado_con(fiebre, multas).
-combinado_con(fiebre, titular).
-combinado_con(fiebre, ciudad).
-combinado_con(fiebre, instalaciones).
-combinado_con(fiebre, vector).
-combinado_con(fiebre, educación).
-combinado_con(fiebre, disposición).
-combinado_con(fiebre, recursos).
-combinado_con(fiebre, lucha).
-combinado_con(fiebre, denuncias).
-combinado_con(fiebre, neumáticos).
-combinado_con(fiebre, chatarras).
-combinado_con(fiebre, ayudarnos).
-combinado_con(fiebre, supuesto).
-combinado_con(fiebre, senadora).
-combinado_con(fiebre, emergencia).
-combinado_con(fiebre, terrenos).
-combinado_con(fiebre, mosquito).
-combinado_con(fiebre, calles).
-combinado_con(fiebre, servicios).
-combinado_con(fiebre, aumento).
-combinado_con(fiebre, dr).
-combinado_con(fiebre, pacientes).
-combinado_con(fiebre, conciencia).
-combinado_con(fiebre, dispersión).
-combinado_con(fiebre, notifaciones).
-combinado_con(fiebre, epidemia).
-combinado_con(fiebre, funcionarios).
-combinado_con(fiebre, extinción).
-combinado_con(fiebre, barrio).
-combinado_con(fiebre, cuadra).
-combinado_con(fiebre, basura).
-combinado_con(fiebre, eliminación).
-combinado_con(fiebre, instituciones).
-combinado_con(fiebre, trabajos).
-combinado_con(fiebre, rastrillaje).
-combinado_con(fiebre, autoridades).
-combinado_con(fiebre, institución).
-combinado_con(fiebre, intendentes).
-combinado_con(fiebre, municipalidad).
-combinado_con(fiebre, acciones).
-combinado_con(fiebre, sanciones).
-combinado_con(fiebre, limpieza).
-combinado_con(fiebre, yuyales).
-combinado_con(fiebre, propagación).
-combinado_con(fiebre, ministerio).
-combinado_con(fiebre, rebrote).
-combinado_con(fiebre, problema).
-combinado_con(fiebre, capacidad).
-combinado_con(fiebre, propiedad).
-combinado_con(fiebre, antecedentes).
-combinado_con(fiebre, recomendaciones).
-combinado_con(fiebre, causa).
-combinado_con(fiebre, sospecha).
-combinado_con(fiebre, infestación).
-combinado_con(fiebre, imputación).
-combinado_con(fiebre, serotipo).
-combinado_con(fiebre, comunidad).
-combinado_con(fiebre, combate).
-combinado_con(fiebre, muertes).
-combinado_con(fiebre, cifra).
-combinado_con(fiebre, síntomas).
-combinado_con(fiebre, medicamentos).
-combinado_con(fiebre, urgencias).
-combinado_con(fiebre, afectados).
-combinado_con(fiebre, gobierno).
-combinado_con(fiebre, cuidados).
-combinado_con(fiebre, promedio).
-combinado_con(fiebre, brote).
-combinado_con(fiebre, hospitalizaciones).
-combinado_con(fiebre, cuadro).
-combinado_con(fiebre, enfermedades).
-combinado_con(fiebre, recolección).
-combinado_con(fiebre, basuras).
-combinado_con(fiebre, riesgo).
-combinado_con(fiebre, lluvias).
-combinado_con(fiebre, concienciación).
-combinado_con(fiebre, inacción).
-combinado_con(fiebre, baldíos).
-combinado_con(fiebre, crecimiento).
-combinado_con(fiebre, río).
-combinado_con(fiebre, época).
-combinado_con(fiebre, plástico).
-combinado_con(fiebre, bolsitas).
-combinado_con(fiebre, inundaciones).
-combinado_con(gente, paciente).
-combinado_con(gente, dengue).
-combinado_con(gente, muerte).
-combinado_con(gente, precio).
-combinado_con(gente, casas).
-combinado_con(gente, enfermos).
-combinado_con(gente, presencia).
-combinado_con(gente, sintomas).
-combinado_con(gente, salud).
-combinado_con(gente, agua).
-combinado_con(gente, barrios).
-combinado_con(gente, piscinas).
-combinado_con(gente, inconsciencia).
-combinado_con(gente, pileta).
-combinado_con(gente, multas).
-combinado_con(gente, titular).
-combinado_con(gente, ciudad).
-combinado_con(gente, instalaciones).
-combinado_con(gente, vector).
-combinado_con(gente, educación).
-combinado_con(gente, disposición).
-combinado_con(gente, recursos).
-combinado_con(gente, lucha).
-combinado_con(gente, denuncias).
-combinado_con(gente, neumáticos).
-combinado_con(gente, chatarras).
-combinado_con(gente, ayudarnos).
-combinado_con(gente, supuesto).
-combinado_con(gente, senadora).
-combinado_con(gente, emergencia).
-combinado_con(gente, terrenos).
-combinado_con(gente, mosquito).
-combinado_con(gente, calles).
-combinado_con(gente, servicios).
-combinado_con(gente, aumento).
-combinado_con(gente, dr).
-combinado_con(gente, pacientes).
-combinado_con(gente, conciencia).
-combinado_con(gente, dispersión).
-combinado_con(gente, notifaciones).
-combinado_con(gente, epidemia).
-combinado_con(gente, funcionarios).
-combinado_con(gente, extinción).
-combinado_con(gente, barrio).
-combinado_con(gente, cuadra).
-combinado_con(gente, basura).
-combinado_con(gente, eliminación).
-combinado_con(gente, instituciones).
-combinado_con(gente, trabajos).
-combinado_con(gente, rastrillaje).
-combinado_con(gente, autoridades).
-combinado_con(gente, institución).
-combinado_con(gente, intendentes).
-combinado_con(gente, municipalidad).
-combinado_con(gente, acciones).
-combinado_con(gente, sanciones).
-combinado_con(gente, limpieza).
-combinado_con(gente, yuyales).
-combinado_con(gente, propagación).
-combinado_con(gente, ministerio).
-combinado_con(gente, rebrote).
-combinado_con(gente, problema).
-combinado_con(gente, capacidad).
-combinado_con(gente, propiedad).
-combinado_con(gente, antecedentes).
-combinado_con(gente, recomendaciones).
-combinado_con(gente, causa).
-combinado_con(gente, sospecha).
-combinado_con(gente, infestación).
-combinado_con(gente, imputación).
-combinado_con(gente, serotipo).
-combinado_con(gente, comunidad).
-combinado_con(gente, combate).
-combinado_con(gente, muertes).
-combinado_con(gente, cifra).
-combinado_con(gente, síntomas).
-combinado_con(gente, medicamentos).
-combinado_con(gente, urgencias).
-combinado_con(gente, afectados).
-combinado_con(gente, gobierno).
-combinado_con(gente, cuidados).
-combinado_con(gente, promedio).
-combinado_con(gente, brote).
-combinado_con(gente, hospitalizaciones).
-combinado_con(gente, cuadro).
-combinado_con(gente, enfermedades).
-combinado_con(gente, recolección).
-combinado_con(gente, basuras).
-combinado_con(gente, riesgo).
-combinado_con(gente, lluvias).
-combinado_con(gente, concienciación).
-combinado_con(gente, inacción).
-combinado_con(gente, baldíos).
-combinado_con(gente, crecimiento).
-combinado_con(gente, río).
-combinado_con(gente, época).
-combinado_con(gente, plástico).
-combinado_con(gente, bolsitas).
-combinado_con(gente, inundaciones).
-combinado_con(paciente, dengue).
-combinado_con(paciente, muerte).
-combinado_con(paciente, precio).
-combinado_con(paciente, casas).
-combinado_con(paciente, enfermos).
-combinado_con(paciente, presencia).
-combinado_con(paciente, sintomas).
-combinado_con(paciente, salud).
-combinado_con(paciente, agua).
-combinado_con(paciente, barrios).
-combinado_con(paciente, piscinas).
-combinado_con(paciente, inconsciencia).
-combinado_con(paciente, pileta).
-combinado_con(paciente, multas).
-combinado_con(paciente, titular).
-combinado_con(paciente, ciudad).
-combinado_con(paciente, instalaciones).
-combinado_con(paciente, vector).
-combinado_con(paciente, educación).
-combinado_con(paciente, disposición).
-combinado_con(paciente, recursos).
-combinado_con(paciente, lucha).
-combinado_con(paciente, denuncias).
-combinado_con(paciente, neumáticos).
-combinado_con(paciente, chatarras).
-combinado_con(paciente, ayudarnos).
-combinado_con(paciente, supuesto).
-combinado_con(paciente, senadora).
-combinado_con(paciente, emergencia).
-combinado_con(paciente, terrenos).
-combinado_con(paciente, mosquito).
-combinado_con(paciente, calles).
-combinado_con(paciente, servicios).
-combinado_con(paciente, aumento).
-combinado_con(paciente, dr).
-combinado_con(paciente, pacientes).
-combinado_con(paciente, conciencia).
-combinado_con(paciente, dispersión).
-combinado_con(paciente, notifaciones).
-combinado_con(paciente, epidemia).
-combinado_con(paciente, funcionarios).
-combinado_con(paciente, extinción).
-combinado_con(paciente, barrio).
-combinado_con(paciente, cuadra).
-combinado_con(paciente, basura).
-combinado_con(paciente, eliminación).
-combinado_con(paciente, instituciones).
-combinado_con(paciente, trabajos).
-combinado_con(paciente, rastrillaje).
-combinado_con(paciente, autoridades).
-combinado_con(paciente, institución).
-combinado_con(paciente, intendentes).
-combinado_con(paciente, municipalidad).
-combinado_con(paciente, acciones).
-combinado_con(paciente, sanciones).
-combinado_con(paciente, limpieza).
-combinado_con(paciente, yuyales).
-combinado_con(paciente, propagación).
-combinado_con(paciente, ministerio).
-combinado_con(paciente, rebrote).
-combinado_con(paciente, problema).
-combinado_con(paciente, capacidad).
-combinado_con(paciente, propiedad).
-combinado_con(paciente, antecedentes).
-combinado_con(paciente, recomendaciones).
-combinado_con(paciente, causa).
-combinado_con(paciente, sospecha).
-combinado_con(paciente, infestación).
-combinado_con(paciente, imputación).
-combinado_con(paciente, serotipo).
-combinado_con(paciente, comunidad).
-combinado_con(paciente, combate).
-combinado_con(paciente, muertes).
-combinado_con(paciente, cifra).
-combinado_con(paciente, síntomas).
-combinado_con(paciente, medicamentos).
-combinado_con(paciente, urgencias).
-combinado_con(paciente, afectados).
-combinado_con(paciente, gobierno).
-combinado_con(paciente, cuidados).
-combinado_con(paciente, promedio).
-combinado_con(paciente, brote).
-combinado_con(paciente, hospitalizaciones).
-combinado_con(paciente, cuadro).
-combinado_con(paciente, enfermedades).
-combinado_con(paciente, recolección).
-combinado_con(paciente, basuras).
-combinado_con(paciente, riesgo).
-combinado_con(paciente, lluvias).
-combinado_con(paciente, concienciación).
-combinado_con(paciente, inacción).
-combinado_con(paciente, baldíos).
-combinado_con(paciente, crecimiento).
-combinado_con(paciente, río).
-combinado_con(paciente, época).
-combinado_con(paciente, plástico).
-combinado_con(paciente, bolsitas).
-combinado_con(paciente, inundaciones).
-combinado_con(dengue, muerte).
-combinado_con(dengue, precio).
-combinado_con(dengue, casas).
-combinado_con(dengue, enfermos).
-combinado_con(dengue, presencia).
-combinado_con(dengue, sintomas).
-combinado_con(dengue, salud).
-combinado_con(dengue, agua).
-combinado_con(dengue, barrios).
-combinado_con(dengue, piscinas).
-combinado_con(dengue, inconsciencia).
-combinado_con(dengue, pileta).
-combinado_con(dengue, multas).
-combinado_con(dengue, titular).
-combinado_con(dengue, ciudad).
-combinado_con(dengue, instalaciones).
-combinado_con(dengue, vector).
-combinado_con(dengue, educación).
-combinado_con(dengue, disposición).
-combinado_con(dengue, recursos).
-combinado_con(dengue, lucha).
-combinado_con(dengue, denuncias).
-combinado_con(dengue, neumáticos).
-combinado_con(dengue, chatarras).
-combinado_con(dengue, ayudarnos).
-combinado_con(dengue, supuesto).
-combinado_con(dengue, senadora).
-combinado_con(dengue, emergencia).
-combinado_con(dengue, terrenos).
-combinado_con(dengue, mosquito).
-combinado_con(dengue, calles).
-combinado_con(dengue, servicios).
-combinado_con(dengue, aumento).
-combinado_con(dengue, dr).
-combinado_con(dengue, pacientes).
-combinado_con(dengue, conciencia).
-combinado_con(dengue, dispersión).
-combinado_con(dengue, notifaciones).
-combinado_con(dengue, epidemia).
-combinado_con(dengue, funcionarios).
-combinado_con(dengue, extinción).
-combinado_con(dengue, barrio).
-combinado_con(dengue, cuadra).
-combinado_con(dengue, basura).
-combinado_con(dengue, eliminación).
-combinado_con(dengue, instituciones).
-combinado_con(dengue, trabajos).
-combinado_con(dengue, rastrillaje).
-combinado_con(dengue, autoridades).
-combinado_con(dengue, institución).
-combinado_con(dengue, intendentes).
-combinado_con(dengue, municipalidad).
-combinado_con(dengue, acciones).
-combinado_con(dengue, sanciones).
-combinado_con(dengue, limpieza).
-combinado_con(dengue, yuyales).
-combinado_con(dengue, propagación).
-combinado_con(dengue, ministerio).
-combinado_con(dengue, rebrote).
-combinado_con(dengue, problema).
-combinado_con(dengue, capacidad).
-combinado_con(dengue, propiedad).
-combinado_con(dengue, antecedentes).
-combinado_con(dengue, recomendaciones).
-combinado_con(dengue, causa).
-combinado_con(dengue, sospecha).
-combinado_con(dengue, infestación).
-combinado_con(dengue, imputación).
-combinado_con(dengue, serotipo).
-combinado_con(dengue, comunidad).
-combinado_con(dengue, combate).
-combinado_con(dengue, muertes).
-combinado_con(dengue, cifra).
-combinado_con(dengue, síntomas).
-combinado_con(dengue, medicamentos).
-combinado_con(dengue, urgencias).
-combinado_con(dengue, afectados).
-combinado_con(dengue, gobierno).
-combinado_con(dengue, cuidados).
-combinado_con(dengue, promedio).
-combinado_con(dengue, brote).
-combinado_con(dengue, hospitalizaciones).
-combinado_con(dengue, cuadro).
-combinado_con(dengue, enfermedades).
-combinado_con(dengue, recolección).
-combinado_con(dengue, basuras).
-combinado_con(dengue, riesgo).
-combinado_con(dengue, lluvias).
-combinado_con(dengue, concienciación).
-combinado_con(dengue, inacción).
-combinado_con(dengue, baldíos).
-combinado_con(dengue, crecimiento).
-combinado_con(dengue, río).
-combinado_con(dengue, época).
-combinado_con(dengue, plástico).
-combinado_con(dengue, bolsitas).
-combinado_con(dengue, inundaciones).
-combinado_con(muerte, precio).
-combinado_con(muerte, casas).
-combinado_con(muerte, enfermos).
-combinado_con(muerte, presencia).
-combinado_con(muerte, sintomas).
-combinado_con(muerte, salud).
-combinado_con(muerte, agua).
-combinado_con(muerte, barrios).
-combinado_con(muerte, piscinas).
-combinado_con(muerte, inconsciencia).
-combinado_con(muerte, pileta).
-combinado_con(muerte, multas).
-combinado_con(muerte, titular).
-combinado_con(muerte, ciudad).
-combinado_con(muerte, instalaciones).
-combinado_con(muerte, vector).
-combinado_con(muerte, educación).
-combinado_con(muerte, disposición).
-combinado_con(muerte, recursos).
-combinado_con(muerte, lucha).
-combinado_con(muerte, denuncias).
-combinado_con(muerte, neumáticos).
-combinado_con(muerte, chatarras).
-combinado_con(muerte, ayudarnos).
-combinado_con(muerte, supuesto).
-combinado_con(muerte, senadora).
-combinado_con(muerte, emergencia).
-combinado_con(muerte, terrenos).
-combinado_con(muerte, mosquito).
-combinado_con(muerte, calles).
-combinado_con(muerte, servicios).
-combinado_con(muerte, aumento).
-combinado_con(muerte, dr).
-combinado_con(muerte, pacientes).
-combinado_con(muerte, conciencia).
-combinado_con(muerte, dispersión).
-combinado_con(muerte, notifaciones).
-combinado_con(muerte, epidemia).
-combinado_con(muerte, funcionarios).
-combinado_con(muerte, extinción).
-combinado_con(muerte, barrio).
-combinado_con(muerte, cuadra).
-combinado_con(muerte, basura).
-combinado_con(muerte, eliminación).
-combinado_con(muerte, instituciones).
-combinado_con(muerte, trabajos).
-combinado_con(muerte, rastrillaje).
-combinado_con(muerte, autoridades).
-combinado_con(muerte, institución).
-combinado_con(muerte, intendentes).
-combinado_con(muerte, municipalidad).
-combinado_con(muerte, acciones).
-combinado_con(muerte, sanciones).
-combinado_con(muerte, limpieza).
-combinado_con(muerte, yuyales).
-combinado_con(muerte, propagación).
-combinado_con(muerte, ministerio).
-combinado_con(muerte, rebrote).
-combinado_con(muerte, problema).
-combinado_con(muerte, capacidad).
-combinado_con(muerte, propiedad).
-combinado_con(muerte, antecedentes).
-combinado_con(muerte, recomendaciones).
-combinado_con(muerte, causa).
-combinado_con(muerte, sospecha).
-combinado_con(muerte, infestación).
-combinado_con(muerte, imputación).
-combinado_con(muerte, serotipo).
-combinado_con(muerte, comunidad).
-combinado_con(muerte, combate).
-combinado_con(muerte, muertes).
-combinado_con(muerte, cifra).
-combinado_con(muerte, síntomas).
-combinado_con(muerte, medicamentos).
-combinado_con(muerte, urgencias).
-combinado_con(muerte, afectados).
-combinado_con(muerte, gobierno).
-combinado_con(muerte, cuidados).
-combinado_con(muerte, promedio).
-combinado_con(muerte, brote).
-combinado_con(muerte, hospitalizaciones).
-combinado_con(muerte, cuadro).
-combinado_con(muerte, enfermedades).
-combinado_con(muerte, recolección).
-combinado_con(muerte, basuras).
-combinado_con(muerte, riesgo).
-combinado_con(muerte, lluvias).
-combinado_con(muerte, concienciación).
-combinado_con(muerte, inacción).
-combinado_con(muerte, baldíos).
-combinado_con(muerte, crecimiento).
-combinado_con(muerte, río).
-combinado_con(muerte, época).
-combinado_con(muerte, plástico).
-combinado_con(muerte, bolsitas).
-combinado_con(muerte, inundaciones).
-combinado_con(precio, casas).
-combinado_con(precio, enfermos).
-combinado_con(precio, presencia).
-combinado_con(precio, sintomas).
-combinado_con(precio, salud).
-combinado_con(precio, agua).
-combinado_con(precio, barrios).
-combinado_con(precio, piscinas).
-combinado_con(precio, inconsciencia).
-combinado_con(precio, pileta).
-combinado_con(precio, multas).
-combinado_con(precio, titular).
-combinado_con(precio, ciudad).
-combinado_con(precio, instalaciones).
-combinado_con(precio, vector).
-combinado_con(precio, educación).
-combinado_con(precio, disposición).
-combinado_con(precio, recursos).
-combinado_con(precio, lucha).
-combinado_con(precio, denuncias).
-combinado_con(precio, neumáticos).
-combinado_con(precio, chatarras).
-combinado_con(precio, ayudarnos).
-combinado_con(precio, supuesto).
-combinado_con(precio, senadora).
-combinado_con(precio, emergencia).
-combinado_con(precio, terrenos).
-combinado_con(precio, mosquito).
-combinado_con(precio, calles).
-combinado_con(precio, servicios).
-combinado_con(precio, aumento).
-combinado_con(precio, dr).
-combinado_con(precio, pacientes).
-combinado_con(precio, conciencia).
-combinado_con(precio, dispersión).
-combinado_con(precio, notifaciones).
-combinado_con(precio, epidemia).
-combinado_con(precio, funcionarios).
-combinado_con(precio, extinción).
-combinado_con(precio, barrio).
-combinado_con(precio, cuadra).
-combinado_con(precio, basura).
-combinado_con(precio, eliminación).
-combinado_con(precio, instituciones).
-combinado_con(precio, trabajos).
-combinado_con(precio, rastrillaje).
-combinado_con(precio, autoridades).
-combinado_con(precio, institución).
-combinado_con(precio, intendentes).
-combinado_con(precio, municipalidad).
-combinado_con(precio, acciones).
-combinado_con(precio, sanciones).
-combinado_con(precio, limpieza).
-combinado_con(precio, yuyales).
-combinado_con(precio, propagación).
-combinado_con(precio, ministerio).
-combinado_con(precio, rebrote).
-combinado_con(precio, problema).
-combinado_con(precio, capacidad).
-combinado_con(precio, propiedad).
-combinado_con(precio, antecedentes).
-combinado_con(precio, recomendaciones).
-combinado_con(precio, causa).
-combinado_con(precio, sospecha).
-combinado_con(precio, infestación).
-combinado_con(precio, imputación).
-combinado_con(precio, serotipo).
-combinado_con(precio, comunidad).
-combinado_con(precio, combate).
-combinado_con(precio, muertes).
-combinado_con(precio, cifra).
-combinado_con(precio, síntomas).
-combinado_con(precio, medicamentos).
-combinado_con(precio, urgencias).
-combinado_con(precio, afectados).
-combinado_con(precio, gobierno).
-combinado_con(precio, cuidados).
-combinado_con(precio, promedio).
-combinado_con(precio, brote).
-combinado_con(precio, hospitalizaciones).
-combinado_con(precio, cuadro).
-combinado_con(precio, enfermedades).
-combinado_con(precio, recolección).
-combinado_con(precio, basuras).
-combinado_con(precio, riesgo).
-combinado_con(precio, lluvias).
-combinado_con(precio, concienciación).
-combinado_con(precio, inacción).
-combinado_con(precio, baldíos).
-combinado_con(precio, crecimiento).
-combinado_con(precio, río).
-combinado_con(precio, época).
-combinado_con(precio, plástico).
-combinado_con(precio, bolsitas).
-combinado_con(precio, inundaciones).
-combinado_con(casas, enfermos).
-combinado_con(casas, presencia).
-combinado_con(casas, sintomas).
-combinado_con(casas, salud).
-combinado_con(casas, agua).
-combinado_con(casas, barrios).
-combinado_con(casas, piscinas).
-combinado_con(casas, inconsciencia).
-combinado_con(casas, pileta).
-combinado_con(casas, multas).
-combinado_con(casas, titular).
-combinado_con(casas, ciudad).
-combinado_con(casas, instalaciones).
-combinado_con(casas, vector).
-combinado_con(casas, educación).
-combinado_con(casas, disposición).
-combinado_con(casas, recursos).
-combinado_con(casas, lucha).
-combinado_con(casas, denuncias).
-combinado_con(casas, neumáticos).
-combinado_con(casas, chatarras).
-combinado_con(casas, ayudarnos).
-combinado_con(casas, supuesto).
-combinado_con(casas, senadora).
-combinado_con(casas, emergencia).
-combinado_con(casas, terrenos).
-combinado_con(casas, mosquito).
-combinado_con(casas, calles).
-combinado_con(casas, servicios).
-combinado_con(casas, aumento).
-combinado_con(casas, dr).
-combinado_con(casas, pacientes).
-combinado_con(casas, conciencia).
-combinado_con(casas, dispersión).
-combinado_con(casas, notifaciones).
-combinado_con(casas, epidemia).
-combinado_con(casas, funcionarios).
-combinado_con(casas, extinción).
-combinado_con(casas, barrio).
-combinado_con(casas, cuadra).
-combinado_con(casas, basura).
-combinado_con(casas, eliminación).
-combinado_con(casas, instituciones).
-combinado_con(casas, trabajos).
-combinado_con(casas, rastrillaje).
-combinado_con(casas, autoridades).
-combinado_con(casas, institución).
-combinado_con(casas, intendentes).
-combinado_con(casas, municipalidad).
-combinado_con(casas, acciones).
-combinado_con(casas, sanciones).
-combinado_con(casas, limpieza).
-combinado_con(casas, yuyales).
-combinado_con(casas, propagación).
-combinado_con(casas, ministerio).
-combinado_con(casas, rebrote).
-combinado_con(casas, problema).
-combinado_con(casas, capacidad).
-combinado_con(casas, propiedad).
-combinado_con(casas, antecedentes).
-combinado_con(casas, recomendaciones).
-combinado_con(casas, causa).
-combinado_con(casas, sospecha).
-combinado_con(casas, infestación).
-combinado_con(casas, imputación).
-combinado_con(casas, serotipo).
-combinado_con(casas, comunidad).
-combinado_con(casas, combate).
-combinado_con(casas, muertes).
-combinado_con(casas, cifra).
-combinado_con(casas, síntomas).
-combinado_con(casas, medicamentos).
-combinado_con(casas, urgencias).
-combinado_con(casas, afectados).
-combinado_con(casas, gobierno).
-combinado_con(casas, cuidados).
-combinado_con(casas, promedio).
-combinado_con(casas, brote).
-combinado_con(casas, hospitalizaciones).
-combinado_con(casas, cuadro).
-combinado_con(casas, enfermedades).
-combinado_con(casas, recolección).
-combinado_con(casas, basuras).
-combinado_con(casas, riesgo).
-combinado_con(casas, lluvias).
-combinado_con(casas, concienciación).
-combinado_con(casas, inacción).
-combinado_con(casas, baldíos).
-combinado_con(casas, crecimiento).
-combinado_con(casas, río).
-combinado_con(casas, época).
-combinado_con(casas, plástico).
-combinado_con(casas, bolsitas).
-combinado_con(casas, inundaciones).
-combinado_con(enfermos, presencia).
-combinado_con(enfermos, sintomas).
-combinado_con(enfermos, salud).
-combinado_con(enfermos, agua).
-combinado_con(enfermos, barrios).
-combinado_con(enfermos, piscinas).
-combinado_con(enfermos, inconsciencia).
-combinado_con(enfermos, pileta).
-combinado_con(enfermos, multas).
-combinado_con(enfermos, titular).
-combinado_con(enfermos, ciudad).
-combinado_con(enfermos, instalaciones).
-combinado_con(enfermos, vector).
-combinado_con(enfermos, educación).
-combinado_con(enfermos, disposición).
-combinado_con(enfermos, recursos).
-combinado_con(enfermos, lucha).
-combinado_con(enfermos, denuncias).
-combinado_con(enfermos, neumáticos).
-combinado_con(enfermos, chatarras).
-combinado_con(enfermos, ayudarnos).
-combinado_con(enfermos, supuesto).
-combinado_con(enfermos, senadora).
-combinado_con(enfermos, emergencia).
-combinado_con(enfermos, terrenos).
-combinado_con(enfermos, mosquito).
-combinado_con(enfermos, calles).
-combinado_con(enfermos, servicios).
-combinado_con(enfermos, aumento).
-combinado_con(enfermos, dr).
-combinado_con(enfermos, pacientes).
-combinado_con(enfermos, conciencia).
-combinado_con(enfermos, dispersión).
-combinado_con(enfermos, notifaciones).
-combinado_con(enfermos, epidemia).
-combinado_con(enfermos, funcionarios).
-combinado_con(enfermos, extinción).
-combinado_con(enfermos, barrio).
-combinado_con(enfermos, cuadra).
-combinado_con(enfermos, basura).
-combinado_con(enfermos, eliminación).
-combinado_con(enfermos, instituciones).
-combinado_con(enfermos, trabajos).
-combinado_con(enfermos, rastrillaje).
-combinado_con(enfermos, autoridades).
-combinado_con(enfermos, institución).
-combinado_con(enfermos, intendentes).
-combinado_con(enfermos, municipalidad).
-combinado_con(enfermos, acciones).
-combinado_con(enfermos, sanciones).
-combinado_con(enfermos, limpieza).
-combinado_con(enfermos, yuyales).
-combinado_con(enfermos, propagación).
-combinado_con(enfermos, ministerio).
-combinado_con(enfermos, rebrote).
-combinado_con(enfermos, problema).
-combinado_con(enfermos, capacidad).
-combinado_con(enfermos, propiedad).
-combinado_con(enfermos, antecedentes).
-combinado_con(enfermos, recomendaciones).
-combinado_con(enfermos, causa).
-combinado_con(enfermos, sospecha).
-combinado_con(enfermos, infestación).
-combinado_con(enfermos, imputación).
-combinado_con(enfermos, serotipo).
-combinado_con(enfermos, comunidad).
-combinado_con(enfermos, combate).
-combinado_con(enfermos, muertes).
-combinado_con(enfermos, cifra).
-combinado_con(enfermos, síntomas).
-combinado_con(enfermos, medicamentos).
-combinado_con(enfermos, urgencias).
-combinado_con(enfermos, afectados).
-combinado_con(enfermos, gobierno).
-combinado_con(enfermos, cuidados).
-combinado_con(enfermos, promedio).
-combinado_con(enfermos, brote).
-combinado_con(enfermos, hospitalizaciones).
-combinado_con(enfermos, cuadro).
-combinado_con(enfermos, enfermedades).
-combinado_con(enfermos, recolección).
-combinado_con(enfermos, basuras).
-combinado_con(enfermos, riesgo).
-combinado_con(enfermos, lluvias).
-combinado_con(enfermos, concienciación).
-combinado_con(enfermos, inacción).
-combinado_con(enfermos, baldíos).
-combinado_con(enfermos, crecimiento).
-combinado_con(enfermos, río).
-combinado_con(enfermos, época).
-combinado_con(enfermos, plástico).
-combinado_con(enfermos, bolsitas).
-combinado_con(enfermos, inundaciones).
-combinado_con(presencia, sintomas).
-combinado_con(presencia, salud).
-combinado_con(presencia, agua).
-combinado_con(presencia, barrios).
-combinado_con(presencia, piscinas).
-combinado_con(presencia, inconsciencia).
-combinado_con(presencia, pileta).
-combinado_con(presencia, multas).
-combinado_con(presencia, titular).
-combinado_con(presencia, ciudad).
-combinado_con(presencia, instalaciones).
-combinado_con(presencia, vector).
-combinado_con(presencia, educación).
-combinado_con(presencia, disposición).
-combinado_con(presencia, recursos).
-combinado_con(presencia, lucha).
-combinado_con(presencia, denuncias).
-combinado_con(presencia, neumáticos).
-combinado_con(presencia, chatarras).
-combinado_con(presencia, ayudarnos).
-combinado_con(presencia, supuesto).
-combinado_con(presencia, senadora).
-combinado_con(presencia, emergencia).
-combinado_con(presencia, terrenos).
-combinado_con(presencia, mosquito).
-combinado_con(presencia, calles).
-combinado_con(presencia, servicios).
-combinado_con(presencia, aumento).
-combinado_con(presencia, dr).
-combinado_con(presencia, pacientes).
-combinado_con(presencia, conciencia).
-combinado_con(presencia, dispersión).
-combinado_con(presencia, notifaciones).
-combinado_con(presencia, epidemia).
-combinado_con(presencia, funcionarios).
-combinado_con(presencia, extinción).
-combinado_con(presencia, barrio).
-combinado_con(presencia, cuadra).
-combinado_con(presencia, basura).
-combinado_con(presencia, eliminación).
-combinado_con(presencia, instituciones).
-combinado_con(presencia, trabajos).
-combinado_con(presencia, rastrillaje).
-combinado_con(presencia, autoridades).
-combinado_con(presencia, institución).
-combinado_con(presencia, intendentes).
-combinado_con(presencia, municipalidad).
-combinado_con(presencia, acciones).
-combinado_con(presencia, sanciones).
-combinado_con(presencia, limpieza).
-combinado_con(presencia, yuyales).
-combinado_con(presencia, propagación).
-combinado_con(presencia, ministerio).
-combinado_con(presencia, rebrote).
-combinado_con(presencia, problema).
-combinado_con(presencia, capacidad).
-combinado_con(presencia, propiedad).
-combinado_con(presencia, antecedentes).
-combinado_con(presencia, recomendaciones).
-combinado_con(presencia, causa).
-combinado_con(presencia, sospecha).
-combinado_con(presencia, infestación).
-combinado_con(presencia, imputación).
-combinado_con(presencia, serotipo).
-combinado_con(presencia, comunidad).
-combinado_con(presencia, combate).
-combinado_con(presencia, muertes).
-combinado_con(presencia, cifra).
-combinado_con(presencia, síntomas).
-combinado_con(presencia, medicamentos).
-combinado_con(presencia, urgencias).
-combinado_con(presencia, afectados).
-combinado_con(presencia, gobierno).
-combinado_con(presencia, cuidados).
-combinado_con(presencia, promedio).
-combinado_con(presencia, brote).
-combinado_con(presencia, hospitalizaciones).
-combinado_con(presencia, cuadro).
-combinado_con(presencia, enfermedades).
-combinado_con(presencia, recolección).
-combinado_con(presencia, basuras).
-combinado_con(presencia, riesgo).
-combinado_con(presencia, lluvias).
-combinado_con(presencia, concienciación).
-combinado_con(presencia, inacción).
-combinado_con(presencia, baldíos).
-combinado_con(presencia, crecimiento).
-combinado_con(presencia, río).
-combinado_con(presencia, época).
-combinado_con(presencia, plástico).
-combinado_con(presencia, bolsitas).
-combinado_con(presencia, inundaciones).
-combinado_con(sintomas, salud).
-combinado_con(sintomas, agua).
-combinado_con(sintomas, barrios).
-combinado_con(sintomas, piscinas).
-combinado_con(sintomas, inconsciencia).
-combinado_con(sintomas, pileta).
-combinado_con(sintomas, multas).
-combinado_con(sintomas, titular).
-combinado_con(sintomas, ciudad).
-combinado_con(sintomas, instalaciones).
-combinado_con(sintomas, vector).
-combinado_con(sintomas, educación).
-combinado_con(sintomas, disposición).
-combinado_con(sintomas, recursos).
-combinado_con(sintomas, lucha).
-combinado_con(sintomas, denuncias).
-combinado_con(sintomas, neumáticos).
-combinado_con(sintomas, chatarras).
-combinado_con(sintomas, ayudarnos).
-combinado_con(sintomas, supuesto).
-combinado_con(sintomas, senadora).
-combinado_con(sintomas, emergencia).
-combinado_con(sintomas, terrenos).
-combinado_con(sintomas, mosquito).
-combinado_con(sintomas, calles).
-combinado_con(sintomas, servicios).
-combinado_con(sintomas, aumento).
-combinado_con(sintomas, dr).
-combinado_con(sintomas, pacientes).
-combinado_con(sintomas, conciencia).
-combinado_con(sintomas, dispersión).
-combinado_con(sintomas, notifaciones).
-combinado_con(sintomas, epidemia).
-combinado_con(sintomas, funcionarios).
-combinado_con(sintomas, extinción).
-combinado_con(sintomas, barrio).
-combinado_con(sintomas, cuadra).
-combinado_con(sintomas, basura).
-combinado_con(sintomas, eliminación).
-combinado_con(sintomas, instituciones).
-combinado_con(sintomas, trabajos).
-combinado_con(sintomas, rastrillaje).
-combinado_con(sintomas, autoridades).
-combinado_con(sintomas, institución).
-combinado_con(sintomas, intendentes).
-combinado_con(sintomas, municipalidad).
-combinado_con(sintomas, acciones).
-combinado_con(sintomas, sanciones).
-combinado_con(sintomas, limpieza).
-combinado_con(sintomas, yuyales).
-combinado_con(sintomas, propagación).
-combinado_con(sintomas, ministerio).
-combinado_con(sintomas, rebrote).
-combinado_con(sintomas, problema).
-combinado_con(sintomas, capacidad).
-combinado_con(sintomas, propiedad).
-combinado_con(sintomas, antecedentes).
-combinado_con(sintomas, recomendaciones).
-combinado_con(sintomas, causa).
-combinado_con(sintomas, sospecha).
-combinado_con(sintomas, infestación).
-combinado_con(sintomas, imputación).
-combinado_con(sintomas, serotipo).
-combinado_con(sintomas, comunidad).
-combinado_con(sintomas, combate).
-combinado_con(sintomas, muertes).
-combinado_con(sintomas, cifra).
-combinado_con(sintomas, síntomas).
-combinado_con(sintomas, medicamentos).
-combinado_con(sintomas, urgencias).
-combinado_con(sintomas, afectados).
-combinado_con(sintomas, gobierno).
-combinado_con(sintomas, cuidados).
-combinado_con(sintomas, promedio).
-combinado_con(sintomas, brote).
-combinado_con(sintomas, hospitalizaciones).
-combinado_con(sintomas, cuadro).
-combinado_con(sintomas, enfermedades).
-combinado_con(sintomas, recolección).
-combinado_con(sintomas, basuras).
-combinado_con(sintomas, riesgo).
-combinado_con(sintomas, lluvias).
-combinado_con(sintomas, concienciación).
-combinado_con(sintomas, inacción).
-combinado_con(sintomas, baldíos).
-combinado_con(sintomas, crecimiento).
-combinado_con(sintomas, río).
-combinado_con(sintomas, época).
-combinado_con(sintomas, plástico).
-combinado_con(sintomas, bolsitas).
-combinado_con(sintomas, inundaciones).
-combinado_con(salud, agua).
-combinado_con(salud, barrios).
-combinado_con(salud, piscinas).
-combinado_con(salud, inconsciencia).
-combinado_con(salud, pileta).
-combinado_con(salud, multas).
-combinado_con(salud, titular).
-combinado_con(salud, ciudad).
-combinado_con(salud, instalaciones).
-combinado_con(salud, vector).
-combinado_con(salud, educación).
-combinado_con(salud, disposición).
-combinado_con(salud, recursos).
-combinado_con(salud, lucha).
-combinado_con(salud, denuncias).
-combinado_con(salud, neumáticos).
-combinado_con(salud, chatarras).
-combinado_con(salud, ayudarnos).
-combinado_con(salud, supuesto).
-combinado_con(salud, senadora).
-combinado_con(salud, emergencia).
-combinado_con(salud, terrenos).
-combinado_con(salud, mosquito).
-combinado_con(salud, calles).
-combinado_con(salud, servicios).
-combinado_con(salud, aumento).
-combinado_con(salud, dr).
-combinado_con(salud, pacientes).
-combinado_con(salud, conciencia).
-combinado_con(salud, dispersión).
-combinado_con(salud, notifaciones).
-combinado_con(salud, epidemia).
-combinado_con(salud, funcionarios).
-combinado_con(salud, extinción).
-combinado_con(salud, barrio).
-combinado_con(salud, cuadra).
-combinado_con(salud, basura).
-combinado_con(salud, eliminación).
-combinado_con(salud, instituciones).
-combinado_con(salud, trabajos).
-combinado_con(salud, rastrillaje).
-combinado_con(salud, autoridades).
-combinado_con(salud, institución).
-combinado_con(salud, intendentes).
-combinado_con(salud, municipalidad).
-combinado_con(salud, acciones).
-combinado_con(salud, sanciones).
-combinado_con(salud, limpieza).
-combinado_con(salud, yuyales).
-combinado_con(salud, propagación).
-combinado_con(salud, ministerio).
-combinado_con(salud, rebrote).
-combinado_con(salud, problema).
-combinado_con(salud, capacidad).
-combinado_con(salud, propiedad).
-combinado_con(salud, antecedentes).
-combinado_con(salud, recomendaciones).
-combinado_con(salud, causa).
-combinado_con(salud, sospecha).
-combinado_con(salud, infestación).
-combinado_con(salud, imputación).
-combinado_con(salud, serotipo).
-combinado_con(salud, comunidad).
-combinado_con(salud, combate).
-combinado_con(salud, muertes).
-combinado_con(salud, cifra).
-combinado_con(salud, síntomas).
-combinado_con(salud, medicamentos).
-combinado_con(salud, urgencias).
-combinado_con(salud, afectados).
-combinado_con(salud, gobierno).
-combinado_con(salud, cuidados).
-combinado_con(salud, promedio).
-combinado_con(salud, brote).
-combinado_con(salud, hospitalizaciones).
-combinado_con(salud, cuadro).
-combinado_con(salud, enfermedades).
-combinado_con(salud, recolección).
-combinado_con(salud, basuras).
-combinado_con(salud, riesgo).
-combinado_con(salud, lluvias).
-combinado_con(salud, concienciación).
-combinado_con(salud, inacción).
-combinado_con(salud, baldíos).
-combinado_con(salud, crecimiento).
-combinado_con(salud, río).
-combinado_con(salud, época).
-combinado_con(salud, plástico).
-combinado_con(salud, bolsitas).
-combinado_con(salud, inundaciones).
-combinado_con(agua, barrios).
-combinado_con(agua, piscinas).
-combinado_con(agua, inconsciencia).
-combinado_con(agua, pileta).
-combinado_con(agua, multas).
-combinado_con(agua, titular).
-combinado_con(agua, ciudad).
-combinado_con(agua, instalaciones).
-combinado_con(agua, vector).
-combinado_con(agua, educación).
-combinado_con(agua, disposición).
-combinado_con(agua, recursos).
-combinado_con(agua, lucha).
-combinado_con(agua, denuncias).
-combinado_con(agua, neumáticos).
-combinado_con(agua, chatarras).
-combinado_con(agua, ayudarnos).
-combinado_con(agua, supuesto).
-combinado_con(agua, senadora).
-combinado_con(agua, emergencia).
-combinado_con(agua, terrenos).
-combinado_con(agua, mosquito).
-combinado_con(agua, calles).
-combinado_con(agua, servicios).
-combinado_con(agua, aumento).
-combinado_con(agua, dr).
-combinado_con(agua, pacientes).
-combinado_con(agua, conciencia).
-combinado_con(agua, dispersión).
-combinado_con(agua, notifaciones).
-combinado_con(agua, epidemia).
-combinado_con(agua, funcionarios).
-combinado_con(agua, extinción).
-combinado_con(agua, barrio).
-combinado_con(agua, cuadra).
-combinado_con(agua, basura).
-combinado_con(agua, eliminación).
-combinado_con(agua, instituciones).
-combinado_con(agua, trabajos).
-combinado_con(agua, rastrillaje).
-combinado_con(agua, autoridades).
-combinado_con(agua, institución).
-combinado_con(agua, intendentes).
-combinado_con(agua, municipalidad).
-combinado_con(agua, acciones).
-combinado_con(agua, sanciones).
-combinado_con(agua, limpieza).
-combinado_con(agua, yuyales).
-combinado_con(agua, propagación).
-combinado_con(agua, ministerio).
-combinado_con(agua, rebrote).
-combinado_con(agua, problema).
-combinado_con(agua, capacidad).
-combinado_con(agua, propiedad).
-combinado_con(agua, antecedentes).
-combinado_con(agua, recomendaciones).
-combinado_con(agua, causa).
-combinado_con(agua, sospecha).
-combinado_con(agua, infestación).
-combinado_con(agua, imputación).
-combinado_con(agua, serotipo).
-combinado_con(agua, comunidad).
-combinado_con(agua, combate).
-combinado_con(agua, muertes).
-combinado_con(agua, cifra).
-combinado_con(agua, síntomas).
-combinado_con(agua, medicamentos).
-combinado_con(agua, urgencias).
-combinado_con(agua, afectados).
-combinado_con(agua, gobierno).
-combinado_con(agua, cuidados).
-combinado_con(agua, promedio).
-combinado_con(agua, brote).
-combinado_con(agua, hospitalizaciones).
-combinado_con(agua, cuadro).
-combinado_con(agua, enfermedades).
-combinado_con(agua, recolección).
-combinado_con(agua, basuras).
-combinado_con(agua, riesgo).
-combinado_con(agua, lluvias).
-combinado_con(agua, concienciación).
-combinado_con(agua, inacción).
-combinado_con(agua, baldíos).
-combinado_con(agua, crecimiento).
-combinado_con(agua, río).
-combinado_con(agua, época).
-combinado_con(agua, plástico).
-combinado_con(agua, bolsitas).
-combinado_con(agua, inundaciones).
-combinado_con(barrios, piscinas).
-combinado_con(barrios, inconsciencia).
-combinado_con(barrios, pileta).
-combinado_con(barrios, multas).
-combinado_con(barrios, titular).
-combinado_con(barrios, ciudad).
-combinado_con(barrios, instalaciones).
-combinado_con(barrios, vector).
-combinado_con(barrios, educación).
-combinado_con(barrios, disposición).
-combinado_con(barrios, recursos).
-combinado_con(barrios, lucha).
-combinado_con(barrios, denuncias).
-combinado_con(barrios, neumáticos).
-combinado_con(barrios, chatarras).
-combinado_con(barrios, ayudarnos).
-combinado_con(barrios, supuesto).
-combinado_con(barrios, senadora).
-combinado_con(barrios, emergencia).
-combinado_con(barrios, terrenos).
-combinado_con(barrios, mosquito).
-combinado_con(barrios, calles).
-combinado_con(barrios, servicios).
-combinado_con(barrios, aumento).
-combinado_con(barrios, dr).
-combinado_con(barrios, pacientes).
-combinado_con(barrios, conciencia).
-combinado_con(barrios, dispersión).
-combinado_con(barrios, notifaciones).
-combinado_con(barrios, epidemia).
-combinado_con(barrios, funcionarios).
-combinado_con(barrios, extinción).
-combinado_con(barrios, barrio).
-combinado_con(barrios, cuadra).
-combinado_con(barrios, basura).
-combinado_con(barrios, eliminación).
-combinado_con(barrios, instituciones).
-combinado_con(barrios, trabajos).
-combinado_con(barrios, rastrillaje).
-combinado_con(barrios, autoridades).
-combinado_con(barrios, institución).
-combinado_con(barrios, intendentes).
-combinado_con(barrios, municipalidad).
-combinado_con(barrios, acciones).
-combinado_con(barrios, sanciones).
-combinado_con(barrios, limpieza).
-combinado_con(barrios, yuyales).
-combinado_con(barrios, propagación).
-combinado_con(barrios, ministerio).
-combinado_con(barrios, rebrote).
-combinado_con(barrios, problema).
-combinado_con(barrios, capacidad).
-combinado_con(barrios, propiedad).
-combinado_con(barrios, antecedentes).
-combinado_con(barrios, recomendaciones).
-combinado_con(barrios, causa).
-combinado_con(barrios, sospecha).
-combinado_con(barrios, infestación).
-combinado_con(barrios, imputación).
-combinado_con(barrios, serotipo).
-combinado_con(barrios, comunidad).
-combinado_con(barrios, combate).
-combinado_con(barrios, muertes).
-combinado_con(barrios, cifra).
-combinado_con(barrios, síntomas).
-combinado_con(barrios, medicamentos).
-combinado_con(barrios, urgencias).
-combinado_con(barrios, afectados).
-combinado_con(barrios, gobierno).
-combinado_con(barrios, cuidados).
-combinado_con(barrios, promedio).
-combinado_con(barrios, brote).
-combinado_con(barrios, hospitalizaciones).
-combinado_con(barrios, cuadro).
-combinado_con(barrios, enfermedades).
-combinado_con(barrios, recolección).
-combinado_con(barrios, basuras).
-combinado_con(barrios, riesgo).
-combinado_con(barrios, lluvias).
-combinado_con(barrios, concienciación).
-combinado_con(barrios, inacción).
-combinado_con(barrios, baldíos).
-combinado_con(barrios, crecimiento).
-combinado_con(barrios, río).
-combinado_con(barrios, época).
-combinado_con(barrios, plástico).
-combinado_con(barrios, bolsitas).
-combinado_con(barrios, inundaciones).
-combinado_con(piscinas, inconsciencia).
-combinado_con(piscinas, pileta).
-combinado_con(piscinas, multas).
-combinado_con(piscinas, titular).
-combinado_con(piscinas, ciudad).
-combinado_con(piscinas, instalaciones).
-combinado_con(piscinas, vector).
-combinado_con(piscinas, educación).
-combinado_con(piscinas, disposición).
-combinado_con(piscinas, recursos).
-combinado_con(piscinas, lucha).
-combinado_con(piscinas, denuncias).
-combinado_con(piscinas, neumáticos).
-combinado_con(piscinas, chatarras).
-combinado_con(piscinas, ayudarnos).
-combinado_con(piscinas, supuesto).
-combinado_con(piscinas, senadora).
-combinado_con(piscinas, emergencia).
-combinado_con(piscinas, terrenos).
-combinado_con(piscinas, mosquito).
-combinado_con(piscinas, calles).
-combinado_con(piscinas, servicios).
-combinado_con(piscinas, aumento).
-combinado_con(piscinas, dr).
-combinado_con(piscinas, pacientes).
-combinado_con(piscinas, conciencia).
-combinado_con(piscinas, dispersión).
-combinado_con(piscinas, notifaciones).
-combinado_con(piscinas, epidemia).
-combinado_con(piscinas, funcionarios).
-combinado_con(piscinas, extinción).
-combinado_con(piscinas, barrio).
-combinado_con(piscinas, cuadra).
-combinado_con(piscinas, basura).
-combinado_con(piscinas, eliminación).
-combinado_con(piscinas, instituciones).
-combinado_con(piscinas, trabajos).
-combinado_con(piscinas, rastrillaje).
-combinado_con(piscinas, autoridades).
-combinado_con(piscinas, institución).
-combinado_con(piscinas, intendentes).
-combinado_con(piscinas, municipalidad).
-combinado_con(piscinas, acciones).
-combinado_con(piscinas, sanciones).
-combinado_con(piscinas, limpieza).
-combinado_con(piscinas, yuyales).
-combinado_con(piscinas, propagación).
-combinado_con(piscinas, ministerio).
-combinado_con(piscinas, rebrote).
-combinado_con(piscinas, problema).
-combinado_con(piscinas, capacidad).
-combinado_con(piscinas, propiedad).
-combinado_con(piscinas, antecedentes).
-combinado_con(piscinas, recomendaciones).
-combinado_con(piscinas, causa).
-combinado_con(piscinas, sospecha).
-combinado_con(piscinas, infestación).
-combinado_con(piscinas, imputación).
-combinado_con(piscinas, serotipo).
-combinado_con(piscinas, comunidad).
-combinado_con(piscinas, combate).
-combinado_con(piscinas, muertes).
-combinado_con(piscinas, cifra).
-combinado_con(piscinas, síntomas).
-combinado_con(piscinas, medicamentos).
-combinado_con(piscinas, urgencias).
-combinado_con(piscinas, afectados).
-combinado_con(piscinas, gobierno).
-combinado_con(piscinas, cuidados).
-combinado_con(piscinas, promedio).
-combinado_con(piscinas, brote).
-combinado_con(piscinas, hospitalizaciones).
-combinado_con(piscinas, cuadro).
-combinado_con(piscinas, enfermedades).
-combinado_con(piscinas, recolección).
-combinado_con(piscinas, basuras).
-combinado_con(piscinas, riesgo).
-combinado_con(piscinas, lluvias).
-combinado_con(piscinas, concienciación).
-combinado_con(piscinas, inacción).
-combinado_con(piscinas, baldíos).
-combinado_con(piscinas, crecimiento).
-combinado_con(piscinas, río).
-combinado_con(piscinas, época).
-combinado_con(piscinas, plástico).
-combinado_con(piscinas, bolsitas).
-combinado_con(piscinas, inundaciones).
-combinado_con(inconsciencia, pileta).
-combinado_con(inconsciencia, multas).
-combinado_con(inconsciencia, titular).
-combinado_con(inconsciencia, ciudad).
-combinado_con(inconsciencia, instalaciones).
-combinado_con(inconsciencia, vector).
-combinado_con(inconsciencia, educación).
-combinado_con(inconsciencia, disposición).
-combinado_con(inconsciencia, recursos).
-combinado_con(inconsciencia, lucha).
-combinado_con(inconsciencia, denuncias).
-combinado_con(inconsciencia, neumáticos).
-combinado_con(inconsciencia, chatarras).
-combinado_con(inconsciencia, ayudarnos).
-combinado_con(inconsciencia, supuesto).
-combinado_con(inconsciencia, senadora).
-combinado_con(inconsciencia, emergencia).
-combinado_con(inconsciencia, terrenos).
-combinado_con(inconsciencia, mosquito).
-combinado_con(inconsciencia, calles).
-combinado_con(inconsciencia, servicios).
-combinado_con(inconsciencia, aumento).
-combinado_con(inconsciencia, dr).
-combinado_con(inconsciencia, pacientes).
-combinado_con(inconsciencia, conciencia).
-combinado_con(inconsciencia, dispersión).
-combinado_con(inconsciencia, notifaciones).
-combinado_con(inconsciencia, epidemia).
-combinado_con(inconsciencia, funcionarios).
-combinado_con(inconsciencia, extinción).
-combinado_con(inconsciencia, barrio).
-combinado_con(inconsciencia, cuadra).
-combinado_con(inconsciencia, basura).
-combinado_con(inconsciencia, eliminación).
-combinado_con(inconsciencia, instituciones).
-combinado_con(inconsciencia, trabajos).
-combinado_con(inconsciencia, rastrillaje).
-combinado_con(inconsciencia, autoridades).
-combinado_con(inconsciencia, institución).
-combinado_con(inconsciencia, intendentes).
-combinado_con(inconsciencia, municipalidad).
-combinado_con(inconsciencia, acciones).
-combinado_con(inconsciencia, sanciones).
-combinado_con(inconsciencia, limpieza).
-combinado_con(inconsciencia, yuyales).
-combinado_con(inconsciencia, propagación).
-combinado_con(inconsciencia, ministerio).
-combinado_con(inconsciencia, rebrote).
-combinado_con(inconsciencia, problema).
-combinado_con(inconsciencia, capacidad).
-combinado_con(inconsciencia, propiedad).
-combinado_con(inconsciencia, antecedentes).
-combinado_con(inconsciencia, recomendaciones).
-combinado_con(inconsciencia, causa).
-combinado_con(inconsciencia, sospecha).
-combinado_con(inconsciencia, infestación).
-combinado_con(inconsciencia, imputación).
-combinado_con(inconsciencia, serotipo).
-combinado_con(inconsciencia, comunidad).
-combinado_con(inconsciencia, combate).
-combinado_con(inconsciencia, muertes).
-combinado_con(inconsciencia, cifra).
-combinado_con(inconsciencia, síntomas).
-combinado_con(inconsciencia, medicamentos).
-combinado_con(inconsciencia, urgencias).
-combinado_con(inconsciencia, afectados).
-combinado_con(inconsciencia, gobierno).
-combinado_con(inconsciencia, cuidados).
-combinado_con(inconsciencia, promedio).
-combinado_con(inconsciencia, brote).
-combinado_con(inconsciencia, hospitalizaciones).
-combinado_con(inconsciencia, cuadro).
-combinado_con(inconsciencia, enfermedades).
-combinado_con(inconsciencia, recolección).
-combinado_con(inconsciencia, basuras).
-combinado_con(inconsciencia, riesgo).
-combinado_con(inconsciencia, lluvias).
-combinado_con(inconsciencia, concienciación).
-combinado_con(inconsciencia, inacción).
-combinado_con(inconsciencia, baldíos).
-combinado_con(inconsciencia, crecimiento).
-combinado_con(inconsciencia, río).
-combinado_con(inconsciencia, época).
-combinado_con(inconsciencia, plástico).
-combinado_con(inconsciencia, bolsitas).
-combinado_con(inconsciencia, inundaciones).
-combinado_con(pileta, multas).
-combinado_con(pileta, titular).
-combinado_con(pileta, ciudad).
-combinado_con(pileta, instalaciones).
-combinado_con(pileta, vector).
-combinado_con(pileta, educación).
-combinado_con(pileta, disposición).
-combinado_con(pileta, recursos).
-combinado_con(pileta, lucha).
-combinado_con(pileta, denuncias).
-combinado_con(pileta, neumáticos).
-combinado_con(pileta, chatarras).
-combinado_con(pileta, ayudarnos).
-combinado_con(pileta, supuesto).
-combinado_con(pileta, senadora).
-combinado_con(pileta, emergencia).
-combinado_con(pileta, terrenos).
-combinado_con(pileta, mosquito).
-combinado_con(pileta, calles).
-combinado_con(pileta, servicios).
-combinado_con(pileta, aumento).
-combinado_con(pileta, dr).
-combinado_con(pileta, pacientes).
-combinado_con(pileta, conciencia).
-combinado_con(pileta, dispersión).
-combinado_con(pileta, notifaciones).
-combinado_con(pileta, epidemia).
-combinado_con(pileta, funcionarios).
-combinado_con(pileta, extinción).
-combinado_con(pileta, barrio).
-combinado_con(pileta, cuadra).
-combinado_con(pileta, basura).
-combinado_con(pileta, eliminación).
-combinado_con(pileta, instituciones).
-combinado_con(pileta, trabajos).
-combinado_con(pileta, rastrillaje).
-combinado_con(pileta, autoridades).
-combinado_con(pileta, institución).
-combinado_con(pileta, intendentes).
-combinado_con(pileta, municipalidad).
-combinado_con(pileta, acciones).
-combinado_con(pileta, sanciones).
-combinado_con(pileta, limpieza).
-combinado_con(pileta, yuyales).
-combinado_con(pileta, propagación).
-combinado_con(pileta, ministerio).
-combinado_con(pileta, rebrote).
-combinado_con(pileta, problema).
-combinado_con(pileta, capacidad).
-combinado_con(pileta, propiedad).
-combinado_con(pileta, antecedentes).
-combinado_con(pileta, recomendaciones).
-combinado_con(pileta, causa).
-combinado_con(pileta, sospecha).
-combinado_con(pileta, infestación).
-combinado_con(pileta, imputación).
-combinado_con(pileta, serotipo).
-combinado_con(pileta, comunidad).
-combinado_con(pileta, combate).
-combinado_con(pileta, muertes).
-combinado_con(pileta, cifra).
-combinado_con(pileta, síntomas).
-combinado_con(pileta, medicamentos).
-combinado_con(pileta, urgencias).
-combinado_con(pileta, afectados).
-combinado_con(pileta, gobierno).
-combinado_con(pileta, cuidados).
-combinado_con(pileta, promedio).
-combinado_con(pileta, brote).
-combinado_con(pileta, hospitalizaciones).
-combinado_con(pileta, cuadro).
-combinado_con(pileta, enfermedades).
-combinado_con(pileta, recolección).
-combinado_con(pileta, basuras).
-combinado_con(pileta, riesgo).
-combinado_con(pileta, lluvias).
-combinado_con(pileta, concienciación).
-combinado_con(pileta, inacción).
-combinado_con(pileta, baldíos).
-combinado_con(pileta, crecimiento).
-combinado_con(pileta, río).
-combinado_con(pileta, época).
-combinado_con(pileta, plástico).
-combinado_con(pileta, bolsitas).
-combinado_con(pileta, inundaciones).
-combinado_con(multas, titular).
-combinado_con(multas, ciudad).
-combinado_con(multas, instalaciones).
-combinado_con(multas, vector).
-combinado_con(multas, educación).
-combinado_con(multas, disposición).
-combinado_con(multas, recursos).
-combinado_con(multas, lucha).
-combinado_con(multas, denuncias).
-combinado_con(multas, neumáticos).
-combinado_con(multas, chatarras).
-combinado_con(multas, ayudarnos).
-combinado_con(multas, supuesto).
-combinado_con(multas, senadora).
-combinado_con(multas, emergencia).
-combinado_con(multas, terrenos).
-combinado_con(multas, mosquito).
-combinado_con(multas, calles).
-combinado_con(multas, servicios).
-combinado_con(multas, aumento).
-combinado_con(multas, dr).
-combinado_con(multas, pacientes).
-combinado_con(multas, conciencia).
-combinado_con(multas, dispersión).
-combinado_con(multas, notifaciones).
-combinado_con(multas, epidemia).
-combinado_con(multas, funcionarios).
-combinado_con(multas, extinción).
-combinado_con(multas, barrio).
-combinado_con(multas, cuadra).
-combinado_con(multas, basura).
-combinado_con(multas, eliminación).
-combinado_con(multas, instituciones).
-combinado_con(multas, trabajos).
-combinado_con(multas, rastrillaje).
-combinado_con(multas, autoridades).
-combinado_con(multas, institución).
-combinado_con(multas, intendentes).
-combinado_con(multas, municipalidad).
-combinado_con(multas, acciones).
-combinado_con(multas, sanciones).
-combinado_con(multas, limpieza).
-combinado_con(multas, yuyales).
-combinado_con(multas, propagación).
-combinado_con(multas, ministerio).
-combinado_con(multas, rebrote).
-combinado_con(multas, problema).
-combinado_con(multas, capacidad).
-combinado_con(multas, propiedad).
-combinado_con(multas, antecedentes).
-combinado_con(multas, recomendaciones).
-combinado_con(multas, causa).
-combinado_con(multas, sospecha).
-combinado_con(multas, infestación).
-combinado_con(multas, imputación).
-combinado_con(multas, serotipo).
-combinado_con(multas, comunidad).
-combinado_con(multas, combate).
-combinado_con(multas, muertes).
-combinado_con(multas, cifra).
-combinado_con(multas, síntomas).
-combinado_con(multas, medicamentos).
-combinado_con(multas, urgencias).
-combinado_con(multas, afectados).
-combinado_con(multas, gobierno).
-combinado_con(multas, cuidados).
-combinado_con(multas, promedio).
-combinado_con(multas, brote).
-combinado_con(multas, hospitalizaciones).
-combinado_con(multas, cuadro).
-combinado_con(multas, enfermedades).
-combinado_con(multas, recolección).
-combinado_con(multas, basuras).
-combinado_con(multas, riesgo).
-combinado_con(multas, lluvias).
-combinado_con(multas, concienciación).
-combinado_con(multas, inacción).
-combinado_con(multas, baldíos).
-combinado_con(multas, crecimiento).
-combinado_con(multas, río).
-combinado_con(multas, época).
-combinado_con(multas, plástico).
-combinado_con(multas, bolsitas).
-combinado_con(multas, inundaciones).
-combinado_con(titular, ciudad).
-combinado_con(titular, instalaciones).
-combinado_con(titular, vector).
-combinado_con(titular, educación).
-combinado_con(titular, disposición).
-combinado_con(titular, recursos).
-combinado_con(titular, lucha).
-combinado_con(titular, denuncias).
-combinado_con(titular, neumáticos).
-combinado_con(titular, chatarras).
-combinado_con(titular, ayudarnos).
-combinado_con(titular, supuesto).
-combinado_con(titular, senadora).
-combinado_con(titular, emergencia).
-combinado_con(titular, terrenos).
-combinado_con(titular, mosquito).
-combinado_con(titular, calles).
-combinado_con(titular, servicios).
-combinado_con(titular, aumento).
-combinado_con(titular, dr).
-combinado_con(titular, pacientes).
-combinado_con(titular, conciencia).
-combinado_con(titular, dispersión).
-combinado_con(titular, notifaciones).
-combinado_con(titular, epidemia).
-combinado_con(titular, funcionarios).
-combinado_con(titular, extinción).
-combinado_con(titular, barrio).
-combinado_con(titular, cuadra).
-combinado_con(titular, basura).
-combinado_con(titular, eliminación).
-combinado_con(titular, instituciones).
-combinado_con(titular, trabajos).
-combinado_con(titular, rastrillaje).
-combinado_con(titular, autoridades).
-combinado_con(titular, institución).
-combinado_con(titular, intendentes).
-combinado_con(titular, municipalidad).
-combinado_con(titular, acciones).
-combinado_con(titular, sanciones).
-combinado_con(titular, limpieza).
-combinado_con(titular, yuyales).
-combinado_con(titular, propagación).
-combinado_con(titular, ministerio).
-combinado_con(titular, rebrote).
-combinado_con(titular, problema).
-combinado_con(titular, capacidad).
-combinado_con(titular, propiedad).
-combinado_con(titular, antecedentes).
-combinado_con(titular, recomendaciones).
-combinado_con(titular, causa).
-combinado_con(titular, sospecha).
-combinado_con(titular, infestación).
-combinado_con(titular, imputación).
-combinado_con(titular, serotipo).
-combinado_con(titular, comunidad).
-combinado_con(titular, combate).
-combinado_con(titular, muertes).
-combinado_con(titular, cifra).
-combinado_con(titular, síntomas).
-combinado_con(titular, medicamentos).
-combinado_con(titular, urgencias).
-combinado_con(titular, afectados).
-combinado_con(titular, gobierno).
-combinado_con(titular, cuidados).
-combinado_con(titular, promedio).
-combinado_con(titular, brote).
-combinado_con(titular, hospitalizaciones).
-combinado_con(titular, cuadro).
-combinado_con(titular, enfermedades).
-combinado_con(titular, recolección).
-combinado_con(titular, basuras).
-combinado_con(titular, riesgo).
-combinado_con(titular, lluvias).
-combinado_con(titular, concienciación).
-combinado_con(titular, inacción).
-combinado_con(titular, baldíos).
-combinado_con(titular, crecimiento).
-combinado_con(titular, río).
-combinado_con(titular, época).
-combinado_con(titular, plástico).
-combinado_con(titular, bolsitas).
-combinado_con(titular, inundaciones).
-combinado_con(ciudad, instalaciones).
-combinado_con(ciudad, vector).
-combinado_con(ciudad, educación).
-combinado_con(ciudad, disposición).
-combinado_con(ciudad, recursos).
-combinado_con(ciudad, lucha).
-combinado_con(ciudad, denuncias).
-combinado_con(ciudad, neumáticos).
-combinado_con(ciudad, chatarras).
-combinado_con(ciudad, ayudarnos).
-combinado_con(ciudad, supuesto).
-combinado_con(ciudad, senadora).
-combinado_con(ciudad, emergencia).
-combinado_con(ciudad, terrenos).
-combinado_con(ciudad, mosquito).
-combinado_con(ciudad, calles).
-combinado_con(ciudad, servicios).
-combinado_con(ciudad, aumento).
-combinado_con(ciudad, dr).
-combinado_con(ciudad, pacientes).
-combinado_con(ciudad, conciencia).
-combinado_con(ciudad, dispersión).
-combinado_con(ciudad, notifaciones).
-combinado_con(ciudad, epidemia).
-combinado_con(ciudad, funcionarios).
-combinado_con(ciudad, extinción).
-combinado_con(ciudad, barrio).
-combinado_con(ciudad, cuadra).
-combinado_con(ciudad, basura).
-combinado_con(ciudad, eliminación).
-combinado_con(ciudad, instituciones).
-combinado_con(ciudad, trabajos).
-combinado_con(ciudad, rastrillaje).
-combinado_con(ciudad, autoridades).
-combinado_con(ciudad, institución).
-combinado_con(ciudad, intendentes).
-combinado_con(ciudad, municipalidad).
-combinado_con(ciudad, acciones).
-combinado_con(ciudad, sanciones).
-combinado_con(ciudad, limpieza).
-combinado_con(ciudad, yuyales).
-combinado_con(ciudad, propagación).
-combinado_con(ciudad, ministerio).
-combinado_con(ciudad, rebrote).
-combinado_con(ciudad, problema).
-combinado_con(ciudad, capacidad).
-combinado_con(ciudad, propiedad).
-combinado_con(ciudad, antecedentes).
-combinado_con(ciudad, recomendaciones).
-combinado_con(ciudad, causa).
-combinado_con(ciudad, sospecha).
-combinado_con(ciudad, infestación).
-combinado_con(ciudad, imputación).
-combinado_con(ciudad, serotipo).
-combinado_con(ciudad, comunidad).
-combinado_con(ciudad, combate).
-combinado_con(ciudad, muertes).
-combinado_con(ciudad, cifra).
-combinado_con(ciudad, síntomas).
-combinado_con(ciudad, medicamentos).
-combinado_con(ciudad, urgencias).
-combinado_con(ciudad, afectados).
-combinado_con(ciudad, gobierno).
-combinado_con(ciudad, cuidados).
-combinado_con(ciudad, promedio).
-combinado_con(ciudad, brote).
-combinado_con(ciudad, hospitalizaciones).
-combinado_con(ciudad, cuadro).
-combinado_con(ciudad, enfermedades).
-combinado_con(ciudad, recolección).
-combinado_con(ciudad, basuras).
-combinado_con(ciudad, riesgo).
-combinado_con(ciudad, lluvias).
-combinado_con(ciudad, concienciación).
-combinado_con(ciudad, inacción).
-combinado_con(ciudad, baldíos).
-combinado_con(ciudad, crecimiento).
-combinado_con(ciudad, río).
-combinado_con(ciudad, época).
-combinado_con(ciudad, plástico).
-combinado_con(ciudad, bolsitas).
-combinado_con(ciudad, inundaciones).
-combinado_con(instalaciones, vector).
-combinado_con(instalaciones, educación).
-combinado_con(instalaciones, disposición).
-combinado_con(instalaciones, recursos).
-combinado_con(instalaciones, lucha).
-combinado_con(instalaciones, denuncias).
-combinado_con(instalaciones, neumáticos).
-combinado_con(instalaciones, chatarras).
-combinado_con(instalaciones, ayudarnos).
-combinado_con(instalaciones, supuesto).
-combinado_con(instalaciones, senadora).
-combinado_con(instalaciones, emergencia).
-combinado_con(instalaciones, terrenos).
-combinado_con(instalaciones, mosquito).
-combinado_con(instalaciones, calles).
-combinado_con(instalaciones, servicios).
-combinado_con(instalaciones, aumento).
-combinado_con(instalaciones, dr).
-combinado_con(instalaciones, pacientes).
-combinado_con(instalaciones, conciencia).
-combinado_con(instalaciones, dispersión).
-combinado_con(instalaciones, notifaciones).
-combinado_con(instalaciones, epidemia).
-combinado_con(instalaciones, funcionarios).
-combinado_con(instalaciones, extinción).
-combinado_con(instalaciones, barrio).
-combinado_con(instalaciones, cuadra).
-combinado_con(instalaciones, basura).
-combinado_con(instalaciones, eliminación).
-combinado_con(instalaciones, instituciones).
-combinado_con(instalaciones, trabajos).
-combinado_con(instalaciones, rastrillaje).
-combinado_con(instalaciones, autoridades).
-combinado_con(instalaciones, institución).
-combinado_con(instalaciones, intendentes).
-combinado_con(instalaciones, municipalidad).
-combinado_con(instalaciones, acciones).
-combinado_con(instalaciones, sanciones).
-combinado_con(instalaciones, limpieza).
-combinado_con(instalaciones, yuyales).
-combinado_con(instalaciones, propagación).
-combinado_con(instalaciones, ministerio).
-combinado_con(instalaciones, rebrote).
-combinado_con(instalaciones, problema).
-combinado_con(instalaciones, capacidad).
-combinado_con(instalaciones, propiedad).
-combinado_con(instalaciones, antecedentes).
-combinado_con(instalaciones, recomendaciones).
-combinado_con(instalaciones, causa).
-combinado_con(instalaciones, sospecha).
-combinado_con(instalaciones, infestación).
-combinado_con(instalaciones, imputación).
-combinado_con(instalaciones, serotipo).
-combinado_con(instalaciones, comunidad).
-combinado_con(instalaciones, combate).
-combinado_con(instalaciones, muertes).
-combinado_con(instalaciones, cifra).
-combinado_con(instalaciones, síntomas).
-combinado_con(instalaciones, medicamentos).
-combinado_con(instalaciones, urgencias).
-combinado_con(instalaciones, afectados).
-combinado_con(instalaciones, gobierno).
-combinado_con(instalaciones, cuidados).
-combinado_con(instalaciones, promedio).
-combinado_con(instalaciones, brote).
-combinado_con(instalaciones, hospitalizaciones).
-combinado_con(instalaciones, cuadro).
-combinado_con(instalaciones, enfermedades).
-combinado_con(instalaciones, recolección).
-combinado_con(instalaciones, basuras).
-combinado_con(instalaciones, riesgo).
-combinado_con(instalaciones, lluvias).
-combinado_con(instalaciones, concienciación).
-combinado_con(instalaciones, inacción).
-combinado_con(instalaciones, baldíos).
-combinado_con(instalaciones, crecimiento).
-combinado_con(instalaciones, río).
-combinado_con(instalaciones, época).
-combinado_con(instalaciones, plástico).
-combinado_con(instalaciones, bolsitas).
-combinado_con(instalaciones, inundaciones).
-combinado_con(vector, educación).
-combinado_con(vector, disposición).
-combinado_con(vector, recursos).
-combinado_con(vector, lucha).
-combinado_con(vector, denuncias).
-combinado_con(vector, neumáticos).
-combinado_con(vector, chatarras).
-combinado_con(vector, ayudarnos).
-combinado_con(vector, supuesto).
-combinado_con(vector, senadora).
-combinado_con(vector, emergencia).
-combinado_con(vector, terrenos).
-combinado_con(vector, mosquito).
-combinado_con(vector, calles).
-combinado_con(vector, servicios).
-combinado_con(vector, aumento).
-combinado_con(vector, dr).
-combinado_con(vector, pacientes).
-combinado_con(vector, conciencia).
-combinado_con(vector, dispersión).
-combinado_con(vector, notifaciones).
-combinado_con(vector, epidemia).
-combinado_con(vector, funcionarios).
-combinado_con(vector, extinción).
-combinado_con(vector, barrio).
-combinado_con(vector, cuadra).
-combinado_con(vector, basura).
-combinado_con(vector, eliminación).
-combinado_con(vector, instituciones).
-combinado_con(vector, trabajos).
-combinado_con(vector, rastrillaje).
-combinado_con(vector, autoridades).
-combinado_con(vector, institución).
-combinado_con(vector, intendentes).
-combinado_con(vector, municipalidad).
-combinado_con(vector, acciones).
-combinado_con(vector, sanciones).
-combinado_con(vector, limpieza).
-combinado_con(vector, yuyales).
-combinado_con(vector, propagación).
-combinado_con(vector, ministerio).
-combinado_con(vector, rebrote).
-combinado_con(vector, problema).
-combinado_con(vector, capacidad).
-combinado_con(vector, propiedad).
-combinado_con(vector, antecedentes).
-combinado_con(vector, recomendaciones).
-combinado_con(vector, causa).
-combinado_con(vector, sospecha).
-combinado_con(vector, infestación).
-combinado_con(vector, imputación).
-combinado_con(vector, serotipo).
-combinado_con(vector, comunidad).
-combinado_con(vector, combate).
-combinado_con(vector, muertes).
-combinado_con(vector, cifra).
-combinado_con(vector, síntomas).
-combinado_con(vector, medicamentos).
-combinado_con(vector, urgencias).
-combinado_con(vector, afectados).
-combinado_con(vector, gobierno).
-combinado_con(vector, cuidados).
-combinado_con(vector, promedio).
-combinado_con(vector, brote).
-combinado_con(vector, hospitalizaciones).
-combinado_con(vector, cuadro).
-combinado_con(vector, enfermedades).
-combinado_con(vector, recolección).
-combinado_con(vector, basuras).
-combinado_con(vector, riesgo).
-combinado_con(vector, lluvias).
-combinado_con(vector, concienciación).
-combinado_con(vector, inacción).
-combinado_con(vector, baldíos).
-combinado_con(vector, crecimiento).
-combinado_con(vector, río).
-combinado_con(vector, época).
-combinado_con(vector, plástico).
-combinado_con(vector, bolsitas).
-combinado_con(vector, inundaciones).
-combinado_con(educación, disposición).
-combinado_con(educación, recursos).
-combinado_con(educación, lucha).
-combinado_con(educación, denuncias).
-combinado_con(educación, neumáticos).
-combinado_con(educación, chatarras).
-combinado_con(educación, ayudarnos).
-combinado_con(educación, supuesto).
-combinado_con(educación, senadora).
-combinado_con(educación, emergencia).
-combinado_con(educación, terrenos).
-combinado_con(educación, mosquito).
-combinado_con(educación, calles).
-combinado_con(educación, servicios).
-combinado_con(educación, aumento).
-combinado_con(educación, dr).
-combinado_con(educación, pacientes).
-combinado_con(educación, conciencia).
-combinado_con(educación, dispersión).
-combinado_con(educación, notifaciones).
-combinado_con(educación, epidemia).
-combinado_con(educación, funcionarios).
-combinado_con(educación, extinción).
-combinado_con(educación, barrio).
-combinado_con(educación, cuadra).
-combinado_con(educación, basura).
-combinado_con(educación, eliminación).
-combinado_con(educación, instituciones).
-combinado_con(educación, trabajos).
-combinado_con(educación, rastrillaje).
-combinado_con(educación, autoridades).
-combinado_con(educación, institución).
-combinado_con(educación, intendentes).
-combinado_con(educación, municipalidad).
-combinado_con(educación, acciones).
-combinado_con(educación, sanciones).
-combinado_con(educación, limpieza).
-combinado_con(educación, yuyales).
-combinado_con(educación, propagación).
-combinado_con(educación, ministerio).
-combinado_con(educación, rebrote).
-combinado_con(educación, problema).
-combinado_con(educación, capacidad).
-combinado_con(educación, propiedad).
-combinado_con(educación, antecedentes).
-combinado_con(educación, recomendaciones).
-combinado_con(educación, causa).
-combinado_con(educación, sospecha).
-combinado_con(educación, infestación).
-combinado_con(educación, imputación).
-combinado_con(educación, serotipo).
-combinado_con(educación, comunidad).
-combinado_con(educación, combate).
-combinado_con(educación, muertes).
-combinado_con(educación, cifra).
-combinado_con(educación, síntomas).
-combinado_con(educación, medicamentos).
-combinado_con(educación, urgencias).
-combinado_con(educación, afectados).
-combinado_con(educación, gobierno).
-combinado_con(educación, cuidados).
-combinado_con(educación, promedio).
-combinado_con(educación, brote).
-combinado_con(educación, hospitalizaciones).
-combinado_con(educación, cuadro).
-combinado_con(educación, enfermedades).
-combinado_con(educación, recolección).
-combinado_con(educación, basuras).
-combinado_con(educación, riesgo).
-combinado_con(educación, lluvias).
-combinado_con(educación, concienciación).
-combinado_con(educación, inacción).
-combinado_con(educación, baldíos).
-combinado_con(educación, crecimiento).
-combinado_con(educación, río).
-combinado_con(educación, época).
-combinado_con(educación, plástico).
-combinado_con(educación, bolsitas).
-combinado_con(educación, inundaciones).
-combinado_con(disposición, recursos).
-combinado_con(disposición, lucha).
-combinado_con(disposición, denuncias).
-combinado_con(disposición, neumáticos).
-combinado_con(disposición, chatarras).
-combinado_con(disposición, ayudarnos).
-combinado_con(disposición, supuesto).
-combinado_con(disposición, senadora).
-combinado_con(disposición, emergencia).
-combinado_con(disposición, terrenos).
-combinado_con(disposición, mosquito).
-combinado_con(disposición, calles).
-combinado_con(disposición, servicios).
-combinado_con(disposición, aumento).
-combinado_con(disposición, dr).
-combinado_con(disposición, pacientes).
-combinado_con(disposición, conciencia).
-combinado_con(disposición, dispersión).
-combinado_con(disposición, notifaciones).
-combinado_con(disposición, epidemia).
-combinado_con(disposición, funcionarios).
-combinado_con(disposición, extinción).
-combinado_con(disposición, barrio).
-combinado_con(disposición, cuadra).
-combinado_con(disposición, basura).
-combinado_con(disposición, eliminación).
-combinado_con(disposición, instituciones).
-combinado_con(disposición, trabajos).
-combinado_con(disposición, rastrillaje).
-combinado_con(disposición, autoridades).
-combinado_con(disposición, institución).
-combinado_con(disposición, intendentes).
-combinado_con(disposición, municipalidad).
-combinado_con(disposición, acciones).
-combinado_con(disposición, sanciones).
-combinado_con(disposición, limpieza).
-combinado_con(disposición, yuyales).
-combinado_con(disposición, propagación).
-combinado_con(disposición, ministerio).
-combinado_con(disposición, rebrote).
-combinado_con(disposición, problema).
-combinado_con(disposición, capacidad).
-combinado_con(disposición, propiedad).
-combinado_con(disposición, antecedentes).
-combinado_con(disposición, recomendaciones).
-combinado_con(disposición, causa).
-combinado_con(disposición, sospecha).
-combinado_con(disposición, infestación).
-combinado_con(disposición, imputación).
-combinado_con(disposición, serotipo).
-combinado_con(disposición, comunidad).
-combinado_con(disposición, combate).
-combinado_con(disposición, muertes).
-combinado_con(disposición, cifra).
-combinado_con(disposición, síntomas).
-combinado_con(disposición, medicamentos).
-combinado_con(disposición, urgencias).
-combinado_con(disposición, afectados).
-combinado_con(disposición, gobierno).
-combinado_con(disposición, cuidados).
-combinado_con(disposición, promedio).
-combinado_con(disposición, brote).
-combinado_con(disposición, hospitalizaciones).
-combinado_con(disposición, cuadro).
-combinado_con(disposición, enfermedades).
-combinado_con(disposición, recolección).
-combinado_con(disposición, basuras).
-combinado_con(disposición, riesgo).
-combinado_con(disposición, lluvias).
-combinado_con(disposición, concienciación).
-combinado_con(disposición, inacción).
-combinado_con(disposición, baldíos).
-combinado_con(disposición, crecimiento).
-combinado_con(disposición, río).
-combinado_con(disposición, época).
-combinado_con(disposición, plástico).
-combinado_con(disposición, bolsitas).
-combinado_con(disposición, inundaciones).
-combinado_con(recursos, lucha).
-combinado_con(recursos, denuncias).
-combinado_con(recursos, neumáticos).
-combinado_con(recursos, chatarras).
-combinado_con(recursos, ayudarnos).
-combinado_con(recursos, supuesto).
-combinado_con(recursos, senadora).
-combinado_con(recursos, emergencia).
-combinado_con(recursos, terrenos).
-combinado_con(recursos, mosquito).
-combinado_con(recursos, calles).
-combinado_con(recursos, servicios).
-combinado_con(recursos, aumento).
-combinado_con(recursos, dr).
-combinado_con(recursos, pacientes).
-combinado_con(recursos, conciencia).
-combinado_con(recursos, dispersión).
-combinado_con(recursos, notifaciones).
-combinado_con(recursos, epidemia).
-combinado_con(recursos, funcionarios).
-combinado_con(recursos, extinción).
-combinado_con(recursos, barrio).
-combinado_con(recursos, cuadra).
-combinado_con(recursos, basura).
-combinado_con(recursos, eliminación).
-combinado_con(recursos, instituciones).
-combinado_con(recursos, trabajos).
-combinado_con(recursos, rastrillaje).
-combinado_con(recursos, autoridades).
-combinado_con(recursos, institución).
-combinado_con(recursos, intendentes).
-combinado_con(recursos, municipalidad).
-combinado_con(recursos, acciones).
-combinado_con(recursos, sanciones).
-combinado_con(recursos, limpieza).
-combinado_con(recursos, yuyales).
-combinado_con(recursos, propagación).
-combinado_con(recursos, ministerio).
-combinado_con(recursos, rebrote).
-combinado_con(recursos, problema).
-combinado_con(recursos, capacidad).
-combinado_con(recursos, propiedad).
-combinado_con(recursos, antecedentes).
-combinado_con(recursos, recomendaciones).
-combinado_con(recursos, causa).
-combinado_con(recursos, sospecha).
-combinado_con(recursos, infestación).
-combinado_con(recursos, imputación).
-combinado_con(recursos, serotipo).
-combinado_con(recursos, comunidad).
-combinado_con(recursos, combate).
-combinado_con(recursos, muertes).
-combinado_con(recursos, cifra).
-combinado_con(recursos, síntomas).
-combinado_con(recursos, medicamentos).
-combinado_con(recursos, urgencias).
-combinado_con(recursos, afectados).
-combinado_con(recursos, gobierno).
-combinado_con(recursos, cuidados).
-combinado_con(recursos, promedio).
-combinado_con(recursos, brote).
-combinado_con(recursos, hospitalizaciones).
-combinado_con(recursos, cuadro).
-combinado_con(recursos, enfermedades).
-combinado_con(recursos, recolección).
-combinado_con(recursos, basuras).
-combinado_con(recursos, riesgo).
-combinado_con(recursos, lluvias).
-combinado_con(recursos, concienciación).
-combinado_con(recursos, inacción).
-combinado_con(recursos, baldíos).
-combinado_con(recursos, crecimiento).
-combinado_con(recursos, río).
-combinado_con(recursos, época).
-combinado_con(recursos, plástico).
-combinado_con(recursos, bolsitas).
-combinado_con(recursos, inundaciones).
-combinado_con(lucha, denuncias).
-combinado_con(lucha, neumáticos).
-combinado_con(lucha, chatarras).
-combinado_con(lucha, ayudarnos).
-combinado_con(lucha, supuesto).
-combinado_con(lucha, senadora).
-combinado_con(lucha, emergencia).
-combinado_con(lucha, terrenos).
-combinado_con(lucha, mosquito).
-combinado_con(lucha, calles).
-combinado_con(lucha, servicios).
-combinado_con(lucha, aumento).
-combinado_con(lucha, dr).
-combinado_con(lucha, pacientes).
-combinado_con(lucha, conciencia).
-combinado_con(lucha, dispersión).
-combinado_con(lucha, notifaciones).
-combinado_con(lucha, epidemia).
-combinado_con(lucha, funcionarios).
-combinado_con(lucha, extinción).
-combinado_con(lucha, barrio).
-combinado_con(lucha, cuadra).
-combinado_con(lucha, basura).
-combinado_con(lucha, eliminación).
-combinado_con(lucha, instituciones).
-combinado_con(lucha, trabajos).
-combinado_con(lucha, rastrillaje).
-combinado_con(lucha, autoridades).
-combinado_con(lucha, institución).
-combinado_con(lucha, intendentes).
-combinado_con(lucha, municipalidad).
-combinado_con(lucha, acciones).
-combinado_con(lucha, sanciones).
-combinado_con(lucha, limpieza).
-combinado_con(lucha, yuyales).
-combinado_con(lucha, propagación).
-combinado_con(lucha, ministerio).
-combinado_con(lucha, rebrote).
-combinado_con(lucha, problema).
-combinado_con(lucha, capacidad).
-combinado_con(lucha, propiedad).
-combinado_con(lucha, antecedentes).
-combinado_con(lucha, recomendaciones).
-combinado_con(lucha, causa).
-combinado_con(lucha, sospecha).
-combinado_con(lucha, infestación).
-combinado_con(lucha, imputación).
-combinado_con(lucha, serotipo).
-combinado_con(lucha, comunidad).
-combinado_con(lucha, combate).
-combinado_con(lucha, muertes).
-combinado_con(lucha, cifra).
-combinado_con(lucha, síntomas).
-combinado_con(lucha, medicamentos).
-combinado_con(lucha, urgencias).
-combinado_con(lucha, afectados).
-combinado_con(lucha, gobierno).
-combinado_con(lucha, cuidados).
-combinado_con(lucha, promedio).
-combinado_con(lucha, brote).
-combinado_con(lucha, hospitalizaciones).
-combinado_con(lucha, cuadro).
-combinado_con(lucha, enfermedades).
-combinado_con(lucha, recolección).
-combinado_con(lucha, basuras).
-combinado_con(lucha, riesgo).
-combinado_con(lucha, lluvias).
-combinado_con(lucha, concienciación).
-combinado_con(lucha, inacción).
-combinado_con(lucha, baldíos).
-combinado_con(lucha, crecimiento).
-combinado_con(lucha, río).
-combinado_con(lucha, época).
-combinado_con(lucha, plástico).
-combinado_con(lucha, bolsitas).
-combinado_con(lucha, inundaciones).
-combinado_con(denuncias, neumáticos).
-combinado_con(denuncias, chatarras).
-combinado_con(denuncias, ayudarnos).
-combinado_con(denuncias, supuesto).
-combinado_con(denuncias, senadora).
-combinado_con(denuncias, emergencia).
-combinado_con(denuncias, terrenos).
-combinado_con(denuncias, mosquito).
-combinado_con(denuncias, calles).
-combinado_con(denuncias, servicios).
-combinado_con(denuncias, aumento).
-combinado_con(denuncias, dr).
-combinado_con(denuncias, pacientes).
-combinado_con(denuncias, conciencia).
-combinado_con(denuncias, dispersión).
-combinado_con(denuncias, notifaciones).
-combinado_con(denuncias, epidemia).
-combinado_con(denuncias, funcionarios).
-combinado_con(denuncias, extinción).
-combinado_con(denuncias, barrio).
-combinado_con(denuncias, cuadra).
-combinado_con(denuncias, basura).
-combinado_con(denuncias, eliminación).
-combinado_con(denuncias, instituciones).
-combinado_con(denuncias, trabajos).
-combinado_con(denuncias, rastrillaje).
-combinado_con(denuncias, autoridades).
-combinado_con(denuncias, institución).
-combinado_con(denuncias, intendentes).
-combinado_con(denuncias, municipalidad).
-combinado_con(denuncias, acciones).
-combinado_con(denuncias, sanciones).
-combinado_con(denuncias, limpieza).
-combinado_con(denuncias, yuyales).
-combinado_con(denuncias, propagación).
-combinado_con(denuncias, ministerio).
-combinado_con(denuncias, rebrote).
-combinado_con(denuncias, problema).
-combinado_con(denuncias, capacidad).
-combinado_con(denuncias, propiedad).
-combinado_con(denuncias, antecedentes).
-combinado_con(denuncias, recomendaciones).
-combinado_con(denuncias, causa).
-combinado_con(denuncias, sospecha).
-combinado_con(denuncias, infestación).
-combinado_con(denuncias, imputación).
-combinado_con(denuncias, serotipo).
-combinado_con(denuncias, comunidad).
-combinado_con(denuncias, combate).
-combinado_con(denuncias, muertes).
-combinado_con(denuncias, cifra).
-combinado_con(denuncias, síntomas).
-combinado_con(denuncias, medicamentos).
-combinado_con(denuncias, urgencias).
-combinado_con(denuncias, afectados).
-combinado_con(denuncias, gobierno).
-combinado_con(denuncias, cuidados).
-combinado_con(denuncias, promedio).
-combinado_con(denuncias, brote).
-combinado_con(denuncias, hospitalizaciones).
-combinado_con(denuncias, cuadro).
-combinado_con(denuncias, enfermedades).
-combinado_con(denuncias, recolección).
-combinado_con(denuncias, basuras).
-combinado_con(denuncias, riesgo).
-combinado_con(denuncias, lluvias).
-combinado_con(denuncias, concienciación).
-combinado_con(denuncias, inacción).
-combinado_con(denuncias, baldíos).
-combinado_con(denuncias, crecimiento).
-combinado_con(denuncias, río).
-combinado_con(denuncias, época).
-combinado_con(denuncias, plástico).
-combinado_con(denuncias, bolsitas).
-combinado_con(denuncias, inundaciones).
-combinado_con(neumáticos, chatarras).
-combinado_con(neumáticos, ayudarnos).
-combinado_con(neumáticos, supuesto).
-combinado_con(neumáticos, senadora).
-combinado_con(neumáticos, emergencia).
-combinado_con(neumáticos, terrenos).
-combinado_con(neumáticos, mosquito).
-combinado_con(neumáticos, calles).
-combinado_con(neumáticos, servicios).
-combinado_con(neumáticos, aumento).
-combinado_con(neumáticos, dr).
-combinado_con(neumáticos, pacientes).
-combinado_con(neumáticos, conciencia).
-combinado_con(neumáticos, dispersión).
-combinado_con(neumáticos, notifaciones).
-combinado_con(neumáticos, epidemia).
-combinado_con(neumáticos, funcionarios).
-combinado_con(neumáticos, extinción).
-combinado_con(neumáticos, barrio).
-combinado_con(neumáticos, cuadra).
-combinado_con(neumáticos, basura).
-combinado_con(neumáticos, eliminación).
-combinado_con(neumáticos, instituciones).
-combinado_con(neumáticos, trabajos).
-combinado_con(neumáticos, rastrillaje).
-combinado_con(neumáticos, autoridades).
-combinado_con(neumáticos, institución).
-combinado_con(neumáticos, intendentes).
-combinado_con(neumáticos, municipalidad).
-combinado_con(neumáticos, acciones).
-combinado_con(neumáticos, sanciones).
-combinado_con(neumáticos, limpieza).
-combinado_con(neumáticos, yuyales).
-combinado_con(neumáticos, propagación).
-combinado_con(neumáticos, ministerio).
-combinado_con(neumáticos, rebrote).
-combinado_con(neumáticos, problema).
-combinado_con(neumáticos, capacidad).
-combinado_con(neumáticos, propiedad).
-combinado_con(neumáticos, antecedentes).
-combinado_con(neumáticos, recomendaciones).
-combinado_con(neumáticos, causa).
-combinado_con(neumáticos, sospecha).
-combinado_con(neumáticos, infestación).
-combinado_con(neumáticos, imputación).
-combinado_con(neumáticos, serotipo).
-combinado_con(neumáticos, comunidad).
-combinado_con(neumáticos, combate).
-combinado_con(neumáticos, muertes).
-combinado_con(neumáticos, cifra).
-combinado_con(neumáticos, síntomas).
-combinado_con(neumáticos, medicamentos).
-combinado_con(neumáticos, urgencias).
-combinado_con(neumáticos, afectados).
-combinado_con(neumáticos, gobierno).
-combinado_con(neumáticos, cuidados).
-combinado_con(neumáticos, promedio).
-combinado_con(neumáticos, brote).
-combinado_con(neumáticos, hospitalizaciones).
-combinado_con(neumáticos, cuadro).
-combinado_con(neumáticos, enfermedades).
-combinado_con(neumáticos, recolección).
-combinado_con(neumáticos, basuras).
-combinado_con(neumáticos, riesgo).
-combinado_con(neumáticos, lluvias).
-combinado_con(neumáticos, concienciación).
-combinado_con(neumáticos, inacción).
-combinado_con(neumáticos, baldíos).
-combinado_con(neumáticos, crecimiento).
-combinado_con(neumáticos, río).
-combinado_con(neumáticos, época).
-combinado_con(neumáticos, plástico).
-combinado_con(neumáticos, bolsitas).
-combinado_con(neumáticos, inundaciones).
-combinado_con(chatarras, ayudarnos).
-combinado_con(chatarras, supuesto).
-combinado_con(chatarras, senadora).
-combinado_con(chatarras, emergencia).
-combinado_con(chatarras, terrenos).
-combinado_con(chatarras, mosquito).
-combinado_con(chatarras, calles).
-combinado_con(chatarras, servicios).
-combinado_con(chatarras, aumento).
-combinado_con(chatarras, dr).
-combinado_con(chatarras, pacientes).
-combinado_con(chatarras, conciencia).
-combinado_con(chatarras, dispersión).
-combinado_con(chatarras, notifaciones).
-combinado_con(chatarras, epidemia).
-combinado_con(chatarras, funcionarios).
-combinado_con(chatarras, extinción).
-combinado_con(chatarras, barrio).
-combinado_con(chatarras, cuadra).
-combinado_con(chatarras, basura).
-combinado_con(chatarras, eliminación).
-combinado_con(chatarras, instituciones).
-combinado_con(chatarras, trabajos).
-combinado_con(chatarras, rastrillaje).
-combinado_con(chatarras, autoridades).
-combinado_con(chatarras, institución).
-combinado_con(chatarras, intendentes).
-combinado_con(chatarras, municipalidad).
-combinado_con(chatarras, acciones).
-combinado_con(chatarras, sanciones).
-combinado_con(chatarras, limpieza).
-combinado_con(chatarras, yuyales).
-combinado_con(chatarras, propagación).
-combinado_con(chatarras, ministerio).
-combinado_con(chatarras, rebrote).
-combinado_con(chatarras, problema).
-combinado_con(chatarras, capacidad).
-combinado_con(chatarras, propiedad).
-combinado_con(chatarras, antecedentes).
-combinado_con(chatarras, recomendaciones).
-combinado_con(chatarras, causa).
-combinado_con(chatarras, sospecha).
-combinado_con(chatarras, infestación).
-combinado_con(chatarras, imputación).
-combinado_con(chatarras, serotipo).
-combinado_con(chatarras, comunidad).
-combinado_con(chatarras, combate).
-combinado_con(chatarras, muertes).
-combinado_con(chatarras, cifra).
-combinado_con(chatarras, síntomas).
-combinado_con(chatarras, medicamentos).
-combinado_con(chatarras, urgencias).
-combinado_con(chatarras, afectados).
-combinado_con(chatarras, gobierno).
-combinado_con(chatarras, cuidados).
-combinado_con(chatarras, promedio).
-combinado_con(chatarras, brote).
-combinado_con(chatarras, hospitalizaciones).
-combinado_con(chatarras, cuadro).
-combinado_con(chatarras, enfermedades).
-combinado_con(chatarras, recolección).
-combinado_con(chatarras, basuras).
-combinado_con(chatarras, riesgo).
-combinado_con(chatarras, lluvias).
-combinado_con(chatarras, concienciación).
-combinado_con(chatarras, inacción).
-combinado_con(chatarras, baldíos).
-combinado_con(chatarras, crecimiento).
-combinado_con(chatarras, río).
-combinado_con(chatarras, época).
-combinado_con(chatarras, plástico).
-combinado_con(chatarras, bolsitas).
-combinado_con(chatarras, inundaciones).
-combinado_con(ayudarnos, supuesto).
-combinado_con(ayudarnos, senadora).
-combinado_con(ayudarnos, emergencia).
-combinado_con(ayudarnos, terrenos).
-combinado_con(ayudarnos, mosquito).
-combinado_con(ayudarnos, calles).
-combinado_con(ayudarnos, servicios).
-combinado_con(ayudarnos, aumento).
-combinado_con(ayudarnos, dr).
-combinado_con(ayudarnos, pacientes).
-combinado_con(ayudarnos, conciencia).
-combinado_con(ayudarnos, dispersión).
-combinado_con(ayudarnos, notifaciones).
-combinado_con(ayudarnos, epidemia).
-combinado_con(ayudarnos, funcionarios).
-combinado_con(ayudarnos, extinción).
-combinado_con(ayudarnos, barrio).
-combinado_con(ayudarnos, cuadra).
-combinado_con(ayudarnos, basura).
-combinado_con(ayudarnos, eliminación).
-combinado_con(ayudarnos, instituciones).
-combinado_con(ayudarnos, trabajos).
-combinado_con(ayudarnos, rastrillaje).
-combinado_con(ayudarnos, autoridades).
-combinado_con(ayudarnos, institución).
-combinado_con(ayudarnos, intendentes).
-combinado_con(ayudarnos, municipalidad).
-combinado_con(ayudarnos, acciones).
-combinado_con(ayudarnos, sanciones).
-combinado_con(ayudarnos, limpieza).
-combinado_con(ayudarnos, yuyales).
-combinado_con(ayudarnos, propagación).
-combinado_con(ayudarnos, ministerio).
-combinado_con(ayudarnos, rebrote).
-combinado_con(ayudarnos, problema).
-combinado_con(ayudarnos, capacidad).
-combinado_con(ayudarnos, propiedad).
-combinado_con(ayudarnos, antecedentes).
-combinado_con(ayudarnos, recomendaciones).
-combinado_con(ayudarnos, causa).
-combinado_con(ayudarnos, sospecha).
-combinado_con(ayudarnos, infestación).
-combinado_con(ayudarnos, imputación).
-combinado_con(ayudarnos, serotipo).
-combinado_con(ayudarnos, comunidad).
-combinado_con(ayudarnos, combate).
-combinado_con(ayudarnos, muertes).
-combinado_con(ayudarnos, cifra).
-combinado_con(ayudarnos, síntomas).
-combinado_con(ayudarnos, medicamentos).
-combinado_con(ayudarnos, urgencias).
-combinado_con(ayudarnos, afectados).
-combinado_con(ayudarnos, gobierno).
-combinado_con(ayudarnos, cuidados).
-combinado_con(ayudarnos, promedio).
-combinado_con(ayudarnos, brote).
-combinado_con(ayudarnos, hospitalizaciones).
-combinado_con(ayudarnos, cuadro).
-combinado_con(ayudarnos, enfermedades).
-combinado_con(ayudarnos, recolección).
-combinado_con(ayudarnos, basuras).
-combinado_con(ayudarnos, riesgo).
-combinado_con(ayudarnos, lluvias).
-combinado_con(ayudarnos, concienciación).
-combinado_con(ayudarnos, inacción).
-combinado_con(ayudarnos, baldíos).
-combinado_con(ayudarnos, crecimiento).
-combinado_con(ayudarnos, río).
-combinado_con(ayudarnos, época).
-combinado_con(ayudarnos, plástico).
-combinado_con(ayudarnos, bolsitas).
-combinado_con(ayudarnos, inundaciones).
-combinado_con(supuesto, senadora).
-combinado_con(supuesto, emergencia).
-combinado_con(supuesto, terrenos).
-combinado_con(supuesto, mosquito).
-combinado_con(supuesto, calles).
-combinado_con(supuesto, servicios).
-combinado_con(supuesto, aumento).
-combinado_con(supuesto, dr).
-combinado_con(supuesto, pacientes).
-combinado_con(supuesto, conciencia).
-combinado_con(supuesto, dispersión).
-combinado_con(supuesto, notifaciones).
-combinado_con(supuesto, epidemia).
-combinado_con(supuesto, funcionarios).
-combinado_con(supuesto, extinción).
-combinado_con(supuesto, barrio).
-combinado_con(supuesto, cuadra).
-combinado_con(supuesto, basura).
-combinado_con(supuesto, eliminación).
-combinado_con(supuesto, instituciones).
-combinado_con(supuesto, trabajos).
-combinado_con(supuesto, rastrillaje).
-combinado_con(supuesto, autoridades).
-combinado_con(supuesto, institución).
-combinado_con(supuesto, intendentes).
-combinado_con(supuesto, municipalidad).
-combinado_con(supuesto, acciones).
-combinado_con(supuesto, sanciones).
-combinado_con(supuesto, limpieza).
-combinado_con(supuesto, yuyales).
-combinado_con(supuesto, propagación).
-combinado_con(supuesto, ministerio).
-combinado_con(supuesto, rebrote).
-combinado_con(supuesto, problema).
-combinado_con(supuesto, capacidad).
-combinado_con(supuesto, propiedad).
-combinado_con(supuesto, antecedentes).
-combinado_con(supuesto, recomendaciones).
-combinado_con(supuesto, causa).
-combinado_con(supuesto, sospecha).
-combinado_con(supuesto, infestación).
-combinado_con(supuesto, imputación).
-combinado_con(supuesto, serotipo).
-combinado_con(supuesto, comunidad).
-combinado_con(supuesto, combate).
-combinado_con(supuesto, muertes).
-combinado_con(supuesto, cifra).
-combinado_con(supuesto, síntomas).
-combinado_con(supuesto, medicamentos).
-combinado_con(supuesto, urgencias).
-combinado_con(supuesto, afectados).
-combinado_con(supuesto, gobierno).
-combinado_con(supuesto, cuidados).
-combinado_con(supuesto, promedio).
-combinado_con(supuesto, brote).
-combinado_con(supuesto, hospitalizaciones).
-combinado_con(supuesto, cuadro).
-combinado_con(supuesto, enfermedades).
-combinado_con(supuesto, recolección).
-combinado_con(supuesto, basuras).
-combinado_con(supuesto, riesgo).
-combinado_con(supuesto, lluvias).
-combinado_con(supuesto, concienciación).
-combinado_con(supuesto, inacción).
-combinado_con(supuesto, baldíos).
-combinado_con(supuesto, crecimiento).
-combinado_con(supuesto, río).
-combinado_con(supuesto, época).
-combinado_con(supuesto, plástico).
-combinado_con(supuesto, bolsitas).
-combinado_con(supuesto, inundaciones).
-combinado_con(senadora, emergencia).
-combinado_con(senadora, terrenos).
-combinado_con(senadora, mosquito).
-combinado_con(senadora, calles).
-combinado_con(senadora, servicios).
-combinado_con(senadora, aumento).
-combinado_con(senadora, dr).
-combinado_con(senadora, pacientes).
-combinado_con(senadora, conciencia).
-combinado_con(senadora, dispersión).
-combinado_con(senadora, notifaciones).
-combinado_con(senadora, epidemia).
-combinado_con(senadora, funcionarios).
-combinado_con(senadora, extinción).
-combinado_con(senadora, barrio).
-combinado_con(senadora, cuadra).
-combinado_con(senadora, basura).
-combinado_con(senadora, eliminación).
-combinado_con(senadora, instituciones).
-combinado_con(senadora, trabajos).
-combinado_con(senadora, rastrillaje).
-combinado_con(senadora, autoridades).
-combinado_con(senadora, institución).
-combinado_con(senadora, intendentes).
-combinado_con(senadora, municipalidad).
-combinado_con(senadora, acciones).
-combinado_con(senadora, sanciones).
-combinado_con(senadora, limpieza).
-combinado_con(senadora, yuyales).
-combinado_con(senadora, propagación).
-combinado_con(senadora, ministerio).
-combinado_con(senadora, rebrote).
-combinado_con(senadora, problema).
-combinado_con(senadora, capacidad).
-combinado_con(senadora, propiedad).
-combinado_con(senadora, antecedentes).
-combinado_con(senadora, recomendaciones).
-combinado_con(senadora, causa).
-combinado_con(senadora, sospecha).
-combinado_con(senadora, infestación).
-combinado_con(senadora, imputación).
-combinado_con(senadora, serotipo).
-combinado_con(senadora, comunidad).
-combinado_con(senadora, combate).
-combinado_con(senadora, muertes).
-combinado_con(senadora, cifra).
-combinado_con(senadora, síntomas).
-combinado_con(senadora, medicamentos).
-combinado_con(senadora, urgencias).
-combinado_con(senadora, afectados).
-combinado_con(senadora, gobierno).
-combinado_con(senadora, cuidados).
-combinado_con(senadora, promedio).
-combinado_con(senadora, brote).
-combinado_con(senadora, hospitalizaciones).
-combinado_con(senadora, cuadro).
-combinado_con(senadora, enfermedades).
-combinado_con(senadora, recolección).
-combinado_con(senadora, basuras).
-combinado_con(senadora, riesgo).
-combinado_con(senadora, lluvias).
-combinado_con(senadora, concienciación).
-combinado_con(senadora, inacción).
-combinado_con(senadora, baldíos).
-combinado_con(senadora, crecimiento).
-combinado_con(senadora, río).
-combinado_con(senadora, época).
-combinado_con(senadora, plástico).
-combinado_con(senadora, bolsitas).
-combinado_con(senadora, inundaciones).
-combinado_con(emergencia, terrenos).
-combinado_con(emergencia, mosquito).
-combinado_con(emergencia, calles).
-combinado_con(emergencia, servicios).
-combinado_con(emergencia, aumento).
-combinado_con(emergencia, dr).
-combinado_con(emergencia, pacientes).
-combinado_con(emergencia, conciencia).
-combinado_con(emergencia, dispersión).
-combinado_con(emergencia, notifaciones).
-combinado_con(emergencia, epidemia).
-combinado_con(emergencia, funcionarios).
-combinado_con(emergencia, extinción).
-combinado_con(emergencia, barrio).
-combinado_con(emergencia, cuadra).
-combinado_con(emergencia, basura).
-combinado_con(emergencia, eliminación).
-combinado_con(emergencia, instituciones).
-combinado_con(emergencia, trabajos).
-combinado_con(emergencia, rastrillaje).
-combinado_con(emergencia, autoridades).
-combinado_con(emergencia, institución).
-combinado_con(emergencia, intendentes).
-combinado_con(emergencia, municipalidad).
-combinado_con(emergencia, acciones).
-combinado_con(emergencia, sanciones).
-combinado_con(emergencia, limpieza).
-combinado_con(emergencia, yuyales).
-combinado_con(emergencia, propagación).
-combinado_con(emergencia, ministerio).
-combinado_con(emergencia, rebrote).
-combinado_con(emergencia, problema).
-combinado_con(emergencia, capacidad).
-combinado_con(emergencia, propiedad).
-combinado_con(emergencia, antecedentes).
-combinado_con(emergencia, recomendaciones).
-combinado_con(emergencia, causa).
-combinado_con(emergencia, sospecha).
-combinado_con(emergencia, infestación).
-combinado_con(emergencia, imputación).
-combinado_con(emergencia, serotipo).
-combinado_con(emergencia, comunidad).
-combinado_con(emergencia, combate).
-combinado_con(emergencia, muertes).
-combinado_con(emergencia, cifra).
-combinado_con(emergencia, síntomas).
-combinado_con(emergencia, medicamentos).
-combinado_con(emergencia, urgencias).
-combinado_con(emergencia, afectados).
-combinado_con(emergencia, gobierno).
-combinado_con(emergencia, cuidados).
-combinado_con(emergencia, promedio).
-combinado_con(emergencia, brote).
-combinado_con(emergencia, hospitalizaciones).
-combinado_con(emergencia, cuadro).
-combinado_con(emergencia, enfermedades).
-combinado_con(emergencia, recolección).
-combinado_con(emergencia, basuras).
-combinado_con(emergencia, riesgo).
-combinado_con(emergencia, lluvias).
-combinado_con(emergencia, concienciación).
-combinado_con(emergencia, inacción).
-combinado_con(emergencia, baldíos).
-combinado_con(emergencia, crecimiento).
-combinado_con(emergencia, río).
-combinado_con(emergencia, época).
-combinado_con(emergencia, plástico).
-combinado_con(emergencia, bolsitas).
-combinado_con(emergencia, inundaciones).
-combinado_con(terrenos, mosquito).
-combinado_con(terrenos, calles).
-combinado_con(terrenos, servicios).
-combinado_con(terrenos, aumento).
-combinado_con(terrenos, dr).
-combinado_con(terrenos, pacientes).
-combinado_con(terrenos, conciencia).
-combinado_con(terrenos, dispersión).
-combinado_con(terrenos, notifaciones).
-combinado_con(terrenos, epidemia).
-combinado_con(terrenos, funcionarios).
-combinado_con(terrenos, extinción).
-combinado_con(terrenos, barrio).
-combinado_con(terrenos, cuadra).
-combinado_con(terrenos, basura).
-combinado_con(terrenos, eliminación).
-combinado_con(terrenos, instituciones).
-combinado_con(terrenos, trabajos).
-combinado_con(terrenos, rastrillaje).
-combinado_con(terrenos, autoridades).
-combinado_con(terrenos, institución).
-combinado_con(terrenos, intendentes).
-combinado_con(terrenos, municipalidad).
-combinado_con(terrenos, acciones).
-combinado_con(terrenos, sanciones).
-combinado_con(terrenos, limpieza).
-combinado_con(terrenos, yuyales).
-combinado_con(terrenos, propagación).
-combinado_con(terrenos, ministerio).
-combinado_con(terrenos, rebrote).
-combinado_con(terrenos, problema).
-combinado_con(terrenos, capacidad).
-combinado_con(terrenos, propiedad).
-combinado_con(terrenos, antecedentes).
-combinado_con(terrenos, recomendaciones).
-combinado_con(terrenos, causa).
-combinado_con(terrenos, sospecha).
-combinado_con(terrenos, infestación).
-combinado_con(terrenos, imputación).
-combinado_con(terrenos, serotipo).
-combinado_con(terrenos, comunidad).
-combinado_con(terrenos, combate).
-combinado_con(terrenos, muertes).
-combinado_con(terrenos, cifra).
-combinado_con(terrenos, síntomas).
-combinado_con(terrenos, medicamentos).
-combinado_con(terrenos, urgencias).
-combinado_con(terrenos, afectados).
-combinado_con(terrenos, gobierno).
-combinado_con(terrenos, cuidados).
-combinado_con(terrenos, promedio).
-combinado_con(terrenos, brote).
-combinado_con(terrenos, hospitalizaciones).
-combinado_con(terrenos, cuadro).
-combinado_con(terrenos, enfermedades).
-combinado_con(terrenos, recolección).
-combinado_con(terrenos, basuras).
-combinado_con(terrenos, riesgo).
-combinado_con(terrenos, lluvias).
-combinado_con(terrenos, concienciación).
-combinado_con(terrenos, inacción).
-combinado_con(terrenos, baldíos).
-combinado_con(terrenos, crecimiento).
-combinado_con(terrenos, río).
-combinado_con(terrenos, época).
-combinado_con(terrenos, plástico).
-combinado_con(terrenos, bolsitas).
-combinado_con(terrenos, inundaciones).
-combinado_con(mosquito, calles).
-combinado_con(mosquito, servicios).
-combinado_con(mosquito, aumento).
-combinado_con(mosquito, dr).
-combinado_con(mosquito, pacientes).
-combinado_con(mosquito, conciencia).
-combinado_con(mosquito, dispersión).
-combinado_con(mosquito, notifaciones).
-combinado_con(mosquito, epidemia).
-combinado_con(mosquito, funcionarios).
-combinado_con(mosquito, extinción).
-combinado_con(mosquito, barrio).
-combinado_con(mosquito, cuadra).
-combinado_con(mosquito, basura).
-combinado_con(mosquito, eliminación).
-combinado_con(mosquito, instituciones).
-combinado_con(mosquito, trabajos).
-combinado_con(mosquito, rastrillaje).
-combinado_con(mosquito, autoridades).
-combinado_con(mosquito, institución).
-combinado_con(mosquito, intendentes).
-combinado_con(mosquito, municipalidad).
-combinado_con(mosquito, acciones).
-combinado_con(mosquito, sanciones).
-combinado_con(mosquito, limpieza).
-combinado_con(mosquito, yuyales).
-combinado_con(mosquito, propagación).
-combinado_con(mosquito, ministerio).
-combinado_con(mosquito, rebrote).
-combinado_con(mosquito, problema).
-combinado_con(mosquito, capacidad).
-combinado_con(mosquito, propiedad).
-combinado_con(mosquito, antecedentes).
-combinado_con(mosquito, recomendaciones).
-combinado_con(mosquito, causa).
-combinado_con(mosquito, sospecha).
-combinado_con(mosquito, infestación).
-combinado_con(mosquito, imputación).
-combinado_con(mosquito, serotipo).
-combinado_con(mosquito, comunidad).
-combinado_con(mosquito, combate).
-combinado_con(mosquito, muertes).
-combinado_con(mosquito, cifra).
-combinado_con(mosquito, síntomas).
-combinado_con(mosquito, medicamentos).
-combinado_con(mosquito, urgencias).
-combinado_con(mosquito, afectados).
-combinado_con(mosquito, gobierno).
-combinado_con(mosquito, cuidados).
-combinado_con(mosquito, promedio).
-combinado_con(mosquito, brote).
-combinado_con(mosquito, hospitalizaciones).
-combinado_con(mosquito, cuadro).
-combinado_con(mosquito, enfermedades).
-combinado_con(mosquito, recolección).
-combinado_con(mosquito, basuras).
-combinado_con(mosquito, riesgo).
-combinado_con(mosquito, lluvias).
-combinado_con(mosquito, concienciación).
-combinado_con(mosquito, inacción).
-combinado_con(mosquito, baldíos).
-combinado_con(mosquito, crecimiento).
-combinado_con(mosquito, río).
-combinado_con(mosquito, época).
-combinado_con(mosquito, plástico).
-combinado_con(mosquito, bolsitas).
-combinado_con(mosquito, inundaciones).
-combinado_con(calles, servicios).
-combinado_con(calles, aumento).
-combinado_con(calles, dr).
-combinado_con(calles, pacientes).
-combinado_con(calles, conciencia).
-combinado_con(calles, dispersión).
-combinado_con(calles, notifaciones).
-combinado_con(calles, epidemia).
-combinado_con(calles, funcionarios).
-combinado_con(calles, extinción).
-combinado_con(calles, barrio).
-combinado_con(calles, cuadra).
-combinado_con(calles, basura).
-combinado_con(calles, eliminación).
-combinado_con(calles, instituciones).
-combinado_con(calles, trabajos).
-combinado_con(calles, rastrillaje).
-combinado_con(calles, autoridades).
-combinado_con(calles, institución).
-combinado_con(calles, intendentes).
-combinado_con(calles, municipalidad).
-combinado_con(calles, acciones).
-combinado_con(calles, sanciones).
-combinado_con(calles, limpieza).
-combinado_con(calles, yuyales).
-combinado_con(calles, propagación).
-combinado_con(calles, ministerio).
-combinado_con(calles, rebrote).
-combinado_con(calles, problema).
-combinado_con(calles, capacidad).
-combinado_con(calles, propiedad).
-combinado_con(calles, antecedentes).
-combinado_con(calles, recomendaciones).
-combinado_con(calles, causa).
-combinado_con(calles, sospecha).
-combinado_con(calles, infestación).
-combinado_con(calles, imputación).
-combinado_con(calles, serotipo).
-combinado_con(calles, comunidad).
-combinado_con(calles, combate).
-combinado_con(calles, muertes).
-combinado_con(calles, cifra).
-combinado_con(calles, síntomas).
-combinado_con(calles, medicamentos).
-combinado_con(calles, urgencias).
-combinado_con(calles, afectados).
-combinado_con(calles, gobierno).
-combinado_con(calles, cuidados).
-combinado_con(calles, promedio).
-combinado_con(calles, brote).
-combinado_con(calles, hospitalizaciones).
-combinado_con(calles, cuadro).
-combinado_con(calles, enfermedades).
-combinado_con(calles, recolección).
-combinado_con(calles, basuras).
-combinado_con(calles, riesgo).
-combinado_con(calles, lluvias).
-combinado_con(calles, concienciación).
-combinado_con(calles, inacción).
-combinado_con(calles, baldíos).
-combinado_con(calles, crecimiento).
-combinado_con(calles, río).
-combinado_con(calles, época).
-combinado_con(calles, plástico).
-combinado_con(calles, bolsitas).
-combinado_con(calles, inundaciones).
-combinado_con(servicios, aumento).
-combinado_con(servicios, dr).
-combinado_con(servicios, pacientes).
-combinado_con(servicios, conciencia).
-combinado_con(servicios, dispersión).
-combinado_con(servicios, notifaciones).
-combinado_con(servicios, epidemia).
-combinado_con(servicios, funcionarios).
-combinado_con(servicios, extinción).
-combinado_con(servicios, barrio).
-combinado_con(servicios, cuadra).
-combinado_con(servicios, basura).
-combinado_con(servicios, eliminación).
-combinado_con(servicios, instituciones).
-combinado_con(servicios, trabajos).
-combinado_con(servicios, rastrillaje).
-combinado_con(servicios, autoridades).
-combinado_con(servicios, institución).
-combinado_con(servicios, intendentes).
-combinado_con(servicios, municipalidad).
-combinado_con(servicios, acciones).
-combinado_con(servicios, sanciones).
-combinado_con(servicios, limpieza).
-combinado_con(servicios, yuyales).
-combinado_con(servicios, propagación).
-combinado_con(servicios, ministerio).
-combinado_con(servicios, rebrote).
-combinado_con(servicios, problema).
-combinado_con(servicios, capacidad).
-combinado_con(servicios, propiedad).
-combinado_con(servicios, antecedentes).
-combinado_con(servicios, recomendaciones).
-combinado_con(servicios, causa).
-combinado_con(servicios, sospecha).
-combinado_con(servicios, infestación).
-combinado_con(servicios, imputación).
-combinado_con(servicios, serotipo).
-combinado_con(servicios, comunidad).
-combinado_con(servicios, combate).
-combinado_con(servicios, muertes).
-combinado_con(servicios, cifra).
-combinado_con(servicios, síntomas).
-combinado_con(servicios, medicamentos).
-combinado_con(servicios, urgencias).
-combinado_con(servicios, afectados).
-combinado_con(servicios, gobierno).
-combinado_con(servicios, cuidados).
-combinado_con(servicios, promedio).
-combinado_con(servicios, brote).
-combinado_con(servicios, hospitalizaciones).
-combinado_con(servicios, cuadro).
-combinado_con(servicios, enfermedades).
-combinado_con(servicios, recolección).
-combinado_con(servicios, basuras).
-combinado_con(servicios, riesgo).
-combinado_con(servicios, lluvias).
-combinado_con(servicios, concienciación).
-combinado_con(servicios, inacción).
-combinado_con(servicios, baldíos).
-combinado_con(servicios, crecimiento).
-combinado_con(servicios, río).
-combinado_con(servicios, época).
-combinado_con(servicios, plástico).
-combinado_con(servicios, bolsitas).
-combinado_con(servicios, inundaciones).
-combinado_con(aumento, dr).
-combinado_con(aumento, pacientes).
-combinado_con(aumento, conciencia).
-combinado_con(aumento, dispersión).
-combinado_con(aumento, notifaciones).
-combinado_con(aumento, epidemia).
-combinado_con(aumento, funcionarios).
-combinado_con(aumento, extinción).
-combinado_con(aumento, barrio).
-combinado_con(aumento, cuadra).
-combinado_con(aumento, basura).
-combinado_con(aumento, eliminación).
-combinado_con(aumento, instituciones).
-combinado_con(aumento, trabajos).
-combinado_con(aumento, rastrillaje).
-combinado_con(aumento, autoridades).
-combinado_con(aumento, institución).
-combinado_con(aumento, intendentes).
-combinado_con(aumento, municipalidad).
-combinado_con(aumento, acciones).
-combinado_con(aumento, sanciones).
-combinado_con(aumento, limpieza).
-combinado_con(aumento, yuyales).
-combinado_con(aumento, propagación).
-combinado_con(aumento, ministerio).
-combinado_con(aumento, rebrote).
-combinado_con(aumento, problema).
-combinado_con(aumento, capacidad).
-combinado_con(aumento, propiedad).
-combinado_con(aumento, antecedentes).
-combinado_con(aumento, recomendaciones).
-combinado_con(aumento, causa).
-combinado_con(aumento, sospecha).
-combinado_con(aumento, infestación).
-combinado_con(aumento, imputación).
-combinado_con(aumento, serotipo).
-combinado_con(aumento, comunidad).
-combinado_con(aumento, combate).
-combinado_con(aumento, muertes).
-combinado_con(aumento, cifra).
-combinado_con(aumento, síntomas).
-combinado_con(aumento, medicamentos).
-combinado_con(aumento, urgencias).
-combinado_con(aumento, afectados).
-combinado_con(aumento, gobierno).
-combinado_con(aumento, cuidados).
-combinado_con(aumento, promedio).
-combinado_con(aumento, brote).
-combinado_con(aumento, hospitalizaciones).
-combinado_con(aumento, cuadro).
-combinado_con(aumento, enfermedades).
-combinado_con(aumento, recolección).
-combinado_con(aumento, basuras).
-combinado_con(aumento, riesgo).
-combinado_con(aumento, lluvias).
-combinado_con(aumento, concienciación).
-combinado_con(aumento, inacción).
-combinado_con(aumento, baldíos).
-combinado_con(aumento, crecimiento).
-combinado_con(aumento, río).
-combinado_con(aumento, época).
-combinado_con(aumento, plástico).
-combinado_con(aumento, bolsitas).
-combinado_con(aumento, inundaciones).
-combinado_con(dr, pacientes).
-combinado_con(dr, conciencia).
-combinado_con(dr, dispersión).
-combinado_con(dr, notifaciones).
-combinado_con(dr, epidemia).
-combinado_con(dr, funcionarios).
-combinado_con(dr, extinción).
-combinado_con(dr, barrio).
-combinado_con(dr, cuadra).
-combinado_con(dr, basura).
-combinado_con(dr, eliminación).
-combinado_con(dr, instituciones).
-combinado_con(dr, trabajos).
-combinado_con(dr, rastrillaje).
-combinado_con(dr, autoridades).
-combinado_con(dr, institución).
-combinado_con(dr, intendentes).
-combinado_con(dr, municipalidad).
-combinado_con(dr, acciones).
-combinado_con(dr, sanciones).
-combinado_con(dr, limpieza).
-combinado_con(dr, yuyales).
-combinado_con(dr, propagación).
-combinado_con(dr, ministerio).
-combinado_con(dr, rebrote).
-combinado_con(dr, problema).
-combinado_con(dr, capacidad).
-combinado_con(dr, propiedad).
-combinado_con(dr, antecedentes).
-combinado_con(dr, recomendaciones).
-combinado_con(dr, causa).
-combinado_con(dr, sospecha).
-combinado_con(dr, infestación).
-combinado_con(dr, imputación).
-combinado_con(dr, serotipo).
-combinado_con(dr, comunidad).
-combinado_con(dr, combate).
-combinado_con(dr, muertes).
-combinado_con(dr, cifra).
-combinado_con(dr, síntomas).
-combinado_con(dr, medicamentos).
-combinado_con(dr, urgencias).
-combinado_con(dr, afectados).
-combinado_con(dr, gobierno).
-combinado_con(dr, cuidados).
-combinado_con(dr, promedio).
-combinado_con(dr, brote).
-combinado_con(dr, hospitalizaciones).
-combinado_con(dr, cuadro).
-combinado_con(dr, enfermedades).
-combinado_con(dr, recolección).
-combinado_con(dr, basuras).
-combinado_con(dr, riesgo).
-combinado_con(dr, lluvias).
-combinado_con(dr, concienciación).
-combinado_con(dr, inacción).
-combinado_con(dr, baldíos).
-combinado_con(dr, crecimiento).
-combinado_con(dr, río).
-combinado_con(dr, época).
-combinado_con(dr, plástico).
-combinado_con(dr, bolsitas).
-combinado_con(dr, inundaciones).
-combinado_con(pacientes, conciencia).
-combinado_con(pacientes, dispersión).
-combinado_con(pacientes, notifaciones).
-combinado_con(pacientes, epidemia).
-combinado_con(pacientes, funcionarios).
-combinado_con(pacientes, extinción).
-combinado_con(pacientes, barrio).
-combinado_con(pacientes, cuadra).
-combinado_con(pacientes, basura).
-combinado_con(pacientes, eliminación).
-combinado_con(pacientes, instituciones).
-combinado_con(pacientes, trabajos).
-combinado_con(pacientes, rastrillaje).
-combinado_con(pacientes, autoridades).
-combinado_con(pacientes, institución).
-combinado_con(pacientes, intendentes).
-combinado_con(pacientes, municipalidad).
-combinado_con(pacientes, acciones).
-combinado_con(pacientes, sanciones).
-combinado_con(pacientes, limpieza).
-combinado_con(pacientes, yuyales).
-combinado_con(pacientes, propagación).
-combinado_con(pacientes, ministerio).
-combinado_con(pacientes, rebrote).
-combinado_con(pacientes, problema).
-combinado_con(pacientes, capacidad).
-combinado_con(pacientes, propiedad).
-combinado_con(pacientes, antecedentes).
-combinado_con(pacientes, recomendaciones).
-combinado_con(pacientes, causa).
-combinado_con(pacientes, sospecha).
-combinado_con(pacientes, infestación).
-combinado_con(pacientes, imputación).
-combinado_con(pacientes, serotipo).
-combinado_con(pacientes, comunidad).
-combinado_con(pacientes, combate).
-combinado_con(pacientes, muertes).
-combinado_con(pacientes, cifra).
-combinado_con(pacientes, síntomas).
-combinado_con(pacientes, medicamentos).
-combinado_con(pacientes, urgencias).
-combinado_con(pacientes, afectados).
-combinado_con(pacientes, gobierno).
-combinado_con(pacientes, cuidados).
-combinado_con(pacientes, promedio).
-combinado_con(pacientes, brote).
-combinado_con(pacientes, hospitalizaciones).
-combinado_con(pacientes, cuadro).
-combinado_con(pacientes, enfermedades).
-combinado_con(pacientes, recolección).
-combinado_con(pacientes, basuras).
-combinado_con(pacientes, riesgo).
-combinado_con(pacientes, lluvias).
-combinado_con(pacientes, concienciación).
-combinado_con(pacientes, inacción).
-combinado_con(pacientes, baldíos).
-combinado_con(pacientes, crecimiento).
-combinado_con(pacientes, río).
-combinado_con(pacientes, época).
-combinado_con(pacientes, plástico).
-combinado_con(pacientes, bolsitas).
-combinado_con(pacientes, inundaciones).
-combinado_con(conciencia, dispersión).
-combinado_con(conciencia, notifaciones).
-combinado_con(conciencia, epidemia).
-combinado_con(conciencia, funcionarios).
-combinado_con(conciencia, extinción).
-combinado_con(conciencia, barrio).
-combinado_con(conciencia, cuadra).
-combinado_con(conciencia, basura).
-combinado_con(conciencia, eliminación).
-combinado_con(conciencia, instituciones).
-combinado_con(conciencia, trabajos).
-combinado_con(conciencia, rastrillaje).
-combinado_con(conciencia, autoridades).
-combinado_con(conciencia, institución).
-combinado_con(conciencia, intendentes).
-combinado_con(conciencia, municipalidad).
-combinado_con(conciencia, acciones).
-combinado_con(conciencia, sanciones).
-combinado_con(conciencia, limpieza).
-combinado_con(conciencia, yuyales).
-combinado_con(conciencia, propagación).
-combinado_con(conciencia, ministerio).
-combinado_con(conciencia, rebrote).
-combinado_con(conciencia, problema).
-combinado_con(conciencia, capacidad).
-combinado_con(conciencia, propiedad).
-combinado_con(conciencia, antecedentes).
-combinado_con(conciencia, recomendaciones).
-combinado_con(conciencia, causa).
-combinado_con(conciencia, sospecha).
-combinado_con(conciencia, infestación).
-combinado_con(conciencia, imputación).
-combinado_con(conciencia, serotipo).
-combinado_con(conciencia, comunidad).
-combinado_con(conciencia, combate).
-combinado_con(conciencia, muertes).
-combinado_con(conciencia, cifra).
-combinado_con(conciencia, síntomas).
-combinado_con(conciencia, medicamentos).
-combinado_con(conciencia, urgencias).
-combinado_con(conciencia, afectados).
-combinado_con(conciencia, gobierno).
-combinado_con(conciencia, cuidados).
-combinado_con(conciencia, promedio).
-combinado_con(conciencia, brote).
-combinado_con(conciencia, hospitalizaciones).
-combinado_con(conciencia, cuadro).
-combinado_con(conciencia, enfermedades).
-combinado_con(conciencia, recolección).
-combinado_con(conciencia, basuras).
-combinado_con(conciencia, riesgo).
-combinado_con(conciencia, lluvias).
-combinado_con(conciencia, concienciación).
-combinado_con(conciencia, inacción).
-combinado_con(conciencia, baldíos).
-combinado_con(conciencia, crecimiento).
-combinado_con(conciencia, río).
-combinado_con(conciencia, época).
-combinado_con(conciencia, plástico).
-combinado_con(conciencia, bolsitas).
-combinado_con(conciencia, inundaciones).
-combinado_con(dispersión, notifaciones).
-combinado_con(dispersión, epidemia).
-combinado_con(dispersión, funcionarios).
-combinado_con(dispersión, extinción).
-combinado_con(dispersión, barrio).
-combinado_con(dispersión, cuadra).
-combinado_con(dispersión, basura).
-combinado_con(dispersión, eliminación).
-combinado_con(dispersión, instituciones).
-combinado_con(dispersión, trabajos).
-combinado_con(dispersión, rastrillaje).
-combinado_con(dispersión, autoridades).
-combinado_con(dispersión, institución).
-combinado_con(dispersión, intendentes).
-combinado_con(dispersión, municipalidad).
-combinado_con(dispersión, acciones).
-combinado_con(dispersión, sanciones).
-combinado_con(dispersión, limpieza).
-combinado_con(dispersión, yuyales).
-combinado_con(dispersión, propagación).
-combinado_con(dispersión, ministerio).
-combinado_con(dispersión, rebrote).
-combinado_con(dispersión, problema).
-combinado_con(dispersión, capacidad).
-combinado_con(dispersión, propiedad).
-combinado_con(dispersión, antecedentes).
-combinado_con(dispersión, recomendaciones).
-combinado_con(dispersión, causa).
-combinado_con(dispersión, sospecha).
-combinado_con(dispersión, infestación).
-combinado_con(dispersión, imputación).
-combinado_con(dispersión, serotipo).
-combinado_con(dispersión, comunidad).
-combinado_con(dispersión, combate).
-combinado_con(dispersión, muertes).
-combinado_con(dispersión, cifra).
-combinado_con(dispersión, síntomas).
-combinado_con(dispersión, medicamentos).
-combinado_con(dispersión, urgencias).
-combinado_con(dispersión, afectados).
-combinado_con(dispersión, gobierno).
-combinado_con(dispersión, cuidados).
-combinado_con(dispersión, promedio).
-combinado_con(dispersión, brote).
-combinado_con(dispersión, hospitalizaciones).
-combinado_con(dispersión, cuadro).
-combinado_con(dispersión, enfermedades).
-combinado_con(dispersión, recolección).
-combinado_con(dispersión, basuras).
-combinado_con(dispersión, riesgo).
-combinado_con(dispersión, lluvias).
-combinado_con(dispersión, concienciación).
-combinado_con(dispersión, inacción).
-combinado_con(dispersión, baldíos).
-combinado_con(dispersión, crecimiento).
-combinado_con(dispersión, río).
-combinado_con(dispersión, época).
-combinado_con(dispersión, plástico).
-combinado_con(dispersión, bolsitas).
-combinado_con(dispersión, inundaciones).
-combinado_con(notifaciones, epidemia).
-combinado_con(notifaciones, funcionarios).
-combinado_con(notifaciones, extinción).
-combinado_con(notifaciones, barrio).
-combinado_con(notifaciones, cuadra).
-combinado_con(notifaciones, basura).
-combinado_con(notifaciones, eliminación).
-combinado_con(notifaciones, instituciones).
-combinado_con(notifaciones, trabajos).
-combinado_con(notifaciones, rastrillaje).
-combinado_con(notifaciones, autoridades).
-combinado_con(notifaciones, institución).
-combinado_con(notifaciones, intendentes).
-combinado_con(notifaciones, municipalidad).
-combinado_con(notifaciones, acciones).
-combinado_con(notifaciones, sanciones).
-combinado_con(notifaciones, limpieza).
-combinado_con(notifaciones, yuyales).
-combinado_con(notifaciones, propagación).
-combinado_con(notifaciones, ministerio).
-combinado_con(notifaciones, rebrote).
-combinado_con(notifaciones, problema).
-combinado_con(notifaciones, capacidad).
-combinado_con(notifaciones, propiedad).
-combinado_con(notifaciones, antecedentes).
-combinado_con(notifaciones, recomendaciones).
-combinado_con(notifaciones, causa).
-combinado_con(notifaciones, sospecha).
-combinado_con(notifaciones, infestación).
-combinado_con(notifaciones, imputación).
-combinado_con(notifaciones, serotipo).
-combinado_con(notifaciones, comunidad).
-combinado_con(notifaciones, combate).
-combinado_con(notifaciones, muertes).
-combinado_con(notifaciones, cifra).
-combinado_con(notifaciones, síntomas).
-combinado_con(notifaciones, medicamentos).
-combinado_con(notifaciones, urgencias).
-combinado_con(notifaciones, afectados).
-combinado_con(notifaciones, gobierno).
-combinado_con(notifaciones, cuidados).
-combinado_con(notifaciones, promedio).
-combinado_con(notifaciones, brote).
-combinado_con(notifaciones, hospitalizaciones).
-combinado_con(notifaciones, cuadro).
-combinado_con(notifaciones, enfermedades).
-combinado_con(notifaciones, recolección).
-combinado_con(notifaciones, basuras).
-combinado_con(notifaciones, riesgo).
-combinado_con(notifaciones, lluvias).
-combinado_con(notifaciones, concienciación).
-combinado_con(notifaciones, inacción).
-combinado_con(notifaciones, baldíos).
-combinado_con(notifaciones, crecimiento).
-combinado_con(notifaciones, río).
-combinado_con(notifaciones, época).
-combinado_con(notifaciones, plástico).
-combinado_con(notifaciones, bolsitas).
-combinado_con(notifaciones, inundaciones).
-combinado_con(epidemia, funcionarios).
-combinado_con(epidemia, extinción).
-combinado_con(epidemia, barrio).
-combinado_con(epidemia, cuadra).
-combinado_con(epidemia, basura).
-combinado_con(epidemia, eliminación).
-combinado_con(epidemia, instituciones).
-combinado_con(epidemia, trabajos).
-combinado_con(epidemia, rastrillaje).
-combinado_con(epidemia, autoridades).
-combinado_con(epidemia, institución).
-combinado_con(epidemia, intendentes).
-combinado_con(epidemia, municipalidad).
-combinado_con(epidemia, acciones).
-combinado_con(epidemia, sanciones).
-combinado_con(epidemia, limpieza).
-combinado_con(epidemia, yuyales).
-combinado_con(epidemia, propagación).
-combinado_con(epidemia, ministerio).
-combinado_con(epidemia, rebrote).
-combinado_con(epidemia, problema).
-combinado_con(epidemia, capacidad).
-combinado_con(epidemia, propiedad).
-combinado_con(epidemia, antecedentes).
-combinado_con(epidemia, recomendaciones).
-combinado_con(epidemia, causa).
-combinado_con(epidemia, sospecha).
-combinado_con(epidemia, infestación).
-combinado_con(epidemia, imputación).
-combinado_con(epidemia, serotipo).
-combinado_con(epidemia, comunidad).
-combinado_con(epidemia, combate).
-combinado_con(epidemia, muertes).
-combinado_con(epidemia, cifra).
-combinado_con(epidemia, síntomas).
-combinado_con(epidemia, medicamentos).
-combinado_con(epidemia, urgencias).
-combinado_con(epidemia, afectados).
-combinado_con(epidemia, gobierno).
-combinado_con(epidemia, cuidados).
-combinado_con(epidemia, promedio).
-combinado_con(epidemia, brote).
-combinado_con(epidemia, hospitalizaciones).
-combinado_con(epidemia, cuadro).
-combinado_con(epidemia, enfermedades).
-combinado_con(epidemia, recolección).
-combinado_con(epidemia, basuras).
-combinado_con(epidemia, riesgo).
-combinado_con(epidemia, lluvias).
-combinado_con(epidemia, concienciación).
-combinado_con(epidemia, inacción).
-combinado_con(epidemia, baldíos).
-combinado_con(epidemia, crecimiento).
-combinado_con(epidemia, río).
-combinado_con(epidemia, época).
-combinado_con(epidemia, plástico).
-combinado_con(epidemia, bolsitas).
-combinado_con(epidemia, inundaciones).
-combinado_con(funcionarios, extinción).
-combinado_con(funcionarios, barrio).
-combinado_con(funcionarios, cuadra).
-combinado_con(funcionarios, basura).
-combinado_con(funcionarios, eliminación).
-combinado_con(funcionarios, instituciones).
-combinado_con(funcionarios, trabajos).
-combinado_con(funcionarios, rastrillaje).
-combinado_con(funcionarios, autoridades).
-combinado_con(funcionarios, institución).
-combinado_con(funcionarios, intendentes).
-combinado_con(funcionarios, municipalidad).
-combinado_con(funcionarios, acciones).
-combinado_con(funcionarios, sanciones).
-combinado_con(funcionarios, limpieza).
-combinado_con(funcionarios, yuyales).
-combinado_con(funcionarios, propagación).
-combinado_con(funcionarios, ministerio).
-combinado_con(funcionarios, rebrote).
-combinado_con(funcionarios, problema).
-combinado_con(funcionarios, capacidad).
-combinado_con(funcionarios, propiedad).
-combinado_con(funcionarios, antecedentes).
-combinado_con(funcionarios, recomendaciones).
-combinado_con(funcionarios, causa).
-combinado_con(funcionarios, sospecha).
-combinado_con(funcionarios, infestación).
-combinado_con(funcionarios, imputación).
-combinado_con(funcionarios, serotipo).
-combinado_con(funcionarios, comunidad).
-combinado_con(funcionarios, combate).
-combinado_con(funcionarios, muertes).
-combinado_con(funcionarios, cifra).
-combinado_con(funcionarios, síntomas).
-combinado_con(funcionarios, medicamentos).
-combinado_con(funcionarios, urgencias).
-combinado_con(funcionarios, afectados).
-combinado_con(funcionarios, gobierno).
-combinado_con(funcionarios, cuidados).
-combinado_con(funcionarios, promedio).
-combinado_con(funcionarios, brote).
-combinado_con(funcionarios, hospitalizaciones).
-combinado_con(funcionarios, cuadro).
-combinado_con(funcionarios, enfermedades).
-combinado_con(funcionarios, recolección).
-combinado_con(funcionarios, basuras).
-combinado_con(funcionarios, riesgo).
-combinado_con(funcionarios, lluvias).
-combinado_con(funcionarios, concienciación).
-combinado_con(funcionarios, inacción).
-combinado_con(funcionarios, baldíos).
-combinado_con(funcionarios, crecimiento).
-combinado_con(funcionarios, río).
-combinado_con(funcionarios, época).
-combinado_con(funcionarios, plástico).
-combinado_con(funcionarios, bolsitas).
-combinado_con(funcionarios, inundaciones).
-combinado_con(extinción, barrio).
-combinado_con(extinción, cuadra).
-combinado_con(extinción, basura).
-combinado_con(extinción, eliminación).
-combinado_con(extinción, instituciones).
-combinado_con(extinción, trabajos).
-combinado_con(extinción, rastrillaje).
-combinado_con(extinción, autoridades).
-combinado_con(extinción, institución).
-combinado_con(extinción, intendentes).
-combinado_con(extinción, municipalidad).
-combinado_con(extinción, acciones).
-combinado_con(extinción, sanciones).
-combinado_con(extinción, limpieza).
-combinado_con(extinción, yuyales).
-combinado_con(extinción, propagación).
-combinado_con(extinción, ministerio).
-combinado_con(extinción, rebrote).
-combinado_con(extinción, problema).
-combinado_con(extinción, capacidad).
-combinado_con(extinción, propiedad).
-combinado_con(extinción, antecedentes).
-combinado_con(extinción, recomendaciones).
-combinado_con(extinción, causa).
-combinado_con(extinción, sospecha).
-combinado_con(extinción, infestación).
-combinado_con(extinción, imputación).
-combinado_con(extinción, serotipo).
-combinado_con(extinción, comunidad).
-combinado_con(extinción, combate).
-combinado_con(extinción, muertes).
-combinado_con(extinción, cifra).
-combinado_con(extinción, síntomas).
-combinado_con(extinción, medicamentos).
-combinado_con(extinción, urgencias).
-combinado_con(extinción, afectados).
-combinado_con(extinción, gobierno).
-combinado_con(extinción, cuidados).
-combinado_con(extinción, promedio).
-combinado_con(extinción, brote).
-combinado_con(extinción, hospitalizaciones).
-combinado_con(extinción, cuadro).
-combinado_con(extinción, enfermedades).
-combinado_con(extinción, recolección).
-combinado_con(extinción, basuras).
-combinado_con(extinción, riesgo).
-combinado_con(extinción, lluvias).
-combinado_con(extinción, concienciación).
-combinado_con(extinción, inacción).
-combinado_con(extinción, baldíos).
-combinado_con(extinción, crecimiento).
-combinado_con(extinción, río).
-combinado_con(extinción, época).
-combinado_con(extinción, plástico).
-combinado_con(extinción, bolsitas).
-combinado_con(extinción, inundaciones).
-combinado_con(barrio, cuadra).
-combinado_con(barrio, basura).
-combinado_con(barrio, eliminación).
-combinado_con(barrio, instituciones).
-combinado_con(barrio, trabajos).
-combinado_con(barrio, rastrillaje).
-combinado_con(barrio, autoridades).
-combinado_con(barrio, institución).
-combinado_con(barrio, intendentes).
-combinado_con(barrio, municipalidad).
-combinado_con(barrio, acciones).
-combinado_con(barrio, sanciones).
-combinado_con(barrio, limpieza).
-combinado_con(barrio, yuyales).
-combinado_con(barrio, propagación).
-combinado_con(barrio, ministerio).
-combinado_con(barrio, rebrote).
-combinado_con(barrio, problema).
-combinado_con(barrio, capacidad).
-combinado_con(barrio, propiedad).
-combinado_con(barrio, antecedentes).
-combinado_con(barrio, recomendaciones).
-combinado_con(barrio, causa).
-combinado_con(barrio, sospecha).
-combinado_con(barrio, infestación).
-combinado_con(barrio, imputación).
-combinado_con(barrio, serotipo).
-combinado_con(barrio, comunidad).
-combinado_con(barrio, combate).
-combinado_con(barrio, muertes).
-combinado_con(barrio, cifra).
-combinado_con(barrio, síntomas).
-combinado_con(barrio, medicamentos).
-combinado_con(barrio, urgencias).
-combinado_con(barrio, afectados).
-combinado_con(barrio, gobierno).
-combinado_con(barrio, cuidados).
-combinado_con(barrio, promedio).
-combinado_con(barrio, brote).
-combinado_con(barrio, hospitalizaciones).
-combinado_con(barrio, cuadro).
-combinado_con(barrio, enfermedades).
-combinado_con(barrio, recolección).
-combinado_con(barrio, basuras).
-combinado_con(barrio, riesgo).
-combinado_con(barrio, lluvias).
-combinado_con(barrio, concienciación).
-combinado_con(barrio, inacción).
-combinado_con(barrio, baldíos).
-combinado_con(barrio, crecimiento).
-combinado_con(barrio, río).
-combinado_con(barrio, época).
-combinado_con(barrio, plástico).
-combinado_con(barrio, bolsitas).
-combinado_con(barrio, inundaciones).
-combinado_con(cuadra, basura).
-combinado_con(cuadra, eliminación).
-combinado_con(cuadra, instituciones).
-combinado_con(cuadra, trabajos).
-combinado_con(cuadra, rastrillaje).
-combinado_con(cuadra, autoridades).
-combinado_con(cuadra, institución).
-combinado_con(cuadra, intendentes).
-combinado_con(cuadra, municipalidad).
-combinado_con(cuadra, acciones).
-combinado_con(cuadra, sanciones).
-combinado_con(cuadra, limpieza).
-combinado_con(cuadra, yuyales).
-combinado_con(cuadra, propagación).
-combinado_con(cuadra, ministerio).
-combinado_con(cuadra, rebrote).
-combinado_con(cuadra, problema).
-combinado_con(cuadra, capacidad).
-combinado_con(cuadra, propiedad).
-combinado_con(cuadra, antecedentes).
-combinado_con(cuadra, recomendaciones).
-combinado_con(cuadra, causa).
-combinado_con(cuadra, sospecha).
-combinado_con(cuadra, infestación).
-combinado_con(cuadra, imputación).
-combinado_con(cuadra, serotipo).
-combinado_con(cuadra, comunidad).
-combinado_con(cuadra, combate).
-combinado_con(cuadra, muertes).
-combinado_con(cuadra, cifra).
-combinado_con(cuadra, síntomas).
-combinado_con(cuadra, medicamentos).
-combinado_con(cuadra, urgencias).
-combinado_con(cuadra, afectados).
-combinado_con(cuadra, gobierno).
-combinado_con(cuadra, cuidados).
-combinado_con(cuadra, promedio).
-combinado_con(cuadra, brote).
-combinado_con(cuadra, hospitalizaciones).
-combinado_con(cuadra, cuadro).
-combinado_con(cuadra, enfermedades).
-combinado_con(cuadra, recolección).
-combinado_con(cuadra, basuras).
-combinado_con(cuadra, riesgo).
-combinado_con(cuadra, lluvias).
-combinado_con(cuadra, concienciación).
-combinado_con(cuadra, inacción).
-combinado_con(cuadra, baldíos).
-combinado_con(cuadra, crecimiento).
-combinado_con(cuadra, río).
-combinado_con(cuadra, época).
-combinado_con(cuadra, plástico).
-combinado_con(cuadra, bolsitas).
-combinado_con(cuadra, inundaciones).
-combinado_con(basura, eliminación).
-combinado_con(basura, instituciones).
-combinado_con(basura, trabajos).
-combinado_con(basura, rastrillaje).
-combinado_con(basura, autoridades).
-combinado_con(basura, institución).
-combinado_con(basura, intendentes).
-combinado_con(basura, municipalidad).
-combinado_con(basura, acciones).
-combinado_con(basura, sanciones).
-combinado_con(basura, limpieza).
-combinado_con(basura, yuyales).
-combinado_con(basura, propagación).
-combinado_con(basura, ministerio).
-combinado_con(basura, rebrote).
-combinado_con(basura, problema).
-combinado_con(basura, capacidad).
-combinado_con(basura, propiedad).
-combinado_con(basura, antecedentes).
-combinado_con(basura, recomendaciones).
-combinado_con(basura, causa).
-combinado_con(basura, sospecha).
-combinado_con(basura, infestación).
-combinado_con(basura, imputación).
-combinado_con(basura, serotipo).
-combinado_con(basura, comunidad).
-combinado_con(basura, combate).
-combinado_con(basura, muertes).
-combinado_con(basura, cifra).
-combinado_con(basura, síntomas).
-combinado_con(basura, medicamentos).
-combinado_con(basura, urgencias).
-combinado_con(basura, afectados).
-combinado_con(basura, gobierno).
-combinado_con(basura, cuidados).
-combinado_con(basura, promedio).
-combinado_con(basura, brote).
-combinado_con(basura, hospitalizaciones).
-combinado_con(basura, cuadro).
-combinado_con(basura, enfermedades).
-combinado_con(basura, recolección).
-combinado_con(basura, basuras).
-combinado_con(basura, riesgo).
-combinado_con(basura, lluvias).
-combinado_con(basura, concienciación).
-combinado_con(basura, inacción).
-combinado_con(basura, baldíos).
-combinado_con(basura, crecimiento).
-combinado_con(basura, río).
-combinado_con(basura, época).
-combinado_con(basura, plástico).
-combinado_con(basura, bolsitas).
-combinado_con(basura, inundaciones).
-combinado_con(eliminación, instituciones).
-combinado_con(eliminación, trabajos).
-combinado_con(eliminación, rastrillaje).
-combinado_con(eliminación, autoridades).
-combinado_con(eliminación, institución).
-combinado_con(eliminación, intendentes).
-combinado_con(eliminación, municipalidad).
-combinado_con(eliminación, acciones).
-combinado_con(eliminación, sanciones).
-combinado_con(eliminación, limpieza).
-combinado_con(eliminación, yuyales).
-combinado_con(eliminación, propagación).
-combinado_con(eliminación, ministerio).
-combinado_con(eliminación, rebrote).
-combinado_con(eliminación, problema).
-combinado_con(eliminación, capacidad).
-combinado_con(eliminación, propiedad).
-combinado_con(eliminación, antecedentes).
-combinado_con(eliminación, recomendaciones).
-combinado_con(eliminación, causa).
-combinado_con(eliminación, sospecha).
-combinado_con(eliminación, infestación).
-combinado_con(eliminación, imputación).
-combinado_con(eliminación, serotipo).
-combinado_con(eliminación, comunidad).
-combinado_con(eliminación, combate).
-combinado_con(eliminación, muertes).
-combinado_con(eliminación, cifra).
-combinado_con(eliminación, síntomas).
-combinado_con(eliminación, medicamentos).
-combinado_con(eliminación, urgencias).
-combinado_con(eliminación, afectados).
-combinado_con(eliminación, gobierno).
-combinado_con(eliminación, cuidados).
-combinado_con(eliminación, promedio).
-combinado_con(eliminación, brote).
-combinado_con(eliminación, hospitalizaciones).
-combinado_con(eliminación, cuadro).
-combinado_con(eliminación, enfermedades).
-combinado_con(eliminación, recolección).
-combinado_con(eliminación, basuras).
-combinado_con(eliminación, riesgo).
-combinado_con(eliminación, lluvias).
-combinado_con(eliminación, concienciación).
-combinado_con(eliminación, inacción).
-combinado_con(eliminación, baldíos).
-combinado_con(eliminación, crecimiento).
-combinado_con(eliminación, río).
-combinado_con(eliminación, época).
-combinado_con(eliminación, plástico).
-combinado_con(eliminación, bolsitas).
-combinado_con(eliminación, inundaciones).
-combinado_con(instituciones, trabajos).
-combinado_con(instituciones, rastrillaje).
-combinado_con(instituciones, autoridades).
-combinado_con(instituciones, institución).
-combinado_con(instituciones, intendentes).
-combinado_con(instituciones, municipalidad).
-combinado_con(instituciones, acciones).
-combinado_con(instituciones, sanciones).
-combinado_con(instituciones, limpieza).
-combinado_con(instituciones, yuyales).
-combinado_con(instituciones, propagación).
-combinado_con(instituciones, ministerio).
-combinado_con(instituciones, rebrote).
-combinado_con(instituciones, problema).
-combinado_con(instituciones, capacidad).
-combinado_con(instituciones, propiedad).
-combinado_con(instituciones, antecedentes).
-combinado_con(instituciones, recomendaciones).
-combinado_con(instituciones, causa).
-combinado_con(instituciones, sospecha).
-combinado_con(instituciones, infestación).
-combinado_con(instituciones, imputación).
-combinado_con(instituciones, serotipo).
-combinado_con(instituciones, comunidad).
-combinado_con(instituciones, combate).
-combinado_con(instituciones, muertes).
-combinado_con(instituciones, cifra).
-combinado_con(instituciones, síntomas).
-combinado_con(instituciones, medicamentos).
-combinado_con(instituciones, urgencias).
-combinado_con(instituciones, afectados).
-combinado_con(instituciones, gobierno).
-combinado_con(instituciones, cuidados).
-combinado_con(instituciones, promedio).
-combinado_con(instituciones, brote).
-combinado_con(instituciones, hospitalizaciones).
-combinado_con(instituciones, cuadro).
-combinado_con(instituciones, enfermedades).
-combinado_con(instituciones, recolección).
-combinado_con(instituciones, basuras).
-combinado_con(instituciones, riesgo).
-combinado_con(instituciones, lluvias).
-combinado_con(instituciones, concienciación).
-combinado_con(instituciones, inacción).
-combinado_con(instituciones, baldíos).
-combinado_con(instituciones, crecimiento).
-combinado_con(instituciones, río).
-combinado_con(instituciones, época).
-combinado_con(instituciones, plástico).
-combinado_con(instituciones, bolsitas).
-combinado_con(instituciones, inundaciones).
-combinado_con(trabajos, rastrillaje).
-combinado_con(trabajos, autoridades).
-combinado_con(trabajos, institución).
-combinado_con(trabajos, intendentes).
-combinado_con(trabajos, municipalidad).
-combinado_con(trabajos, acciones).
-combinado_con(trabajos, sanciones).
-combinado_con(trabajos, limpieza).
-combinado_con(trabajos, yuyales).
-combinado_con(trabajos, propagación).
-combinado_con(trabajos, ministerio).
-combinado_con(trabajos, rebrote).
-combinado_con(trabajos, problema).
-combinado_con(trabajos, capacidad).
-combinado_con(trabajos, propiedad).
-combinado_con(trabajos, antecedentes).
-combinado_con(trabajos, recomendaciones).
-combinado_con(trabajos, causa).
-combinado_con(trabajos, sospecha).
-combinado_con(trabajos, infestación).
-combinado_con(trabajos, imputación).
-combinado_con(trabajos, serotipo).
-combinado_con(trabajos, comunidad).
-combinado_con(trabajos, combate).
-combinado_con(trabajos, muertes).
-combinado_con(trabajos, cifra).
-combinado_con(trabajos, síntomas).
-combinado_con(trabajos, medicamentos).
-combinado_con(trabajos, urgencias).
-combinado_con(trabajos, afectados).
-combinado_con(trabajos, gobierno).
-combinado_con(trabajos, cuidados).
-combinado_con(trabajos, promedio).
-combinado_con(trabajos, brote).
-combinado_con(trabajos, hospitalizaciones).
-combinado_con(trabajos, cuadro).
-combinado_con(trabajos, enfermedades).
-combinado_con(trabajos, recolección).
-combinado_con(trabajos, basuras).
-combinado_con(trabajos, riesgo).
-combinado_con(trabajos, lluvias).
-combinado_con(trabajos, concienciación).
-combinado_con(trabajos, inacción).
-combinado_con(trabajos, baldíos).
-combinado_con(trabajos, crecimiento).
-combinado_con(trabajos, río).
-combinado_con(trabajos, época).
-combinado_con(trabajos, plástico).
-combinado_con(trabajos, bolsitas).
-combinado_con(trabajos, inundaciones).
-combinado_con(rastrillaje, autoridades).
-combinado_con(rastrillaje, institución).
-combinado_con(rastrillaje, intendentes).
-combinado_con(rastrillaje, municipalidad).
-combinado_con(rastrillaje, acciones).
-combinado_con(rastrillaje, sanciones).
-combinado_con(rastrillaje, limpieza).
-combinado_con(rastrillaje, yuyales).
-combinado_con(rastrillaje, propagación).
-combinado_con(rastrillaje, ministerio).
-combinado_con(rastrillaje, rebrote).
-combinado_con(rastrillaje, problema).
-combinado_con(rastrillaje, capacidad).
-combinado_con(rastrillaje, propiedad).
-combinado_con(rastrillaje, antecedentes).
-combinado_con(rastrillaje, recomendaciones).
-combinado_con(rastrillaje, causa).
-combinado_con(rastrillaje, sospecha).
-combinado_con(rastrillaje, infestación).
-combinado_con(rastrillaje, imputación).
-combinado_con(rastrillaje, serotipo).
-combinado_con(rastrillaje, comunidad).
-combinado_con(rastrillaje, combate).
-combinado_con(rastrillaje, muertes).
-combinado_con(rastrillaje, cifra).
-combinado_con(rastrillaje, síntomas).
-combinado_con(rastrillaje, medicamentos).
-combinado_con(rastrillaje, urgencias).
-combinado_con(rastrillaje, afectados).
-combinado_con(rastrillaje, gobierno).
-combinado_con(rastrillaje, cuidados).
-combinado_con(rastrillaje, promedio).
-combinado_con(rastrillaje, brote).
-combinado_con(rastrillaje, hospitalizaciones).
-combinado_con(rastrillaje, cuadro).
-combinado_con(rastrillaje, enfermedades).
-combinado_con(rastrillaje, recolección).
-combinado_con(rastrillaje, basuras).
-combinado_con(rastrillaje, riesgo).
-combinado_con(rastrillaje, lluvias).
-combinado_con(rastrillaje, concienciación).
-combinado_con(rastrillaje, inacción).
-combinado_con(rastrillaje, baldíos).
-combinado_con(rastrillaje, crecimiento).
-combinado_con(rastrillaje, río).
-combinado_con(rastrillaje, época).
-combinado_con(rastrillaje, plástico).
-combinado_con(rastrillaje, bolsitas).
-combinado_con(rastrillaje, inundaciones).
-combinado_con(autoridades, institución).
-combinado_con(autoridades, intendentes).
-combinado_con(autoridades, municipalidad).
-combinado_con(autoridades, acciones).
-combinado_con(autoridades, sanciones).
-combinado_con(autoridades, limpieza).
-combinado_con(autoridades, yuyales).
-combinado_con(autoridades, propagación).
-combinado_con(autoridades, ministerio).
-combinado_con(autoridades, rebrote).
-combinado_con(autoridades, problema).
-combinado_con(autoridades, capacidad).
-combinado_con(autoridades, propiedad).
-combinado_con(autoridades, antecedentes).
-combinado_con(autoridades, recomendaciones).
-combinado_con(autoridades, causa).
-combinado_con(autoridades, sospecha).
-combinado_con(autoridades, infestación).
-combinado_con(autoridades, imputación).
-combinado_con(autoridades, serotipo).
-combinado_con(autoridades, comunidad).
-combinado_con(autoridades, combate).
-combinado_con(autoridades, muertes).
-combinado_con(autoridades, cifra).
-combinado_con(autoridades, síntomas).
-combinado_con(autoridades, medicamentos).
-combinado_con(autoridades, urgencias).
-combinado_con(autoridades, afectados).
-combinado_con(autoridades, gobierno).
-combinado_con(autoridades, cuidados).
-combinado_con(autoridades, promedio).
-combinado_con(autoridades, brote).
-combinado_con(autoridades, hospitalizaciones).
-combinado_con(autoridades, cuadro).
-combinado_con(autoridades, enfermedades).
-combinado_con(autoridades, recolección).
-combinado_con(autoridades, basuras).
-combinado_con(autoridades, riesgo).
-combinado_con(autoridades, lluvias).
-combinado_con(autoridades, concienciación).
-combinado_con(autoridades, inacción).
-combinado_con(autoridades, baldíos).
-combinado_con(autoridades, crecimiento).
-combinado_con(autoridades, río).
-combinado_con(autoridades, época).
-combinado_con(autoridades, plástico).
-combinado_con(autoridades, bolsitas).
-combinado_con(autoridades, inundaciones).
-combinado_con(institución, intendentes).
-combinado_con(institución, municipalidad).
-combinado_con(institución, acciones).
-combinado_con(institución, sanciones).
-combinado_con(institución, limpieza).
-combinado_con(institución, yuyales).
-combinado_con(institución, propagación).
-combinado_con(institución, ministerio).
-combinado_con(institución, rebrote).
-combinado_con(institución, problema).
-combinado_con(institución, capacidad).
-combinado_con(institución, propiedad).
-combinado_con(institución, antecedentes).
-combinado_con(institución, recomendaciones).
-combinado_con(institución, causa).
-combinado_con(institución, sospecha).
-combinado_con(institución, infestación).
-combinado_con(institución, imputación).
-combinado_con(institución, serotipo).
-combinado_con(institución, comunidad).
-combinado_con(institución, combate).
-combinado_con(institución, muertes).
-combinado_con(institución, cifra).
-combinado_con(institución, síntomas).
-combinado_con(institución, medicamentos).
-combinado_con(institución, urgencias).
-combinado_con(institución, afectados).
-combinado_con(institución, gobierno).
-combinado_con(institución, cuidados).
-combinado_con(institución, promedio).
-combinado_con(institución, brote).
-combinado_con(institución, hospitalizaciones).
-combinado_con(institución, cuadro).
-combinado_con(institución, enfermedades).
-combinado_con(institución, recolección).
-combinado_con(institución, basuras).
-combinado_con(institución, riesgo).
-combinado_con(institución, lluvias).
-combinado_con(institución, concienciación).
-combinado_con(institución, inacción).
-combinado_con(institución, baldíos).
-combinado_con(institución, crecimiento).
-combinado_con(institución, río).
-combinado_con(institución, época).
-combinado_con(institución, plástico).
-combinado_con(institución, bolsitas).
-combinado_con(institución, inundaciones).
-combinado_con(intendentes, municipalidad).
-combinado_con(intendentes, acciones).
-combinado_con(intendentes, sanciones).
-combinado_con(intendentes, limpieza).
-combinado_con(intendentes, yuyales).
-combinado_con(intendentes, propagación).
-combinado_con(intendentes, ministerio).
-combinado_con(intendentes, rebrote).
-combinado_con(intendentes, problema).
-combinado_con(intendentes, capacidad).
-combinado_con(intendentes, propiedad).
-combinado_con(intendentes, antecedentes).
-combinado_con(intendentes, recomendaciones).
-combinado_con(intendentes, causa).
-combinado_con(intendentes, sospecha).
-combinado_con(intendentes, infestación).
-combinado_con(intendentes, imputación).
-combinado_con(intendentes, serotipo).
-combinado_con(intendentes, comunidad).
-combinado_con(intendentes, combate).
-combinado_con(intendentes, muertes).
-combinado_con(intendentes, cifra).
-combinado_con(intendentes, síntomas).
-combinado_con(intendentes, medicamentos).
-combinado_con(intendentes, urgencias).
-combinado_con(intendentes, afectados).
-combinado_con(intendentes, gobierno).
-combinado_con(intendentes, cuidados).
-combinado_con(intendentes, promedio).
-combinado_con(intendentes, brote).
-combinado_con(intendentes, hospitalizaciones).
-combinado_con(intendentes, cuadro).
-combinado_con(intendentes, enfermedades).
-combinado_con(intendentes, recolección).
-combinado_con(intendentes, basuras).
-combinado_con(intendentes, riesgo).
-combinado_con(intendentes, lluvias).
-combinado_con(intendentes, concienciación).
-combinado_con(intendentes, inacción).
-combinado_con(intendentes, baldíos).
-combinado_con(intendentes, crecimiento).
-combinado_con(intendentes, río).
-combinado_con(intendentes, época).
-combinado_con(intendentes, plástico).
-combinado_con(intendentes, bolsitas).
-combinado_con(intendentes, inundaciones).
-combinado_con(municipalidad, acciones).
-combinado_con(municipalidad, sanciones).
-combinado_con(municipalidad, limpieza).
-combinado_con(municipalidad, yuyales).
-combinado_con(municipalidad, propagación).
-combinado_con(municipalidad, ministerio).
-combinado_con(municipalidad, rebrote).
-combinado_con(municipalidad, problema).
-combinado_con(municipalidad, capacidad).
-combinado_con(municipalidad, propiedad).
-combinado_con(municipalidad, antecedentes).
-combinado_con(municipalidad, recomendaciones).
-combinado_con(municipalidad, causa).
-combinado_con(municipalidad, sospecha).
-combinado_con(municipalidad, infestación).
-combinado_con(municipalidad, imputación).
-combinado_con(municipalidad, serotipo).
-combinado_con(municipalidad, comunidad).
-combinado_con(municipalidad, combate).
-combinado_con(municipalidad, muertes).
-combinado_con(municipalidad, cifra).
-combinado_con(municipalidad, síntomas).
-combinado_con(municipalidad, medicamentos).
-combinado_con(municipalidad, urgencias).
-combinado_con(municipalidad, afectados).
-combinado_con(municipalidad, gobierno).
-combinado_con(municipalidad, cuidados).
-combinado_con(municipalidad, promedio).
-combinado_con(municipalidad, brote).
-combinado_con(municipalidad, hospitalizaciones).
-combinado_con(municipalidad, cuadro).
-combinado_con(municipalidad, enfermedades).
-combinado_con(municipalidad, recolección).
-combinado_con(municipalidad, basuras).
-combinado_con(municipalidad, riesgo).
-combinado_con(municipalidad, lluvias).
-combinado_con(municipalidad, concienciación).
-combinado_con(municipalidad, inacción).
-combinado_con(municipalidad, baldíos).
-combinado_con(municipalidad, crecimiento).
-combinado_con(municipalidad, río).
-combinado_con(municipalidad, época).
-combinado_con(municipalidad, plástico).
-combinado_con(municipalidad, bolsitas).
-combinado_con(municipalidad, inundaciones).
-combinado_con(acciones, sanciones).
-combinado_con(acciones, limpieza).
-combinado_con(acciones, yuyales).
-combinado_con(acciones, propagación).
-combinado_con(acciones, ministerio).
-combinado_con(acciones, rebrote).
-combinado_con(acciones, problema).
-combinado_con(acciones, capacidad).
-combinado_con(acciones, propiedad).
-combinado_con(acciones, antecedentes).
-combinado_con(acciones, recomendaciones).
-combinado_con(acciones, causa).
-combinado_con(acciones, sospecha).
-combinado_con(acciones, infestación).
-combinado_con(acciones, imputación).
-combinado_con(acciones, serotipo).
-combinado_con(acciones, comunidad).
-combinado_con(acciones, combate).
-combinado_con(acciones, muertes).
-combinado_con(acciones, cifra).
-combinado_con(acciones, síntomas).
-combinado_con(acciones, medicamentos).
-combinado_con(acciones, urgencias).
-combinado_con(acciones, afectados).
-combinado_con(acciones, gobierno).
-combinado_con(acciones, cuidados).
-combinado_con(acciones, promedio).
-combinado_con(acciones, brote).
-combinado_con(acciones, hospitalizaciones).
-combinado_con(acciones, cuadro).
-combinado_con(acciones, enfermedades).
-combinado_con(acciones, recolección).
-combinado_con(acciones, basuras).
-combinado_con(acciones, riesgo).
-combinado_con(acciones, lluvias).
-combinado_con(acciones, concienciación).
-combinado_con(acciones, inacción).
-combinado_con(acciones, baldíos).
-combinado_con(acciones, crecimiento).
-combinado_con(acciones, río).
-combinado_con(acciones, época).
-combinado_con(acciones, plástico).
-combinado_con(acciones, bolsitas).
-combinado_con(acciones, inundaciones).
-combinado_con(sanciones, limpieza).
-combinado_con(sanciones, yuyales).
-combinado_con(sanciones, propagación).
-combinado_con(sanciones, ministerio).
-combinado_con(sanciones, rebrote).
-combinado_con(sanciones, problema).
-combinado_con(sanciones, capacidad).
-combinado_con(sanciones, propiedad).
-combinado_con(sanciones, antecedentes).
-combinado_con(sanciones, recomendaciones).
-combinado_con(sanciones, causa).
-combinado_con(sanciones, sospecha).
-combinado_con(sanciones, infestación).
-combinado_con(sanciones, imputación).
-combinado_con(sanciones, serotipo).
-combinado_con(sanciones, comunidad).
-combinado_con(sanciones, combate).
-combinado_con(sanciones, muertes).
-combinado_con(sanciones, cifra).
-combinado_con(sanciones, síntomas).
-combinado_con(sanciones, medicamentos).
-combinado_con(sanciones, urgencias).
-combinado_con(sanciones, afectados).
-combinado_con(sanciones, gobierno).
-combinado_con(sanciones, cuidados).
-combinado_con(sanciones, promedio).
-combinado_con(sanciones, brote).
-combinado_con(sanciones, hospitalizaciones).
-combinado_con(sanciones, cuadro).
-combinado_con(sanciones, enfermedades).
-combinado_con(sanciones, recolección).
-combinado_con(sanciones, basuras).
-combinado_con(sanciones, riesgo).
-combinado_con(sanciones, lluvias).
-combinado_con(sanciones, concienciación).
-combinado_con(sanciones, inacción).
-combinado_con(sanciones, baldíos).
-combinado_con(sanciones, crecimiento).
-combinado_con(sanciones, río).
-combinado_con(sanciones, época).
-combinado_con(sanciones, plástico).
-combinado_con(sanciones, bolsitas).
-combinado_con(sanciones, inundaciones).
-combinado_con(limpieza, yuyales).
-combinado_con(limpieza, propagación).
-combinado_con(limpieza, ministerio).
-combinado_con(limpieza, rebrote).
-combinado_con(limpieza, problema).
-combinado_con(limpieza, capacidad).
-combinado_con(limpieza, propiedad).
-combinado_con(limpieza, antecedentes).
-combinado_con(limpieza, recomendaciones).
-combinado_con(limpieza, causa).
-combinado_con(limpieza, sospecha).
-combinado_con(limpieza, infestación).
-combinado_con(limpieza, imputación).
-combinado_con(limpieza, serotipo).
-combinado_con(limpieza, comunidad).
-combinado_con(limpieza, combate).
-combinado_con(limpieza, muertes).
-combinado_con(limpieza, cifra).
-combinado_con(limpieza, síntomas).
-combinado_con(limpieza, medicamentos).
-combinado_con(limpieza, urgencias).
-combinado_con(limpieza, afectados).
-combinado_con(limpieza, gobierno).
-combinado_con(limpieza, cuidados).
-combinado_con(limpieza, promedio).
-combinado_con(limpieza, brote).
-combinado_con(limpieza, hospitalizaciones).
-combinado_con(limpieza, cuadro).
-combinado_con(limpieza, enfermedades).
-combinado_con(limpieza, recolección).
-combinado_con(limpieza, basuras).
-combinado_con(limpieza, riesgo).
-combinado_con(limpieza, lluvias).
-combinado_con(limpieza, concienciación).
-combinado_con(limpieza, inacción).
-combinado_con(limpieza, baldíos).
-combinado_con(limpieza, crecimiento).
-combinado_con(limpieza, río).
-combinado_con(limpieza, época).
-combinado_con(limpieza, plástico).
-combinado_con(limpieza, bolsitas).
-combinado_con(limpieza, inundaciones).
-combinado_con(yuyales, propagación).
-combinado_con(yuyales, ministerio).
-combinado_con(yuyales, rebrote).
-combinado_con(yuyales, problema).
-combinado_con(yuyales, capacidad).
-combinado_con(yuyales, propiedad).
-combinado_con(yuyales, antecedentes).
-combinado_con(yuyales, recomendaciones).
-combinado_con(yuyales, causa).
-combinado_con(yuyales, sospecha).
-combinado_con(yuyales, infestación).
-combinado_con(yuyales, imputación).
-combinado_con(yuyales, serotipo).
-combinado_con(yuyales, comunidad).
-combinado_con(yuyales, combate).
-combinado_con(yuyales, muertes).
-combinado_con(yuyales, cifra).
-combinado_con(yuyales, síntomas).
-combinado_con(yuyales, medicamentos).
-combinado_con(yuyales, urgencias).
-combinado_con(yuyales, afectados).
-combinado_con(yuyales, gobierno).
-combinado_con(yuyales, cuidados).
-combinado_con(yuyales, promedio).
-combinado_con(yuyales, brote).
-combinado_con(yuyales, hospitalizaciones).
-combinado_con(yuyales, cuadro).
-combinado_con(yuyales, enfermedades).
-combinado_con(yuyales, recolección).
-combinado_con(yuyales, basuras).
-combinado_con(yuyales, riesgo).
-combinado_con(yuyales, lluvias).
-combinado_con(yuyales, concienciación).
-combinado_con(yuyales, inacción).
-combinado_con(yuyales, baldíos).
-combinado_con(yuyales, crecimiento).
-combinado_con(yuyales, río).
-combinado_con(yuyales, época).
-combinado_con(yuyales, plástico).
-combinado_con(yuyales, bolsitas).
-combinado_con(yuyales, inundaciones).
-combinado_con(propagación, ministerio).
-combinado_con(propagación, rebrote).
-combinado_con(propagación, problema).
-combinado_con(propagación, capacidad).
-combinado_con(propagación, propiedad).
-combinado_con(propagación, antecedentes).
-combinado_con(propagación, recomendaciones).
-combinado_con(propagación, causa).
-combinado_con(propagación, sospecha).
-combinado_con(propagación, infestación).
-combinado_con(propagación, imputación).
-combinado_con(propagación, serotipo).
-combinado_con(propagación, comunidad).
-combinado_con(propagación, combate).
-combinado_con(propagación, muertes).
-combinado_con(propagación, cifra).
-combinado_con(propagación, síntomas).
-combinado_con(propagación, medicamentos).
-combinado_con(propagación, urgencias).
-combinado_con(propagación, afectados).
-combinado_con(propagación, gobierno).
-combinado_con(propagación, cuidados).
-combinado_con(propagación, promedio).
-combinado_con(propagación, brote).
-combinado_con(propagación, hospitalizaciones).
-combinado_con(propagación, cuadro).
-combinado_con(propagación, enfermedades).
-combinado_con(propagación, recolección).
-combinado_con(propagación, basuras).
-combinado_con(propagación, riesgo).
-combinado_con(propagación, lluvias).
-combinado_con(propagación, concienciación).
-combinado_con(propagación, inacción).
-combinado_con(propagación, baldíos).
-combinado_con(propagación, crecimiento).
-combinado_con(propagación, río).
-combinado_con(propagación, época).
-combinado_con(propagación, plástico).
-combinado_con(propagación, bolsitas).
-combinado_con(propagación, inundaciones).
-combinado_con(ministerio, rebrote).
-combinado_con(ministerio, problema).
-combinado_con(ministerio, capacidad).
-combinado_con(ministerio, propiedad).
-combinado_con(ministerio, antecedentes).
-combinado_con(ministerio, recomendaciones).
-combinado_con(ministerio, causa).
-combinado_con(ministerio, sospecha).
-combinado_con(ministerio, infestación).
-combinado_con(ministerio, imputación).
-combinado_con(ministerio, serotipo).
-combinado_con(ministerio, comunidad).
-combinado_con(ministerio, combate).
-combinado_con(ministerio, muertes).
-combinado_con(ministerio, cifra).
-combinado_con(ministerio, síntomas).
-combinado_con(ministerio, medicamentos).
-combinado_con(ministerio, urgencias).
-combinado_con(ministerio, afectados).
-combinado_con(ministerio, gobierno).
-combinado_con(ministerio, cuidados).
-combinado_con(ministerio, promedio).
-combinado_con(ministerio, brote).
-combinado_con(ministerio, hospitalizaciones).
-combinado_con(ministerio, cuadro).
-combinado_con(ministerio, enfermedades).
-combinado_con(ministerio, recolección).
-combinado_con(ministerio, basuras).
-combinado_con(ministerio, riesgo).
-combinado_con(ministerio, lluvias).
-combinado_con(ministerio, concienciación).
-combinado_con(ministerio, inacción).
-combinado_con(ministerio, baldíos).
-combinado_con(ministerio, crecimiento).
-combinado_con(ministerio, río).
-combinado_con(ministerio, época).
-combinado_con(ministerio, plástico).
-combinado_con(ministerio, bolsitas).
-combinado_con(ministerio, inundaciones).
-combinado_con(rebrote, problema).
-combinado_con(rebrote, capacidad).
-combinado_con(rebrote, propiedad).
-combinado_con(rebrote, antecedentes).
-combinado_con(rebrote, recomendaciones).
-combinado_con(rebrote, causa).
-combinado_con(rebrote, sospecha).
-combinado_con(rebrote, infestación).
-combinado_con(rebrote, imputación).
-combinado_con(rebrote, serotipo).
-combinado_con(rebrote, comunidad).
-combinado_con(rebrote, combate).
-combinado_con(rebrote, muertes).
-combinado_con(rebrote, cifra).
-combinado_con(rebrote, síntomas).
-combinado_con(rebrote, medicamentos).
-combinado_con(rebrote, urgencias).
-combinado_con(rebrote, afectados).
-combinado_con(rebrote, gobierno).
-combinado_con(rebrote, cuidados).
-combinado_con(rebrote, promedio).
-combinado_con(rebrote, brote).
-combinado_con(rebrote, hospitalizaciones).
-combinado_con(rebrote, cuadro).
-combinado_con(rebrote, enfermedades).
-combinado_con(rebrote, recolección).
-combinado_con(rebrote, basuras).
-combinado_con(rebrote, riesgo).
-combinado_con(rebrote, lluvias).
-combinado_con(rebrote, concienciación).
-combinado_con(rebrote, inacción).
-combinado_con(rebrote, baldíos).
-combinado_con(rebrote, crecimiento).
-combinado_con(rebrote, río).
-combinado_con(rebrote, época).
-combinado_con(rebrote, plástico).
-combinado_con(rebrote, bolsitas).
-combinado_con(rebrote, inundaciones).
-combinado_con(problema, capacidad).
-combinado_con(problema, propiedad).
-combinado_con(problema, antecedentes).
-combinado_con(problema, recomendaciones).
-combinado_con(problema, causa).
-combinado_con(problema, sospecha).
-combinado_con(problema, infestación).
-combinado_con(problema, imputación).
-combinado_con(problema, serotipo).
-combinado_con(problema, comunidad).
-combinado_con(problema, combate).
-combinado_con(problema, muertes).
-combinado_con(problema, cifra).
-combinado_con(problema, síntomas).
-combinado_con(problema, medicamentos).
-combinado_con(problema, urgencias).
-combinado_con(problema, afectados).
-combinado_con(problema, gobierno).
-combinado_con(problema, cuidados).
-combinado_con(problema, promedio).
-combinado_con(problema, brote).
-combinado_con(problema, hospitalizaciones).
-combinado_con(problema, cuadro).
-combinado_con(problema, enfermedades).
-combinado_con(problema, recolección).
-combinado_con(problema, basuras).
-combinado_con(problema, riesgo).
-combinado_con(problema, lluvias).
-combinado_con(problema, concienciación).
-combinado_con(problema, inacción).
-combinado_con(problema, baldíos).
-combinado_con(problema, crecimiento).
-combinado_con(problema, río).
-combinado_con(problema, época).
-combinado_con(problema, plástico).
-combinado_con(problema, bolsitas).
-combinado_con(problema, inundaciones).
-combinado_con(capacidad, propiedad).
-combinado_con(capacidad, antecedentes).
-combinado_con(capacidad, recomendaciones).
-combinado_con(capacidad, causa).
-combinado_con(capacidad, sospecha).
-combinado_con(capacidad, infestación).
-combinado_con(capacidad, imputación).
-combinado_con(capacidad, serotipo).
-combinado_con(capacidad, comunidad).
-combinado_con(capacidad, combate).
-combinado_con(capacidad, muertes).
-combinado_con(capacidad, cifra).
-combinado_con(capacidad, síntomas).
-combinado_con(capacidad, medicamentos).
-combinado_con(capacidad, urgencias).
-combinado_con(capacidad, afectados).
-combinado_con(capacidad, gobierno).
-combinado_con(capacidad, cuidados).
-combinado_con(capacidad, promedio).
-combinado_con(capacidad, brote).
-combinado_con(capacidad, hospitalizaciones).
-combinado_con(capacidad, cuadro).
-combinado_con(capacidad, enfermedades).
-combinado_con(capacidad, recolección).
-combinado_con(capacidad, basuras).
-combinado_con(capacidad, riesgo).
-combinado_con(capacidad, lluvias).
-combinado_con(capacidad, concienciación).
-combinado_con(capacidad, inacción).
-combinado_con(capacidad, baldíos).
-combinado_con(capacidad, crecimiento).
-combinado_con(capacidad, río).
-combinado_con(capacidad, época).
-combinado_con(capacidad, plástico).
-combinado_con(capacidad, bolsitas).
-combinado_con(capacidad, inundaciones).
-combinado_con(propiedad, antecedentes).
-combinado_con(propiedad, recomendaciones).
-combinado_con(propiedad, causa).
-combinado_con(propiedad, sospecha).
-combinado_con(propiedad, infestación).
-combinado_con(propiedad, imputación).
-combinado_con(propiedad, serotipo).
-combinado_con(propiedad, comunidad).
-combinado_con(propiedad, combate).
-combinado_con(propiedad, muertes).
-combinado_con(propiedad, cifra).
-combinado_con(propiedad, síntomas).
-combinado_con(propiedad, medicamentos).
-combinado_con(propiedad, urgencias).
-combinado_con(propiedad, afectados).
-combinado_con(propiedad, gobierno).
-combinado_con(propiedad, cuidados).
-combinado_con(propiedad, promedio).
-combinado_con(propiedad, brote).
-combinado_con(propiedad, hospitalizaciones).
-combinado_con(propiedad, cuadro).
-combinado_con(propiedad, enfermedades).
-combinado_con(propiedad, recolección).
-combinado_con(propiedad, basuras).
-combinado_con(propiedad, riesgo).
-combinado_con(propiedad, lluvias).
-combinado_con(propiedad, concienciación).
-combinado_con(propiedad, inacción).
-combinado_con(propiedad, baldíos).
-combinado_con(propiedad, crecimiento).
-combinado_con(propiedad, río).
-combinado_con(propiedad, época).
-combinado_con(propiedad, plástico).
-combinado_con(propiedad, bolsitas).
-combinado_con(propiedad, inundaciones).
-combinado_con(antecedentes, recomendaciones).
-combinado_con(antecedentes, causa).
-combinado_con(antecedentes, sospecha).
-combinado_con(antecedentes, infestación).
-combinado_con(antecedentes, imputación).
-combinado_con(antecedentes, serotipo).
-combinado_con(antecedentes, comunidad).
-combinado_con(antecedentes, combate).
-combinado_con(antecedentes, muertes).
-combinado_con(antecedentes, cifra).
-combinado_con(antecedentes, síntomas).
-combinado_con(antecedentes, medicamentos).
-combinado_con(antecedentes, urgencias).
-combinado_con(antecedentes, afectados).
-combinado_con(antecedentes, gobierno).
-combinado_con(antecedentes, cuidados).
-combinado_con(antecedentes, promedio).
-combinado_con(antecedentes, brote).
-combinado_con(antecedentes, hospitalizaciones).
-combinado_con(antecedentes, cuadro).
-combinado_con(antecedentes, enfermedades).
-combinado_con(antecedentes, recolección).
-combinado_con(antecedentes, basuras).
-combinado_con(antecedentes, riesgo).
-combinado_con(antecedentes, lluvias).
-combinado_con(antecedentes, concienciación).
-combinado_con(antecedentes, inacción).
-combinado_con(antecedentes, baldíos).
-combinado_con(antecedentes, crecimiento).
-combinado_con(antecedentes, río).
-combinado_con(antecedentes, época).
-combinado_con(antecedentes, plástico).
-combinado_con(antecedentes, bolsitas).
-combinado_con(antecedentes, inundaciones).
-combinado_con(recomendaciones, causa).
-combinado_con(recomendaciones, sospecha).
-combinado_con(recomendaciones, infestación).
-combinado_con(recomendaciones, imputación).
-combinado_con(recomendaciones, serotipo).
-combinado_con(recomendaciones, comunidad).
-combinado_con(recomendaciones, combate).
-combinado_con(recomendaciones, muertes).
-combinado_con(recomendaciones, cifra).
-combinado_con(recomendaciones, síntomas).
-combinado_con(recomendaciones, medicamentos).
-combinado_con(recomendaciones, urgencias).
-combinado_con(recomendaciones, afectados).
-combinado_con(recomendaciones, gobierno).
-combinado_con(recomendaciones, cuidados).
-combinado_con(recomendaciones, promedio).
-combinado_con(recomendaciones, brote).
-combinado_con(recomendaciones, hospitalizaciones).
-combinado_con(recomendaciones, cuadro).
-combinado_con(recomendaciones, enfermedades).
-combinado_con(recomendaciones, recolección).
-combinado_con(recomendaciones, basuras).
-combinado_con(recomendaciones, riesgo).
-combinado_con(recomendaciones, lluvias).
-combinado_con(recomendaciones, concienciación).
-combinado_con(recomendaciones, inacción).
-combinado_con(recomendaciones, baldíos).
-combinado_con(recomendaciones, crecimiento).
-combinado_con(recomendaciones, río).
-combinado_con(recomendaciones, época).
-combinado_con(recomendaciones, plástico).
-combinado_con(recomendaciones, bolsitas).
-combinado_con(recomendaciones, inundaciones).
-combinado_con(causa, sospecha).
-combinado_con(causa, infestación).
-combinado_con(causa, imputación).
-combinado_con(causa, serotipo).
-combinado_con(causa, comunidad).
-combinado_con(causa, combate).
-combinado_con(causa, muertes).
-combinado_con(causa, cifra).
-combinado_con(causa, síntomas).
-combinado_con(causa, medicamentos).
-combinado_con(causa, urgencias).
-combinado_con(causa, afectados).
-combinado_con(causa, gobierno).
-combinado_con(causa, cuidados).
-combinado_con(causa, promedio).
-combinado_con(causa, brote).
-combinado_con(causa, hospitalizaciones).
-combinado_con(causa, cuadro).
-combinado_con(causa, enfermedades).
-combinado_con(causa, recolección).
-combinado_con(causa, basuras).
-combinado_con(causa, riesgo).
-combinado_con(causa, lluvias).
-combinado_con(causa, concienciación).
-combinado_con(causa, inacción).
-combinado_con(causa, baldíos).
-combinado_con(causa, crecimiento).
-combinado_con(causa, río).
-combinado_con(causa, época).
-combinado_con(causa, plástico).
-combinado_con(causa, bolsitas).
-combinado_con(causa, inundaciones).
-combinado_con(sospecha, infestación).
-combinado_con(sospecha, imputación).
-combinado_con(sospecha, serotipo).
-combinado_con(sospecha, comunidad).
-combinado_con(sospecha, combate).
-combinado_con(sospecha, muertes).
-combinado_con(sospecha, cifra).
-combinado_con(sospecha, síntomas).
-combinado_con(sospecha, medicamentos).
-combinado_con(sospecha, urgencias).
-combinado_con(sospecha, afectados).
-combinado_con(sospecha, gobierno).
-combinado_con(sospecha, cuidados).
-combinado_con(sospecha, promedio).
-combinado_con(sospecha, brote).
-combinado_con(sospecha, hospitalizaciones).
-combinado_con(sospecha, cuadro).
-combinado_con(sospecha, enfermedades).
-combinado_con(sospecha, recolección).
-combinado_con(sospecha, basuras).
-combinado_con(sospecha, riesgo).
-combinado_con(sospecha, lluvias).
-combinado_con(sospecha, concienciación).
-combinado_con(sospecha, inacción).
-combinado_con(sospecha, baldíos).
-combinado_con(sospecha, crecimiento).
-combinado_con(sospecha, río).
-combinado_con(sospecha, época).
-combinado_con(sospecha, plástico).
-combinado_con(sospecha, bolsitas).
-combinado_con(sospecha, inundaciones).
-combinado_con(infestación, imputación).
-combinado_con(infestación, serotipo).
-combinado_con(infestación, comunidad).
-combinado_con(infestación, combate).
-combinado_con(infestación, muertes).
-combinado_con(infestación, cifra).
-combinado_con(infestación, síntomas).
-combinado_con(infestación, medicamentos).
-combinado_con(infestación, urgencias).
-combinado_con(infestación, afectados).
-combinado_con(infestación, gobierno).
-combinado_con(infestación, cuidados).
-combinado_con(infestación, promedio).
-combinado_con(infestación, brote).
-combinado_con(infestación, hospitalizaciones).
-combinado_con(infestación, cuadro).
-combinado_con(infestación, enfermedades).
-combinado_con(infestación, recolección).
-combinado_con(infestación, basuras).
-combinado_con(infestación, riesgo).
-combinado_con(infestación, lluvias).
-combinado_con(infestación, concienciación).
-combinado_con(infestación, inacción).
-combinado_con(infestación, baldíos).
-combinado_con(infestación, crecimiento).
-combinado_con(infestación, río).
-combinado_con(infestación, época).
-combinado_con(infestación, plástico).
-combinado_con(infestación, bolsitas).
-combinado_con(infestación, inundaciones).
-combinado_con(imputación, serotipo).
-combinado_con(imputación, comunidad).
-combinado_con(imputación, combate).
-combinado_con(imputación, muertes).
-combinado_con(imputación, cifra).
-combinado_con(imputación, síntomas).
-combinado_con(imputación, medicamentos).
-combinado_con(imputación, urgencias).
-combinado_con(imputación, afectados).
-combinado_con(imputación, gobierno).
-combinado_con(imputación, cuidados).
-combinado_con(imputación, promedio).
-combinado_con(imputación, brote).
-combinado_con(imputación, hospitalizaciones).
-combinado_con(imputación, cuadro).
-combinado_con(imputación, enfermedades).
-combinado_con(imputación, recolección).
-combinado_con(imputación, basuras).
-combinado_con(imputación, riesgo).
-combinado_con(imputación, lluvias).
-combinado_con(imputación, concienciación).
-combinado_con(imputación, inacción).
-combinado_con(imputación, baldíos).
-combinado_con(imputación, crecimiento).
-combinado_con(imputación, río).
-combinado_con(imputación, época).
-combinado_con(imputación, plástico).
-combinado_con(imputación, bolsitas).
-combinado_con(imputación, inundaciones).
-combinado_con(serotipo, comunidad).
-combinado_con(serotipo, combate).
-combinado_con(serotipo, muertes).
-combinado_con(serotipo, cifra).
-combinado_con(serotipo, síntomas).
-combinado_con(serotipo, medicamentos).
-combinado_con(serotipo, urgencias).
-combinado_con(serotipo, afectados).
-combinado_con(serotipo, gobierno).
-combinado_con(serotipo, cuidados).
-combinado_con(serotipo, promedio).
-combinado_con(serotipo, brote).
-combinado_con(serotipo, hospitalizaciones).
-combinado_con(serotipo, cuadro).
-combinado_con(serotipo, enfermedades).
-combinado_con(serotipo, recolección).
-combinado_con(serotipo, basuras).
-combinado_con(serotipo, riesgo).
-combinado_con(serotipo, lluvias).
-combinado_con(serotipo, concienciación).
-combinado_con(serotipo, inacción).
-combinado_con(serotipo, baldíos).
-combinado_con(serotipo, crecimiento).
-combinado_con(serotipo, río).
-combinado_con(serotipo, época).
-combinado_con(serotipo, plástico).
-combinado_con(serotipo, bolsitas).
-combinado_con(serotipo, inundaciones).
-combinado_con(comunidad, combate).
-combinado_con(comunidad, muertes).
-combinado_con(comunidad, cifra).
-combinado_con(comunidad, síntomas).
-combinado_con(comunidad, medicamentos).
-combinado_con(comunidad, urgencias).
-combinado_con(comunidad, afectados).
-combinado_con(comunidad, gobierno).
-combinado_con(comunidad, cuidados).
-combinado_con(comunidad, promedio).
-combinado_con(comunidad, brote).
-combinado_con(comunidad, hospitalizaciones).
-combinado_con(comunidad, cuadro).
-combinado_con(comunidad, enfermedades).
-combinado_con(comunidad, recolección).
-combinado_con(comunidad, basuras).
-combinado_con(comunidad, riesgo).
-combinado_con(comunidad, lluvias).
-combinado_con(comunidad, concienciación).
-combinado_con(comunidad, inacción).
-combinado_con(comunidad, baldíos).
-combinado_con(comunidad, crecimiento).
-combinado_con(comunidad, río).
-combinado_con(comunidad, época).
-combinado_con(comunidad, plástico).
-combinado_con(comunidad, bolsitas).
-combinado_con(comunidad, inundaciones).
-combinado_con(combate, muertes).
-combinado_con(combate, cifra).
-combinado_con(combate, síntomas).
-combinado_con(combate, medicamentos).
-combinado_con(combate, urgencias).
-combinado_con(combate, afectados).
-combinado_con(combate, gobierno).
-combinado_con(combate, cuidados).
-combinado_con(combate, promedio).
-combinado_con(combate, brote).
-combinado_con(combate, hospitalizaciones).
-combinado_con(combate, cuadro).
-combinado_con(combate, enfermedades).
-combinado_con(combate, recolección).
-combinado_con(combate, basuras).
-combinado_con(combate, riesgo).
-combinado_con(combate, lluvias).
-combinado_con(combate, concienciación).
-combinado_con(combate, inacción).
-combinado_con(combate, baldíos).
-combinado_con(combate, crecimiento).
-combinado_con(combate, río).
-combinado_con(combate, época).
-combinado_con(combate, plástico).
-combinado_con(combate, bolsitas).
-combinado_con(combate, inundaciones).
-combinado_con(muertes, cifra).
-combinado_con(muertes, síntomas).
-combinado_con(muertes, medicamentos).
-combinado_con(muertes, urgencias).
-combinado_con(muertes, afectados).
-combinado_con(muertes, gobierno).
-combinado_con(muertes, cuidados).
-combinado_con(muertes, promedio).
-combinado_con(muertes, brote).
-combinado_con(muertes, hospitalizaciones).
-combinado_con(muertes, cuadro).
-combinado_con(muertes, enfermedades).
-combinado_con(muertes, recolección).
-combinado_con(muertes, basuras).
-combinado_con(muertes, riesgo).
-combinado_con(muertes, lluvias).
-combinado_con(muertes, concienciación).
-combinado_con(muertes, inacción).
-combinado_con(muertes, baldíos).
-combinado_con(muertes, crecimiento).
-combinado_con(muertes, río).
-combinado_con(muertes, época).
-combinado_con(muertes, plástico).
-combinado_con(muertes, bolsitas).
-combinado_con(muertes, inundaciones).
-combinado_con(cifra, síntomas).
-combinado_con(cifra, medicamentos).
-combinado_con(cifra, urgencias).
-combinado_con(cifra, afectados).
-combinado_con(cifra, gobierno).
-combinado_con(cifra, cuidados).
-combinado_con(cifra, promedio).
-combinado_con(cifra, brote).
-combinado_con(cifra, hospitalizaciones).
-combinado_con(cifra, cuadro).
-combinado_con(cifra, enfermedades).
-combinado_con(cifra, recolección).
-combinado_con(cifra, basuras).
-combinado_con(cifra, riesgo).
-combinado_con(cifra, lluvias).
-combinado_con(cifra, concienciación).
-combinado_con(cifra, inacción).
-combinado_con(cifra, baldíos).
-combinado_con(cifra, crecimiento).
-combinado_con(cifra, río).
-combinado_con(cifra, época).
-combinado_con(cifra, plástico).
-combinado_con(cifra, bolsitas).
-combinado_con(cifra, inundaciones).
-combinado_con(síntomas, medicamentos).
-combinado_con(síntomas, urgencias).
-combinado_con(síntomas, afectados).
-combinado_con(síntomas, gobierno).
-combinado_con(síntomas, cuidados).
-combinado_con(síntomas, promedio).
-combinado_con(síntomas, brote).
-combinado_con(síntomas, hospitalizaciones).
-combinado_con(síntomas, cuadro).
-combinado_con(síntomas, enfermedades).
-combinado_con(síntomas, recolección).
-combinado_con(síntomas, basuras).
-combinado_con(síntomas, riesgo).
-combinado_con(síntomas, lluvias).
-combinado_con(síntomas, concienciación).
-combinado_con(síntomas, inacción).
-combinado_con(síntomas, baldíos).
-combinado_con(síntomas, crecimiento).
-combinado_con(síntomas, río).
-combinado_con(síntomas, época).
-combinado_con(síntomas, plástico).
-combinado_con(síntomas, bolsitas).
-combinado_con(síntomas, inundaciones).
-combinado_con(medicamentos, urgencias).
-combinado_con(medicamentos, afectados).
-combinado_con(medicamentos, gobierno).
-combinado_con(medicamentos, cuidados).
-combinado_con(medicamentos, promedio).
-combinado_con(medicamentos, brote).
-combinado_con(medicamentos, hospitalizaciones).
-combinado_con(medicamentos, cuadro).
-combinado_con(medicamentos, enfermedades).
-combinado_con(medicamentos, recolección).
-combinado_con(medicamentos, basuras).
-combinado_con(medicamentos, riesgo).
-combinado_con(medicamentos, lluvias).
-combinado_con(medicamentos, concienciación).
-combinado_con(medicamentos, inacción).
-combinado_con(medicamentos, baldíos).
-combinado_con(medicamentos, crecimiento).
-combinado_con(medicamentos, río).
-combinado_con(medicamentos, época).
-combinado_con(medicamentos, plástico).
-combinado_con(medicamentos, bolsitas).
-combinado_con(medicamentos, inundaciones).
-combinado_con(urgencias, afectados).
-combinado_con(urgencias, gobierno).
-combinado_con(urgencias, cuidados).
-combinado_con(urgencias, promedio).
-combinado_con(urgencias, brote).
-combinado_con(urgencias, hospitalizaciones).
-combinado_con(urgencias, cuadro).
-combinado_con(urgencias, enfermedades).
-combinado_con(urgencias, recolección).
-combinado_con(urgencias, basuras).
-combinado_con(urgencias, riesgo).
-combinado_con(urgencias, lluvias).
-combinado_con(urgencias, concienciación).
-combinado_con(urgencias, inacción).
-combinado_con(urgencias, baldíos).
-combinado_con(urgencias, crecimiento).
-combinado_con(urgencias, río).
-combinado_con(urgencias, época).
-combinado_con(urgencias, plástico).
-combinado_con(urgencias, bolsitas).
-combinado_con(urgencias, inundaciones).
-combinado_con(afectados, gobierno).
-combinado_con(afectados, cuidados).
-combinado_con(afectados, promedio).
-combinado_con(afectados, brote).
-combinado_con(afectados, hospitalizaciones).
-combinado_con(afectados, cuadro).
-combinado_con(afectados, enfermedades).
-combinado_con(afectados, recolección).
-combinado_con(afectados, basuras).
-combinado_con(afectados, riesgo).
-combinado_con(afectados, lluvias).
-combinado_con(afectados, concienciación).
-combinado_con(afectados, inacción).
-combinado_con(afectados, baldíos).
-combinado_con(afectados, crecimiento).
-combinado_con(afectados, río).
-combinado_con(afectados, época).
-combinado_con(afectados, plástico).
-combinado_con(afectados, bolsitas).
-combinado_con(afectados, inundaciones).
-combinado_con(gobierno, cuidados).
-combinado_con(gobierno, promedio).
-combinado_con(gobierno, brote).
-combinado_con(gobierno, hospitalizaciones).
-combinado_con(gobierno, cuadro).
-combinado_con(gobierno, enfermedades).
-combinado_con(gobierno, recolección).
-combinado_con(gobierno, basuras).
-combinado_con(gobierno, riesgo).
-combinado_con(gobierno, lluvias).
-combinado_con(gobierno, concienciación).
-combinado_con(gobierno, inacción).
-combinado_con(gobierno, baldíos).
-combinado_con(gobierno, crecimiento).
-combinado_con(gobierno, río).
-combinado_con(gobierno, época).
-combinado_con(gobierno, plástico).
-combinado_con(gobierno, bolsitas).
-combinado_con(gobierno, inundaciones).
-combinado_con(cuidados, promedio).
-combinado_con(cuidados, brote).
-combinado_con(cuidados, hospitalizaciones).
-combinado_con(cuidados, cuadro).
-combinado_con(cuidados, enfermedades).
-combinado_con(cuidados, recolección).
-combinado_con(cuidados, basuras).
-combinado_con(cuidados, riesgo).
-combinado_con(cuidados, lluvias).
-combinado_con(cuidados, concienciación).
-combinado_con(cuidados, inacción).
-combinado_con(cuidados, baldíos).
-combinado_con(cuidados, crecimiento).
-combinado_con(cuidados, río).
-combinado_con(cuidados, época).
-combinado_con(cuidados, plástico).
-combinado_con(cuidados, bolsitas).
-combinado_con(cuidados, inundaciones).
-combinado_con(promedio, brote).
-combinado_con(promedio, hospitalizaciones).
-combinado_con(promedio, cuadro).
-combinado_con(promedio, enfermedades).
-combinado_con(promedio, recolección).
-combinado_con(promedio, basuras).
-combinado_con(promedio, riesgo).
-combinado_con(promedio, lluvias).
-combinado_con(promedio, concienciación).
-combinado_con(promedio, inacción).
-combinado_con(promedio, baldíos).
-combinado_con(promedio, crecimiento).
-combinado_con(promedio, río).
-combinado_con(promedio, época).
-combinado_con(promedio, plástico).
-combinado_con(promedio, bolsitas).
-combinado_con(promedio, inundaciones).
-combinado_con(brote, hospitalizaciones).
-combinado_con(brote, cuadro).
-combinado_con(brote, enfermedades).
-combinado_con(brote, recolección).
-combinado_con(brote, basuras).
-combinado_con(brote, riesgo).
-combinado_con(brote, lluvias).
-combinado_con(brote, concienciación).
-combinado_con(brote, inacción).
-combinado_con(brote, baldíos).
-combinado_con(brote, crecimiento).
-combinado_con(brote, río).
-combinado_con(brote, época).
-combinado_con(brote, plástico).
-combinado_con(brote, bolsitas).
-combinado_con(brote, inundaciones).
-combinado_con(hospitalizaciones, cuadro).
-combinado_con(hospitalizaciones, enfermedades).
-combinado_con(hospitalizaciones, recolección).
-combinado_con(hospitalizaciones, basuras).
-combinado_con(hospitalizaciones, riesgo).
-combinado_con(hospitalizaciones, lluvias).
-combinado_con(hospitalizaciones, concienciación).
-combinado_con(hospitalizaciones, inacción).
-combinado_con(hospitalizaciones, baldíos).
-combinado_con(hospitalizaciones, crecimiento).
-combinado_con(hospitalizaciones, río).
-combinado_con(hospitalizaciones, época).
-combinado_con(hospitalizaciones, plástico).
-combinado_con(hospitalizaciones, bolsitas).
-combinado_con(hospitalizaciones, inundaciones).
-combinado_con(cuadro, enfermedades).
-combinado_con(cuadro, recolección).
-combinado_con(cuadro, basuras).
-combinado_con(cuadro, riesgo).
-combinado_con(cuadro, lluvias).
-combinado_con(cuadro, concienciación).
-combinado_con(cuadro, inacción).
-combinado_con(cuadro, baldíos).
-combinado_con(cuadro, crecimiento).
-combinado_con(cuadro, río).
-combinado_con(cuadro, época).
-combinado_con(cuadro, plástico).
-combinado_con(cuadro, bolsitas).
-combinado_con(cuadro, inundaciones).
-combinado_con(enfermedades, recolección).
-combinado_con(enfermedades, basuras).
-combinado_con(enfermedades, riesgo).
-combinado_con(enfermedades, lluvias).
-combinado_con(enfermedades, concienciación).
-combinado_con(enfermedades, inacción).
-combinado_con(enfermedades, baldíos).
-combinado_con(enfermedades, crecimiento).
-combinado_con(enfermedades, río).
-combinado_con(enfermedades, época).
-combinado_con(enfermedades, plástico).
-combinado_con(enfermedades, bolsitas).
-combinado_con(enfermedades, inundaciones).
-combinado_con(recolección, basuras).
-combinado_con(recolección, riesgo).
-combinado_con(recolección, lluvias).
-combinado_con(recolección, concienciación).
-combinado_con(recolección, inacción).
-combinado_con(recolección, baldíos).
-combinado_con(recolección, crecimiento).
-combinado_con(recolección, río).
-combinado_con(recolección, época).
-combinado_con(recolección, plástico).
-combinado_con(recolección, bolsitas).
-combinado_con(recolección, inundaciones).
-combinado_con(basuras, riesgo).
-combinado_con(basuras, lluvias).
-combinado_con(basuras, concienciación).
-combinado_con(basuras, inacción).
-combinado_con(basuras, baldíos).
-combinado_con(basuras, crecimiento).
-combinado_con(basuras, río).
-combinado_con(basuras, época).
-combinado_con(basuras, plástico).
-combinado_con(basuras, bolsitas).
-combinado_con(basuras, inundaciones).
-combinado_con(riesgo, lluvias).
-combinado_con(riesgo, concienciación).
-combinado_con(riesgo, inacción).
-combinado_con(riesgo, baldíos).
-combinado_con(riesgo, crecimiento).
-combinado_con(riesgo, río).
-combinado_con(riesgo, época).
-combinado_con(riesgo, plástico).
-combinado_con(riesgo, bolsitas).
-combinado_con(riesgo, inundaciones).
-combinado_con(lluvias, concienciación).
-combinado_con(lluvias, inacción).
-combinado_con(lluvias, baldíos).
-combinado_con(lluvias, crecimiento).
-combinado_con(lluvias, río).
-combinado_con(lluvias, época).
-combinado_con(lluvias, plástico).
-combinado_con(lluvias, bolsitas).
-combinado_con(lluvias, inundaciones).
-combinado_con(concienciación, inacción).
-combinado_con(concienciación, baldíos).
-combinado_con(concienciación, crecimiento).
-combinado_con(concienciación, río).
-combinado_con(concienciación, época).
-combinado_con(concienciación, plástico).
-combinado_con(concienciación, bolsitas).
-combinado_con(concienciación, inundaciones).
-combinado_con(inacción, baldíos).
-combinado_con(inacción, crecimiento).
-combinado_con(inacción, río).
-combinado_con(inacción, época).
-combinado_con(inacción, plástico).
-combinado_con(inacción, bolsitas).
-combinado_con(inacción, inundaciones).
-combinado_con(baldíos, crecimiento).
-combinado_con(baldíos, río).
-combinado_con(baldíos, época).
-combinado_con(baldíos, plástico).
-combinado_con(baldíos, bolsitas).
-combinado_con(baldíos, inundaciones).
-combinado_con(crecimiento, río).
-combinado_con(crecimiento, época).
-combinado_con(crecimiento, plástico).
-combinado_con(crecimiento, bolsitas).
-combinado_con(crecimiento, inundaciones).
-combinado_con(río, época).
-combinado_con(río, plástico).
-combinado_con(río, bolsitas).
-combinado_con(río, inundaciones).
-combinado_con(época, plástico).
-combinado_con(época, bolsitas).
-combinado_con(época, inundaciones).
-combinado_con(plástico, bolsitas).
-combinado_con(plástico, inundaciones).
-combinado_con(bolsitas, inundaciones).
-%Conocimiento Base
+foil_predicates([aparece_tweet/2, es_sustantivo_dengue/1, factor_genera/2, '='/2]).
+foil_cwa(true).                   
+foil_use_negations(false).       
+foil_det_lit_bound(0).
+
+verbosity(2).
+
+% Ejemplos positivos
+aparece_tweet(compromiso,sector).
+aparece_tweet(compromiso,herramientas).
+aparece_tweet(compromiso,mosquitos).
+aparece_tweet(compromiso,persona).
+aparece_tweet(compromiso,casos).
+aparece_tweet(compromiso,enfermedad).
+aparece_tweet(compromiso,calle).
+aparece_tweet(compromiso,intervencion).
+aparece_tweet(compromiso,culpa).
+aparece_tweet(compromiso,ciudadano).
+aparece_tweet(compromiso,plaza).
+aparece_tweet(compromiso,abandono).
+aparece_tweet(compromiso,ciudades).
+aparece_tweet(compromiso,ruinas).
+aparece_tweet(compromiso,predio).
+aparece_tweet(compromiso,avenida).
+aparece_tweet(compromiso,chikungunya).
+aparece_tweet(compromiso,poblacion).
+aparece_tweet(compromiso,patios).
+aparece_tweet(compromiso,criaderos).
+aparece_tweet(compromiso,ministro).
+aparece_tweet(compromiso,brotes).
+aparece_tweet(compromiso,zonas).
+aparece_tweet(compromiso,municipios).
+aparece_tweet(compromiso,alerta).
+aparece_tweet(compromiso,focos).
+aparece_tweet(compromiso,fiebre).
+aparece_tweet(compromiso,gente).
+aparece_tweet(compromiso,paciente).
+aparece_tweet(compromiso,dengue).
+aparece_tweet(compromiso,muerte).
+aparece_tweet(compromiso,precio).
+aparece_tweet(compromiso,casas).
+aparece_tweet(compromiso,enfermos).
+aparece_tweet(compromiso,presencia).
+aparece_tweet(compromiso,sintomas).
+aparece_tweet(compromiso,salud).
+aparece_tweet(compromiso,agua).
+aparece_tweet(compromiso,barrios).
+aparece_tweet(compromiso,piscinas).
+aparece_tweet(compromiso,inconsciencia).
+aparece_tweet(compromiso,pileta).
+aparece_tweet(compromiso,multas).
+aparece_tweet(compromiso,titular).
+aparece_tweet(compromiso,ciudad).
+aparece_tweet(compromiso,instalaciones).
+aparece_tweet(compromiso,vector).
+aparece_tweet(compromiso,educacion).
+aparece_tweet(compromiso,disposicion).
+aparece_tweet(compromiso,recursos).
+aparece_tweet(compromiso,lucha).
+aparece_tweet(compromiso,denuncias).
+aparece_tweet(compromiso,neumaticos).
+aparece_tweet(compromiso,chatarras).
+aparece_tweet(compromiso,ayudarnos).
+aparece_tweet(compromiso,supuesto).
+aparece_tweet(compromiso,senadora).
+aparece_tweet(compromiso,emergencia).
+aparece_tweet(compromiso,terrenos).
+aparece_tweet(compromiso,mosquito).
+aparece_tweet(compromiso,calles).
+aparece_tweet(compromiso,servicios).
+aparece_tweet(compromiso,aumento).
+aparece_tweet(compromiso,dr).
+aparece_tweet(compromiso,pacientes).
+aparece_tweet(compromiso,conciencia).
+aparece_tweet(compromiso,dispersion).
+aparece_tweet(compromiso,notifaciones).
+aparece_tweet(compromiso,epidemia).
+aparece_tweet(compromiso,funcionarios).
+aparece_tweet(compromiso,extincion).
+aparece_tweet(compromiso,barrio).
+aparece_tweet(compromiso,cuadra).
+aparece_tweet(compromiso,basura).
+aparece_tweet(compromiso,eliminacion).
+aparece_tweet(compromiso,instituciones).
+aparece_tweet(compromiso,trabajos).
+aparece_tweet(compromiso,rastrillaje).
+aparece_tweet(compromiso,autoridades).
+aparece_tweet(compromiso,institucion).
+aparece_tweet(compromiso,intendentes).
+aparece_tweet(compromiso,municipalidad).
+aparece_tweet(compromiso,acciones).
+aparece_tweet(compromiso,sanciones).
+aparece_tweet(compromiso,limpieza).
+aparece_tweet(compromiso,yuyales).
+aparece_tweet(compromiso,propagacion).
+aparece_tweet(compromiso,ministerio).
+aparece_tweet(compromiso,rebrote).
+aparece_tweet(compromiso,problema).
+aparece_tweet(compromiso,capacidad).
+aparece_tweet(compromiso,propiedad).
+aparece_tweet(compromiso,antecedentes).
+aparece_tweet(compromiso,recomendaciones).
+aparece_tweet(compromiso,causa).
+aparece_tweet(compromiso,sospecha).
+aparece_tweet(compromiso,infestacion).
+aparece_tweet(compromiso,imputacion).
+aparece_tweet(compromiso,serotipo).
+aparece_tweet(compromiso,comunidad).
+aparece_tweet(compromiso,combate).
+aparece_tweet(compromiso,muertes).
+aparece_tweet(compromiso,cifra).
+aparece_tweet(compromiso,sintomas).
+aparece_tweet(compromiso,medicamentos).
+aparece_tweet(compromiso,urgencias).
+aparece_tweet(compromiso,afectados).
+aparece_tweet(compromiso,gobierno).
+aparece_tweet(compromiso,cuidados).
+aparece_tweet(compromiso,promedio).
+aparece_tweet(compromiso,brote).
+aparece_tweet(compromiso,hospitalizaciones).
+aparece_tweet(compromiso,cuadro).
+aparece_tweet(compromiso,enfermedades).
+aparece_tweet(compromiso,recoleccion).
+aparece_tweet(compromiso,basuras).
+aparece_tweet(compromiso,riesgo).
+aparece_tweet(compromiso,lluvias).
+aparece_tweet(compromiso,concienciacion).
+aparece_tweet(compromiso,inaccion).
+aparece_tweet(compromiso,baldios).
+aparece_tweet(compromiso,crecimiento).
+aparece_tweet(compromiso,rio).
+aparece_tweet(compromiso,epoca).
+aparece_tweet(compromiso,plastico).
+aparece_tweet(compromiso,bolsitas).
+aparece_tweet(compromiso,inundaciones).
+aparece_tweet(sector,herramientas).
+aparece_tweet(sector,mosquitos).
+aparece_tweet(sector,persona).
+aparece_tweet(sector,casos).
+aparece_tweet(sector,enfermedad).
+aparece_tweet(sector,calle).
+aparece_tweet(sector,intervencion).
+aparece_tweet(sector,culpa).
+aparece_tweet(sector,ciudadano).
+aparece_tweet(sector,plaza).
+aparece_tweet(sector,abandono).
+aparece_tweet(sector,ciudades).
+aparece_tweet(sector,ruinas).
+aparece_tweet(sector,predio).
+aparece_tweet(sector,avenida).
+aparece_tweet(sector,chikungunya).
+aparece_tweet(sector,poblacion).
+aparece_tweet(sector,patios).
+aparece_tweet(sector,criaderos).
+aparece_tweet(sector,ministro).
+aparece_tweet(sector,brotes).
+aparece_tweet(sector,zonas).
+aparece_tweet(sector,municipios).
+aparece_tweet(sector,alerta).
+aparece_tweet(sector,focos).
+aparece_tweet(sector,fiebre).
+aparece_tweet(sector,gente).
+aparece_tweet(sector,paciente).
+aparece_tweet(sector,dengue).
+aparece_tweet(sector,muerte).
+aparece_tweet(sector,precio).
+aparece_tweet(sector,casas).
+aparece_tweet(sector,enfermos).
+aparece_tweet(sector,presencia).
+aparece_tweet(sector,sintomas).
+aparece_tweet(sector,salud).
+aparece_tweet(sector,agua).
+aparece_tweet(sector,barrios).
+aparece_tweet(sector,piscinas).
+aparece_tweet(sector,inconsciencia).
+aparece_tweet(sector,pileta).
+aparece_tweet(sector,multas).
+aparece_tweet(sector,titular).
+aparece_tweet(sector,ciudad).
+aparece_tweet(sector,instalaciones).
+aparece_tweet(sector,vector).
+aparece_tweet(sector,educacion).
+aparece_tweet(sector,disposicion).
+aparece_tweet(sector,recursos).
+aparece_tweet(sector,lucha).
+aparece_tweet(sector,denuncias).
+aparece_tweet(sector,neumaticos).
+aparece_tweet(sector,chatarras).
+aparece_tweet(sector,ayudarnos).
+aparece_tweet(sector,supuesto).
+aparece_tweet(sector,senadora).
+aparece_tweet(sector,emergencia).
+aparece_tweet(sector,terrenos).
+aparece_tweet(sector,mosquito).
+aparece_tweet(sector,calles).
+aparece_tweet(sector,servicios).
+aparece_tweet(sector,aumento).
+aparece_tweet(sector,dr).
+aparece_tweet(sector,pacientes).
+aparece_tweet(sector,conciencia).
+aparece_tweet(sector,dispersion).
+aparece_tweet(sector,notifaciones).
+aparece_tweet(sector,epidemia).
+aparece_tweet(sector,funcionarios).
+aparece_tweet(sector,extincion).
+aparece_tweet(sector,barrio).
+aparece_tweet(sector,cuadra).
+aparece_tweet(sector,basura).
+aparece_tweet(sector,eliminacion).
+aparece_tweet(sector,instituciones).
+aparece_tweet(sector,trabajos).
+aparece_tweet(sector,rastrillaje).
+aparece_tweet(sector,autoridades).
+aparece_tweet(sector,institucion).
+aparece_tweet(sector,intendentes).
+aparece_tweet(sector,municipalidad).
+aparece_tweet(sector,acciones).
+aparece_tweet(sector,sanciones).
+aparece_tweet(sector,limpieza).
+aparece_tweet(sector,yuyales).
+aparece_tweet(sector,propagacion).
+aparece_tweet(sector,ministerio).
+aparece_tweet(sector,rebrote).
+aparece_tweet(sector,problema).
+aparece_tweet(sector,capacidad).
+aparece_tweet(sector,propiedad).
+aparece_tweet(sector,antecedentes).
+aparece_tweet(sector,recomendaciones).
+aparece_tweet(sector,causa).
+aparece_tweet(sector,sospecha).
+aparece_tweet(sector,infestacion).
+aparece_tweet(sector,imputacion).
+aparece_tweet(sector,serotipo).
+aparece_tweet(sector,comunidad).
+aparece_tweet(sector,combate).
+aparece_tweet(sector,muertes).
+aparece_tweet(sector,cifra).
+aparece_tweet(sector,sintomas).
+aparece_tweet(sector,medicamentos).
+aparece_tweet(sector,urgencias).
+aparece_tweet(sector,afectados).
+aparece_tweet(sector,gobierno).
+aparece_tweet(sector,cuidados).
+aparece_tweet(sector,promedio).
+aparece_tweet(sector,brote).
+aparece_tweet(sector,hospitalizaciones).
+aparece_tweet(sector,cuadro).
+aparece_tweet(sector,enfermedades).
+aparece_tweet(sector,recoleccion).
+aparece_tweet(sector,basuras).
+aparece_tweet(sector,riesgo).
+aparece_tweet(sector,lluvias).
+aparece_tweet(sector,concienciacion).
+aparece_tweet(sector,inaccion).
+aparece_tweet(sector,baldios).
+aparece_tweet(sector,crecimiento).
+aparece_tweet(sector,rio).
+aparece_tweet(sector,epoca).
+aparece_tweet(sector,plastico).
+aparece_tweet(sector,bolsitas).
+aparece_tweet(sector,inundaciones).
+aparece_tweet(herramientas,mosquitos).
+aparece_tweet(herramientas,persona).
+aparece_tweet(herramientas,casos).
+aparece_tweet(herramientas,enfermedad).
+aparece_tweet(herramientas,calle).
+aparece_tweet(herramientas,intervencion).
+aparece_tweet(herramientas,culpa).
+aparece_tweet(herramientas,ciudadano).
+aparece_tweet(herramientas,plaza).
+aparece_tweet(herramientas,abandono).
+aparece_tweet(herramientas,ciudades).
+aparece_tweet(herramientas,ruinas).
+aparece_tweet(herramientas,predio).
+aparece_tweet(herramientas,avenida).
+aparece_tweet(herramientas,chikungunya).
+aparece_tweet(herramientas,poblacion).
+aparece_tweet(herramientas,patios).
+aparece_tweet(herramientas,criaderos).
+aparece_tweet(herramientas,ministro).
+aparece_tweet(herramientas,brotes).
+aparece_tweet(herramientas,zonas).
+aparece_tweet(herramientas,municipios).
+aparece_tweet(herramientas,alerta).
+aparece_tweet(herramientas,focos).
+aparece_tweet(herramientas,fiebre).
+aparece_tweet(herramientas,gente).
+aparece_tweet(herramientas,paciente).
+aparece_tweet(herramientas,dengue).
+aparece_tweet(herramientas,muerte).
+aparece_tweet(herramientas,precio).
+aparece_tweet(herramientas,casas).
+aparece_tweet(herramientas,enfermos).
+aparece_tweet(herramientas,presencia).
+aparece_tweet(herramientas,sintomas).
+aparece_tweet(herramientas,salud).
+aparece_tweet(herramientas,agua).
+aparece_tweet(herramientas,barrios).
+aparece_tweet(herramientas,piscinas).
+aparece_tweet(herramientas,inconsciencia).
+aparece_tweet(herramientas,pileta).
+aparece_tweet(herramientas,multas).
+aparece_tweet(herramientas,titular).
+aparece_tweet(herramientas,ciudad).
+aparece_tweet(herramientas,instalaciones).
+aparece_tweet(herramientas,vector).
+aparece_tweet(herramientas,educacion).
+aparece_tweet(herramientas,disposicion).
+aparece_tweet(herramientas,recursos).
+aparece_tweet(herramientas,lucha).
+aparece_tweet(herramientas,denuncias).
+aparece_tweet(herramientas,neumaticos).
+aparece_tweet(herramientas,chatarras).
+aparece_tweet(herramientas,ayudarnos).
+aparece_tweet(herramientas,supuesto).
+aparece_tweet(herramientas,senadora).
+aparece_tweet(herramientas,emergencia).
+aparece_tweet(herramientas,terrenos).
+aparece_tweet(herramientas,mosquito).
+aparece_tweet(herramientas,calles).
+aparece_tweet(herramientas,servicios).
+aparece_tweet(herramientas,aumento).
+aparece_tweet(herramientas,dr).
+aparece_tweet(herramientas,pacientes).
+aparece_tweet(herramientas,conciencia).
+aparece_tweet(herramientas,dispersion).
+aparece_tweet(herramientas,notifaciones).
+aparece_tweet(herramientas,epidemia).
+aparece_tweet(herramientas,funcionarios).
+aparece_tweet(herramientas,extincion).
+aparece_tweet(herramientas,barrio).
+aparece_tweet(herramientas,cuadra).
+aparece_tweet(herramientas,basura).
+aparece_tweet(herramientas,eliminacion).
+aparece_tweet(herramientas,instituciones).
+aparece_tweet(herramientas,trabajos).
+aparece_tweet(herramientas,rastrillaje).
+aparece_tweet(herramientas,autoridades).
+aparece_tweet(herramientas,institucion).
+aparece_tweet(herramientas,intendentes).
+aparece_tweet(herramientas,municipalidad).
+aparece_tweet(herramientas,acciones).
+aparece_tweet(herramientas,sanciones).
+aparece_tweet(herramientas,limpieza).
+aparece_tweet(herramientas,yuyales).
+aparece_tweet(herramientas,propagacion).
+aparece_tweet(herramientas,ministerio).
+aparece_tweet(herramientas,rebrote).
+aparece_tweet(herramientas,problema).
+aparece_tweet(herramientas,capacidad).
+aparece_tweet(herramientas,propiedad).
+aparece_tweet(herramientas,antecedentes).
+aparece_tweet(herramientas,recomendaciones).
+aparece_tweet(herramientas,causa).
+aparece_tweet(herramientas,sospecha).
+aparece_tweet(herramientas,infestacion).
+aparece_tweet(herramientas,imputacion).
+aparece_tweet(herramientas,serotipo).
+aparece_tweet(herramientas,comunidad).
+aparece_tweet(herramientas,combate).
+aparece_tweet(herramientas,muertes).
+aparece_tweet(herramientas,cifra).
+aparece_tweet(herramientas,sintomas).
+aparece_tweet(herramientas,medicamentos).
+aparece_tweet(herramientas,urgencias).
+aparece_tweet(herramientas,afectados).
+aparece_tweet(herramientas,gobierno).
+aparece_tweet(herramientas,cuidados).
+aparece_tweet(herramientas,promedio).
+aparece_tweet(herramientas,brote).
+aparece_tweet(herramientas,hospitalizaciones).
+aparece_tweet(herramientas,cuadro).
+aparece_tweet(herramientas,enfermedades).
+aparece_tweet(herramientas,recoleccion).
+aparece_tweet(herramientas,basuras).
+aparece_tweet(herramientas,riesgo).
+aparece_tweet(herramientas,lluvias).
+aparece_tweet(herramientas,concienciacion).
+aparece_tweet(herramientas,inaccion).
+aparece_tweet(herramientas,baldios).
+aparece_tweet(herramientas,crecimiento).
+aparece_tweet(herramientas,rio).
+aparece_tweet(herramientas,epoca).
+aparece_tweet(herramientas,plastico).
+aparece_tweet(herramientas,bolsitas).
+aparece_tweet(herramientas,inundaciones).
+aparece_tweet(mosquitos,persona).
+aparece_tweet(mosquitos,casos).
+aparece_tweet(mosquitos,enfermedad).
+aparece_tweet(mosquitos,calle).
+aparece_tweet(mosquitos,intervencion).
+aparece_tweet(mosquitos,culpa).
+aparece_tweet(mosquitos,ciudadano).
+aparece_tweet(mosquitos,plaza).
+aparece_tweet(mosquitos,abandono).
+aparece_tweet(mosquitos,ciudades).
+aparece_tweet(mosquitos,ruinas).
+aparece_tweet(mosquitos,predio).
+aparece_tweet(mosquitos,avenida).
+aparece_tweet(mosquitos,chikungunya).
+aparece_tweet(mosquitos,poblacion).
+aparece_tweet(mosquitos,patios).
+aparece_tweet(mosquitos,criaderos).
+aparece_tweet(mosquitos,ministro).
+aparece_tweet(mosquitos,brotes).
+aparece_tweet(mosquitos,zonas).
+aparece_tweet(mosquitos,municipios).
+aparece_tweet(mosquitos,alerta).
+aparece_tweet(mosquitos,focos).
+aparece_tweet(mosquitos,fiebre).
+aparece_tweet(mosquitos,gente).
+aparece_tweet(mosquitos,paciente).
+aparece_tweet(mosquitos,dengue).
+aparece_tweet(mosquitos,muerte).
+aparece_tweet(mosquitos,precio).
+aparece_tweet(mosquitos,casas).
+aparece_tweet(mosquitos,enfermos).
+aparece_tweet(mosquitos,presencia).
+aparece_tweet(mosquitos,sintomas).
+aparece_tweet(mosquitos,salud).
+aparece_tweet(mosquitos,agua).
+aparece_tweet(mosquitos,barrios).
+aparece_tweet(mosquitos,piscinas).
+aparece_tweet(mosquitos,inconsciencia).
+aparece_tweet(mosquitos,pileta).
+aparece_tweet(mosquitos,multas).
+aparece_tweet(mosquitos,titular).
+aparece_tweet(mosquitos,ciudad).
+aparece_tweet(mosquitos,instalaciones).
+aparece_tweet(mosquitos,vector).
+aparece_tweet(mosquitos,educacion).
+aparece_tweet(mosquitos,disposicion).
+aparece_tweet(mosquitos,recursos).
+aparece_tweet(mosquitos,lucha).
+aparece_tweet(mosquitos,denuncias).
+aparece_tweet(mosquitos,neumaticos).
+aparece_tweet(mosquitos,chatarras).
+aparece_tweet(mosquitos,ayudarnos).
+aparece_tweet(mosquitos,supuesto).
+aparece_tweet(mosquitos,senadora).
+aparece_tweet(mosquitos,emergencia).
+aparece_tweet(mosquitos,terrenos).
+aparece_tweet(mosquitos,mosquito).
+aparece_tweet(mosquitos,calles).
+aparece_tweet(mosquitos,servicios).
+aparece_tweet(mosquitos,aumento).
+aparece_tweet(mosquitos,dr).
+aparece_tweet(mosquitos,pacientes).
+aparece_tweet(mosquitos,conciencia).
+aparece_tweet(mosquitos,dispersion).
+aparece_tweet(mosquitos,notifaciones).
+aparece_tweet(mosquitos,epidemia).
+aparece_tweet(mosquitos,funcionarios).
+aparece_tweet(mosquitos,extincion).
+aparece_tweet(mosquitos,barrio).
+aparece_tweet(mosquitos,cuadra).
+aparece_tweet(mosquitos,basura).
+aparece_tweet(mosquitos,eliminacion).
+aparece_tweet(mosquitos,instituciones).
+aparece_tweet(mosquitos,trabajos).
+aparece_tweet(mosquitos,rastrillaje).
+aparece_tweet(mosquitos,autoridades).
+aparece_tweet(mosquitos,institucion).
+aparece_tweet(mosquitos,intendentes).
+aparece_tweet(mosquitos,municipalidad).
+aparece_tweet(mosquitos,acciones).
+aparece_tweet(mosquitos,sanciones).
+aparece_tweet(mosquitos,limpieza).
+aparece_tweet(mosquitos,yuyales).
+aparece_tweet(mosquitos,propagacion).
+aparece_tweet(mosquitos,ministerio).
+aparece_tweet(mosquitos,rebrote).
+aparece_tweet(mosquitos,problema).
+aparece_tweet(mosquitos,capacidad).
+aparece_tweet(mosquitos,propiedad).
+aparece_tweet(mosquitos,antecedentes).
+aparece_tweet(mosquitos,recomendaciones).
+aparece_tweet(mosquitos,causa).
+aparece_tweet(mosquitos,sospecha).
+aparece_tweet(mosquitos,infestacion).
+aparece_tweet(mosquitos,imputacion).
+aparece_tweet(mosquitos,serotipo).
+aparece_tweet(mosquitos,comunidad).
+aparece_tweet(mosquitos,combate).
+aparece_tweet(mosquitos,muertes).
+aparece_tweet(mosquitos,cifra).
+aparece_tweet(mosquitos,sintomas).
+aparece_tweet(mosquitos,medicamentos).
+aparece_tweet(mosquitos,urgencias).
+aparece_tweet(mosquitos,afectados).
+aparece_tweet(mosquitos,gobierno).
+aparece_tweet(mosquitos,cuidados).
+aparece_tweet(mosquitos,promedio).
+aparece_tweet(mosquitos,brote).
+aparece_tweet(mosquitos,hospitalizaciones).
+aparece_tweet(mosquitos,cuadro).
+aparece_tweet(mosquitos,enfermedades).
+aparece_tweet(mosquitos,recoleccion).
+aparece_tweet(mosquitos,basuras).
+aparece_tweet(mosquitos,riesgo).
+aparece_tweet(mosquitos,lluvias).
+aparece_tweet(mosquitos,concienciacion).
+aparece_tweet(mosquitos,inaccion).
+aparece_tweet(mosquitos,baldios).
+aparece_tweet(mosquitos,crecimiento).
+aparece_tweet(mosquitos,rio).
+aparece_tweet(mosquitos,epoca).
+aparece_tweet(mosquitos,plastico).
+aparece_tweet(mosquitos,bolsitas).
+aparece_tweet(mosquitos,inundaciones).
+aparece_tweet(persona,casos).
+aparece_tweet(persona,enfermedad).
+aparece_tweet(persona,calle).
+aparece_tweet(persona,intervencion).
+aparece_tweet(persona,culpa).
+aparece_tweet(persona,ciudadano).
+aparece_tweet(persona,plaza).
+aparece_tweet(persona,abandono).
+aparece_tweet(persona,ciudades).
+aparece_tweet(persona,ruinas).
+aparece_tweet(persona,predio).
+aparece_tweet(persona,avenida).
+aparece_tweet(persona,chikungunya).
+aparece_tweet(persona,poblacion).
+aparece_tweet(persona,patios).
+aparece_tweet(persona,criaderos).
+aparece_tweet(persona,ministro).
+aparece_tweet(persona,brotes).
+aparece_tweet(persona,zonas).
+aparece_tweet(persona,municipios).
+aparece_tweet(persona,alerta).
+aparece_tweet(persona,focos).
+aparece_tweet(persona,fiebre).
+aparece_tweet(persona,gente).
+aparece_tweet(persona,paciente).
+aparece_tweet(persona,dengue).
+aparece_tweet(persona,muerte).
+aparece_tweet(persona,precio).
+aparece_tweet(persona,casas).
+aparece_tweet(persona,enfermos).
+aparece_tweet(persona,presencia).
+aparece_tweet(persona,sintomas).
+aparece_tweet(persona,salud).
+aparece_tweet(persona,agua).
+aparece_tweet(persona,barrios).
+aparece_tweet(persona,piscinas).
+aparece_tweet(persona,inconsciencia).
+aparece_tweet(persona,pileta).
+aparece_tweet(persona,multas).
+aparece_tweet(persona,titular).
+aparece_tweet(persona,ciudad).
+aparece_tweet(persona,instalaciones).
+aparece_tweet(persona,vector).
+aparece_tweet(persona,educacion).
+aparece_tweet(persona,disposicion).
+aparece_tweet(persona,recursos).
+aparece_tweet(persona,lucha).
+aparece_tweet(persona,denuncias).
+aparece_tweet(persona,neumaticos).
+aparece_tweet(persona,chatarras).
+aparece_tweet(persona,ayudarnos).
+aparece_tweet(persona,supuesto).
+aparece_tweet(persona,senadora).
+aparece_tweet(persona,emergencia).
+aparece_tweet(persona,terrenos).
+aparece_tweet(persona,mosquito).
+aparece_tweet(persona,calles).
+aparece_tweet(persona,servicios).
+aparece_tweet(persona,aumento).
+aparece_tweet(persona,dr).
+aparece_tweet(persona,pacientes).
+aparece_tweet(persona,conciencia).
+aparece_tweet(persona,dispersion).
+aparece_tweet(persona,notifaciones).
+aparece_tweet(persona,epidemia).
+aparece_tweet(persona,funcionarios).
+aparece_tweet(persona,extincion).
+aparece_tweet(persona,barrio).
+aparece_tweet(persona,cuadra).
+aparece_tweet(persona,basura).
+aparece_tweet(persona,eliminacion).
+aparece_tweet(persona,instituciones).
+aparece_tweet(persona,trabajos).
+aparece_tweet(persona,rastrillaje).
+aparece_tweet(persona,autoridades).
+aparece_tweet(persona,institucion).
+aparece_tweet(persona,intendentes).
+aparece_tweet(persona,municipalidad).
+aparece_tweet(persona,acciones).
+aparece_tweet(persona,sanciones).
+aparece_tweet(persona,limpieza).
+aparece_tweet(persona,yuyales).
+aparece_tweet(persona,propagacion).
+aparece_tweet(persona,ministerio).
+aparece_tweet(persona,rebrote).
+aparece_tweet(persona,problema).
+aparece_tweet(persona,capacidad).
+aparece_tweet(persona,propiedad).
+aparece_tweet(persona,antecedentes).
+aparece_tweet(persona,recomendaciones).
+aparece_tweet(persona,causa).
+aparece_tweet(persona,sospecha).
+aparece_tweet(persona,infestacion).
+aparece_tweet(persona,imputacion).
+aparece_tweet(persona,serotipo).
+aparece_tweet(persona,comunidad).
+aparece_tweet(persona,combate).
+aparece_tweet(persona,muertes).
+aparece_tweet(persona,cifra).
+aparece_tweet(persona,sintomas).
+aparece_tweet(persona,medicamentos).
+aparece_tweet(persona,urgencias).
+aparece_tweet(persona,afectados).
+aparece_tweet(persona,gobierno).
+aparece_tweet(persona,cuidados).
+aparece_tweet(persona,promedio).
+aparece_tweet(persona,brote).
+aparece_tweet(persona,hospitalizaciones).
+aparece_tweet(persona,cuadro).
+aparece_tweet(persona,enfermedades).
+aparece_tweet(persona,recoleccion).
+aparece_tweet(persona,basuras).
+aparece_tweet(persona,riesgo).
+aparece_tweet(persona,lluvias).
+aparece_tweet(persona,concienciacion).
+aparece_tweet(persona,inaccion).
+aparece_tweet(persona,baldios).
+aparece_tweet(persona,crecimiento).
+aparece_tweet(persona,rio).
+aparece_tweet(persona,epoca).
+aparece_tweet(persona,plastico).
+aparece_tweet(persona,bolsitas).
+aparece_tweet(persona,inundaciones).
+aparece_tweet(casos,enfermedad).
+aparece_tweet(casos,calle).
+aparece_tweet(casos,intervencion).
+aparece_tweet(casos,culpa).
+aparece_tweet(casos,ciudadano).
+aparece_tweet(casos,plaza).
+aparece_tweet(casos,abandono).
+aparece_tweet(casos,ciudades).
+aparece_tweet(casos,ruinas).
+aparece_tweet(casos,predio).
+aparece_tweet(casos,avenida).
+aparece_tweet(casos,chikungunya).
+aparece_tweet(casos,poblacion).
+aparece_tweet(casos,patios).
+aparece_tweet(casos,criaderos).
+aparece_tweet(casos,ministro).
+aparece_tweet(casos,brotes).
+aparece_tweet(casos,zonas).
+aparece_tweet(casos,municipios).
+aparece_tweet(casos,alerta).
+aparece_tweet(casos,focos).
+aparece_tweet(casos,fiebre).
+aparece_tweet(casos,gente).
+aparece_tweet(casos,paciente).
+aparece_tweet(casos,dengue).
+aparece_tweet(casos,muerte).
+aparece_tweet(casos,precio).
+aparece_tweet(casos,casas).
+aparece_tweet(casos,enfermos).
+aparece_tweet(casos,presencia).
+aparece_tweet(casos,sintomas).
+aparece_tweet(casos,salud).
+aparece_tweet(casos,agua).
+aparece_tweet(casos,barrios).
+aparece_tweet(casos,piscinas).
+aparece_tweet(casos,inconsciencia).
+aparece_tweet(casos,pileta).
+aparece_tweet(casos,multas).
+aparece_tweet(casos,titular).
+aparece_tweet(casos,ciudad).
+aparece_tweet(casos,instalaciones).
+aparece_tweet(casos,vector).
+aparece_tweet(casos,educacion).
+aparece_tweet(casos,disposicion).
+aparece_tweet(casos,recursos).
+aparece_tweet(casos,lucha).
+aparece_tweet(casos,denuncias).
+aparece_tweet(casos,neumaticos).
+aparece_tweet(casos,chatarras).
+aparece_tweet(casos,ayudarnos).
+aparece_tweet(casos,supuesto).
+aparece_tweet(casos,senadora).
+aparece_tweet(casos,emergencia).
+aparece_tweet(casos,terrenos).
+aparece_tweet(casos,mosquito).
+aparece_tweet(casos,calles).
+aparece_tweet(casos,servicios).
+aparece_tweet(casos,aumento).
+aparece_tweet(casos,dr).
+aparece_tweet(casos,pacientes).
+aparece_tweet(casos,conciencia).
+aparece_tweet(casos,dispersion).
+aparece_tweet(casos,notifaciones).
+aparece_tweet(casos,epidemia).
+aparece_tweet(casos,funcionarios).
+aparece_tweet(casos,extincion).
+aparece_tweet(casos,barrio).
+aparece_tweet(casos,cuadra).
+aparece_tweet(casos,basura).
+aparece_tweet(casos,eliminacion).
+aparece_tweet(casos,instituciones).
+aparece_tweet(casos,trabajos).
+aparece_tweet(casos,rastrillaje).
+aparece_tweet(casos,autoridades).
+aparece_tweet(casos,institucion).
+aparece_tweet(casos,intendentes).
+aparece_tweet(casos,municipalidad).
+aparece_tweet(casos,acciones).
+aparece_tweet(casos,sanciones).
+aparece_tweet(casos,limpieza).
+aparece_tweet(casos,yuyales).
+aparece_tweet(casos,propagacion).
+aparece_tweet(casos,ministerio).
+aparece_tweet(casos,rebrote).
+aparece_tweet(casos,problema).
+aparece_tweet(casos,capacidad).
+aparece_tweet(casos,propiedad).
+aparece_tweet(casos,antecedentes).
+aparece_tweet(casos,recomendaciones).
+aparece_tweet(casos,causa).
+aparece_tweet(casos,sospecha).
+aparece_tweet(casos,infestacion).
+aparece_tweet(casos,imputacion).
+aparece_tweet(casos,serotipo).
+aparece_tweet(casos,comunidad).
+aparece_tweet(casos,combate).
+aparece_tweet(casos,muertes).
+aparece_tweet(casos,cifra).
+aparece_tweet(casos,sintomas).
+aparece_tweet(casos,medicamentos).
+aparece_tweet(casos,urgencias).
+aparece_tweet(casos,afectados).
+aparece_tweet(casos,gobierno).
+aparece_tweet(casos,cuidados).
+aparece_tweet(casos,promedio).
+aparece_tweet(casos,brote).
+aparece_tweet(casos,hospitalizaciones).
+aparece_tweet(casos,cuadro).
+aparece_tweet(casos,enfermedades).
+aparece_tweet(casos,recoleccion).
+aparece_tweet(casos,basuras).
+aparece_tweet(casos,riesgo).
+aparece_tweet(casos,lluvias).
+aparece_tweet(casos,concienciacion).
+aparece_tweet(casos,inaccion).
+aparece_tweet(casos,baldios).
+aparece_tweet(casos,crecimiento).
+aparece_tweet(casos,rio).
+aparece_tweet(casos,epoca).
+aparece_tweet(casos,plastico).
+aparece_tweet(casos,bolsitas).
+aparece_tweet(casos,inundaciones).
+aparece_tweet(enfermedad,calle).
+aparece_tweet(enfermedad,intervencion).
+aparece_tweet(enfermedad,culpa).
+aparece_tweet(enfermedad,ciudadano).
+aparece_tweet(enfermedad,plaza).
+aparece_tweet(enfermedad,abandono).
+aparece_tweet(enfermedad,ciudades).
+aparece_tweet(enfermedad,ruinas).
+aparece_tweet(enfermedad,predio).
+aparece_tweet(enfermedad,avenida).
+aparece_tweet(enfermedad,chikungunya).
+aparece_tweet(enfermedad,poblacion).
+aparece_tweet(enfermedad,patios).
+aparece_tweet(enfermedad,criaderos).
+aparece_tweet(enfermedad,ministro).
+aparece_tweet(enfermedad,brotes).
+aparece_tweet(enfermedad,zonas).
+aparece_tweet(enfermedad,municipios).
+aparece_tweet(enfermedad,alerta).
+aparece_tweet(enfermedad,focos).
+aparece_tweet(enfermedad,fiebre).
+aparece_tweet(enfermedad,gente).
+aparece_tweet(enfermedad,paciente).
+aparece_tweet(enfermedad,dengue).
+aparece_tweet(enfermedad,muerte).
+aparece_tweet(enfermedad,precio).
+aparece_tweet(enfermedad,casas).
+aparece_tweet(enfermedad,enfermos).
+aparece_tweet(enfermedad,presencia).
+aparece_tweet(enfermedad,sintomas).
+aparece_tweet(enfermedad,salud).
+aparece_tweet(enfermedad,agua).
+aparece_tweet(enfermedad,barrios).
+aparece_tweet(enfermedad,piscinas).
+aparece_tweet(enfermedad,inconsciencia).
+aparece_tweet(enfermedad,pileta).
+aparece_tweet(enfermedad,multas).
+aparece_tweet(enfermedad,titular).
+aparece_tweet(enfermedad,ciudad).
+aparece_tweet(enfermedad,instalaciones).
+aparece_tweet(enfermedad,vector).
+aparece_tweet(enfermedad,educacion).
+aparece_tweet(enfermedad,disposicion).
+aparece_tweet(enfermedad,recursos).
+aparece_tweet(enfermedad,lucha).
+aparece_tweet(enfermedad,denuncias).
+aparece_tweet(enfermedad,neumaticos).
+aparece_tweet(enfermedad,chatarras).
+aparece_tweet(enfermedad,ayudarnos).
+aparece_tweet(enfermedad,supuesto).
+aparece_tweet(enfermedad,senadora).
+aparece_tweet(enfermedad,emergencia).
+aparece_tweet(enfermedad,terrenos).
+aparece_tweet(enfermedad,mosquito).
+aparece_tweet(enfermedad,calles).
+aparece_tweet(enfermedad,servicios).
+aparece_tweet(enfermedad,aumento).
+aparece_tweet(enfermedad,dr).
+aparece_tweet(enfermedad,pacientes).
+aparece_tweet(enfermedad,conciencia).
+aparece_tweet(enfermedad,dispersion).
+aparece_tweet(enfermedad,notifaciones).
+aparece_tweet(enfermedad,epidemia).
+aparece_tweet(enfermedad,funcionarios).
+aparece_tweet(enfermedad,extincion).
+aparece_tweet(enfermedad,barrio).
+aparece_tweet(enfermedad,cuadra).
+aparece_tweet(enfermedad,basura).
+aparece_tweet(enfermedad,eliminacion).
+aparece_tweet(enfermedad,instituciones).
+aparece_tweet(enfermedad,trabajos).
+aparece_tweet(enfermedad,rastrillaje).
+aparece_tweet(enfermedad,autoridades).
+aparece_tweet(enfermedad,institucion).
+aparece_tweet(enfermedad,intendentes).
+aparece_tweet(enfermedad,municipalidad).
+aparece_tweet(enfermedad,acciones).
+aparece_tweet(enfermedad,sanciones).
+aparece_tweet(enfermedad,limpieza).
+aparece_tweet(enfermedad,yuyales).
+aparece_tweet(enfermedad,propagacion).
+aparece_tweet(enfermedad,ministerio).
+aparece_tweet(enfermedad,rebrote).
+aparece_tweet(enfermedad,problema).
+aparece_tweet(enfermedad,capacidad).
+aparece_tweet(enfermedad,propiedad).
+aparece_tweet(enfermedad,antecedentes).
+aparece_tweet(enfermedad,recomendaciones).
+aparece_tweet(enfermedad,causa).
+aparece_tweet(enfermedad,sospecha).
+aparece_tweet(enfermedad,infestacion).
+aparece_tweet(enfermedad,imputacion).
+aparece_tweet(enfermedad,serotipo).
+aparece_tweet(enfermedad,comunidad).
+aparece_tweet(enfermedad,combate).
+aparece_tweet(enfermedad,muertes).
+aparece_tweet(enfermedad,cifra).
+aparece_tweet(enfermedad,sintomas).
+aparece_tweet(enfermedad,medicamentos).
+aparece_tweet(enfermedad,urgencias).
+aparece_tweet(enfermedad,afectados).
+aparece_tweet(enfermedad,gobierno).
+aparece_tweet(enfermedad,cuidados).
+aparece_tweet(enfermedad,promedio).
+aparece_tweet(enfermedad,brote).
+aparece_tweet(enfermedad,hospitalizaciones).
+aparece_tweet(enfermedad,cuadro).
+aparece_tweet(enfermedad,enfermedades).
+aparece_tweet(enfermedad,recoleccion).
+aparece_tweet(enfermedad,basuras).
+aparece_tweet(enfermedad,riesgo).
+aparece_tweet(enfermedad,lluvias).
+aparece_tweet(enfermedad,concienciacion).
+aparece_tweet(enfermedad,inaccion).
+aparece_tweet(enfermedad,baldios).
+aparece_tweet(enfermedad,crecimiento).
+aparece_tweet(enfermedad,rio).
+aparece_tweet(enfermedad,epoca).
+aparece_tweet(enfermedad,plastico).
+aparece_tweet(enfermedad,bolsitas).
+aparece_tweet(enfermedad,inundaciones).
+aparece_tweet(calle,intervencion).
+aparece_tweet(calle,culpa).
+aparece_tweet(calle,ciudadano).
+aparece_tweet(calle,plaza).
+aparece_tweet(calle,abandono).
+aparece_tweet(calle,ciudades).
+aparece_tweet(calle,ruinas).
+aparece_tweet(calle,predio).
+aparece_tweet(calle,avenida).
+aparece_tweet(calle,chikungunya).
+aparece_tweet(calle,poblacion).
+aparece_tweet(calle,patios).
+aparece_tweet(calle,criaderos).
+aparece_tweet(calle,ministro).
+aparece_tweet(calle,brotes).
+aparece_tweet(calle,zonas).
+aparece_tweet(calle,municipios).
+aparece_tweet(calle,alerta).
+aparece_tweet(calle,focos).
+aparece_tweet(calle,fiebre).
+aparece_tweet(calle,gente).
+aparece_tweet(calle,paciente).
+aparece_tweet(calle,dengue).
+aparece_tweet(calle,muerte).
+aparece_tweet(calle,precio).
+aparece_tweet(calle,casas).
+aparece_tweet(calle,enfermos).
+aparece_tweet(calle,presencia).
+aparece_tweet(calle,sintomas).
+aparece_tweet(calle,salud).
+aparece_tweet(calle,agua).
+aparece_tweet(calle,barrios).
+aparece_tweet(calle,piscinas).
+aparece_tweet(calle,inconsciencia).
+aparece_tweet(calle,pileta).
+aparece_tweet(calle,multas).
+aparece_tweet(calle,titular).
+aparece_tweet(calle,ciudad).
+aparece_tweet(calle,instalaciones).
+aparece_tweet(calle,vector).
+aparece_tweet(calle,educacion).
+aparece_tweet(calle,disposicion).
+aparece_tweet(calle,recursos).
+aparece_tweet(calle,lucha).
+aparece_tweet(calle,denuncias).
+aparece_tweet(calle,neumaticos).
+aparece_tweet(calle,chatarras).
+aparece_tweet(calle,ayudarnos).
+aparece_tweet(calle,supuesto).
+aparece_tweet(calle,senadora).
+aparece_tweet(calle,emergencia).
+aparece_tweet(calle,terrenos).
+aparece_tweet(calle,mosquito).
+aparece_tweet(calle,calles).
+aparece_tweet(calle,servicios).
+aparece_tweet(calle,aumento).
+aparece_tweet(calle,dr).
+aparece_tweet(calle,pacientes).
+aparece_tweet(calle,conciencia).
+aparece_tweet(calle,dispersion).
+aparece_tweet(calle,notifaciones).
+aparece_tweet(calle,epidemia).
+aparece_tweet(calle,funcionarios).
+aparece_tweet(calle,extincion).
+aparece_tweet(calle,barrio).
+aparece_tweet(calle,cuadra).
+aparece_tweet(calle,basura).
+aparece_tweet(calle,eliminacion).
+aparece_tweet(calle,instituciones).
+aparece_tweet(calle,trabajos).
+aparece_tweet(calle,rastrillaje).
+aparece_tweet(calle,autoridades).
+aparece_tweet(calle,institucion).
+aparece_tweet(calle,intendentes).
+aparece_tweet(calle,municipalidad).
+aparece_tweet(calle,acciones).
+aparece_tweet(calle,sanciones).
+aparece_tweet(calle,limpieza).
+aparece_tweet(calle,yuyales).
+aparece_tweet(calle,propagacion).
+aparece_tweet(calle,ministerio).
+aparece_tweet(calle,rebrote).
+aparece_tweet(calle,problema).
+aparece_tweet(calle,capacidad).
+aparece_tweet(calle,propiedad).
+aparece_tweet(calle,antecedentes).
+aparece_tweet(calle,recomendaciones).
+aparece_tweet(calle,causa).
+aparece_tweet(calle,sospecha).
+aparece_tweet(calle,infestacion).
+aparece_tweet(calle,imputacion).
+aparece_tweet(calle,serotipo).
+aparece_tweet(calle,comunidad).
+aparece_tweet(calle,combate).
+aparece_tweet(calle,muertes).
+aparece_tweet(calle,cifra).
+aparece_tweet(calle,sintomas).
+aparece_tweet(calle,medicamentos).
+aparece_tweet(calle,urgencias).
+aparece_tweet(calle,afectados).
+aparece_tweet(calle,gobierno).
+aparece_tweet(calle,cuidados).
+aparece_tweet(calle,promedio).
+aparece_tweet(calle,brote).
+aparece_tweet(calle,hospitalizaciones).
+aparece_tweet(calle,cuadro).
+aparece_tweet(calle,enfermedades).
+aparece_tweet(calle,recoleccion).
+aparece_tweet(calle,basuras).
+aparece_tweet(calle,riesgo).
+aparece_tweet(calle,lluvias).
+aparece_tweet(calle,concienciacion).
+aparece_tweet(calle,inaccion).
+aparece_tweet(calle,baldios).
+aparece_tweet(calle,crecimiento).
+aparece_tweet(calle,rio).
+aparece_tweet(calle,epoca).
+aparece_tweet(calle,plastico).
+aparece_tweet(calle,bolsitas).
+aparece_tweet(calle,inundaciones).
+aparece_tweet(intervencion,culpa).
+aparece_tweet(intervencion,ciudadano).
+aparece_tweet(intervencion,plaza).
+aparece_tweet(intervencion,abandono).
+aparece_tweet(intervencion,ciudades).
+aparece_tweet(intervencion,ruinas).
+aparece_tweet(intervencion,predio).
+aparece_tweet(intervencion,avenida).
+aparece_tweet(intervencion,chikungunya).
+aparece_tweet(intervencion,poblacion).
+aparece_tweet(intervencion,patios).
+aparece_tweet(intervencion,criaderos).
+aparece_tweet(intervencion,ministro).
+aparece_tweet(intervencion,brotes).
+aparece_tweet(intervencion,zonas).
+aparece_tweet(intervencion,municipios).
+aparece_tweet(intervencion,alerta).
+aparece_tweet(intervencion,focos).
+aparece_tweet(intervencion,fiebre).
+aparece_tweet(intervencion,gente).
+aparece_tweet(intervencion,paciente).
+aparece_tweet(intervencion,dengue).
+aparece_tweet(intervencion,muerte).
+aparece_tweet(intervencion,precio).
+aparece_tweet(intervencion,casas).
+aparece_tweet(intervencion,enfermos).
+aparece_tweet(intervencion,presencia).
+aparece_tweet(intervencion,sintomas).
+aparece_tweet(intervencion,salud).
+aparece_tweet(intervencion,agua).
+aparece_tweet(intervencion,barrios).
+aparece_tweet(intervencion,piscinas).
+aparece_tweet(intervencion,inconsciencia).
+aparece_tweet(intervencion,pileta).
+aparece_tweet(intervencion,multas).
+aparece_tweet(intervencion,titular).
+aparece_tweet(intervencion,ciudad).
+aparece_tweet(intervencion,instalaciones).
+aparece_tweet(intervencion,vector).
+aparece_tweet(intervencion,educacion).
+aparece_tweet(intervencion,disposicion).
+aparece_tweet(intervencion,recursos).
+aparece_tweet(intervencion,lucha).
+aparece_tweet(intervencion,denuncias).
+aparece_tweet(intervencion,neumaticos).
+aparece_tweet(intervencion,chatarras).
+aparece_tweet(intervencion,ayudarnos).
+aparece_tweet(intervencion,supuesto).
+aparece_tweet(intervencion,senadora).
+aparece_tweet(intervencion,emergencia).
+aparece_tweet(intervencion,terrenos).
+aparece_tweet(intervencion,mosquito).
+aparece_tweet(intervencion,calles).
+aparece_tweet(intervencion,servicios).
+aparece_tweet(intervencion,aumento).
+aparece_tweet(intervencion,dr).
+aparece_tweet(intervencion,pacientes).
+aparece_tweet(intervencion,conciencia).
+aparece_tweet(intervencion,dispersion).
+aparece_tweet(intervencion,notifaciones).
+aparece_tweet(intervencion,epidemia).
+aparece_tweet(intervencion,funcionarios).
+aparece_tweet(intervencion,extincion).
+aparece_tweet(intervencion,barrio).
+aparece_tweet(intervencion,cuadra).
+aparece_tweet(intervencion,basura).
+aparece_tweet(intervencion,eliminacion).
+aparece_tweet(intervencion,instituciones).
+aparece_tweet(intervencion,trabajos).
+aparece_tweet(intervencion,rastrillaje).
+aparece_tweet(intervencion,autoridades).
+aparece_tweet(intervencion,institucion).
+aparece_tweet(intervencion,intendentes).
+aparece_tweet(intervencion,municipalidad).
+aparece_tweet(intervencion,acciones).
+aparece_tweet(intervencion,sanciones).
+aparece_tweet(intervencion,limpieza).
+aparece_tweet(intervencion,yuyales).
+aparece_tweet(intervencion,propagacion).
+aparece_tweet(intervencion,ministerio).
+aparece_tweet(intervencion,rebrote).
+aparece_tweet(intervencion,problema).
+aparece_tweet(intervencion,capacidad).
+aparece_tweet(intervencion,propiedad).
+aparece_tweet(intervencion,antecedentes).
+aparece_tweet(intervencion,recomendaciones).
+aparece_tweet(intervencion,causa).
+aparece_tweet(intervencion,sospecha).
+aparece_tweet(intervencion,infestacion).
+aparece_tweet(intervencion,imputacion).
+aparece_tweet(intervencion,serotipo).
+aparece_tweet(intervencion,comunidad).
+aparece_tweet(intervencion,combate).
+aparece_tweet(intervencion,muertes).
+aparece_tweet(intervencion,cifra).
+aparece_tweet(intervencion,sintomas).
+aparece_tweet(intervencion,medicamentos).
+aparece_tweet(intervencion,urgencias).
+aparece_tweet(intervencion,afectados).
+aparece_tweet(intervencion,gobierno).
+aparece_tweet(intervencion,cuidados).
+aparece_tweet(intervencion,promedio).
+aparece_tweet(intervencion,brote).
+aparece_tweet(intervencion,hospitalizaciones).
+aparece_tweet(intervencion,cuadro).
+aparece_tweet(intervencion,enfermedades).
+aparece_tweet(intervencion,recoleccion).
+aparece_tweet(intervencion,basuras).
+aparece_tweet(intervencion,riesgo).
+aparece_tweet(intervencion,lluvias).
+aparece_tweet(intervencion,concienciacion).
+aparece_tweet(intervencion,inaccion).
+aparece_tweet(intervencion,baldios).
+aparece_tweet(intervencion,crecimiento).
+aparece_tweet(intervencion,rio).
+aparece_tweet(intervencion,epoca).
+aparece_tweet(intervencion,plastico).
+aparece_tweet(intervencion,bolsitas).
+aparece_tweet(intervencion,inundaciones).
+aparece_tweet(culpa,ciudadano).
+aparece_tweet(culpa,plaza).
+aparece_tweet(culpa,abandono).
+aparece_tweet(culpa,ciudades).
+aparece_tweet(culpa,ruinas).
+aparece_tweet(culpa,predio).
+aparece_tweet(culpa,avenida).
+aparece_tweet(culpa,chikungunya).
+aparece_tweet(culpa,poblacion).
+aparece_tweet(culpa,patios).
+aparece_tweet(culpa,criaderos).
+aparece_tweet(culpa,ministro).
+aparece_tweet(culpa,brotes).
+aparece_tweet(culpa,zonas).
+aparece_tweet(culpa,municipios).
+aparece_tweet(culpa,alerta).
+aparece_tweet(culpa,focos).
+aparece_tweet(culpa,fiebre).
+aparece_tweet(culpa,gente).
+aparece_tweet(culpa,paciente).
+aparece_tweet(culpa,dengue).
+aparece_tweet(culpa,muerte).
+aparece_tweet(culpa,precio).
+aparece_tweet(culpa,casas).
+aparece_tweet(culpa,enfermos).
+aparece_tweet(culpa,presencia).
+aparece_tweet(culpa,sintomas).
+aparece_tweet(culpa,salud).
+aparece_tweet(culpa,agua).
+aparece_tweet(culpa,barrios).
+aparece_tweet(culpa,piscinas).
+aparece_tweet(culpa,inconsciencia).
+aparece_tweet(culpa,pileta).
+aparece_tweet(culpa,multas).
+aparece_tweet(culpa,titular).
+aparece_tweet(culpa,ciudad).
+aparece_tweet(culpa,instalaciones).
+aparece_tweet(culpa,vector).
+aparece_tweet(culpa,educacion).
+aparece_tweet(culpa,disposicion).
+aparece_tweet(culpa,recursos).
+aparece_tweet(culpa,lucha).
+aparece_tweet(culpa,denuncias).
+aparece_tweet(culpa,neumaticos).
+aparece_tweet(culpa,chatarras).
+aparece_tweet(culpa,ayudarnos).
+aparece_tweet(culpa,supuesto).
+aparece_tweet(culpa,senadora).
+aparece_tweet(culpa,emergencia).
+aparece_tweet(culpa,terrenos).
+aparece_tweet(culpa,mosquito).
+aparece_tweet(culpa,calles).
+aparece_tweet(culpa,servicios).
+aparece_tweet(culpa,aumento).
+aparece_tweet(culpa,dr).
+aparece_tweet(culpa,pacientes).
+aparece_tweet(culpa,conciencia).
+aparece_tweet(culpa,dispersion).
+aparece_tweet(culpa,notifaciones).
+aparece_tweet(culpa,epidemia).
+aparece_tweet(culpa,funcionarios).
+aparece_tweet(culpa,extincion).
+aparece_tweet(culpa,barrio).
+aparece_tweet(culpa,cuadra).
+aparece_tweet(culpa,basura).
+aparece_tweet(culpa,eliminacion).
+aparece_tweet(culpa,instituciones).
+aparece_tweet(culpa,trabajos).
+aparece_tweet(culpa,rastrillaje).
+aparece_tweet(culpa,autoridades).
+aparece_tweet(culpa,institucion).
+aparece_tweet(culpa,intendentes).
+aparece_tweet(culpa,municipalidad).
+aparece_tweet(culpa,acciones).
+aparece_tweet(culpa,sanciones).
+aparece_tweet(culpa,limpieza).
+aparece_tweet(culpa,yuyales).
+aparece_tweet(culpa,propagacion).
+aparece_tweet(culpa,ministerio).
+aparece_tweet(culpa,rebrote).
+aparece_tweet(culpa,problema).
+aparece_tweet(culpa,capacidad).
+aparece_tweet(culpa,propiedad).
+aparece_tweet(culpa,antecedentes).
+aparece_tweet(culpa,recomendaciones).
+aparece_tweet(culpa,causa).
+aparece_tweet(culpa,sospecha).
+aparece_tweet(culpa,infestacion).
+aparece_tweet(culpa,imputacion).
+aparece_tweet(culpa,serotipo).
+aparece_tweet(culpa,comunidad).
+aparece_tweet(culpa,combate).
+aparece_tweet(culpa,muertes).
+aparece_tweet(culpa,cifra).
+aparece_tweet(culpa,sintomas).
+aparece_tweet(culpa,medicamentos).
+aparece_tweet(culpa,urgencias).
+aparece_tweet(culpa,afectados).
+aparece_tweet(culpa,gobierno).
+aparece_tweet(culpa,cuidados).
+aparece_tweet(culpa,promedio).
+aparece_tweet(culpa,brote).
+aparece_tweet(culpa,hospitalizaciones).
+aparece_tweet(culpa,cuadro).
+aparece_tweet(culpa,enfermedades).
+aparece_tweet(culpa,recoleccion).
+aparece_tweet(culpa,basuras).
+aparece_tweet(culpa,riesgo).
+aparece_tweet(culpa,lluvias).
+aparece_tweet(culpa,concienciacion).
+aparece_tweet(culpa,inaccion).
+aparece_tweet(culpa,baldios).
+aparece_tweet(culpa,crecimiento).
+aparece_tweet(culpa,rio).
+aparece_tweet(culpa,epoca).
+aparece_tweet(culpa,plastico).
+aparece_tweet(culpa,bolsitas).
+aparece_tweet(culpa,inundaciones).
+aparece_tweet(ciudadano,plaza).
+aparece_tweet(ciudadano,abandono).
+aparece_tweet(ciudadano,ciudades).
+aparece_tweet(ciudadano,ruinas).
+aparece_tweet(ciudadano,predio).
+aparece_tweet(ciudadano,avenida).
+aparece_tweet(ciudadano,chikungunya).
+aparece_tweet(ciudadano,poblacion).
+aparece_tweet(ciudadano,patios).
+aparece_tweet(ciudadano,criaderos).
+aparece_tweet(ciudadano,ministro).
+aparece_tweet(ciudadano,brotes).
+aparece_tweet(ciudadano,zonas).
+aparece_tweet(ciudadano,municipios).
+aparece_tweet(ciudadano,alerta).
+aparece_tweet(ciudadano,focos).
+aparece_tweet(ciudadano,fiebre).
+aparece_tweet(ciudadano,gente).
+aparece_tweet(ciudadano,paciente).
+aparece_tweet(ciudadano,dengue).
+aparece_tweet(ciudadano,muerte).
+aparece_tweet(ciudadano,precio).
+aparece_tweet(ciudadano,casas).
+aparece_tweet(ciudadano,enfermos).
+aparece_tweet(ciudadano,presencia).
+aparece_tweet(ciudadano,sintomas).
+aparece_tweet(ciudadano,salud).
+aparece_tweet(ciudadano,agua).
+aparece_tweet(ciudadano,barrios).
+aparece_tweet(ciudadano,piscinas).
+aparece_tweet(ciudadano,inconsciencia).
+aparece_tweet(ciudadano,pileta).
+aparece_tweet(ciudadano,multas).
+aparece_tweet(ciudadano,titular).
+aparece_tweet(ciudadano,ciudad).
+aparece_tweet(ciudadano,instalaciones).
+aparece_tweet(ciudadano,vector).
+aparece_tweet(ciudadano,educacion).
+aparece_tweet(ciudadano,disposicion).
+aparece_tweet(ciudadano,recursos).
+aparece_tweet(ciudadano,lucha).
+aparece_tweet(ciudadano,denuncias).
+aparece_tweet(ciudadano,neumaticos).
+aparece_tweet(ciudadano,chatarras).
+aparece_tweet(ciudadano,ayudarnos).
+aparece_tweet(ciudadano,supuesto).
+aparece_tweet(ciudadano,senadora).
+aparece_tweet(ciudadano,emergencia).
+aparece_tweet(ciudadano,terrenos).
+aparece_tweet(ciudadano,mosquito).
+aparece_tweet(ciudadano,calles).
+aparece_tweet(ciudadano,servicios).
+aparece_tweet(ciudadano,aumento).
+aparece_tweet(ciudadano,dr).
+aparece_tweet(ciudadano,pacientes).
+aparece_tweet(ciudadano,conciencia).
+aparece_tweet(ciudadano,dispersion).
+aparece_tweet(ciudadano,notifaciones).
+aparece_tweet(ciudadano,epidemia).
+aparece_tweet(ciudadano,funcionarios).
+aparece_tweet(ciudadano,extincion).
+aparece_tweet(ciudadano,barrio).
+aparece_tweet(ciudadano,cuadra).
+aparece_tweet(ciudadano,basura).
+aparece_tweet(ciudadano,eliminacion).
+aparece_tweet(ciudadano,instituciones).
+aparece_tweet(ciudadano,trabajos).
+aparece_tweet(ciudadano,rastrillaje).
+aparece_tweet(ciudadano,autoridades).
+aparece_tweet(ciudadano,institucion).
+aparece_tweet(ciudadano,intendentes).
+aparece_tweet(ciudadano,municipalidad).
+aparece_tweet(ciudadano,acciones).
+aparece_tweet(ciudadano,sanciones).
+aparece_tweet(ciudadano,limpieza).
+aparece_tweet(ciudadano,yuyales).
+aparece_tweet(ciudadano,propagacion).
+aparece_tweet(ciudadano,ministerio).
+aparece_tweet(ciudadano,rebrote).
+aparece_tweet(ciudadano,problema).
+aparece_tweet(ciudadano,capacidad).
+aparece_tweet(ciudadano,propiedad).
+aparece_tweet(ciudadano,antecedentes).
+aparece_tweet(ciudadano,recomendaciones).
+aparece_tweet(ciudadano,causa).
+aparece_tweet(ciudadano,sospecha).
+aparece_tweet(ciudadano,infestacion).
+aparece_tweet(ciudadano,imputacion).
+aparece_tweet(ciudadano,serotipo).
+aparece_tweet(ciudadano,comunidad).
+aparece_tweet(ciudadano,combate).
+aparece_tweet(ciudadano,muertes).
+aparece_tweet(ciudadano,cifra).
+aparece_tweet(ciudadano,sintomas).
+aparece_tweet(ciudadano,medicamentos).
+aparece_tweet(ciudadano,urgencias).
+aparece_tweet(ciudadano,afectados).
+aparece_tweet(ciudadano,gobierno).
+aparece_tweet(ciudadano,cuidados).
+aparece_tweet(ciudadano,promedio).
+aparece_tweet(ciudadano,brote).
+aparece_tweet(ciudadano,hospitalizaciones).
+aparece_tweet(ciudadano,cuadro).
+aparece_tweet(ciudadano,enfermedades).
+aparece_tweet(ciudadano,recoleccion).
+aparece_tweet(ciudadano,basuras).
+aparece_tweet(ciudadano,riesgo).
+aparece_tweet(ciudadano,lluvias).
+aparece_tweet(ciudadano,concienciacion).
+aparece_tweet(ciudadano,inaccion).
+aparece_tweet(ciudadano,baldios).
+aparece_tweet(ciudadano,crecimiento).
+aparece_tweet(ciudadano,rio).
+aparece_tweet(ciudadano,epoca).
+aparece_tweet(ciudadano,plastico).
+aparece_tweet(ciudadano,bolsitas).
+aparece_tweet(ciudadano,inundaciones).
+aparece_tweet(plaza,abandono).
+aparece_tweet(plaza,ciudades).
+aparece_tweet(plaza,ruinas).
+aparece_tweet(plaza,predio).
+aparece_tweet(plaza,avenida).
+aparece_tweet(plaza,chikungunya).
+aparece_tweet(plaza,poblacion).
+aparece_tweet(plaza,patios).
+aparece_tweet(plaza,criaderos).
+aparece_tweet(plaza,ministro).
+aparece_tweet(plaza,brotes).
+aparece_tweet(plaza,zonas).
+aparece_tweet(plaza,municipios).
+aparece_tweet(plaza,alerta).
+aparece_tweet(plaza,focos).
+aparece_tweet(plaza,fiebre).
+aparece_tweet(plaza,gente).
+aparece_tweet(plaza,paciente).
+aparece_tweet(plaza,dengue).
+aparece_tweet(plaza,muerte).
+aparece_tweet(plaza,precio).
+aparece_tweet(plaza,casas).
+aparece_tweet(plaza,enfermos).
+aparece_tweet(plaza,presencia).
+aparece_tweet(plaza,sintomas).
+aparece_tweet(plaza,salud).
+aparece_tweet(plaza,agua).
+aparece_tweet(plaza,barrios).
+aparece_tweet(plaza,piscinas).
+aparece_tweet(plaza,inconsciencia).
+aparece_tweet(plaza,pileta).
+aparece_tweet(plaza,multas).
+aparece_tweet(plaza,titular).
+aparece_tweet(plaza,ciudad).
+aparece_tweet(plaza,instalaciones).
+aparece_tweet(plaza,vector).
+aparece_tweet(plaza,educacion).
+aparece_tweet(plaza,disposicion).
+aparece_tweet(plaza,recursos).
+aparece_tweet(plaza,lucha).
+aparece_tweet(plaza,denuncias).
+aparece_tweet(plaza,neumaticos).
+aparece_tweet(plaza,chatarras).
+aparece_tweet(plaza,ayudarnos).
+aparece_tweet(plaza,supuesto).
+aparece_tweet(plaza,senadora).
+aparece_tweet(plaza,emergencia).
+aparece_tweet(plaza,terrenos).
+aparece_tweet(plaza,mosquito).
+aparece_tweet(plaza,calles).
+aparece_tweet(plaza,servicios).
+aparece_tweet(plaza,aumento).
+aparece_tweet(plaza,dr).
+aparece_tweet(plaza,pacientes).
+aparece_tweet(plaza,conciencia).
+aparece_tweet(plaza,dispersion).
+aparece_tweet(plaza,notifaciones).
+aparece_tweet(plaza,epidemia).
+aparece_tweet(plaza,funcionarios).
+aparece_tweet(plaza,extincion).
+aparece_tweet(plaza,barrio).
+aparece_tweet(plaza,cuadra).
+aparece_tweet(plaza,basura).
+aparece_tweet(plaza,eliminacion).
+aparece_tweet(plaza,instituciones).
+aparece_tweet(plaza,trabajos).
+aparece_tweet(plaza,rastrillaje).
+aparece_tweet(plaza,autoridades).
+aparece_tweet(plaza,institucion).
+aparece_tweet(plaza,intendentes).
+aparece_tweet(plaza,municipalidad).
+aparece_tweet(plaza,acciones).
+aparece_tweet(plaza,sanciones).
+aparece_tweet(plaza,limpieza).
+aparece_tweet(plaza,yuyales).
+aparece_tweet(plaza,propagacion).
+aparece_tweet(plaza,ministerio).
+aparece_tweet(plaza,rebrote).
+aparece_tweet(plaza,problema).
+aparece_tweet(plaza,capacidad).
+aparece_tweet(plaza,propiedad).
+aparece_tweet(plaza,antecedentes).
+aparece_tweet(plaza,recomendaciones).
+aparece_tweet(plaza,causa).
+aparece_tweet(plaza,sospecha).
+aparece_tweet(plaza,infestacion).
+aparece_tweet(plaza,imputacion).
+aparece_tweet(plaza,serotipo).
+aparece_tweet(plaza,comunidad).
+aparece_tweet(plaza,combate).
+aparece_tweet(plaza,muertes).
+aparece_tweet(plaza,cifra).
+aparece_tweet(plaza,sintomas).
+aparece_tweet(plaza,medicamentos).
+aparece_tweet(plaza,urgencias).
+aparece_tweet(plaza,afectados).
+aparece_tweet(plaza,gobierno).
+aparece_tweet(plaza,cuidados).
+aparece_tweet(plaza,promedio).
+aparece_tweet(plaza,brote).
+aparece_tweet(plaza,hospitalizaciones).
+aparece_tweet(plaza,cuadro).
+aparece_tweet(plaza,enfermedades).
+aparece_tweet(plaza,recoleccion).
+aparece_tweet(plaza,basuras).
+aparece_tweet(plaza,riesgo).
+aparece_tweet(plaza,lluvias).
+aparece_tweet(plaza,concienciacion).
+aparece_tweet(plaza,inaccion).
+aparece_tweet(plaza,baldios).
+aparece_tweet(plaza,crecimiento).
+aparece_tweet(plaza,rio).
+aparece_tweet(plaza,epoca).
+aparece_tweet(plaza,plastico).
+aparece_tweet(plaza,bolsitas).
+aparece_tweet(plaza,inundaciones).
+aparece_tweet(abandono,ciudades).
+aparece_tweet(abandono,ruinas).
+aparece_tweet(abandono,predio).
+aparece_tweet(abandono,avenida).
+aparece_tweet(abandono,chikungunya).
+aparece_tweet(abandono,poblacion).
+aparece_tweet(abandono,patios).
+aparece_tweet(abandono,criaderos).
+aparece_tweet(abandono,ministro).
+aparece_tweet(abandono,brotes).
+aparece_tweet(abandono,zonas).
+aparece_tweet(abandono,municipios).
+aparece_tweet(abandono,alerta).
+aparece_tweet(abandono,focos).
+aparece_tweet(abandono,fiebre).
+aparece_tweet(abandono,gente).
+aparece_tweet(abandono,paciente).
+aparece_tweet(abandono,dengue).
+aparece_tweet(abandono,muerte).
+aparece_tweet(abandono,precio).
+aparece_tweet(abandono,casas).
+aparece_tweet(abandono,enfermos).
+aparece_tweet(abandono,presencia).
+aparece_tweet(abandono,sintomas).
+aparece_tweet(abandono,salud).
+aparece_tweet(abandono,agua).
+aparece_tweet(abandono,barrios).
+aparece_tweet(abandono,piscinas).
+aparece_tweet(abandono,inconsciencia).
+aparece_tweet(abandono,pileta).
+aparece_tweet(abandono,multas).
+aparece_tweet(abandono,titular).
+aparece_tweet(abandono,ciudad).
+aparece_tweet(abandono,instalaciones).
+aparece_tweet(abandono,vector).
+aparece_tweet(abandono,educacion).
+aparece_tweet(abandono,disposicion).
+aparece_tweet(abandono,recursos).
+aparece_tweet(abandono,lucha).
+aparece_tweet(abandono,denuncias).
+aparece_tweet(abandono,neumaticos).
+aparece_tweet(abandono,chatarras).
+aparece_tweet(abandono,ayudarnos).
+aparece_tweet(abandono,supuesto).
+aparece_tweet(abandono,senadora).
+aparece_tweet(abandono,emergencia).
+aparece_tweet(abandono,terrenos).
+aparece_tweet(abandono,mosquito).
+aparece_tweet(abandono,calles).
+aparece_tweet(abandono,servicios).
+aparece_tweet(abandono,aumento).
+aparece_tweet(abandono,dr).
+aparece_tweet(abandono,pacientes).
+aparece_tweet(abandono,conciencia).
+aparece_tweet(abandono,dispersion).
+aparece_tweet(abandono,notifaciones).
+aparece_tweet(abandono,epidemia).
+aparece_tweet(abandono,funcionarios).
+aparece_tweet(abandono,extincion).
+aparece_tweet(abandono,barrio).
+aparece_tweet(abandono,cuadra).
+aparece_tweet(abandono,basura).
+aparece_tweet(abandono,eliminacion).
+aparece_tweet(abandono,instituciones).
+aparece_tweet(abandono,trabajos).
+aparece_tweet(abandono,rastrillaje).
+aparece_tweet(abandono,autoridades).
+aparece_tweet(abandono,institucion).
+aparece_tweet(abandono,intendentes).
+aparece_tweet(abandono,municipalidad).
+aparece_tweet(abandono,acciones).
+aparece_tweet(abandono,sanciones).
+aparece_tweet(abandono,limpieza).
+aparece_tweet(abandono,yuyales).
+aparece_tweet(abandono,propagacion).
+aparece_tweet(abandono,ministerio).
+aparece_tweet(abandono,rebrote).
+aparece_tweet(abandono,problema).
+aparece_tweet(abandono,capacidad).
+aparece_tweet(abandono,propiedad).
+aparece_tweet(abandono,antecedentes).
+aparece_tweet(abandono,recomendaciones).
+aparece_tweet(abandono,causa).
+aparece_tweet(abandono,sospecha).
+aparece_tweet(abandono,infestacion).
+aparece_tweet(abandono,imputacion).
+aparece_tweet(abandono,serotipo).
+aparece_tweet(abandono,comunidad).
+aparece_tweet(abandono,combate).
+aparece_tweet(abandono,muertes).
+aparece_tweet(abandono,cifra).
+aparece_tweet(abandono,sintomas).
+aparece_tweet(abandono,medicamentos).
+aparece_tweet(abandono,urgencias).
+aparece_tweet(abandono,afectados).
+aparece_tweet(abandono,gobierno).
+aparece_tweet(abandono,cuidados).
+aparece_tweet(abandono,promedio).
+aparece_tweet(abandono,brote).
+aparece_tweet(abandono,hospitalizaciones).
+aparece_tweet(abandono,cuadro).
+aparece_tweet(abandono,enfermedades).
+aparece_tweet(abandono,recoleccion).
+aparece_tweet(abandono,basuras).
+aparece_tweet(abandono,riesgo).
+aparece_tweet(abandono,lluvias).
+aparece_tweet(abandono,concienciacion).
+aparece_tweet(abandono,inaccion).
+aparece_tweet(abandono,baldios).
+aparece_tweet(abandono,crecimiento).
+aparece_tweet(abandono,rio).
+aparece_tweet(abandono,epoca).
+aparece_tweet(abandono,plastico).
+aparece_tweet(abandono,bolsitas).
+aparece_tweet(abandono,inundaciones).
+aparece_tweet(ciudades,ruinas).
+aparece_tweet(ciudades,predio).
+aparece_tweet(ciudades,avenida).
+aparece_tweet(ciudades,chikungunya).
+aparece_tweet(ciudades,poblacion).
+aparece_tweet(ciudades,patios).
+aparece_tweet(ciudades,criaderos).
+aparece_tweet(ciudades,ministro).
+aparece_tweet(ciudades,brotes).
+aparece_tweet(ciudades,zonas).
+aparece_tweet(ciudades,municipios).
+aparece_tweet(ciudades,alerta).
+aparece_tweet(ciudades,focos).
+aparece_tweet(ciudades,fiebre).
+aparece_tweet(ciudades,gente).
+aparece_tweet(ciudades,paciente).
+aparece_tweet(ciudades,dengue).
+aparece_tweet(ciudades,muerte).
+aparece_tweet(ciudades,precio).
+aparece_tweet(ciudades,casas).
+aparece_tweet(ciudades,enfermos).
+aparece_tweet(ciudades,presencia).
+aparece_tweet(ciudades,sintomas).
+aparece_tweet(ciudades,salud).
+aparece_tweet(ciudades,agua).
+aparece_tweet(ciudades,barrios).
+aparece_tweet(ciudades,piscinas).
+aparece_tweet(ciudades,inconsciencia).
+aparece_tweet(ciudades,pileta).
+aparece_tweet(ciudades,multas).
+aparece_tweet(ciudades,titular).
+aparece_tweet(ciudades,ciudad).
+aparece_tweet(ciudades,instalaciones).
+aparece_tweet(ciudades,vector).
+aparece_tweet(ciudades,educacion).
+aparece_tweet(ciudades,disposicion).
+aparece_tweet(ciudades,recursos).
+aparece_tweet(ciudades,lucha).
+aparece_tweet(ciudades,denuncias).
+aparece_tweet(ciudades,neumaticos).
+aparece_tweet(ciudades,chatarras).
+aparece_tweet(ciudades,ayudarnos).
+aparece_tweet(ciudades,supuesto).
+aparece_tweet(ciudades,senadora).
+aparece_tweet(ciudades,emergencia).
+aparece_tweet(ciudades,terrenos).
+aparece_tweet(ciudades,mosquito).
+aparece_tweet(ciudades,calles).
+aparece_tweet(ciudades,servicios).
+aparece_tweet(ciudades,aumento).
+aparece_tweet(ciudades,dr).
+aparece_tweet(ciudades,pacientes).
+aparece_tweet(ciudades,conciencia).
+aparece_tweet(ciudades,dispersion).
+aparece_tweet(ciudades,notifaciones).
+aparece_tweet(ciudades,epidemia).
+aparece_tweet(ciudades,funcionarios).
+aparece_tweet(ciudades,extincion).
+aparece_tweet(ciudades,barrio).
+aparece_tweet(ciudades,cuadra).
+aparece_tweet(ciudades,basura).
+aparece_tweet(ciudades,eliminacion).
+aparece_tweet(ciudades,instituciones).
+aparece_tweet(ciudades,trabajos).
+aparece_tweet(ciudades,rastrillaje).
+aparece_tweet(ciudades,autoridades).
+aparece_tweet(ciudades,institucion).
+aparece_tweet(ciudades,intendentes).
+aparece_tweet(ciudades,municipalidad).
+aparece_tweet(ciudades,acciones).
+aparece_tweet(ciudades,sanciones).
+aparece_tweet(ciudades,limpieza).
+aparece_tweet(ciudades,yuyales).
+aparece_tweet(ciudades,propagacion).
+aparece_tweet(ciudades,ministerio).
+aparece_tweet(ciudades,rebrote).
+aparece_tweet(ciudades,problema).
+aparece_tweet(ciudades,capacidad).
+aparece_tweet(ciudades,propiedad).
+aparece_tweet(ciudades,antecedentes).
+aparece_tweet(ciudades,recomendaciones).
+aparece_tweet(ciudades,causa).
+aparece_tweet(ciudades,sospecha).
+aparece_tweet(ciudades,infestacion).
+aparece_tweet(ciudades,imputacion).
+aparece_tweet(ciudades,serotipo).
+aparece_tweet(ciudades,comunidad).
+aparece_tweet(ciudades,combate).
+aparece_tweet(ciudades,muertes).
+aparece_tweet(ciudades,cifra).
+aparece_tweet(ciudades,sintomas).
+aparece_tweet(ciudades,medicamentos).
+aparece_tweet(ciudades,urgencias).
+aparece_tweet(ciudades,afectados).
+aparece_tweet(ciudades,gobierno).
+aparece_tweet(ciudades,cuidados).
+aparece_tweet(ciudades,promedio).
+aparece_tweet(ciudades,brote).
+aparece_tweet(ciudades,hospitalizaciones).
+aparece_tweet(ciudades,cuadro).
+aparece_tweet(ciudades,enfermedades).
+aparece_tweet(ciudades,recoleccion).
+aparece_tweet(ciudades,basuras).
+aparece_tweet(ciudades,riesgo).
+aparece_tweet(ciudades,lluvias).
+aparece_tweet(ciudades,concienciacion).
+aparece_tweet(ciudades,inaccion).
+aparece_tweet(ciudades,baldios).
+aparece_tweet(ciudades,crecimiento).
+aparece_tweet(ciudades,rio).
+aparece_tweet(ciudades,epoca).
+aparece_tweet(ciudades,plastico).
+aparece_tweet(ciudades,bolsitas).
+aparece_tweet(ciudades,inundaciones).
+aparece_tweet(ruinas,predio).
+aparece_tweet(ruinas,avenida).
+aparece_tweet(ruinas,chikungunya).
+aparece_tweet(ruinas,poblacion).
+aparece_tweet(ruinas,patios).
+aparece_tweet(ruinas,criaderos).
+aparece_tweet(ruinas,ministro).
+aparece_tweet(ruinas,brotes).
+aparece_tweet(ruinas,zonas).
+aparece_tweet(ruinas,municipios).
+aparece_tweet(ruinas,alerta).
+aparece_tweet(ruinas,focos).
+aparece_tweet(ruinas,fiebre).
+aparece_tweet(ruinas,gente).
+aparece_tweet(ruinas,paciente).
+aparece_tweet(ruinas,dengue).
+aparece_tweet(ruinas,muerte).
+aparece_tweet(ruinas,precio).
+aparece_tweet(ruinas,casas).
+aparece_tweet(ruinas,enfermos).
+aparece_tweet(ruinas,presencia).
+aparece_tweet(ruinas,sintomas).
+aparece_tweet(ruinas,salud).
+aparece_tweet(ruinas,agua).
+aparece_tweet(ruinas,barrios).
+aparece_tweet(ruinas,piscinas).
+aparece_tweet(ruinas,inconsciencia).
+aparece_tweet(ruinas,pileta).
+aparece_tweet(ruinas,multas).
+aparece_tweet(ruinas,titular).
+aparece_tweet(ruinas,ciudad).
+aparece_tweet(ruinas,instalaciones).
+aparece_tweet(ruinas,vector).
+aparece_tweet(ruinas,educacion).
+aparece_tweet(ruinas,disposicion).
+aparece_tweet(ruinas,recursos).
+aparece_tweet(ruinas,lucha).
+aparece_tweet(ruinas,denuncias).
+aparece_tweet(ruinas,neumaticos).
+aparece_tweet(ruinas,chatarras).
+aparece_tweet(ruinas,ayudarnos).
+aparece_tweet(ruinas,supuesto).
+aparece_tweet(ruinas,senadora).
+aparece_tweet(ruinas,emergencia).
+aparece_tweet(ruinas,terrenos).
+aparece_tweet(ruinas,mosquito).
+aparece_tweet(ruinas,calles).
+aparece_tweet(ruinas,servicios).
+aparece_tweet(ruinas,aumento).
+aparece_tweet(ruinas,dr).
+aparece_tweet(ruinas,pacientes).
+aparece_tweet(ruinas,conciencia).
+aparece_tweet(ruinas,dispersion).
+aparece_tweet(ruinas,notifaciones).
+aparece_tweet(ruinas,epidemia).
+aparece_tweet(ruinas,funcionarios).
+aparece_tweet(ruinas,extincion).
+aparece_tweet(ruinas,barrio).
+aparece_tweet(ruinas,cuadra).
+aparece_tweet(ruinas,basura).
+aparece_tweet(ruinas,eliminacion).
+aparece_tweet(ruinas,instituciones).
+aparece_tweet(ruinas,trabajos).
+aparece_tweet(ruinas,rastrillaje).
+aparece_tweet(ruinas,autoridades).
+aparece_tweet(ruinas,institucion).
+aparece_tweet(ruinas,intendentes).
+aparece_tweet(ruinas,municipalidad).
+aparece_tweet(ruinas,acciones).
+aparece_tweet(ruinas,sanciones).
+aparece_tweet(ruinas,limpieza).
+aparece_tweet(ruinas,yuyales).
+aparece_tweet(ruinas,propagacion).
+aparece_tweet(ruinas,ministerio).
+aparece_tweet(ruinas,rebrote).
+aparece_tweet(ruinas,problema).
+aparece_tweet(ruinas,capacidad).
+aparece_tweet(ruinas,propiedad).
+aparece_tweet(ruinas,antecedentes).
+aparece_tweet(ruinas,recomendaciones).
+aparece_tweet(ruinas,causa).
+aparece_tweet(ruinas,sospecha).
+aparece_tweet(ruinas,infestacion).
+aparece_tweet(ruinas,imputacion).
+aparece_tweet(ruinas,serotipo).
+aparece_tweet(ruinas,comunidad).
+aparece_tweet(ruinas,combate).
+aparece_tweet(ruinas,muertes).
+aparece_tweet(ruinas,cifra).
+aparece_tweet(ruinas,sintomas).
+aparece_tweet(ruinas,medicamentos).
+aparece_tweet(ruinas,urgencias).
+aparece_tweet(ruinas,afectados).
+aparece_tweet(ruinas,gobierno).
+aparece_tweet(ruinas,cuidados).
+aparece_tweet(ruinas,promedio).
+aparece_tweet(ruinas,brote).
+aparece_tweet(ruinas,hospitalizaciones).
+aparece_tweet(ruinas,cuadro).
+aparece_tweet(ruinas,enfermedades).
+aparece_tweet(ruinas,recoleccion).
+aparece_tweet(ruinas,basuras).
+aparece_tweet(ruinas,riesgo).
+aparece_tweet(ruinas,lluvias).
+aparece_tweet(ruinas,concienciacion).
+aparece_tweet(ruinas,inaccion).
+aparece_tweet(ruinas,baldios).
+aparece_tweet(ruinas,crecimiento).
+aparece_tweet(ruinas,rio).
+aparece_tweet(ruinas,epoca).
+aparece_tweet(ruinas,plastico).
+aparece_tweet(ruinas,bolsitas).
+aparece_tweet(ruinas,inundaciones).
+aparece_tweet(predio,avenida).
+aparece_tweet(predio,chikungunya).
+aparece_tweet(predio,poblacion).
+aparece_tweet(predio,patios).
+aparece_tweet(predio,criaderos).
+aparece_tweet(predio,ministro).
+aparece_tweet(predio,brotes).
+aparece_tweet(predio,zonas).
+aparece_tweet(predio,municipios).
+aparece_tweet(predio,alerta).
+aparece_tweet(predio,focos).
+aparece_tweet(predio,fiebre).
+aparece_tweet(predio,gente).
+aparece_tweet(predio,paciente).
+aparece_tweet(predio,dengue).
+aparece_tweet(predio,muerte).
+aparece_tweet(predio,precio).
+aparece_tweet(predio,casas).
+aparece_tweet(predio,enfermos).
+aparece_tweet(predio,presencia).
+aparece_tweet(predio,sintomas).
+aparece_tweet(predio,salud).
+aparece_tweet(predio,agua).
+aparece_tweet(predio,barrios).
+aparece_tweet(predio,piscinas).
+aparece_tweet(predio,inconsciencia).
+aparece_tweet(predio,pileta).
+aparece_tweet(predio,multas).
+aparece_tweet(predio,titular).
+aparece_tweet(predio,ciudad).
+aparece_tweet(predio,instalaciones).
+aparece_tweet(predio,vector).
+aparece_tweet(predio,educacion).
+aparece_tweet(predio,disposicion).
+aparece_tweet(predio,recursos).
+aparece_tweet(predio,lucha).
+aparece_tweet(predio,denuncias).
+aparece_tweet(predio,neumaticos).
+aparece_tweet(predio,chatarras).
+aparece_tweet(predio,ayudarnos).
+aparece_tweet(predio,supuesto).
+aparece_tweet(predio,senadora).
+aparece_tweet(predio,emergencia).
+aparece_tweet(predio,terrenos).
+aparece_tweet(predio,mosquito).
+aparece_tweet(predio,calles).
+aparece_tweet(predio,servicios).
+aparece_tweet(predio,aumento).
+aparece_tweet(predio,dr).
+aparece_tweet(predio,pacientes).
+aparece_tweet(predio,conciencia).
+aparece_tweet(predio,dispersion).
+aparece_tweet(predio,notifaciones).
+aparece_tweet(predio,epidemia).
+aparece_tweet(predio,funcionarios).
+aparece_tweet(predio,extincion).
+aparece_tweet(predio,barrio).
+aparece_tweet(predio,cuadra).
+aparece_tweet(predio,basura).
+aparece_tweet(predio,eliminacion).
+aparece_tweet(predio,instituciones).
+aparece_tweet(predio,trabajos).
+aparece_tweet(predio,rastrillaje).
+aparece_tweet(predio,autoridades).
+aparece_tweet(predio,institucion).
+aparece_tweet(predio,intendentes).
+aparece_tweet(predio,municipalidad).
+aparece_tweet(predio,acciones).
+aparece_tweet(predio,sanciones).
+aparece_tweet(predio,limpieza).
+aparece_tweet(predio,yuyales).
+aparece_tweet(predio,propagacion).
+aparece_tweet(predio,ministerio).
+aparece_tweet(predio,rebrote).
+aparece_tweet(predio,problema).
+aparece_tweet(predio,capacidad).
+aparece_tweet(predio,propiedad).
+aparece_tweet(predio,antecedentes).
+aparece_tweet(predio,recomendaciones).
+aparece_tweet(predio,causa).
+aparece_tweet(predio,sospecha).
+aparece_tweet(predio,infestacion).
+aparece_tweet(predio,imputacion).
+aparece_tweet(predio,serotipo).
+aparece_tweet(predio,comunidad).
+aparece_tweet(predio,combate).
+aparece_tweet(predio,muertes).
+aparece_tweet(predio,cifra).
+aparece_tweet(predio,sintomas).
+aparece_tweet(predio,medicamentos).
+aparece_tweet(predio,urgencias).
+aparece_tweet(predio,afectados).
+aparece_tweet(predio,gobierno).
+aparece_tweet(predio,cuidados).
+aparece_tweet(predio,promedio).
+aparece_tweet(predio,brote).
+aparece_tweet(predio,hospitalizaciones).
+aparece_tweet(predio,cuadro).
+aparece_tweet(predio,enfermedades).
+aparece_tweet(predio,recoleccion).
+aparece_tweet(predio,basuras).
+aparece_tweet(predio,riesgo).
+aparece_tweet(predio,lluvias).
+aparece_tweet(predio,concienciacion).
+aparece_tweet(predio,inaccion).
+aparece_tweet(predio,baldios).
+aparece_tweet(predio,crecimiento).
+aparece_tweet(predio,rio).
+aparece_tweet(predio,epoca).
+aparece_tweet(predio,plastico).
+aparece_tweet(predio,bolsitas).
+aparece_tweet(predio,inundaciones).
+aparece_tweet(avenida,chikungunya).
+aparece_tweet(avenida,poblacion).
+aparece_tweet(avenida,patios).
+aparece_tweet(avenida,criaderos).
+aparece_tweet(avenida,ministro).
+aparece_tweet(avenida,brotes).
+aparece_tweet(avenida,zonas).
+aparece_tweet(avenida,municipios).
+aparece_tweet(avenida,alerta).
+aparece_tweet(avenida,focos).
+aparece_tweet(avenida,fiebre).
+aparece_tweet(avenida,gente).
+aparece_tweet(avenida,paciente).
+aparece_tweet(avenida,dengue).
+aparece_tweet(avenida,muerte).
+aparece_tweet(avenida,precio).
+aparece_tweet(avenida,casas).
+aparece_tweet(avenida,enfermos).
+aparece_tweet(avenida,presencia).
+aparece_tweet(avenida,sintomas).
+aparece_tweet(avenida,salud).
+aparece_tweet(avenida,agua).
+aparece_tweet(avenida,barrios).
+aparece_tweet(avenida,piscinas).
+aparece_tweet(avenida,inconsciencia).
+aparece_tweet(avenida,pileta).
+aparece_tweet(avenida,multas).
+aparece_tweet(avenida,titular).
+aparece_tweet(avenida,ciudad).
+aparece_tweet(avenida,instalaciones).
+aparece_tweet(avenida,vector).
+aparece_tweet(avenida,educacion).
+aparece_tweet(avenida,disposicion).
+aparece_tweet(avenida,recursos).
+aparece_tweet(avenida,lucha).
+aparece_tweet(avenida,denuncias).
+aparece_tweet(avenida,neumaticos).
+aparece_tweet(avenida,chatarras).
+aparece_tweet(avenida,ayudarnos).
+aparece_tweet(avenida,supuesto).
+aparece_tweet(avenida,senadora).
+aparece_tweet(avenida,emergencia).
+aparece_tweet(avenida,terrenos).
+aparece_tweet(avenida,mosquito).
+aparece_tweet(avenida,calles).
+aparece_tweet(avenida,servicios).
+aparece_tweet(avenida,aumento).
+aparece_tweet(avenida,dr).
+aparece_tweet(avenida,pacientes).
+aparece_tweet(avenida,conciencia).
+aparece_tweet(avenida,dispersion).
+aparece_tweet(avenida,notifaciones).
+aparece_tweet(avenida,epidemia).
+aparece_tweet(avenida,funcionarios).
+aparece_tweet(avenida,extincion).
+aparece_tweet(avenida,barrio).
+aparece_tweet(avenida,cuadra).
+aparece_tweet(avenida,basura).
+aparece_tweet(avenida,eliminacion).
+aparece_tweet(avenida,instituciones).
+aparece_tweet(avenida,trabajos).
+aparece_tweet(avenida,rastrillaje).
+aparece_tweet(avenida,autoridades).
+aparece_tweet(avenida,institucion).
+aparece_tweet(avenida,intendentes).
+aparece_tweet(avenida,municipalidad).
+aparece_tweet(avenida,acciones).
+aparece_tweet(avenida,sanciones).
+aparece_tweet(avenida,limpieza).
+aparece_tweet(avenida,yuyales).
+aparece_tweet(avenida,propagacion).
+aparece_tweet(avenida,ministerio).
+aparece_tweet(avenida,rebrote).
+aparece_tweet(avenida,problema).
+aparece_tweet(avenida,capacidad).
+aparece_tweet(avenida,propiedad).
+aparece_tweet(avenida,antecedentes).
+aparece_tweet(avenida,recomendaciones).
+aparece_tweet(avenida,causa).
+aparece_tweet(avenida,sospecha).
+aparece_tweet(avenida,infestacion).
+aparece_tweet(avenida,imputacion).
+aparece_tweet(avenida,serotipo).
+aparece_tweet(avenida,comunidad).
+aparece_tweet(avenida,combate).
+aparece_tweet(avenida,muertes).
+aparece_tweet(avenida,cifra).
+aparece_tweet(avenida,sintomas).
+aparece_tweet(avenida,medicamentos).
+aparece_tweet(avenida,urgencias).
+aparece_tweet(avenida,afectados).
+aparece_tweet(avenida,gobierno).
+aparece_tweet(avenida,cuidados).
+aparece_tweet(avenida,promedio).
+aparece_tweet(avenida,brote).
+aparece_tweet(avenida,hospitalizaciones).
+aparece_tweet(avenida,cuadro).
+aparece_tweet(avenida,enfermedades).
+aparece_tweet(avenida,recoleccion).
+aparece_tweet(avenida,basuras).
+aparece_tweet(avenida,riesgo).
+aparece_tweet(avenida,lluvias).
+aparece_tweet(avenida,concienciacion).
+aparece_tweet(avenida,inaccion).
+aparece_tweet(avenida,baldios).
+aparece_tweet(avenida,crecimiento).
+aparece_tweet(avenida,rio).
+aparece_tweet(avenida,epoca).
+aparece_tweet(avenida,plastico).
+aparece_tweet(avenida,bolsitas).
+aparece_tweet(avenida,inundaciones).
+aparece_tweet(chikungunya,poblacion).
+aparece_tweet(chikungunya,patios).
+aparece_tweet(chikungunya,criaderos).
+aparece_tweet(chikungunya,ministro).
+aparece_tweet(chikungunya,brotes).
+aparece_tweet(chikungunya,zonas).
+aparece_tweet(chikungunya,municipios).
+aparece_tweet(chikungunya,alerta).
+aparece_tweet(chikungunya,focos).
+aparece_tweet(chikungunya,fiebre).
+aparece_tweet(chikungunya,gente).
+aparece_tweet(chikungunya,paciente).
+aparece_tweet(chikungunya,dengue).
+aparece_tweet(chikungunya,muerte).
+aparece_tweet(chikungunya,precio).
+aparece_tweet(chikungunya,casas).
+aparece_tweet(chikungunya,enfermos).
+aparece_tweet(chikungunya,presencia).
+aparece_tweet(chikungunya,sintomas).
+aparece_tweet(chikungunya,salud).
+aparece_tweet(chikungunya,agua).
+aparece_tweet(chikungunya,barrios).
+aparece_tweet(chikungunya,piscinas).
+aparece_tweet(chikungunya,inconsciencia).
+aparece_tweet(chikungunya,pileta).
+aparece_tweet(chikungunya,multas).
+aparece_tweet(chikungunya,titular).
+aparece_tweet(chikungunya,ciudad).
+aparece_tweet(chikungunya,instalaciones).
+aparece_tweet(chikungunya,vector).
+aparece_tweet(chikungunya,educacion).
+aparece_tweet(chikungunya,disposicion).
+aparece_tweet(chikungunya,recursos).
+aparece_tweet(chikungunya,lucha).
+aparece_tweet(chikungunya,denuncias).
+aparece_tweet(chikungunya,neumaticos).
+aparece_tweet(chikungunya,chatarras).
+aparece_tweet(chikungunya,ayudarnos).
+aparece_tweet(chikungunya,supuesto).
+aparece_tweet(chikungunya,senadora).
+aparece_tweet(chikungunya,emergencia).
+aparece_tweet(chikungunya,terrenos).
+aparece_tweet(chikungunya,mosquito).
+aparece_tweet(chikungunya,calles).
+aparece_tweet(chikungunya,servicios).
+aparece_tweet(chikungunya,aumento).
+aparece_tweet(chikungunya,dr).
+aparece_tweet(chikungunya,pacientes).
+aparece_tweet(chikungunya,conciencia).
+aparece_tweet(chikungunya,dispersion).
+aparece_tweet(chikungunya,notifaciones).
+aparece_tweet(chikungunya,epidemia).
+aparece_tweet(chikungunya,funcionarios).
+aparece_tweet(chikungunya,extincion).
+aparece_tweet(chikungunya,barrio).
+aparece_tweet(chikungunya,cuadra).
+aparece_tweet(chikungunya,basura).
+aparece_tweet(chikungunya,eliminacion).
+aparece_tweet(chikungunya,instituciones).
+aparece_tweet(chikungunya,trabajos).
+aparece_tweet(chikungunya,rastrillaje).
+aparece_tweet(chikungunya,autoridades).
+aparece_tweet(chikungunya,institucion).
+aparece_tweet(chikungunya,intendentes).
+aparece_tweet(chikungunya,municipalidad).
+aparece_tweet(chikungunya,acciones).
+aparece_tweet(chikungunya,sanciones).
+aparece_tweet(chikungunya,limpieza).
+aparece_tweet(chikungunya,yuyales).
+aparece_tweet(chikungunya,propagacion).
+aparece_tweet(chikungunya,ministerio).
+aparece_tweet(chikungunya,rebrote).
+aparece_tweet(chikungunya,problema).
+aparece_tweet(chikungunya,capacidad).
+aparece_tweet(chikungunya,propiedad).
+aparece_tweet(chikungunya,antecedentes).
+aparece_tweet(chikungunya,recomendaciones).
+aparece_tweet(chikungunya,causa).
+aparece_tweet(chikungunya,sospecha).
+aparece_tweet(chikungunya,infestacion).
+aparece_tweet(chikungunya,imputacion).
+aparece_tweet(chikungunya,serotipo).
+aparece_tweet(chikungunya,comunidad).
+aparece_tweet(chikungunya,combate).
+aparece_tweet(chikungunya,muertes).
+aparece_tweet(chikungunya,cifra).
+aparece_tweet(chikungunya,sintomas).
+aparece_tweet(chikungunya,medicamentos).
+aparece_tweet(chikungunya,urgencias).
+aparece_tweet(chikungunya,afectados).
+aparece_tweet(chikungunya,gobierno).
+aparece_tweet(chikungunya,cuidados).
+aparece_tweet(chikungunya,promedio).
+aparece_tweet(chikungunya,brote).
+aparece_tweet(chikungunya,hospitalizaciones).
+aparece_tweet(chikungunya,cuadro).
+aparece_tweet(chikungunya,enfermedades).
+aparece_tweet(chikungunya,recoleccion).
+aparece_tweet(chikungunya,basuras).
+aparece_tweet(chikungunya,riesgo).
+aparece_tweet(chikungunya,lluvias).
+aparece_tweet(chikungunya,concienciacion).
+aparece_tweet(chikungunya,inaccion).
+aparece_tweet(chikungunya,baldios).
+aparece_tweet(chikungunya,crecimiento).
+aparece_tweet(chikungunya,rio).
+aparece_tweet(chikungunya,epoca).
+aparece_tweet(chikungunya,plastico).
+aparece_tweet(chikungunya,bolsitas).
+aparece_tweet(chikungunya,inundaciones).
+aparece_tweet(poblacion,patios).
+aparece_tweet(poblacion,criaderos).
+aparece_tweet(poblacion,ministro).
+aparece_tweet(poblacion,brotes).
+aparece_tweet(poblacion,zonas).
+aparece_tweet(poblacion,municipios).
+aparece_tweet(poblacion,alerta).
+aparece_tweet(poblacion,focos).
+aparece_tweet(poblacion,fiebre).
+aparece_tweet(poblacion,gente).
+aparece_tweet(poblacion,paciente).
+aparece_tweet(poblacion,dengue).
+aparece_tweet(poblacion,muerte).
+aparece_tweet(poblacion,precio).
+aparece_tweet(poblacion,casas).
+aparece_tweet(poblacion,enfermos).
+aparece_tweet(poblacion,presencia).
+aparece_tweet(poblacion,sintomas).
+aparece_tweet(poblacion,salud).
+aparece_tweet(poblacion,agua).
+aparece_tweet(poblacion,barrios).
+aparece_tweet(poblacion,piscinas).
+aparece_tweet(poblacion,inconsciencia).
+aparece_tweet(poblacion,pileta).
+aparece_tweet(poblacion,multas).
+aparece_tweet(poblacion,titular).
+aparece_tweet(poblacion,ciudad).
+aparece_tweet(poblacion,instalaciones).
+aparece_tweet(poblacion,vector).
+aparece_tweet(poblacion,educacion).
+aparece_tweet(poblacion,disposicion).
+aparece_tweet(poblacion,recursos).
+aparece_tweet(poblacion,lucha).
+aparece_tweet(poblacion,denuncias).
+aparece_tweet(poblacion,neumaticos).
+aparece_tweet(poblacion,chatarras).
+aparece_tweet(poblacion,ayudarnos).
+aparece_tweet(poblacion,supuesto).
+aparece_tweet(poblacion,senadora).
+aparece_tweet(poblacion,emergencia).
+aparece_tweet(poblacion,terrenos).
+aparece_tweet(poblacion,mosquito).
+aparece_tweet(poblacion,calles).
+aparece_tweet(poblacion,servicios).
+aparece_tweet(poblacion,aumento).
+aparece_tweet(poblacion,dr).
+aparece_tweet(poblacion,pacientes).
+aparece_tweet(poblacion,conciencia).
+aparece_tweet(poblacion,dispersion).
+aparece_tweet(poblacion,notifaciones).
+aparece_tweet(poblacion,epidemia).
+aparece_tweet(poblacion,funcionarios).
+aparece_tweet(poblacion,extincion).
+aparece_tweet(poblacion,barrio).
+aparece_tweet(poblacion,cuadra).
+aparece_tweet(poblacion,basura).
+aparece_tweet(poblacion,eliminacion).
+aparece_tweet(poblacion,instituciones).
+aparece_tweet(poblacion,trabajos).
+aparece_tweet(poblacion,rastrillaje).
+aparece_tweet(poblacion,autoridades).
+aparece_tweet(poblacion,institucion).
+aparece_tweet(poblacion,intendentes).
+aparece_tweet(poblacion,municipalidad).
+aparece_tweet(poblacion,acciones).
+aparece_tweet(poblacion,sanciones).
+aparece_tweet(poblacion,limpieza).
+aparece_tweet(poblacion,yuyales).
+aparece_tweet(poblacion,propagacion).
+aparece_tweet(poblacion,ministerio).
+aparece_tweet(poblacion,rebrote).
+aparece_tweet(poblacion,problema).
+aparece_tweet(poblacion,capacidad).
+aparece_tweet(poblacion,propiedad).
+aparece_tweet(poblacion,antecedentes).
+aparece_tweet(poblacion,recomendaciones).
+aparece_tweet(poblacion,causa).
+aparece_tweet(poblacion,sospecha).
+aparece_tweet(poblacion,infestacion).
+aparece_tweet(poblacion,imputacion).
+aparece_tweet(poblacion,serotipo).
+aparece_tweet(poblacion,comunidad).
+aparece_tweet(poblacion,combate).
+aparece_tweet(poblacion,muertes).
+aparece_tweet(poblacion,cifra).
+aparece_tweet(poblacion,sintomas).
+aparece_tweet(poblacion,medicamentos).
+aparece_tweet(poblacion,urgencias).
+aparece_tweet(poblacion,afectados).
+aparece_tweet(poblacion,gobierno).
+aparece_tweet(poblacion,cuidados).
+aparece_tweet(poblacion,promedio).
+aparece_tweet(poblacion,brote).
+aparece_tweet(poblacion,hospitalizaciones).
+aparece_tweet(poblacion,cuadro).
+aparece_tweet(poblacion,enfermedades).
+aparece_tweet(poblacion,recoleccion).
+aparece_tweet(poblacion,basuras).
+aparece_tweet(poblacion,riesgo).
+aparece_tweet(poblacion,lluvias).
+aparece_tweet(poblacion,concienciacion).
+aparece_tweet(poblacion,inaccion).
+aparece_tweet(poblacion,baldios).
+aparece_tweet(poblacion,crecimiento).
+aparece_tweet(poblacion,rio).
+aparece_tweet(poblacion,epoca).
+aparece_tweet(poblacion,plastico).
+aparece_tweet(poblacion,bolsitas).
+aparece_tweet(poblacion,inundaciones).
+aparece_tweet(patios,criaderos).
+aparece_tweet(patios,ministro).
+aparece_tweet(patios,brotes).
+aparece_tweet(patios,zonas).
+aparece_tweet(patios,municipios).
+aparece_tweet(patios,alerta).
+aparece_tweet(patios,focos).
+aparece_tweet(patios,fiebre).
+aparece_tweet(patios,gente).
+aparece_tweet(patios,paciente).
+aparece_tweet(patios,dengue).
+aparece_tweet(patios,muerte).
+aparece_tweet(patios,precio).
+aparece_tweet(patios,casas).
+aparece_tweet(patios,enfermos).
+aparece_tweet(patios,presencia).
+aparece_tweet(patios,sintomas).
+aparece_tweet(patios,salud).
+aparece_tweet(patios,agua).
+aparece_tweet(patios,barrios).
+aparece_tweet(patios,piscinas).
+aparece_tweet(patios,inconsciencia).
+aparece_tweet(patios,pileta).
+aparece_tweet(patios,multas).
+aparece_tweet(patios,titular).
+aparece_tweet(patios,ciudad).
+aparece_tweet(patios,instalaciones).
+aparece_tweet(patios,vector).
+aparece_tweet(patios,educacion).
+aparece_tweet(patios,disposicion).
+aparece_tweet(patios,recursos).
+aparece_tweet(patios,lucha).
+aparece_tweet(patios,denuncias).
+aparece_tweet(patios,neumaticos).
+aparece_tweet(patios,chatarras).
+aparece_tweet(patios,ayudarnos).
+aparece_tweet(patios,supuesto).
+aparece_tweet(patios,senadora).
+aparece_tweet(patios,emergencia).
+aparece_tweet(patios,terrenos).
+aparece_tweet(patios,mosquito).
+aparece_tweet(patios,calles).
+aparece_tweet(patios,servicios).
+aparece_tweet(patios,aumento).
+aparece_tweet(patios,dr).
+aparece_tweet(patios,pacientes).
+aparece_tweet(patios,conciencia).
+aparece_tweet(patios,dispersion).
+aparece_tweet(patios,notifaciones).
+aparece_tweet(patios,epidemia).
+aparece_tweet(patios,funcionarios).
+aparece_tweet(patios,extincion).
+aparece_tweet(patios,barrio).
+aparece_tweet(patios,cuadra).
+aparece_tweet(patios,basura).
+aparece_tweet(patios,eliminacion).
+aparece_tweet(patios,instituciones).
+aparece_tweet(patios,trabajos).
+aparece_tweet(patios,rastrillaje).
+aparece_tweet(patios,autoridades).
+aparece_tweet(patios,institucion).
+aparece_tweet(patios,intendentes).
+aparece_tweet(patios,municipalidad).
+aparece_tweet(patios,acciones).
+aparece_tweet(patios,sanciones).
+aparece_tweet(patios,limpieza).
+aparece_tweet(patios,yuyales).
+aparece_tweet(patios,propagacion).
+aparece_tweet(patios,ministerio).
+aparece_tweet(patios,rebrote).
+aparece_tweet(patios,problema).
+aparece_tweet(patios,capacidad).
+aparece_tweet(patios,propiedad).
+aparece_tweet(patios,antecedentes).
+aparece_tweet(patios,recomendaciones).
+aparece_tweet(patios,causa).
+aparece_tweet(patios,sospecha).
+aparece_tweet(patios,infestacion).
+aparece_tweet(patios,imputacion).
+aparece_tweet(patios,serotipo).
+aparece_tweet(patios,comunidad).
+aparece_tweet(patios,combate).
+aparece_tweet(patios,muertes).
+aparece_tweet(patios,cifra).
+aparece_tweet(patios,sintomas).
+aparece_tweet(patios,medicamentos).
+aparece_tweet(patios,urgencias).
+aparece_tweet(patios,afectados).
+aparece_tweet(patios,gobierno).
+aparece_tweet(patios,cuidados).
+aparece_tweet(patios,promedio).
+aparece_tweet(patios,brote).
+aparece_tweet(patios,hospitalizaciones).
+aparece_tweet(patios,cuadro).
+aparece_tweet(patios,enfermedades).
+aparece_tweet(patios,recoleccion).
+aparece_tweet(patios,basuras).
+aparece_tweet(patios,riesgo).
+aparece_tweet(patios,lluvias).
+aparece_tweet(patios,concienciacion).
+aparece_tweet(patios,inaccion).
+aparece_tweet(patios,baldios).
+aparece_tweet(patios,crecimiento).
+aparece_tweet(patios,rio).
+aparece_tweet(patios,epoca).
+aparece_tweet(patios,plastico).
+aparece_tweet(patios,bolsitas).
+aparece_tweet(patios,inundaciones).
+aparece_tweet(criaderos,ministro).
+aparece_tweet(criaderos,brotes).
+aparece_tweet(criaderos,zonas).
+aparece_tweet(criaderos,municipios).
+aparece_tweet(criaderos,alerta).
+aparece_tweet(criaderos,focos).
+aparece_tweet(criaderos,fiebre).
+aparece_tweet(criaderos,gente).
+aparece_tweet(criaderos,paciente).
+aparece_tweet(criaderos,dengue).
+aparece_tweet(criaderos,muerte).
+aparece_tweet(criaderos,precio).
+aparece_tweet(criaderos,casas).
+aparece_tweet(criaderos,enfermos).
+aparece_tweet(criaderos,presencia).
+aparece_tweet(criaderos,sintomas).
+aparece_tweet(criaderos,salud).
+aparece_tweet(criaderos,agua).
+aparece_tweet(criaderos,barrios).
+aparece_tweet(criaderos,piscinas).
+aparece_tweet(criaderos,inconsciencia).
+aparece_tweet(criaderos,pileta).
+aparece_tweet(criaderos,multas).
+aparece_tweet(criaderos,titular).
+aparece_tweet(criaderos,ciudad).
+aparece_tweet(criaderos,instalaciones).
+aparece_tweet(criaderos,vector).
+aparece_tweet(criaderos,educacion).
+aparece_tweet(criaderos,disposicion).
+aparece_tweet(criaderos,recursos).
+aparece_tweet(criaderos,lucha).
+aparece_tweet(criaderos,denuncias).
+aparece_tweet(criaderos,neumaticos).
+aparece_tweet(criaderos,chatarras).
+aparece_tweet(criaderos,ayudarnos).
+aparece_tweet(criaderos,supuesto).
+aparece_tweet(criaderos,senadora).
+aparece_tweet(criaderos,emergencia).
+aparece_tweet(criaderos,terrenos).
+aparece_tweet(criaderos,mosquito).
+aparece_tweet(criaderos,calles).
+aparece_tweet(criaderos,servicios).
+aparece_tweet(criaderos,aumento).
+aparece_tweet(criaderos,dr).
+aparece_tweet(criaderos,pacientes).
+aparece_tweet(criaderos,conciencia).
+aparece_tweet(criaderos,dispersion).
+aparece_tweet(criaderos,notifaciones).
+aparece_tweet(criaderos,epidemia).
+aparece_tweet(criaderos,funcionarios).
+aparece_tweet(criaderos,extincion).
+aparece_tweet(criaderos,barrio).
+aparece_tweet(criaderos,cuadra).
+aparece_tweet(criaderos,basura).
+aparece_tweet(criaderos,eliminacion).
+aparece_tweet(criaderos,instituciones).
+aparece_tweet(criaderos,trabajos).
+aparece_tweet(criaderos,rastrillaje).
+aparece_tweet(criaderos,autoridades).
+aparece_tweet(criaderos,institucion).
+aparece_tweet(criaderos,intendentes).
+aparece_tweet(criaderos,municipalidad).
+aparece_tweet(criaderos,acciones).
+aparece_tweet(criaderos,sanciones).
+aparece_tweet(criaderos,limpieza).
+aparece_tweet(criaderos,yuyales).
+aparece_tweet(criaderos,propagacion).
+aparece_tweet(criaderos,ministerio).
+aparece_tweet(criaderos,rebrote).
+aparece_tweet(criaderos,problema).
+aparece_tweet(criaderos,capacidad).
+aparece_tweet(criaderos,propiedad).
+aparece_tweet(criaderos,antecedentes).
+aparece_tweet(criaderos,recomendaciones).
+aparece_tweet(criaderos,causa).
+aparece_tweet(criaderos,sospecha).
+aparece_tweet(criaderos,infestacion).
+aparece_tweet(criaderos,imputacion).
+aparece_tweet(criaderos,serotipo).
+aparece_tweet(criaderos,comunidad).
+aparece_tweet(criaderos,combate).
+aparece_tweet(criaderos,muertes).
+aparece_tweet(criaderos,cifra).
+aparece_tweet(criaderos,sintomas).
+aparece_tweet(criaderos,medicamentos).
+aparece_tweet(criaderos,urgencias).
+aparece_tweet(criaderos,afectados).
+aparece_tweet(criaderos,gobierno).
+aparece_tweet(criaderos,cuidados).
+aparece_tweet(criaderos,promedio).
+aparece_tweet(criaderos,brote).
+aparece_tweet(criaderos,hospitalizaciones).
+aparece_tweet(criaderos,cuadro).
+aparece_tweet(criaderos,enfermedades).
+aparece_tweet(criaderos,recoleccion).
+aparece_tweet(criaderos,basuras).
+aparece_tweet(criaderos,riesgo).
+aparece_tweet(criaderos,lluvias).
+aparece_tweet(criaderos,concienciacion).
+aparece_tweet(criaderos,inaccion).
+aparece_tweet(criaderos,baldios).
+aparece_tweet(criaderos,crecimiento).
+aparece_tweet(criaderos,rio).
+aparece_tweet(criaderos,epoca).
+aparece_tweet(criaderos,plastico).
+aparece_tweet(criaderos,bolsitas).
+aparece_tweet(criaderos,inundaciones).
+aparece_tweet(ministro,brotes).
+aparece_tweet(ministro,zonas).
+aparece_tweet(ministro,municipios).
+aparece_tweet(ministro,alerta).
+aparece_tweet(ministro,focos).
+aparece_tweet(ministro,fiebre).
+aparece_tweet(ministro,gente).
+aparece_tweet(ministro,paciente).
+aparece_tweet(ministro,dengue).
+aparece_tweet(ministro,muerte).
+aparece_tweet(ministro,precio).
+aparece_tweet(ministro,casas).
+aparece_tweet(ministro,enfermos).
+aparece_tweet(ministro,presencia).
+aparece_tweet(ministro,sintomas).
+aparece_tweet(ministro,salud).
+aparece_tweet(ministro,agua).
+aparece_tweet(ministro,barrios).
+aparece_tweet(ministro,piscinas).
+aparece_tweet(ministro,inconsciencia).
+aparece_tweet(ministro,pileta).
+aparece_tweet(ministro,multas).
+aparece_tweet(ministro,titular).
+aparece_tweet(ministro,ciudad).
+aparece_tweet(ministro,instalaciones).
+aparece_tweet(ministro,vector).
+aparece_tweet(ministro,educacion).
+aparece_tweet(ministro,disposicion).
+aparece_tweet(ministro,recursos).
+aparece_tweet(ministro,lucha).
+aparece_tweet(ministro,denuncias).
+aparece_tweet(ministro,neumaticos).
+aparece_tweet(ministro,chatarras).
+aparece_tweet(ministro,ayudarnos).
+aparece_tweet(ministro,supuesto).
+aparece_tweet(ministro,senadora).
+aparece_tweet(ministro,emergencia).
+aparece_tweet(ministro,terrenos).
+aparece_tweet(ministro,mosquito).
+aparece_tweet(ministro,calles).
+aparece_tweet(ministro,servicios).
+aparece_tweet(ministro,aumento).
+aparece_tweet(ministro,dr).
+aparece_tweet(ministro,pacientes).
+aparece_tweet(ministro,conciencia).
+aparece_tweet(ministro,dispersion).
+aparece_tweet(ministro,notifaciones).
+aparece_tweet(ministro,epidemia).
+aparece_tweet(ministro,funcionarios).
+aparece_tweet(ministro,extincion).
+aparece_tweet(ministro,barrio).
+aparece_tweet(ministro,cuadra).
+aparece_tweet(ministro,basura).
+aparece_tweet(ministro,eliminacion).
+aparece_tweet(ministro,instituciones).
+aparece_tweet(ministro,trabajos).
+aparece_tweet(ministro,rastrillaje).
+aparece_tweet(ministro,autoridades).
+aparece_tweet(ministro,institucion).
+aparece_tweet(ministro,intendentes).
+aparece_tweet(ministro,municipalidad).
+aparece_tweet(ministro,acciones).
+aparece_tweet(ministro,sanciones).
+aparece_tweet(ministro,limpieza).
+aparece_tweet(ministro,yuyales).
+aparece_tweet(ministro,propagacion).
+aparece_tweet(ministro,ministerio).
+aparece_tweet(ministro,rebrote).
+aparece_tweet(ministro,problema).
+aparece_tweet(ministro,capacidad).
+aparece_tweet(ministro,propiedad).
+aparece_tweet(ministro,antecedentes).
+aparece_tweet(ministro,recomendaciones).
+aparece_tweet(ministro,causa).
+aparece_tweet(ministro,sospecha).
+aparece_tweet(ministro,infestacion).
+aparece_tweet(ministro,imputacion).
+aparece_tweet(ministro,serotipo).
+aparece_tweet(ministro,comunidad).
+aparece_tweet(ministro,combate).
+aparece_tweet(ministro,muertes).
+aparece_tweet(ministro,cifra).
+aparece_tweet(ministro,sintomas).
+aparece_tweet(ministro,medicamentos).
+aparece_tweet(ministro,urgencias).
+aparece_tweet(ministro,afectados).
+aparece_tweet(ministro,gobierno).
+aparece_tweet(ministro,cuidados).
+aparece_tweet(ministro,promedio).
+aparece_tweet(ministro,brote).
+aparece_tweet(ministro,hospitalizaciones).
+aparece_tweet(ministro,cuadro).
+aparece_tweet(ministro,enfermedades).
+aparece_tweet(ministro,recoleccion).
+aparece_tweet(ministro,basuras).
+aparece_tweet(ministro,riesgo).
+aparece_tweet(ministro,lluvias).
+aparece_tweet(ministro,concienciacion).
+aparece_tweet(ministro,inaccion).
+aparece_tweet(ministro,baldios).
+aparece_tweet(ministro,crecimiento).
+aparece_tweet(ministro,rio).
+aparece_tweet(ministro,epoca).
+aparece_tweet(ministro,plastico).
+aparece_tweet(ministro,bolsitas).
+aparece_tweet(ministro,inundaciones).
+aparece_tweet(brotes,zonas).
+aparece_tweet(brotes,municipios).
+aparece_tweet(brotes,alerta).
+aparece_tweet(brotes,focos).
+aparece_tweet(brotes,fiebre).
+aparece_tweet(brotes,gente).
+aparece_tweet(brotes,paciente).
+aparece_tweet(brotes,dengue).
+aparece_tweet(brotes,muerte).
+aparece_tweet(brotes,precio).
+aparece_tweet(brotes,casas).
+aparece_tweet(brotes,enfermos).
+aparece_tweet(brotes,presencia).
+aparece_tweet(brotes,sintomas).
+aparece_tweet(brotes,salud).
+aparece_tweet(brotes,agua).
+aparece_tweet(brotes,barrios).
+aparece_tweet(brotes,piscinas).
+aparece_tweet(brotes,inconsciencia).
+aparece_tweet(brotes,pileta).
+aparece_tweet(brotes,multas).
+aparece_tweet(brotes,titular).
+aparece_tweet(brotes,ciudad).
+aparece_tweet(brotes,instalaciones).
+aparece_tweet(brotes,vector).
+aparece_tweet(brotes,educacion).
+aparece_tweet(brotes,disposicion).
+aparece_tweet(brotes,recursos).
+aparece_tweet(brotes,lucha).
+aparece_tweet(brotes,denuncias).
+aparece_tweet(brotes,neumaticos).
+aparece_tweet(brotes,chatarras).
+aparece_tweet(brotes,ayudarnos).
+aparece_tweet(brotes,supuesto).
+aparece_tweet(brotes,senadora).
+aparece_tweet(brotes,emergencia).
+aparece_tweet(brotes,terrenos).
+aparece_tweet(brotes,mosquito).
+aparece_tweet(brotes,calles).
+aparece_tweet(brotes,servicios).
+aparece_tweet(brotes,aumento).
+aparece_tweet(brotes,dr).
+aparece_tweet(brotes,pacientes).
+aparece_tweet(brotes,conciencia).
+aparece_tweet(brotes,dispersion).
+aparece_tweet(brotes,notifaciones).
+aparece_tweet(brotes,epidemia).
+aparece_tweet(brotes,funcionarios).
+aparece_tweet(brotes,extincion).
+aparece_tweet(brotes,barrio).
+aparece_tweet(brotes,cuadra).
+aparece_tweet(brotes,basura).
+aparece_tweet(brotes,eliminacion).
+aparece_tweet(brotes,instituciones).
+aparece_tweet(brotes,trabajos).
+aparece_tweet(brotes,rastrillaje).
+aparece_tweet(brotes,autoridades).
+aparece_tweet(brotes,institucion).
+aparece_tweet(brotes,intendentes).
+aparece_tweet(brotes,municipalidad).
+aparece_tweet(brotes,acciones).
+aparece_tweet(brotes,sanciones).
+aparece_tweet(brotes,limpieza).
+aparece_tweet(brotes,yuyales).
+aparece_tweet(brotes,propagacion).
+aparece_tweet(brotes,ministerio).
+aparece_tweet(brotes,rebrote).
+aparece_tweet(brotes,problema).
+aparece_tweet(brotes,capacidad).
+aparece_tweet(brotes,propiedad).
+aparece_tweet(brotes,antecedentes).
+aparece_tweet(brotes,recomendaciones).
+aparece_tweet(brotes,causa).
+aparece_tweet(brotes,sospecha).
+aparece_tweet(brotes,infestacion).
+aparece_tweet(brotes,imputacion).
+aparece_tweet(brotes,serotipo).
+aparece_tweet(brotes,comunidad).
+aparece_tweet(brotes,combate).
+aparece_tweet(brotes,muertes).
+aparece_tweet(brotes,cifra).
+aparece_tweet(brotes,sintomas).
+aparece_tweet(brotes,medicamentos).
+aparece_tweet(brotes,urgencias).
+aparece_tweet(brotes,afectados).
+aparece_tweet(brotes,gobierno).
+aparece_tweet(brotes,cuidados).
+aparece_tweet(brotes,promedio).
+aparece_tweet(brotes,brote).
+aparece_tweet(brotes,hospitalizaciones).
+aparece_tweet(brotes,cuadro).
+aparece_tweet(brotes,enfermedades).
+aparece_tweet(brotes,recoleccion).
+aparece_tweet(brotes,basuras).
+aparece_tweet(brotes,riesgo).
+aparece_tweet(brotes,lluvias).
+aparece_tweet(brotes,concienciacion).
+aparece_tweet(brotes,inaccion).
+aparece_tweet(brotes,baldios).
+aparece_tweet(brotes,crecimiento).
+aparece_tweet(brotes,rio).
+aparece_tweet(brotes,epoca).
+aparece_tweet(brotes,plastico).
+aparece_tweet(brotes,bolsitas).
+aparece_tweet(brotes,inundaciones).
+aparece_tweet(zonas,municipios).
+aparece_tweet(zonas,alerta).
+aparece_tweet(zonas,focos).
+aparece_tweet(zonas,fiebre).
+aparece_tweet(zonas,gente).
+aparece_tweet(zonas,paciente).
+aparece_tweet(zonas,dengue).
+aparece_tweet(zonas,muerte).
+aparece_tweet(zonas,precio).
+aparece_tweet(zonas,casas).
+aparece_tweet(zonas,enfermos).
+aparece_tweet(zonas,presencia).
+aparece_tweet(zonas,sintomas).
+aparece_tweet(zonas,salud).
+aparece_tweet(zonas,agua).
+aparece_tweet(zonas,barrios).
+aparece_tweet(zonas,piscinas).
+aparece_tweet(zonas,inconsciencia).
+aparece_tweet(zonas,pileta).
+aparece_tweet(zonas,multas).
+aparece_tweet(zonas,titular).
+aparece_tweet(zonas,ciudad).
+aparece_tweet(zonas,instalaciones).
+aparece_tweet(zonas,vector).
+aparece_tweet(zonas,educacion).
+aparece_tweet(zonas,disposicion).
+aparece_tweet(zonas,recursos).
+aparece_tweet(zonas,lucha).
+aparece_tweet(zonas,denuncias).
+aparece_tweet(zonas,neumaticos).
+aparece_tweet(zonas,chatarras).
+aparece_tweet(zonas,ayudarnos).
+aparece_tweet(zonas,supuesto).
+aparece_tweet(zonas,senadora).
+aparece_tweet(zonas,emergencia).
+aparece_tweet(zonas,terrenos).
+aparece_tweet(zonas,mosquito).
+aparece_tweet(zonas,calles).
+aparece_tweet(zonas,servicios).
+aparece_tweet(zonas,aumento).
+aparece_tweet(zonas,dr).
+aparece_tweet(zonas,pacientes).
+aparece_tweet(zonas,conciencia).
+aparece_tweet(zonas,dispersion).
+aparece_tweet(zonas,notifaciones).
+aparece_tweet(zonas,epidemia).
+aparece_tweet(zonas,funcionarios).
+aparece_tweet(zonas,extincion).
+aparece_tweet(zonas,barrio).
+aparece_tweet(zonas,cuadra).
+aparece_tweet(zonas,basura).
+aparece_tweet(zonas,eliminacion).
+aparece_tweet(zonas,instituciones).
+aparece_tweet(zonas,trabajos).
+aparece_tweet(zonas,rastrillaje).
+aparece_tweet(zonas,autoridades).
+aparece_tweet(zonas,institucion).
+aparece_tweet(zonas,intendentes).
+aparece_tweet(zonas,municipalidad).
+aparece_tweet(zonas,acciones).
+aparece_tweet(zonas,sanciones).
+aparece_tweet(zonas,limpieza).
+aparece_tweet(zonas,yuyales).
+aparece_tweet(zonas,propagacion).
+aparece_tweet(zonas,ministerio).
+aparece_tweet(zonas,rebrote).
+aparece_tweet(zonas,problema).
+aparece_tweet(zonas,capacidad).
+aparece_tweet(zonas,propiedad).
+aparece_tweet(zonas,antecedentes).
+aparece_tweet(zonas,recomendaciones).
+aparece_tweet(zonas,causa).
+aparece_tweet(zonas,sospecha).
+aparece_tweet(zonas,infestacion).
+aparece_tweet(zonas,imputacion).
+aparece_tweet(zonas,serotipo).
+aparece_tweet(zonas,comunidad).
+aparece_tweet(zonas,combate).
+aparece_tweet(zonas,muertes).
+aparece_tweet(zonas,cifra).
+aparece_tweet(zonas,sintomas).
+aparece_tweet(zonas,medicamentos).
+aparece_tweet(zonas,urgencias).
+aparece_tweet(zonas,afectados).
+aparece_tweet(zonas,gobierno).
+aparece_tweet(zonas,cuidados).
+aparece_tweet(zonas,promedio).
+aparece_tweet(zonas,brote).
+aparece_tweet(zonas,hospitalizaciones).
+aparece_tweet(zonas,cuadro).
+aparece_tweet(zonas,enfermedades).
+aparece_tweet(zonas,recoleccion).
+aparece_tweet(zonas,basuras).
+aparece_tweet(zonas,riesgo).
+aparece_tweet(zonas,lluvias).
+aparece_tweet(zonas,concienciacion).
+aparece_tweet(zonas,inaccion).
+aparece_tweet(zonas,baldios).
+aparece_tweet(zonas,crecimiento).
+aparece_tweet(zonas,rio).
+aparece_tweet(zonas,epoca).
+aparece_tweet(zonas,plastico).
+aparece_tweet(zonas,bolsitas).
+aparece_tweet(zonas,inundaciones).
+aparece_tweet(municipios,alerta).
+aparece_tweet(municipios,focos).
+aparece_tweet(municipios,fiebre).
+aparece_tweet(municipios,gente).
+aparece_tweet(municipios,paciente).
+aparece_tweet(municipios,dengue).
+aparece_tweet(municipios,muerte).
+aparece_tweet(municipios,precio).
+aparece_tweet(municipios,casas).
+aparece_tweet(municipios,enfermos).
+aparece_tweet(municipios,presencia).
+aparece_tweet(municipios,sintomas).
+aparece_tweet(municipios,salud).
+aparece_tweet(municipios,agua).
+aparece_tweet(municipios,barrios).
+aparece_tweet(municipios,piscinas).
+aparece_tweet(municipios,inconsciencia).
+aparece_tweet(municipios,pileta).
+aparece_tweet(municipios,multas).
+aparece_tweet(municipios,titular).
+aparece_tweet(municipios,ciudad).
+aparece_tweet(municipios,instalaciones).
+aparece_tweet(municipios,vector).
+aparece_tweet(municipios,educacion).
+aparece_tweet(municipios,disposicion).
+aparece_tweet(municipios,recursos).
+aparece_tweet(municipios,lucha).
+aparece_tweet(municipios,denuncias).
+aparece_tweet(municipios,neumaticos).
+aparece_tweet(municipios,chatarras).
+aparece_tweet(municipios,ayudarnos).
+aparece_tweet(municipios,supuesto).
+aparece_tweet(municipios,senadora).
+aparece_tweet(municipios,emergencia).
+aparece_tweet(municipios,terrenos).
+aparece_tweet(municipios,mosquito).
+aparece_tweet(municipios,calles).
+aparece_tweet(municipios,servicios).
+aparece_tweet(municipios,aumento).
+aparece_tweet(municipios,dr).
+aparece_tweet(municipios,pacientes).
+aparece_tweet(municipios,conciencia).
+aparece_tweet(municipios,dispersion).
+aparece_tweet(municipios,notifaciones).
+aparece_tweet(municipios,epidemia).
+aparece_tweet(municipios,funcionarios).
+aparece_tweet(municipios,extincion).
+aparece_tweet(municipios,barrio).
+aparece_tweet(municipios,cuadra).
+aparece_tweet(municipios,basura).
+aparece_tweet(municipios,eliminacion).
+aparece_tweet(municipios,instituciones).
+aparece_tweet(municipios,trabajos).
+aparece_tweet(municipios,rastrillaje).
+aparece_tweet(municipios,autoridades).
+aparece_tweet(municipios,institucion).
+aparece_tweet(municipios,intendentes).
+aparece_tweet(municipios,municipalidad).
+aparece_tweet(municipios,acciones).
+aparece_tweet(municipios,sanciones).
+aparece_tweet(municipios,limpieza).
+aparece_tweet(municipios,yuyales).
+aparece_tweet(municipios,propagacion).
+aparece_tweet(municipios,ministerio).
+aparece_tweet(municipios,rebrote).
+aparece_tweet(municipios,problema).
+aparece_tweet(municipios,capacidad).
+aparece_tweet(municipios,propiedad).
+aparece_tweet(municipios,antecedentes).
+aparece_tweet(municipios,recomendaciones).
+aparece_tweet(municipios,causa).
+aparece_tweet(municipios,sospecha).
+aparece_tweet(municipios,infestacion).
+aparece_tweet(municipios,imputacion).
+aparece_tweet(municipios,serotipo).
+aparece_tweet(municipios,comunidad).
+aparece_tweet(municipios,combate).
+aparece_tweet(municipios,muertes).
+aparece_tweet(municipios,cifra).
+aparece_tweet(municipios,sintomas).
+aparece_tweet(municipios,medicamentos).
+aparece_tweet(municipios,urgencias).
+aparece_tweet(municipios,afectados).
+aparece_tweet(municipios,gobierno).
+aparece_tweet(municipios,cuidados).
+aparece_tweet(municipios,promedio).
+aparece_tweet(municipios,brote).
+aparece_tweet(municipios,hospitalizaciones).
+aparece_tweet(municipios,cuadro).
+aparece_tweet(municipios,enfermedades).
+aparece_tweet(municipios,recoleccion).
+aparece_tweet(municipios,basuras).
+aparece_tweet(municipios,riesgo).
+aparece_tweet(municipios,lluvias).
+aparece_tweet(municipios,concienciacion).
+aparece_tweet(municipios,inaccion).
+aparece_tweet(municipios,baldios).
+aparece_tweet(municipios,crecimiento).
+aparece_tweet(municipios,rio).
+aparece_tweet(municipios,epoca).
+aparece_tweet(municipios,plastico).
+aparece_tweet(municipios,bolsitas).
+aparece_tweet(municipios,inundaciones).
+aparece_tweet(alerta,focos).
+aparece_tweet(alerta,fiebre).
+aparece_tweet(alerta,gente).
+aparece_tweet(alerta,paciente).
+aparece_tweet(alerta,dengue).
+aparece_tweet(alerta,muerte).
+aparece_tweet(alerta,precio).
+aparece_tweet(alerta,casas).
+aparece_tweet(alerta,enfermos).
+aparece_tweet(alerta,presencia).
+aparece_tweet(alerta,sintomas).
+aparece_tweet(alerta,salud).
+aparece_tweet(alerta,agua).
+aparece_tweet(alerta,barrios).
+aparece_tweet(alerta,piscinas).
+aparece_tweet(alerta,inconsciencia).
+aparece_tweet(alerta,pileta).
+aparece_tweet(alerta,multas).
+aparece_tweet(alerta,titular).
+aparece_tweet(alerta,ciudad).
+aparece_tweet(alerta,instalaciones).
+aparece_tweet(alerta,vector).
+aparece_tweet(alerta,educacion).
+aparece_tweet(alerta,disposicion).
+aparece_tweet(alerta,recursos).
+aparece_tweet(alerta,lucha).
+aparece_tweet(alerta,denuncias).
+aparece_tweet(alerta,neumaticos).
+aparece_tweet(alerta,chatarras).
+aparece_tweet(alerta,ayudarnos).
+aparece_tweet(alerta,supuesto).
+aparece_tweet(alerta,senadora).
+aparece_tweet(alerta,emergencia).
+aparece_tweet(alerta,terrenos).
+aparece_tweet(alerta,mosquito).
+aparece_tweet(alerta,calles).
+aparece_tweet(alerta,servicios).
+aparece_tweet(alerta,aumento).
+aparece_tweet(alerta,dr).
+aparece_tweet(alerta,pacientes).
+aparece_tweet(alerta,conciencia).
+aparece_tweet(alerta,dispersion).
+aparece_tweet(alerta,notifaciones).
+aparece_tweet(alerta,epidemia).
+aparece_tweet(alerta,funcionarios).
+aparece_tweet(alerta,extincion).
+aparece_tweet(alerta,barrio).
+aparece_tweet(alerta,cuadra).
+aparece_tweet(alerta,basura).
+aparece_tweet(alerta,eliminacion).
+aparece_tweet(alerta,instituciones).
+aparece_tweet(alerta,trabajos).
+aparece_tweet(alerta,rastrillaje).
+aparece_tweet(alerta,autoridades).
+aparece_tweet(alerta,institucion).
+aparece_tweet(alerta,intendentes).
+aparece_tweet(alerta,municipalidad).
+aparece_tweet(alerta,acciones).
+aparece_tweet(alerta,sanciones).
+aparece_tweet(alerta,limpieza).
+aparece_tweet(alerta,yuyales).
+aparece_tweet(alerta,propagacion).
+aparece_tweet(alerta,ministerio).
+aparece_tweet(alerta,rebrote).
+aparece_tweet(alerta,problema).
+aparece_tweet(alerta,capacidad).
+aparece_tweet(alerta,propiedad).
+aparece_tweet(alerta,antecedentes).
+aparece_tweet(alerta,recomendaciones).
+aparece_tweet(alerta,causa).
+aparece_tweet(alerta,sospecha).
+aparece_tweet(alerta,infestacion).
+aparece_tweet(alerta,imputacion).
+aparece_tweet(alerta,serotipo).
+aparece_tweet(alerta,comunidad).
+aparece_tweet(alerta,combate).
+aparece_tweet(alerta,muertes).
+aparece_tweet(alerta,cifra).
+aparece_tweet(alerta,sintomas).
+aparece_tweet(alerta,medicamentos).
+aparece_tweet(alerta,urgencias).
+aparece_tweet(alerta,afectados).
+aparece_tweet(alerta,gobierno).
+aparece_tweet(alerta,cuidados).
+aparece_tweet(alerta,promedio).
+aparece_tweet(alerta,brote).
+aparece_tweet(alerta,hospitalizaciones).
+aparece_tweet(alerta,cuadro).
+aparece_tweet(alerta,enfermedades).
+aparece_tweet(alerta,recoleccion).
+aparece_tweet(alerta,basuras).
+aparece_tweet(alerta,riesgo).
+aparece_tweet(alerta,lluvias).
+aparece_tweet(alerta,concienciacion).
+aparece_tweet(alerta,inaccion).
+aparece_tweet(alerta,baldios).
+aparece_tweet(alerta,crecimiento).
+aparece_tweet(alerta,rio).
+aparece_tweet(alerta,epoca).
+aparece_tweet(alerta,plastico).
+aparece_tweet(alerta,bolsitas).
+aparece_tweet(alerta,inundaciones).
+aparece_tweet(focos,fiebre).
+aparece_tweet(focos,gente).
+aparece_tweet(focos,paciente).
+aparece_tweet(focos,dengue).
+aparece_tweet(focos,muerte).
+aparece_tweet(focos,precio).
+aparece_tweet(focos,casas).
+aparece_tweet(focos,enfermos).
+aparece_tweet(focos,presencia).
+aparece_tweet(focos,sintomas).
+aparece_tweet(focos,salud).
+aparece_tweet(focos,agua).
+aparece_tweet(focos,barrios).
+aparece_tweet(focos,piscinas).
+aparece_tweet(focos,inconsciencia).
+aparece_tweet(focos,pileta).
+aparece_tweet(focos,multas).
+aparece_tweet(focos,titular).
+aparece_tweet(focos,ciudad).
+aparece_tweet(focos,instalaciones).
+aparece_tweet(focos,vector).
+aparece_tweet(focos,educacion).
+aparece_tweet(focos,disposicion).
+aparece_tweet(focos,recursos).
+aparece_tweet(focos,lucha).
+aparece_tweet(focos,denuncias).
+aparece_tweet(focos,neumaticos).
+aparece_tweet(focos,chatarras).
+aparece_tweet(focos,ayudarnos).
+aparece_tweet(focos,supuesto).
+aparece_tweet(focos,senadora).
+aparece_tweet(focos,emergencia).
+aparece_tweet(focos,terrenos).
+aparece_tweet(focos,mosquito).
+aparece_tweet(focos,calles).
+aparece_tweet(focos,servicios).
+aparece_tweet(focos,aumento).
+aparece_tweet(focos,dr).
+aparece_tweet(focos,pacientes).
+aparece_tweet(focos,conciencia).
+aparece_tweet(focos,dispersion).
+aparece_tweet(focos,notifaciones).
+aparece_tweet(focos,epidemia).
+aparece_tweet(focos,funcionarios).
+aparece_tweet(focos,extincion).
+aparece_tweet(focos,barrio).
+aparece_tweet(focos,cuadra).
+aparece_tweet(focos,basura).
+aparece_tweet(focos,eliminacion).
+aparece_tweet(focos,instituciones).
+aparece_tweet(focos,trabajos).
+aparece_tweet(focos,rastrillaje).
+aparece_tweet(focos,autoridades).
+aparece_tweet(focos,institucion).
+aparece_tweet(focos,intendentes).
+aparece_tweet(focos,municipalidad).
+aparece_tweet(focos,acciones).
+aparece_tweet(focos,sanciones).
+aparece_tweet(focos,limpieza).
+aparece_tweet(focos,yuyales).
+aparece_tweet(focos,propagacion).
+aparece_tweet(focos,ministerio).
+aparece_tweet(focos,rebrote).
+aparece_tweet(focos,problema).
+aparece_tweet(focos,capacidad).
+aparece_tweet(focos,propiedad).
+aparece_tweet(focos,antecedentes).
+aparece_tweet(focos,recomendaciones).
+aparece_tweet(focos,causa).
+aparece_tweet(focos,sospecha).
+aparece_tweet(focos,infestacion).
+aparece_tweet(focos,imputacion).
+aparece_tweet(focos,serotipo).
+aparece_tweet(focos,comunidad).
+aparece_tweet(focos,combate).
+aparece_tweet(focos,muertes).
+aparece_tweet(focos,cifra).
+aparece_tweet(focos,sintomas).
+aparece_tweet(focos,medicamentos).
+aparece_tweet(focos,urgencias).
+aparece_tweet(focos,afectados).
+aparece_tweet(focos,gobierno).
+aparece_tweet(focos,cuidados).
+aparece_tweet(focos,promedio).
+aparece_tweet(focos,brote).
+aparece_tweet(focos,hospitalizaciones).
+aparece_tweet(focos,cuadro).
+aparece_tweet(focos,enfermedades).
+aparece_tweet(focos,recoleccion).
+aparece_tweet(focos,basuras).
+aparece_tweet(focos,riesgo).
+aparece_tweet(focos,lluvias).
+aparece_tweet(focos,concienciacion).
+aparece_tweet(focos,inaccion).
+aparece_tweet(focos,baldios).
+aparece_tweet(focos,crecimiento).
+aparece_tweet(focos,rio).
+aparece_tweet(focos,epoca).
+aparece_tweet(focos,plastico).
+aparece_tweet(focos,bolsitas).
+aparece_tweet(focos,inundaciones).
+aparece_tweet(fiebre,gente).
+aparece_tweet(fiebre,paciente).
+aparece_tweet(fiebre,dengue).
+aparece_tweet(fiebre,muerte).
+aparece_tweet(fiebre,precio).
+aparece_tweet(fiebre,casas).
+aparece_tweet(fiebre,enfermos).
+aparece_tweet(fiebre,presencia).
+aparece_tweet(fiebre,sintomas).
+aparece_tweet(fiebre,salud).
+aparece_tweet(fiebre,agua).
+aparece_tweet(fiebre,barrios).
+aparece_tweet(fiebre,piscinas).
+aparece_tweet(fiebre,inconsciencia).
+aparece_tweet(fiebre,pileta).
+aparece_tweet(fiebre,multas).
+aparece_tweet(fiebre,titular).
+aparece_tweet(fiebre,ciudad).
+aparece_tweet(fiebre,instalaciones).
+aparece_tweet(fiebre,vector).
+aparece_tweet(fiebre,educacion).
+aparece_tweet(fiebre,disposicion).
+aparece_tweet(fiebre,recursos).
+aparece_tweet(fiebre,lucha).
+aparece_tweet(fiebre,denuncias).
+aparece_tweet(fiebre,neumaticos).
+aparece_tweet(fiebre,chatarras).
+aparece_tweet(fiebre,ayudarnos).
+aparece_tweet(fiebre,supuesto).
+aparece_tweet(fiebre,senadora).
+aparece_tweet(fiebre,emergencia).
+aparece_tweet(fiebre,terrenos).
+aparece_tweet(fiebre,mosquito).
+aparece_tweet(fiebre,calles).
+aparece_tweet(fiebre,servicios).
+aparece_tweet(fiebre,aumento).
+aparece_tweet(fiebre,dr).
+aparece_tweet(fiebre,pacientes).
+aparece_tweet(fiebre,conciencia).
+aparece_tweet(fiebre,dispersion).
+aparece_tweet(fiebre,notifaciones).
+aparece_tweet(fiebre,epidemia).
+aparece_tweet(fiebre,funcionarios).
+aparece_tweet(fiebre,extincion).
+aparece_tweet(fiebre,barrio).
+aparece_tweet(fiebre,cuadra).
+aparece_tweet(fiebre,basura).
+aparece_tweet(fiebre,eliminacion).
+aparece_tweet(fiebre,instituciones).
+aparece_tweet(fiebre,trabajos).
+aparece_tweet(fiebre,rastrillaje).
+aparece_tweet(fiebre,autoridades).
+aparece_tweet(fiebre,institucion).
+aparece_tweet(fiebre,intendentes).
+aparece_tweet(fiebre,municipalidad).
+aparece_tweet(fiebre,acciones).
+aparece_tweet(fiebre,sanciones).
+aparece_tweet(fiebre,limpieza).
+aparece_tweet(fiebre,yuyales).
+aparece_tweet(fiebre,propagacion).
+aparece_tweet(fiebre,ministerio).
+aparece_tweet(fiebre,rebrote).
+aparece_tweet(fiebre,problema).
+aparece_tweet(fiebre,capacidad).
+aparece_tweet(fiebre,propiedad).
+aparece_tweet(fiebre,antecedentes).
+aparece_tweet(fiebre,recomendaciones).
+aparece_tweet(fiebre,causa).
+aparece_tweet(fiebre,sospecha).
+aparece_tweet(fiebre,infestacion).
+aparece_tweet(fiebre,imputacion).
+aparece_tweet(fiebre,serotipo).
+aparece_tweet(fiebre,comunidad).
+aparece_tweet(fiebre,combate).
+aparece_tweet(fiebre,muertes).
+aparece_tweet(fiebre,cifra).
+aparece_tweet(fiebre,sintomas).
+aparece_tweet(fiebre,medicamentos).
+aparece_tweet(fiebre,urgencias).
+aparece_tweet(fiebre,afectados).
+aparece_tweet(fiebre,gobierno).
+aparece_tweet(fiebre,cuidados).
+aparece_tweet(fiebre,promedio).
+aparece_tweet(fiebre,brote).
+aparece_tweet(fiebre,hospitalizaciones).
+aparece_tweet(fiebre,cuadro).
+aparece_tweet(fiebre,enfermedades).
+aparece_tweet(fiebre,recoleccion).
+aparece_tweet(fiebre,basuras).
+aparece_tweet(fiebre,riesgo).
+aparece_tweet(fiebre,lluvias).
+aparece_tweet(fiebre,concienciacion).
+aparece_tweet(fiebre,inaccion).
+aparece_tweet(fiebre,baldios).
+aparece_tweet(fiebre,crecimiento).
+aparece_tweet(fiebre,rio).
+aparece_tweet(fiebre,epoca).
+aparece_tweet(fiebre,plastico).
+aparece_tweet(fiebre,bolsitas).
+aparece_tweet(fiebre,inundaciones).
+aparece_tweet(gente,paciente).
+aparece_tweet(gente,dengue).
+aparece_tweet(gente,muerte).
+aparece_tweet(gente,precio).
+aparece_tweet(gente,casas).
+aparece_tweet(gente,enfermos).
+aparece_tweet(gente,presencia).
+aparece_tweet(gente,sintomas).
+aparece_tweet(gente,salud).
+aparece_tweet(gente,agua).
+aparece_tweet(gente,barrios).
+aparece_tweet(gente,piscinas).
+aparece_tweet(gente,inconsciencia).
+aparece_tweet(gente,pileta).
+aparece_tweet(gente,multas).
+aparece_tweet(gente,titular).
+aparece_tweet(gente,ciudad).
+aparece_tweet(gente,instalaciones).
+aparece_tweet(gente,vector).
+aparece_tweet(gente,educacion).
+aparece_tweet(gente,disposicion).
+aparece_tweet(gente,recursos).
+aparece_tweet(gente,lucha).
+aparece_tweet(gente,denuncias).
+aparece_tweet(gente,neumaticos).
+aparece_tweet(gente,chatarras).
+aparece_tweet(gente,ayudarnos).
+aparece_tweet(gente,supuesto).
+aparece_tweet(gente,senadora).
+aparece_tweet(gente,emergencia).
+aparece_tweet(gente,terrenos).
+aparece_tweet(gente,mosquito).
+aparece_tweet(gente,calles).
+aparece_tweet(gente,servicios).
+aparece_tweet(gente,aumento).
+aparece_tweet(gente,dr).
+aparece_tweet(gente,pacientes).
+aparece_tweet(gente,conciencia).
+aparece_tweet(gente,dispersion).
+aparece_tweet(gente,notifaciones).
+aparece_tweet(gente,epidemia).
+aparece_tweet(gente,funcionarios).
+aparece_tweet(gente,extincion).
+aparece_tweet(gente,barrio).
+aparece_tweet(gente,cuadra).
+aparece_tweet(gente,basura).
+aparece_tweet(gente,eliminacion).
+aparece_tweet(gente,instituciones).
+aparece_tweet(gente,trabajos).
+aparece_tweet(gente,rastrillaje).
+aparece_tweet(gente,autoridades).
+aparece_tweet(gente,institucion).
+aparece_tweet(gente,intendentes).
+aparece_tweet(gente,municipalidad).
+aparece_tweet(gente,acciones).
+aparece_tweet(gente,sanciones).
+aparece_tweet(gente,limpieza).
+aparece_tweet(gente,yuyales).
+aparece_tweet(gente,propagacion).
+aparece_tweet(gente,ministerio).
+aparece_tweet(gente,rebrote).
+aparece_tweet(gente,problema).
+aparece_tweet(gente,capacidad).
+aparece_tweet(gente,propiedad).
+aparece_tweet(gente,antecedentes).
+aparece_tweet(gente,recomendaciones).
+aparece_tweet(gente,causa).
+aparece_tweet(gente,sospecha).
+aparece_tweet(gente,infestacion).
+aparece_tweet(gente,imputacion).
+aparece_tweet(gente,serotipo).
+aparece_tweet(gente,comunidad).
+aparece_tweet(gente,combate).
+aparece_tweet(gente,muertes).
+aparece_tweet(gente,cifra).
+aparece_tweet(gente,sintomas).
+aparece_tweet(gente,medicamentos).
+aparece_tweet(gente,urgencias).
+aparece_tweet(gente,afectados).
+aparece_tweet(gente,gobierno).
+aparece_tweet(gente,cuidados).
+aparece_tweet(gente,promedio).
+aparece_tweet(gente,brote).
+aparece_tweet(gente,hospitalizaciones).
+aparece_tweet(gente,cuadro).
+aparece_tweet(gente,enfermedades).
+aparece_tweet(gente,recoleccion).
+aparece_tweet(gente,basuras).
+aparece_tweet(gente,riesgo).
+aparece_tweet(gente,lluvias).
+aparece_tweet(gente,concienciacion).
+aparece_tweet(gente,inaccion).
+aparece_tweet(gente,baldios).
+aparece_tweet(gente,crecimiento).
+aparece_tweet(gente,rio).
+aparece_tweet(gente,epoca).
+aparece_tweet(gente,plastico).
+aparece_tweet(gente,bolsitas).
+aparece_tweet(gente,inundaciones).
+aparece_tweet(paciente,dengue).
+aparece_tweet(paciente,muerte).
+aparece_tweet(paciente,precio).
+aparece_tweet(paciente,casas).
+aparece_tweet(paciente,enfermos).
+aparece_tweet(paciente,presencia).
+aparece_tweet(paciente,sintomas).
+aparece_tweet(paciente,salud).
+aparece_tweet(paciente,agua).
+aparece_tweet(paciente,barrios).
+aparece_tweet(paciente,piscinas).
+aparece_tweet(paciente,inconsciencia).
+aparece_tweet(paciente,pileta).
+aparece_tweet(paciente,multas).
+aparece_tweet(paciente,titular).
+aparece_tweet(paciente,ciudad).
+aparece_tweet(paciente,instalaciones).
+aparece_tweet(paciente,vector).
+aparece_tweet(paciente,educacion).
+aparece_tweet(paciente,disposicion).
+aparece_tweet(paciente,recursos).
+aparece_tweet(paciente,lucha).
+aparece_tweet(paciente,denuncias).
+aparece_tweet(paciente,neumaticos).
+aparece_tweet(paciente,chatarras).
+aparece_tweet(paciente,ayudarnos).
+aparece_tweet(paciente,supuesto).
+aparece_tweet(paciente,senadora).
+aparece_tweet(paciente,emergencia).
+aparece_tweet(paciente,terrenos).
+aparece_tweet(paciente,mosquito).
+aparece_tweet(paciente,calles).
+aparece_tweet(paciente,servicios).
+aparece_tweet(paciente,aumento).
+aparece_tweet(paciente,dr).
+aparece_tweet(paciente,pacientes).
+aparece_tweet(paciente,conciencia).
+aparece_tweet(paciente,dispersion).
+aparece_tweet(paciente,notifaciones).
+aparece_tweet(paciente,epidemia).
+aparece_tweet(paciente,funcionarios).
+aparece_tweet(paciente,extincion).
+aparece_tweet(paciente,barrio).
+aparece_tweet(paciente,cuadra).
+aparece_tweet(paciente,basura).
+aparece_tweet(paciente,eliminacion).
+aparece_tweet(paciente,instituciones).
+aparece_tweet(paciente,trabajos).
+aparece_tweet(paciente,rastrillaje).
+aparece_tweet(paciente,autoridades).
+aparece_tweet(paciente,institucion).
+aparece_tweet(paciente,intendentes).
+aparece_tweet(paciente,municipalidad).
+aparece_tweet(paciente,acciones).
+aparece_tweet(paciente,sanciones).
+aparece_tweet(paciente,limpieza).
+aparece_tweet(paciente,yuyales).
+aparece_tweet(paciente,propagacion).
+aparece_tweet(paciente,ministerio).
+aparece_tweet(paciente,rebrote).
+aparece_tweet(paciente,problema).
+aparece_tweet(paciente,capacidad).
+aparece_tweet(paciente,propiedad).
+aparece_tweet(paciente,antecedentes).
+aparece_tweet(paciente,recomendaciones).
+aparece_tweet(paciente,causa).
+aparece_tweet(paciente,sospecha).
+aparece_tweet(paciente,infestacion).
+aparece_tweet(paciente,imputacion).
+aparece_tweet(paciente,serotipo).
+aparece_tweet(paciente,comunidad).
+aparece_tweet(paciente,combate).
+aparece_tweet(paciente,muertes).
+aparece_tweet(paciente,cifra).
+aparece_tweet(paciente,sintomas).
+aparece_tweet(paciente,medicamentos).
+aparece_tweet(paciente,urgencias).
+aparece_tweet(paciente,afectados).
+aparece_tweet(paciente,gobierno).
+aparece_tweet(paciente,cuidados).
+aparece_tweet(paciente,promedio).
+aparece_tweet(paciente,brote).
+aparece_tweet(paciente,hospitalizaciones).
+aparece_tweet(paciente,cuadro).
+aparece_tweet(paciente,enfermedades).
+aparece_tweet(paciente,recoleccion).
+aparece_tweet(paciente,basuras).
+aparece_tweet(paciente,riesgo).
+aparece_tweet(paciente,lluvias).
+aparece_tweet(paciente,concienciacion).
+aparece_tweet(paciente,inaccion).
+aparece_tweet(paciente,baldios).
+aparece_tweet(paciente,crecimiento).
+aparece_tweet(paciente,rio).
+aparece_tweet(paciente,epoca).
+aparece_tweet(paciente,plastico).
+aparece_tweet(paciente,bolsitas).
+aparece_tweet(paciente,inundaciones).
+aparece_tweet(dengue,muerte).
+aparece_tweet(dengue,precio).
+aparece_tweet(dengue,casas).
+aparece_tweet(dengue,enfermos).
+aparece_tweet(dengue,presencia).
+aparece_tweet(dengue,sintomas).
+aparece_tweet(dengue,salud).
+aparece_tweet(dengue,agua).
+aparece_tweet(dengue,barrios).
+aparece_tweet(dengue,piscinas).
+aparece_tweet(dengue,inconsciencia).
+aparece_tweet(dengue,pileta).
+aparece_tweet(dengue,multas).
+aparece_tweet(dengue,titular).
+aparece_tweet(dengue,ciudad).
+aparece_tweet(dengue,instalaciones).
+aparece_tweet(dengue,vector).
+aparece_tweet(dengue,educacion).
+aparece_tweet(dengue,disposicion).
+aparece_tweet(dengue,recursos).
+aparece_tweet(dengue,lucha).
+aparece_tweet(dengue,denuncias).
+aparece_tweet(dengue,neumaticos).
+aparece_tweet(dengue,chatarras).
+aparece_tweet(dengue,ayudarnos).
+aparece_tweet(dengue,supuesto).
+aparece_tweet(dengue,senadora).
+aparece_tweet(dengue,emergencia).
+aparece_tweet(dengue,terrenos).
+aparece_tweet(dengue,mosquito).
+aparece_tweet(dengue,calles).
+aparece_tweet(dengue,servicios).
+aparece_tweet(dengue,aumento).
+aparece_tweet(dengue,dr).
+aparece_tweet(dengue,pacientes).
+aparece_tweet(dengue,conciencia).
+aparece_tweet(dengue,dispersion).
+aparece_tweet(dengue,notifaciones).
+aparece_tweet(dengue,epidemia).
+aparece_tweet(dengue,funcionarios).
+aparece_tweet(dengue,extincion).
+aparece_tweet(dengue,barrio).
+aparece_tweet(dengue,cuadra).
+aparece_tweet(dengue,basura).
+aparece_tweet(dengue,eliminacion).
+aparece_tweet(dengue,instituciones).
+aparece_tweet(dengue,trabajos).
+aparece_tweet(dengue,rastrillaje).
+aparece_tweet(dengue,autoridades).
+aparece_tweet(dengue,institucion).
+aparece_tweet(dengue,intendentes).
+aparece_tweet(dengue,municipalidad).
+aparece_tweet(dengue,acciones).
+aparece_tweet(dengue,sanciones).
+aparece_tweet(dengue,limpieza).
+aparece_tweet(dengue,yuyales).
+aparece_tweet(dengue,propagacion).
+aparece_tweet(dengue,ministerio).
+aparece_tweet(dengue,rebrote).
+aparece_tweet(dengue,problema).
+aparece_tweet(dengue,capacidad).
+aparece_tweet(dengue,propiedad).
+aparece_tweet(dengue,antecedentes).
+aparece_tweet(dengue,recomendaciones).
+aparece_tweet(dengue,causa).
+aparece_tweet(dengue,sospecha).
+aparece_tweet(dengue,infestacion).
+aparece_tweet(dengue,imputacion).
+aparece_tweet(dengue,serotipo).
+aparece_tweet(dengue,comunidad).
+aparece_tweet(dengue,combate).
+aparece_tweet(dengue,muertes).
+aparece_tweet(dengue,cifra).
+aparece_tweet(dengue,sintomas).
+aparece_tweet(dengue,medicamentos).
+aparece_tweet(dengue,urgencias).
+aparece_tweet(dengue,afectados).
+aparece_tweet(dengue,gobierno).
+aparece_tweet(dengue,cuidados).
+aparece_tweet(dengue,promedio).
+aparece_tweet(dengue,brote).
+aparece_tweet(dengue,hospitalizaciones).
+aparece_tweet(dengue,cuadro).
+aparece_tweet(dengue,enfermedades).
+aparece_tweet(dengue,recoleccion).
+aparece_tweet(dengue,basuras).
+aparece_tweet(dengue,riesgo).
+aparece_tweet(dengue,lluvias).
+aparece_tweet(dengue,concienciacion).
+aparece_tweet(dengue,inaccion).
+aparece_tweet(dengue,baldios).
+aparece_tweet(dengue,crecimiento).
+aparece_tweet(dengue,rio).
+aparece_tweet(dengue,epoca).
+aparece_tweet(dengue,plastico).
+aparece_tweet(dengue,bolsitas).
+aparece_tweet(dengue,inundaciones).
+aparece_tweet(muerte,precio).
+aparece_tweet(muerte,casas).
+aparece_tweet(muerte,enfermos).
+aparece_tweet(muerte,presencia).
+aparece_tweet(muerte,sintomas).
+aparece_tweet(muerte,salud).
+aparece_tweet(muerte,agua).
+aparece_tweet(muerte,barrios).
+aparece_tweet(muerte,piscinas).
+aparece_tweet(muerte,inconsciencia).
+aparece_tweet(muerte,pileta).
+aparece_tweet(muerte,multas).
+aparece_tweet(muerte,titular).
+aparece_tweet(muerte,ciudad).
+aparece_tweet(muerte,instalaciones).
+aparece_tweet(muerte,vector).
+aparece_tweet(muerte,educacion).
+aparece_tweet(muerte,disposicion).
+aparece_tweet(muerte,recursos).
+aparece_tweet(muerte,lucha).
+aparece_tweet(muerte,denuncias).
+aparece_tweet(muerte,neumaticos).
+aparece_tweet(muerte,chatarras).
+aparece_tweet(muerte,ayudarnos).
+aparece_tweet(muerte,supuesto).
+aparece_tweet(muerte,senadora).
+aparece_tweet(muerte,emergencia).
+aparece_tweet(muerte,terrenos).
+aparece_tweet(muerte,mosquito).
+aparece_tweet(muerte,calles).
+aparece_tweet(muerte,servicios).
+aparece_tweet(muerte,aumento).
+aparece_tweet(muerte,dr).
+aparece_tweet(muerte,pacientes).
+aparece_tweet(muerte,conciencia).
+aparece_tweet(muerte,dispersion).
+aparece_tweet(muerte,notifaciones).
+aparece_tweet(muerte,epidemia).
+aparece_tweet(muerte,funcionarios).
+aparece_tweet(muerte,extincion).
+aparece_tweet(muerte,barrio).
+aparece_tweet(muerte,cuadra).
+aparece_tweet(muerte,basura).
+aparece_tweet(muerte,eliminacion).
+aparece_tweet(muerte,instituciones).
+aparece_tweet(muerte,trabajos).
+aparece_tweet(muerte,rastrillaje).
+aparece_tweet(muerte,autoridades).
+aparece_tweet(muerte,institucion).
+aparece_tweet(muerte,intendentes).
+aparece_tweet(muerte,municipalidad).
+aparece_tweet(muerte,acciones).
+aparece_tweet(muerte,sanciones).
+aparece_tweet(muerte,limpieza).
+aparece_tweet(muerte,yuyales).
+aparece_tweet(muerte,propagacion).
+aparece_tweet(muerte,ministerio).
+aparece_tweet(muerte,rebrote).
+aparece_tweet(muerte,problema).
+aparece_tweet(muerte,capacidad).
+aparece_tweet(muerte,propiedad).
+aparece_tweet(muerte,antecedentes).
+aparece_tweet(muerte,recomendaciones).
+aparece_tweet(muerte,causa).
+aparece_tweet(muerte,sospecha).
+aparece_tweet(muerte,infestacion).
+aparece_tweet(muerte,imputacion).
+aparece_tweet(muerte,serotipo).
+aparece_tweet(muerte,comunidad).
+aparece_tweet(muerte,combate).
+aparece_tweet(muerte,muertes).
+aparece_tweet(muerte,cifra).
+aparece_tweet(muerte,sintomas).
+aparece_tweet(muerte,medicamentos).
+aparece_tweet(muerte,urgencias).
+aparece_tweet(muerte,afectados).
+aparece_tweet(muerte,gobierno).
+aparece_tweet(muerte,cuidados).
+aparece_tweet(muerte,promedio).
+aparece_tweet(muerte,brote).
+aparece_tweet(muerte,hospitalizaciones).
+aparece_tweet(muerte,cuadro).
+aparece_tweet(muerte,enfermedades).
+aparece_tweet(muerte,recoleccion).
+aparece_tweet(muerte,basuras).
+aparece_tweet(muerte,riesgo).
+aparece_tweet(muerte,lluvias).
+aparece_tweet(muerte,concienciacion).
+aparece_tweet(muerte,inaccion).
+aparece_tweet(muerte,baldios).
+aparece_tweet(muerte,crecimiento).
+aparece_tweet(muerte,rio).
+aparece_tweet(muerte,epoca).
+aparece_tweet(muerte,plastico).
+aparece_tweet(muerte,bolsitas).
+aparece_tweet(muerte,inundaciones).
+aparece_tweet(precio,casas).
+aparece_tweet(precio,enfermos).
+aparece_tweet(precio,presencia).
+aparece_tweet(precio,sintomas).
+aparece_tweet(precio,salud).
+aparece_tweet(precio,agua).
+aparece_tweet(precio,barrios).
+aparece_tweet(precio,piscinas).
+aparece_tweet(precio,inconsciencia).
+aparece_tweet(precio,pileta).
+aparece_tweet(precio,multas).
+aparece_tweet(precio,titular).
+aparece_tweet(precio,ciudad).
+aparece_tweet(precio,instalaciones).
+aparece_tweet(precio,vector).
+aparece_tweet(precio,educacion).
+aparece_tweet(precio,disposicion).
+aparece_tweet(precio,recursos).
+aparece_tweet(precio,lucha).
+aparece_tweet(precio,denuncias).
+aparece_tweet(precio,neumaticos).
+aparece_tweet(precio,chatarras).
+aparece_tweet(precio,ayudarnos).
+aparece_tweet(precio,supuesto).
+aparece_tweet(precio,senadora).
+aparece_tweet(precio,emergencia).
+aparece_tweet(precio,terrenos).
+aparece_tweet(precio,mosquito).
+aparece_tweet(precio,calles).
+aparece_tweet(precio,servicios).
+aparece_tweet(precio,aumento).
+aparece_tweet(precio,dr).
+aparece_tweet(precio,pacientes).
+aparece_tweet(precio,conciencia).
+aparece_tweet(precio,dispersion).
+aparece_tweet(precio,notifaciones).
+aparece_tweet(precio,epidemia).
+aparece_tweet(precio,funcionarios).
+aparece_tweet(precio,extincion).
+aparece_tweet(precio,barrio).
+aparece_tweet(precio,cuadra).
+aparece_tweet(precio,basura).
+aparece_tweet(precio,eliminacion).
+aparece_tweet(precio,instituciones).
+aparece_tweet(precio,trabajos).
+aparece_tweet(precio,rastrillaje).
+aparece_tweet(precio,autoridades).
+aparece_tweet(precio,institucion).
+aparece_tweet(precio,intendentes).
+aparece_tweet(precio,municipalidad).
+aparece_tweet(precio,acciones).
+aparece_tweet(precio,sanciones).
+aparece_tweet(precio,limpieza).
+aparece_tweet(precio,yuyales).
+aparece_tweet(precio,propagacion).
+aparece_tweet(precio,ministerio).
+aparece_tweet(precio,rebrote).
+aparece_tweet(precio,problema).
+aparece_tweet(precio,capacidad).
+aparece_tweet(precio,propiedad).
+aparece_tweet(precio,antecedentes).
+aparece_tweet(precio,recomendaciones).
+aparece_tweet(precio,causa).
+aparece_tweet(precio,sospecha).
+aparece_tweet(precio,infestacion).
+aparece_tweet(precio,imputacion).
+aparece_tweet(precio,serotipo).
+aparece_tweet(precio,comunidad).
+aparece_tweet(precio,combate).
+aparece_tweet(precio,muertes).
+aparece_tweet(precio,cifra).
+aparece_tweet(precio,sintomas).
+aparece_tweet(precio,medicamentos).
+aparece_tweet(precio,urgencias).
+aparece_tweet(precio,afectados).
+aparece_tweet(precio,gobierno).
+aparece_tweet(precio,cuidados).
+aparece_tweet(precio,promedio).
+aparece_tweet(precio,brote).
+aparece_tweet(precio,hospitalizaciones).
+aparece_tweet(precio,cuadro).
+aparece_tweet(precio,enfermedades).
+aparece_tweet(precio,recoleccion).
+aparece_tweet(precio,basuras).
+aparece_tweet(precio,riesgo).
+aparece_tweet(precio,lluvias).
+aparece_tweet(precio,concienciacion).
+aparece_tweet(precio,inaccion).
+aparece_tweet(precio,baldios).
+aparece_tweet(precio,crecimiento).
+aparece_tweet(precio,rio).
+aparece_tweet(precio,epoca).
+aparece_tweet(precio,plastico).
+aparece_tweet(precio,bolsitas).
+aparece_tweet(precio,inundaciones).
+aparece_tweet(casas,enfermos).
+aparece_tweet(casas,presencia).
+aparece_tweet(casas,sintomas).
+aparece_tweet(casas,salud).
+aparece_tweet(casas,agua).
+aparece_tweet(casas,barrios).
+aparece_tweet(casas,piscinas).
+aparece_tweet(casas,inconsciencia).
+aparece_tweet(casas,pileta).
+aparece_tweet(casas,multas).
+aparece_tweet(casas,titular).
+aparece_tweet(casas,ciudad).
+aparece_tweet(casas,instalaciones).
+aparece_tweet(casas,vector).
+aparece_tweet(casas,educacion).
+aparece_tweet(casas,disposicion).
+aparece_tweet(casas,recursos).
+aparece_tweet(casas,lucha).
+aparece_tweet(casas,denuncias).
+aparece_tweet(casas,neumaticos).
+aparece_tweet(casas,chatarras).
+aparece_tweet(casas,ayudarnos).
+aparece_tweet(casas,supuesto).
+aparece_tweet(casas,senadora).
+aparece_tweet(casas,emergencia).
+aparece_tweet(casas,terrenos).
+aparece_tweet(casas,mosquito).
+aparece_tweet(casas,calles).
+aparece_tweet(casas,servicios).
+aparece_tweet(casas,aumento).
+aparece_tweet(casas,dr).
+aparece_tweet(casas,pacientes).
+aparece_tweet(casas,conciencia).
+aparece_tweet(casas,dispersion).
+aparece_tweet(casas,notifaciones).
+aparece_tweet(casas,epidemia).
+aparece_tweet(casas,funcionarios).
+aparece_tweet(casas,extincion).
+aparece_tweet(casas,barrio).
+aparece_tweet(casas,cuadra).
+aparece_tweet(casas,basura).
+aparece_tweet(casas,eliminacion).
+aparece_tweet(casas,instituciones).
+aparece_tweet(casas,trabajos).
+aparece_tweet(casas,rastrillaje).
+aparece_tweet(casas,autoridades).
+aparece_tweet(casas,institucion).
+aparece_tweet(casas,intendentes).
+aparece_tweet(casas,municipalidad).
+aparece_tweet(casas,acciones).
+aparece_tweet(casas,sanciones).
+aparece_tweet(casas,limpieza).
+aparece_tweet(casas,yuyales).
+aparece_tweet(casas,propagacion).
+aparece_tweet(casas,ministerio).
+aparece_tweet(casas,rebrote).
+aparece_tweet(casas,problema).
+aparece_tweet(casas,capacidad).
+aparece_tweet(casas,propiedad).
+aparece_tweet(casas,antecedentes).
+aparece_tweet(casas,recomendaciones).
+aparece_tweet(casas,causa).
+aparece_tweet(casas,sospecha).
+aparece_tweet(casas,infestacion).
+aparece_tweet(casas,imputacion).
+aparece_tweet(casas,serotipo).
+aparece_tweet(casas,comunidad).
+aparece_tweet(casas,combate).
+aparece_tweet(casas,muertes).
+aparece_tweet(casas,cifra).
+aparece_tweet(casas,sintomas).
+aparece_tweet(casas,medicamentos).
+aparece_tweet(casas,urgencias).
+aparece_tweet(casas,afectados).
+aparece_tweet(casas,gobierno).
+aparece_tweet(casas,cuidados).
+aparece_tweet(casas,promedio).
+aparece_tweet(casas,brote).
+aparece_tweet(casas,hospitalizaciones).
+aparece_tweet(casas,cuadro).
+aparece_tweet(casas,enfermedades).
+aparece_tweet(casas,recoleccion).
+aparece_tweet(casas,basuras).
+aparece_tweet(casas,riesgo).
+aparece_tweet(casas,lluvias).
+aparece_tweet(casas,concienciacion).
+aparece_tweet(casas,inaccion).
+aparece_tweet(casas,baldios).
+aparece_tweet(casas,crecimiento).
+aparece_tweet(casas,rio).
+aparece_tweet(casas,epoca).
+aparece_tweet(casas,plastico).
+aparece_tweet(casas,bolsitas).
+aparece_tweet(casas,inundaciones).
+aparece_tweet(enfermos,presencia).
+aparece_tweet(enfermos,sintomas).
+aparece_tweet(enfermos,salud).
+aparece_tweet(enfermos,agua).
+aparece_tweet(enfermos,barrios).
+aparece_tweet(enfermos,piscinas).
+aparece_tweet(enfermos,inconsciencia).
+aparece_tweet(enfermos,pileta).
+aparece_tweet(enfermos,multas).
+aparece_tweet(enfermos,titular).
+aparece_tweet(enfermos,ciudad).
+aparece_tweet(enfermos,instalaciones).
+aparece_tweet(enfermos,vector).
+aparece_tweet(enfermos,educacion).
+aparece_tweet(enfermos,disposicion).
+aparece_tweet(enfermos,recursos).
+aparece_tweet(enfermos,lucha).
+aparece_tweet(enfermos,denuncias).
+aparece_tweet(enfermos,neumaticos).
+aparece_tweet(enfermos,chatarras).
+aparece_tweet(enfermos,ayudarnos).
+aparece_tweet(enfermos,supuesto).
+aparece_tweet(enfermos,senadora).
+aparece_tweet(enfermos,emergencia).
+aparece_tweet(enfermos,terrenos).
+aparece_tweet(enfermos,mosquito).
+aparece_tweet(enfermos,calles).
+aparece_tweet(enfermos,servicios).
+aparece_tweet(enfermos,aumento).
+aparece_tweet(enfermos,dr).
+aparece_tweet(enfermos,pacientes).
+aparece_tweet(enfermos,conciencia).
+aparece_tweet(enfermos,dispersion).
+aparece_tweet(enfermos,notifaciones).
+aparece_tweet(enfermos,epidemia).
+aparece_tweet(enfermos,funcionarios).
+aparece_tweet(enfermos,extincion).
+aparece_tweet(enfermos,barrio).
+aparece_tweet(enfermos,cuadra).
+aparece_tweet(enfermos,basura).
+aparece_tweet(enfermos,eliminacion).
+aparece_tweet(enfermos,instituciones).
+aparece_tweet(enfermos,trabajos).
+aparece_tweet(enfermos,rastrillaje).
+aparece_tweet(enfermos,autoridades).
+aparece_tweet(enfermos,institucion).
+aparece_tweet(enfermos,intendentes).
+aparece_tweet(enfermos,municipalidad).
+aparece_tweet(enfermos,acciones).
+aparece_tweet(enfermos,sanciones).
+aparece_tweet(enfermos,limpieza).
+aparece_tweet(enfermos,yuyales).
+aparece_tweet(enfermos,propagacion).
+aparece_tweet(enfermos,ministerio).
+aparece_tweet(enfermos,rebrote).
+aparece_tweet(enfermos,problema).
+aparece_tweet(enfermos,capacidad).
+aparece_tweet(enfermos,propiedad).
+aparece_tweet(enfermos,antecedentes).
+aparece_tweet(enfermos,recomendaciones).
+aparece_tweet(enfermos,causa).
+aparece_tweet(enfermos,sospecha).
+aparece_tweet(enfermos,infestacion).
+aparece_tweet(enfermos,imputacion).
+aparece_tweet(enfermos,serotipo).
+aparece_tweet(enfermos,comunidad).
+aparece_tweet(enfermos,combate).
+aparece_tweet(enfermos,muertes).
+aparece_tweet(enfermos,cifra).
+aparece_tweet(enfermos,sintomas).
+aparece_tweet(enfermos,medicamentos).
+aparece_tweet(enfermos,urgencias).
+aparece_tweet(enfermos,afectados).
+aparece_tweet(enfermos,gobierno).
+aparece_tweet(enfermos,cuidados).
+aparece_tweet(enfermos,promedio).
+aparece_tweet(enfermos,brote).
+aparece_tweet(enfermos,hospitalizaciones).
+aparece_tweet(enfermos,cuadro).
+aparece_tweet(enfermos,enfermedades).
+aparece_tweet(enfermos,recoleccion).
+aparece_tweet(enfermos,basuras).
+aparece_tweet(enfermos,riesgo).
+aparece_tweet(enfermos,lluvias).
+aparece_tweet(enfermos,concienciacion).
+aparece_tweet(enfermos,inaccion).
+aparece_tweet(enfermos,baldios).
+aparece_tweet(enfermos,crecimiento).
+aparece_tweet(enfermos,rio).
+aparece_tweet(enfermos,epoca).
+aparece_tweet(enfermos,plastico).
+aparece_tweet(enfermos,bolsitas).
+aparece_tweet(enfermos,inundaciones).
+aparece_tweet(presencia,sintomas).
+aparece_tweet(presencia,salud).
+aparece_tweet(presencia,agua).
+aparece_tweet(presencia,barrios).
+aparece_tweet(presencia,piscinas).
+aparece_tweet(presencia,inconsciencia).
+aparece_tweet(presencia,pileta).
+aparece_tweet(presencia,multas).
+aparece_tweet(presencia,titular).
+aparece_tweet(presencia,ciudad).
+aparece_tweet(presencia,instalaciones).
+aparece_tweet(presencia,vector).
+aparece_tweet(presencia,educacion).
+aparece_tweet(presencia,disposicion).
+aparece_tweet(presencia,recursos).
+aparece_tweet(presencia,lucha).
+aparece_tweet(presencia,denuncias).
+aparece_tweet(presencia,neumaticos).
+aparece_tweet(presencia,chatarras).
+aparece_tweet(presencia,ayudarnos).
+aparece_tweet(presencia,supuesto).
+aparece_tweet(presencia,senadora).
+aparece_tweet(presencia,emergencia).
+aparece_tweet(presencia,terrenos).
+aparece_tweet(presencia,mosquito).
+aparece_tweet(presencia,calles).
+aparece_tweet(presencia,servicios).
+aparece_tweet(presencia,aumento).
+aparece_tweet(presencia,dr).
+aparece_tweet(presencia,pacientes).
+aparece_tweet(presencia,conciencia).
+aparece_tweet(presencia,dispersion).
+aparece_tweet(presencia,notifaciones).
+aparece_tweet(presencia,epidemia).
+aparece_tweet(presencia,funcionarios).
+aparece_tweet(presencia,extincion).
+aparece_tweet(presencia,barrio).
+aparece_tweet(presencia,cuadra).
+aparece_tweet(presencia,basura).
+aparece_tweet(presencia,eliminacion).
+aparece_tweet(presencia,instituciones).
+aparece_tweet(presencia,trabajos).
+aparece_tweet(presencia,rastrillaje).
+aparece_tweet(presencia,autoridades).
+aparece_tweet(presencia,institucion).
+aparece_tweet(presencia,intendentes).
+aparece_tweet(presencia,municipalidad).
+aparece_tweet(presencia,acciones).
+aparece_tweet(presencia,sanciones).
+aparece_tweet(presencia,limpieza).
+aparece_tweet(presencia,yuyales).
+aparece_tweet(presencia,propagacion).
+aparece_tweet(presencia,ministerio).
+aparece_tweet(presencia,rebrote).
+aparece_tweet(presencia,problema).
+aparece_tweet(presencia,capacidad).
+aparece_tweet(presencia,propiedad).
+aparece_tweet(presencia,antecedentes).
+aparece_tweet(presencia,recomendaciones).
+aparece_tweet(presencia,causa).
+aparece_tweet(presencia,sospecha).
+aparece_tweet(presencia,infestacion).
+aparece_tweet(presencia,imputacion).
+aparece_tweet(presencia,serotipo).
+aparece_tweet(presencia,comunidad).
+aparece_tweet(presencia,combate).
+aparece_tweet(presencia,muertes).
+aparece_tweet(presencia,cifra).
+aparece_tweet(presencia,sintomas).
+aparece_tweet(presencia,medicamentos).
+aparece_tweet(presencia,urgencias).
+aparece_tweet(presencia,afectados).
+aparece_tweet(presencia,gobierno).
+aparece_tweet(presencia,cuidados).
+aparece_tweet(presencia,promedio).
+aparece_tweet(presencia,brote).
+aparece_tweet(presencia,hospitalizaciones).
+aparece_tweet(presencia,cuadro).
+aparece_tweet(presencia,enfermedades).
+aparece_tweet(presencia,recoleccion).
+aparece_tweet(presencia,basuras).
+aparece_tweet(presencia,riesgo).
+aparece_tweet(presencia,lluvias).
+aparece_tweet(presencia,concienciacion).
+aparece_tweet(presencia,inaccion).
+aparece_tweet(presencia,baldios).
+aparece_tweet(presencia,crecimiento).
+aparece_tweet(presencia,rio).
+aparece_tweet(presencia,epoca).
+aparece_tweet(presencia,plastico).
+aparece_tweet(presencia,bolsitas).
+aparece_tweet(presencia,inundaciones).
+aparece_tweet(sintomas,salud).
+aparece_tweet(sintomas,agua).
+aparece_tweet(sintomas,barrios).
+aparece_tweet(sintomas,piscinas).
+aparece_tweet(sintomas,inconsciencia).
+aparece_tweet(sintomas,pileta).
+aparece_tweet(sintomas,multas).
+aparece_tweet(sintomas,titular).
+aparece_tweet(sintomas,ciudad).
+aparece_tweet(sintomas,instalaciones).
+aparece_tweet(sintomas,vector).
+aparece_tweet(sintomas,educacion).
+aparece_tweet(sintomas,disposicion).
+aparece_tweet(sintomas,recursos).
+aparece_tweet(sintomas,lucha).
+aparece_tweet(sintomas,denuncias).
+aparece_tweet(sintomas,neumaticos).
+aparece_tweet(sintomas,chatarras).
+aparece_tweet(sintomas,ayudarnos).
+aparece_tweet(sintomas,supuesto).
+aparece_tweet(sintomas,senadora).
+aparece_tweet(sintomas,emergencia).
+aparece_tweet(sintomas,terrenos).
+aparece_tweet(sintomas,mosquito).
+aparece_tweet(sintomas,calles).
+aparece_tweet(sintomas,servicios).
+aparece_tweet(sintomas,aumento).
+aparece_tweet(sintomas,dr).
+aparece_tweet(sintomas,pacientes).
+aparece_tweet(sintomas,conciencia).
+aparece_tweet(sintomas,dispersion).
+aparece_tweet(sintomas,notifaciones).
+aparece_tweet(sintomas,epidemia).
+aparece_tweet(sintomas,funcionarios).
+aparece_tweet(sintomas,extincion).
+aparece_tweet(sintomas,barrio).
+aparece_tweet(sintomas,cuadra).
+aparece_tweet(sintomas,basura).
+aparece_tweet(sintomas,eliminacion).
+aparece_tweet(sintomas,instituciones).
+aparece_tweet(sintomas,trabajos).
+aparece_tweet(sintomas,rastrillaje).
+aparece_tweet(sintomas,autoridades).
+aparece_tweet(sintomas,institucion).
+aparece_tweet(sintomas,intendentes).
+aparece_tweet(sintomas,municipalidad).
+aparece_tweet(sintomas,acciones).
+aparece_tweet(sintomas,sanciones).
+aparece_tweet(sintomas,limpieza).
+aparece_tweet(sintomas,yuyales).
+aparece_tweet(sintomas,propagacion).
+aparece_tweet(sintomas,ministerio).
+aparece_tweet(sintomas,rebrote).
+aparece_tweet(sintomas,problema).
+aparece_tweet(sintomas,capacidad).
+aparece_tweet(sintomas,propiedad).
+aparece_tweet(sintomas,antecedentes).
+aparece_tweet(sintomas,recomendaciones).
+aparece_tweet(sintomas,causa).
+aparece_tweet(sintomas,sospecha).
+aparece_tweet(sintomas,infestacion).
+aparece_tweet(sintomas,imputacion).
+aparece_tweet(sintomas,serotipo).
+aparece_tweet(sintomas,comunidad).
+aparece_tweet(sintomas,combate).
+aparece_tweet(sintomas,muertes).
+aparece_tweet(sintomas,cifra).
+aparece_tweet(sintomas,sintomas).
+aparece_tweet(sintomas,medicamentos).
+aparece_tweet(sintomas,urgencias).
+aparece_tweet(sintomas,afectados).
+aparece_tweet(sintomas,gobierno).
+aparece_tweet(sintomas,cuidados).
+aparece_tweet(sintomas,promedio).
+aparece_tweet(sintomas,brote).
+aparece_tweet(sintomas,hospitalizaciones).
+aparece_tweet(sintomas,cuadro).
+aparece_tweet(sintomas,enfermedades).
+aparece_tweet(sintomas,recoleccion).
+aparece_tweet(sintomas,basuras).
+aparece_tweet(sintomas,riesgo).
+aparece_tweet(sintomas,lluvias).
+aparece_tweet(sintomas,concienciacion).
+aparece_tweet(sintomas,inaccion).
+aparece_tweet(sintomas,baldios).
+aparece_tweet(sintomas,crecimiento).
+aparece_tweet(sintomas,rio).
+aparece_tweet(sintomas,epoca).
+aparece_tweet(sintomas,plastico).
+aparece_tweet(sintomas,bolsitas).
+aparece_tweet(sintomas,inundaciones).
+aparece_tweet(salud,agua).
+aparece_tweet(salud,barrios).
+aparece_tweet(salud,piscinas).
+aparece_tweet(salud,inconsciencia).
+aparece_tweet(salud,pileta).
+aparece_tweet(salud,multas).
+aparece_tweet(salud,titular).
+aparece_tweet(salud,ciudad).
+aparece_tweet(salud,instalaciones).
+aparece_tweet(salud,vector).
+aparece_tweet(salud,educacion).
+aparece_tweet(salud,disposicion).
+aparece_tweet(salud,recursos).
+aparece_tweet(salud,lucha).
+aparece_tweet(salud,denuncias).
+aparece_tweet(salud,neumaticos).
+aparece_tweet(salud,chatarras).
+aparece_tweet(salud,ayudarnos).
+aparece_tweet(salud,supuesto).
+aparece_tweet(salud,senadora).
+aparece_tweet(salud,emergencia).
+aparece_tweet(salud,terrenos).
+aparece_tweet(salud,mosquito).
+aparece_tweet(salud,calles).
+aparece_tweet(salud,servicios).
+aparece_tweet(salud,aumento).
+aparece_tweet(salud,dr).
+aparece_tweet(salud,pacientes).
+aparece_tweet(salud,conciencia).
+aparece_tweet(salud,dispersion).
+aparece_tweet(salud,notifaciones).
+aparece_tweet(salud,epidemia).
+aparece_tweet(salud,funcionarios).
+aparece_tweet(salud,extincion).
+aparece_tweet(salud,barrio).
+aparece_tweet(salud,cuadra).
+aparece_tweet(salud,basura).
+aparece_tweet(salud,eliminacion).
+aparece_tweet(salud,instituciones).
+aparece_tweet(salud,trabajos).
+aparece_tweet(salud,rastrillaje).
+aparece_tweet(salud,autoridades).
+aparece_tweet(salud,institucion).
+aparece_tweet(salud,intendentes).
+aparece_tweet(salud,municipalidad).
+aparece_tweet(salud,acciones).
+aparece_tweet(salud,sanciones).
+aparece_tweet(salud,limpieza).
+aparece_tweet(salud,yuyales).
+aparece_tweet(salud,propagacion).
+aparece_tweet(salud,ministerio).
+aparece_tweet(salud,rebrote).
+aparece_tweet(salud,problema).
+aparece_tweet(salud,capacidad).
+aparece_tweet(salud,propiedad).
+aparece_tweet(salud,antecedentes).
+aparece_tweet(salud,recomendaciones).
+aparece_tweet(salud,causa).
+aparece_tweet(salud,sospecha).
+aparece_tweet(salud,infestacion).
+aparece_tweet(salud,imputacion).
+aparece_tweet(salud,serotipo).
+aparece_tweet(salud,comunidad).
+aparece_tweet(salud,combate).
+aparece_tweet(salud,muertes).
+aparece_tweet(salud,cifra).
+aparece_tweet(salud,sintomas).
+aparece_tweet(salud,medicamentos).
+aparece_tweet(salud,urgencias).
+aparece_tweet(salud,afectados).
+aparece_tweet(salud,gobierno).
+aparece_tweet(salud,cuidados).
+aparece_tweet(salud,promedio).
+aparece_tweet(salud,brote).
+aparece_tweet(salud,hospitalizaciones).
+aparece_tweet(salud,cuadro).
+aparece_tweet(salud,enfermedades).
+aparece_tweet(salud,recoleccion).
+aparece_tweet(salud,basuras).
+aparece_tweet(salud,riesgo).
+aparece_tweet(salud,lluvias).
+aparece_tweet(salud,concienciacion).
+aparece_tweet(salud,inaccion).
+aparece_tweet(salud,baldios).
+aparece_tweet(salud,crecimiento).
+aparece_tweet(salud,rio).
+aparece_tweet(salud,epoca).
+aparece_tweet(salud,plastico).
+aparece_tweet(salud,bolsitas).
+aparece_tweet(salud,inundaciones).
+aparece_tweet(agua,barrios).
+aparece_tweet(agua,piscinas).
+aparece_tweet(agua,inconsciencia).
+aparece_tweet(agua,pileta).
+aparece_tweet(agua,multas).
+aparece_tweet(agua,titular).
+aparece_tweet(agua,ciudad).
+aparece_tweet(agua,instalaciones).
+aparece_tweet(agua,vector).
+aparece_tweet(agua,educacion).
+aparece_tweet(agua,disposicion).
+aparece_tweet(agua,recursos).
+aparece_tweet(agua,lucha).
+aparece_tweet(agua,denuncias).
+aparece_tweet(agua,neumaticos).
+aparece_tweet(agua,chatarras).
+aparece_tweet(agua,ayudarnos).
+aparece_tweet(agua,supuesto).
+aparece_tweet(agua,senadora).
+aparece_tweet(agua,emergencia).
+aparece_tweet(agua,terrenos).
+aparece_tweet(agua,mosquito).
+aparece_tweet(agua,calles).
+aparece_tweet(agua,servicios).
+aparece_tweet(agua,aumento).
+aparece_tweet(agua,dr).
+aparece_tweet(agua,pacientes).
+aparece_tweet(agua,conciencia).
+aparece_tweet(agua,dispersion).
+aparece_tweet(agua,notifaciones).
+aparece_tweet(agua,epidemia).
+aparece_tweet(agua,funcionarios).
+aparece_tweet(agua,extincion).
+aparece_tweet(agua,barrio).
+aparece_tweet(agua,cuadra).
+aparece_tweet(agua,basura).
+aparece_tweet(agua,eliminacion).
+aparece_tweet(agua,instituciones).
+aparece_tweet(agua,trabajos).
+aparece_tweet(agua,rastrillaje).
+aparece_tweet(agua,autoridades).
+aparece_tweet(agua,institucion).
+aparece_tweet(agua,intendentes).
+aparece_tweet(agua,municipalidad).
+aparece_tweet(agua,acciones).
+aparece_tweet(agua,sanciones).
+aparece_tweet(agua,limpieza).
+aparece_tweet(agua,yuyales).
+aparece_tweet(agua,propagacion).
+aparece_tweet(agua,ministerio).
+aparece_tweet(agua,rebrote).
+aparece_tweet(agua,problema).
+aparece_tweet(agua,capacidad).
+aparece_tweet(agua,propiedad).
+aparece_tweet(agua,antecedentes).
+aparece_tweet(agua,recomendaciones).
+aparece_tweet(agua,causa).
+aparece_tweet(agua,sospecha).
+aparece_tweet(agua,infestacion).
+aparece_tweet(agua,imputacion).
+aparece_tweet(agua,serotipo).
+aparece_tweet(agua,comunidad).
+aparece_tweet(agua,combate).
+aparece_tweet(agua,muertes).
+aparece_tweet(agua,cifra).
+aparece_tweet(agua,sintomas).
+aparece_tweet(agua,medicamentos).
+aparece_tweet(agua,urgencias).
+aparece_tweet(agua,afectados).
+aparece_tweet(agua,gobierno).
+aparece_tweet(agua,cuidados).
+aparece_tweet(agua,promedio).
+aparece_tweet(agua,brote).
+aparece_tweet(agua,hospitalizaciones).
+aparece_tweet(agua,cuadro).
+aparece_tweet(agua,enfermedades).
+aparece_tweet(agua,recoleccion).
+aparece_tweet(agua,basuras).
+aparece_tweet(agua,riesgo).
+aparece_tweet(agua,lluvias).
+aparece_tweet(agua,concienciacion).
+aparece_tweet(agua,inaccion).
+aparece_tweet(agua,baldios).
+aparece_tweet(agua,crecimiento).
+aparece_tweet(agua,rio).
+aparece_tweet(agua,epoca).
+aparece_tweet(agua,plastico).
+aparece_tweet(agua,bolsitas).
+aparece_tweet(agua,inundaciones).
+aparece_tweet(barrios,piscinas).
+aparece_tweet(barrios,inconsciencia).
+aparece_tweet(barrios,pileta).
+aparece_tweet(barrios,multas).
+aparece_tweet(barrios,titular).
+aparece_tweet(barrios,ciudad).
+aparece_tweet(barrios,instalaciones).
+aparece_tweet(barrios,vector).
+aparece_tweet(barrios,educacion).
+aparece_tweet(barrios,disposicion).
+aparece_tweet(barrios,recursos).
+aparece_tweet(barrios,lucha).
+aparece_tweet(barrios,denuncias).
+aparece_tweet(barrios,neumaticos).
+aparece_tweet(barrios,chatarras).
+aparece_tweet(barrios,ayudarnos).
+aparece_tweet(barrios,supuesto).
+aparece_tweet(barrios,senadora).
+aparece_tweet(barrios,emergencia).
+aparece_tweet(barrios,terrenos).
+aparece_tweet(barrios,mosquito).
+aparece_tweet(barrios,calles).
+aparece_tweet(barrios,servicios).
+aparece_tweet(barrios,aumento).
+aparece_tweet(barrios,dr).
+aparece_tweet(barrios,pacientes).
+aparece_tweet(barrios,conciencia).
+aparece_tweet(barrios,dispersion).
+aparece_tweet(barrios,notifaciones).
+aparece_tweet(barrios,epidemia).
+aparece_tweet(barrios,funcionarios).
+aparece_tweet(barrios,extincion).
+aparece_tweet(barrios,barrio).
+aparece_tweet(barrios,cuadra).
+aparece_tweet(barrios,basura).
+aparece_tweet(barrios,eliminacion).
+aparece_tweet(barrios,instituciones).
+aparece_tweet(barrios,trabajos).
+aparece_tweet(barrios,rastrillaje).
+aparece_tweet(barrios,autoridades).
+aparece_tweet(barrios,institucion).
+aparece_tweet(barrios,intendentes).
+aparece_tweet(barrios,municipalidad).
+aparece_tweet(barrios,acciones).
+aparece_tweet(barrios,sanciones).
+aparece_tweet(barrios,limpieza).
+aparece_tweet(barrios,yuyales).
+aparece_tweet(barrios,propagacion).
+aparece_tweet(barrios,ministerio).
+aparece_tweet(barrios,rebrote).
+aparece_tweet(barrios,problema).
+aparece_tweet(barrios,capacidad).
+aparece_tweet(barrios,propiedad).
+aparece_tweet(barrios,antecedentes).
+aparece_tweet(barrios,recomendaciones).
+aparece_tweet(barrios,causa).
+aparece_tweet(barrios,sospecha).
+aparece_tweet(barrios,infestacion).
+aparece_tweet(barrios,imputacion).
+aparece_tweet(barrios,serotipo).
+aparece_tweet(barrios,comunidad).
+aparece_tweet(barrios,combate).
+aparece_tweet(barrios,muertes).
+aparece_tweet(barrios,cifra).
+aparece_tweet(barrios,sintomas).
+aparece_tweet(barrios,medicamentos).
+aparece_tweet(barrios,urgencias).
+aparece_tweet(barrios,afectados).
+aparece_tweet(barrios,gobierno).
+aparece_tweet(barrios,cuidados).
+aparece_tweet(barrios,promedio).
+aparece_tweet(barrios,brote).
+aparece_tweet(barrios,hospitalizaciones).
+aparece_tweet(barrios,cuadro).
+aparece_tweet(barrios,enfermedades).
+aparece_tweet(barrios,recoleccion).
+aparece_tweet(barrios,basuras).
+aparece_tweet(barrios,riesgo).
+aparece_tweet(barrios,lluvias).
+aparece_tweet(barrios,concienciacion).
+aparece_tweet(barrios,inaccion).
+aparece_tweet(barrios,baldios).
+aparece_tweet(barrios,crecimiento).
+aparece_tweet(barrios,rio).
+aparece_tweet(barrios,epoca).
+aparece_tweet(barrios,plastico).
+aparece_tweet(barrios,bolsitas).
+aparece_tweet(barrios,inundaciones).
+aparece_tweet(piscinas,inconsciencia).
+aparece_tweet(piscinas,pileta).
+aparece_tweet(piscinas,multas).
+aparece_tweet(piscinas,titular).
+aparece_tweet(piscinas,ciudad).
+aparece_tweet(piscinas,instalaciones).
+aparece_tweet(piscinas,vector).
+aparece_tweet(piscinas,educacion).
+aparece_tweet(piscinas,disposicion).
+aparece_tweet(piscinas,recursos).
+aparece_tweet(piscinas,lucha).
+aparece_tweet(piscinas,denuncias).
+aparece_tweet(piscinas,neumaticos).
+aparece_tweet(piscinas,chatarras).
+aparece_tweet(piscinas,ayudarnos).
+aparece_tweet(piscinas,supuesto).
+aparece_tweet(piscinas,senadora).
+aparece_tweet(piscinas,emergencia).
+aparece_tweet(piscinas,terrenos).
+aparece_tweet(piscinas,mosquito).
+aparece_tweet(piscinas,calles).
+aparece_tweet(piscinas,servicios).
+aparece_tweet(piscinas,aumento).
+aparece_tweet(piscinas,dr).
+aparece_tweet(piscinas,pacientes).
+aparece_tweet(piscinas,conciencia).
+aparece_tweet(piscinas,dispersion).
+aparece_tweet(piscinas,notifaciones).
+aparece_tweet(piscinas,epidemia).
+aparece_tweet(piscinas,funcionarios).
+aparece_tweet(piscinas,extincion).
+aparece_tweet(piscinas,barrio).
+aparece_tweet(piscinas,cuadra).
+aparece_tweet(piscinas,basura).
+aparece_tweet(piscinas,eliminacion).
+aparece_tweet(piscinas,instituciones).
+aparece_tweet(piscinas,trabajos).
+aparece_tweet(piscinas,rastrillaje).
+aparece_tweet(piscinas,autoridades).
+aparece_tweet(piscinas,institucion).
+aparece_tweet(piscinas,intendentes).
+aparece_tweet(piscinas,municipalidad).
+aparece_tweet(piscinas,acciones).
+aparece_tweet(piscinas,sanciones).
+aparece_tweet(piscinas,limpieza).
+aparece_tweet(piscinas,yuyales).
+aparece_tweet(piscinas,propagacion).
+aparece_tweet(piscinas,ministerio).
+aparece_tweet(piscinas,rebrote).
+aparece_tweet(piscinas,problema).
+aparece_tweet(piscinas,capacidad).
+aparece_tweet(piscinas,propiedad).
+aparece_tweet(piscinas,antecedentes).
+aparece_tweet(piscinas,recomendaciones).
+aparece_tweet(piscinas,causa).
+aparece_tweet(piscinas,sospecha).
+aparece_tweet(piscinas,infestacion).
+aparece_tweet(piscinas,imputacion).
+aparece_tweet(piscinas,serotipo).
+aparece_tweet(piscinas,comunidad).
+aparece_tweet(piscinas,combate).
+aparece_tweet(piscinas,muertes).
+aparece_tweet(piscinas,cifra).
+aparece_tweet(piscinas,sintomas).
+aparece_tweet(piscinas,medicamentos).
+aparece_tweet(piscinas,urgencias).
+aparece_tweet(piscinas,afectados).
+aparece_tweet(piscinas,gobierno).
+aparece_tweet(piscinas,cuidados).
+aparece_tweet(piscinas,promedio).
+aparece_tweet(piscinas,brote).
+aparece_tweet(piscinas,hospitalizaciones).
+aparece_tweet(piscinas,cuadro).
+aparece_tweet(piscinas,enfermedades).
+aparece_tweet(piscinas,recoleccion).
+aparece_tweet(piscinas,basuras).
+aparece_tweet(piscinas,riesgo).
+aparece_tweet(piscinas,lluvias).
+aparece_tweet(piscinas,concienciacion).
+aparece_tweet(piscinas,inaccion).
+aparece_tweet(piscinas,baldios).
+aparece_tweet(piscinas,crecimiento).
+aparece_tweet(piscinas,rio).
+aparece_tweet(piscinas,epoca).
+aparece_tweet(piscinas,plastico).
+aparece_tweet(piscinas,bolsitas).
+aparece_tweet(piscinas,inundaciones).
+aparece_tweet(inconsciencia,pileta).
+aparece_tweet(inconsciencia,multas).
+aparece_tweet(inconsciencia,titular).
+aparece_tweet(inconsciencia,ciudad).
+aparece_tweet(inconsciencia,instalaciones).
+aparece_tweet(inconsciencia,vector).
+aparece_tweet(inconsciencia,educacion).
+aparece_tweet(inconsciencia,disposicion).
+aparece_tweet(inconsciencia,recursos).
+aparece_tweet(inconsciencia,lucha).
+aparece_tweet(inconsciencia,denuncias).
+aparece_tweet(inconsciencia,neumaticos).
+aparece_tweet(inconsciencia,chatarras).
+aparece_tweet(inconsciencia,ayudarnos).
+aparece_tweet(inconsciencia,supuesto).
+aparece_tweet(inconsciencia,senadora).
+aparece_tweet(inconsciencia,emergencia).
+aparece_tweet(inconsciencia,terrenos).
+aparece_tweet(inconsciencia,mosquito).
+aparece_tweet(inconsciencia,calles).
+aparece_tweet(inconsciencia,servicios).
+aparece_tweet(inconsciencia,aumento).
+aparece_tweet(inconsciencia,dr).
+aparece_tweet(inconsciencia,pacientes).
+aparece_tweet(inconsciencia,conciencia).
+aparece_tweet(inconsciencia,dispersion).
+aparece_tweet(inconsciencia,notifaciones).
+aparece_tweet(inconsciencia,epidemia).
+aparece_tweet(inconsciencia,funcionarios).
+aparece_tweet(inconsciencia,extincion).
+aparece_tweet(inconsciencia,barrio).
+aparece_tweet(inconsciencia,cuadra).
+aparece_tweet(inconsciencia,basura).
+aparece_tweet(inconsciencia,eliminacion).
+aparece_tweet(inconsciencia,instituciones).
+aparece_tweet(inconsciencia,trabajos).
+aparece_tweet(inconsciencia,rastrillaje).
+aparece_tweet(inconsciencia,autoridades).
+aparece_tweet(inconsciencia,institucion).
+aparece_tweet(inconsciencia,intendentes).
+aparece_tweet(inconsciencia,municipalidad).
+aparece_tweet(inconsciencia,acciones).
+aparece_tweet(inconsciencia,sanciones).
+aparece_tweet(inconsciencia,limpieza).
+aparece_tweet(inconsciencia,yuyales).
+aparece_tweet(inconsciencia,propagacion).
+aparece_tweet(inconsciencia,ministerio).
+aparece_tweet(inconsciencia,rebrote).
+aparece_tweet(inconsciencia,problema).
+aparece_tweet(inconsciencia,capacidad).
+aparece_tweet(inconsciencia,propiedad).
+aparece_tweet(inconsciencia,antecedentes).
+aparece_tweet(inconsciencia,recomendaciones).
+aparece_tweet(inconsciencia,causa).
+aparece_tweet(inconsciencia,sospecha).
+aparece_tweet(inconsciencia,infestacion).
+aparece_tweet(inconsciencia,imputacion).
+aparece_tweet(inconsciencia,serotipo).
+aparece_tweet(inconsciencia,comunidad).
+aparece_tweet(inconsciencia,combate).
+aparece_tweet(inconsciencia,muertes).
+aparece_tweet(inconsciencia,cifra).
+aparece_tweet(inconsciencia,sintomas).
+aparece_tweet(inconsciencia,medicamentos).
+aparece_tweet(inconsciencia,urgencias).
+aparece_tweet(inconsciencia,afectados).
+aparece_tweet(inconsciencia,gobierno).
+aparece_tweet(inconsciencia,cuidados).
+aparece_tweet(inconsciencia,promedio).
+aparece_tweet(inconsciencia,brote).
+aparece_tweet(inconsciencia,hospitalizaciones).
+aparece_tweet(inconsciencia,cuadro).
+aparece_tweet(inconsciencia,enfermedades).
+aparece_tweet(inconsciencia,recoleccion).
+aparece_tweet(inconsciencia,basuras).
+aparece_tweet(inconsciencia,riesgo).
+aparece_tweet(inconsciencia,lluvias).
+aparece_tweet(inconsciencia,concienciacion).
+aparece_tweet(inconsciencia,inaccion).
+aparece_tweet(inconsciencia,baldios).
+aparece_tweet(inconsciencia,crecimiento).
+aparece_tweet(inconsciencia,rio).
+aparece_tweet(inconsciencia,epoca).
+aparece_tweet(inconsciencia,plastico).
+aparece_tweet(inconsciencia,bolsitas).
+aparece_tweet(inconsciencia,inundaciones).
+aparece_tweet(pileta,multas).
+aparece_tweet(pileta,titular).
+aparece_tweet(pileta,ciudad).
+aparece_tweet(pileta,instalaciones).
+aparece_tweet(pileta,vector).
+aparece_tweet(pileta,educacion).
+aparece_tweet(pileta,disposicion).
+aparece_tweet(pileta,recursos).
+aparece_tweet(pileta,lucha).
+aparece_tweet(pileta,denuncias).
+aparece_tweet(pileta,neumaticos).
+aparece_tweet(pileta,chatarras).
+aparece_tweet(pileta,ayudarnos).
+aparece_tweet(pileta,supuesto).
+aparece_tweet(pileta,senadora).
+aparece_tweet(pileta,emergencia).
+aparece_tweet(pileta,terrenos).
+aparece_tweet(pileta,mosquito).
+aparece_tweet(pileta,calles).
+aparece_tweet(pileta,servicios).
+aparece_tweet(pileta,aumento).
+aparece_tweet(pileta,dr).
+aparece_tweet(pileta,pacientes).
+aparece_tweet(pileta,conciencia).
+aparece_tweet(pileta,dispersion).
+aparece_tweet(pileta,notifaciones).
+aparece_tweet(pileta,epidemia).
+aparece_tweet(pileta,funcionarios).
+aparece_tweet(pileta,extincion).
+aparece_tweet(pileta,barrio).
+aparece_tweet(pileta,cuadra).
+aparece_tweet(pileta,basura).
+aparece_tweet(pileta,eliminacion).
+aparece_tweet(pileta,instituciones).
+aparece_tweet(pileta,trabajos).
+aparece_tweet(pileta,rastrillaje).
+aparece_tweet(pileta,autoridades).
+aparece_tweet(pileta,institucion).
+aparece_tweet(pileta,intendentes).
+aparece_tweet(pileta,municipalidad).
+aparece_tweet(pileta,acciones).
+aparece_tweet(pileta,sanciones).
+aparece_tweet(pileta,limpieza).
+aparece_tweet(pileta,yuyales).
+aparece_tweet(pileta,propagacion).
+aparece_tweet(pileta,ministerio).
+aparece_tweet(pileta,rebrote).
+aparece_tweet(pileta,problema).
+aparece_tweet(pileta,capacidad).
+aparece_tweet(pileta,propiedad).
+aparece_tweet(pileta,antecedentes).
+aparece_tweet(pileta,recomendaciones).
+aparece_tweet(pileta,causa).
+aparece_tweet(pileta,sospecha).
+aparece_tweet(pileta,infestacion).
+aparece_tweet(pileta,imputacion).
+aparece_tweet(pileta,serotipo).
+aparece_tweet(pileta,comunidad).
+aparece_tweet(pileta,combate).
+aparece_tweet(pileta,muertes).
+aparece_tweet(pileta,cifra).
+aparece_tweet(pileta,sintomas).
+aparece_tweet(pileta,medicamentos).
+aparece_tweet(pileta,urgencias).
+aparece_tweet(pileta,afectados).
+aparece_tweet(pileta,gobierno).
+aparece_tweet(pileta,cuidados).
+aparece_tweet(pileta,promedio).
+aparece_tweet(pileta,brote).
+aparece_tweet(pileta,hospitalizaciones).
+aparece_tweet(pileta,cuadro).
+aparece_tweet(pileta,enfermedades).
+aparece_tweet(pileta,recoleccion).
+aparece_tweet(pileta,basuras).
+aparece_tweet(pileta,riesgo).
+aparece_tweet(pileta,lluvias).
+aparece_tweet(pileta,concienciacion).
+aparece_tweet(pileta,inaccion).
+aparece_tweet(pileta,baldios).
+aparece_tweet(pileta,crecimiento).
+aparece_tweet(pileta,rio).
+aparece_tweet(pileta,epoca).
+aparece_tweet(pileta,plastico).
+aparece_tweet(pileta,bolsitas).
+aparece_tweet(pileta,inundaciones).
+aparece_tweet(multas,titular).
+aparece_tweet(multas,ciudad).
+aparece_tweet(multas,instalaciones).
+aparece_tweet(multas,vector).
+aparece_tweet(multas,educacion).
+aparece_tweet(multas,disposicion).
+aparece_tweet(multas,recursos).
+aparece_tweet(multas,lucha).
+aparece_tweet(multas,denuncias).
+aparece_tweet(multas,neumaticos).
+aparece_tweet(multas,chatarras).
+aparece_tweet(multas,ayudarnos).
+aparece_tweet(multas,supuesto).
+aparece_tweet(multas,senadora).
+aparece_tweet(multas,emergencia).
+aparece_tweet(multas,terrenos).
+aparece_tweet(multas,mosquito).
+aparece_tweet(multas,calles).
+aparece_tweet(multas,servicios).
+aparece_tweet(multas,aumento).
+aparece_tweet(multas,dr).
+aparece_tweet(multas,pacientes).
+aparece_tweet(multas,conciencia).
+aparece_tweet(multas,dispersion).
+aparece_tweet(multas,notifaciones).
+aparece_tweet(multas,epidemia).
+aparece_tweet(multas,funcionarios).
+aparece_tweet(multas,extincion).
+aparece_tweet(multas,barrio).
+aparece_tweet(multas,cuadra).
+aparece_tweet(multas,basura).
+aparece_tweet(multas,eliminacion).
+aparece_tweet(multas,instituciones).
+aparece_tweet(multas,trabajos).
+aparece_tweet(multas,rastrillaje).
+aparece_tweet(multas,autoridades).
+aparece_tweet(multas,institucion).
+aparece_tweet(multas,intendentes).
+aparece_tweet(multas,municipalidad).
+aparece_tweet(multas,acciones).
+aparece_tweet(multas,sanciones).
+aparece_tweet(multas,limpieza).
+aparece_tweet(multas,yuyales).
+aparece_tweet(multas,propagacion).
+aparece_tweet(multas,ministerio).
+aparece_tweet(multas,rebrote).
+aparece_tweet(multas,problema).
+aparece_tweet(multas,capacidad).
+aparece_tweet(multas,propiedad).
+aparece_tweet(multas,antecedentes).
+aparece_tweet(multas,recomendaciones).
+aparece_tweet(multas,causa).
+aparece_tweet(multas,sospecha).
+aparece_tweet(multas,infestacion).
+aparece_tweet(multas,imputacion).
+aparece_tweet(multas,serotipo).
+aparece_tweet(multas,comunidad).
+aparece_tweet(multas,combate).
+aparece_tweet(multas,muertes).
+aparece_tweet(multas,cifra).
+aparece_tweet(multas,sintomas).
+aparece_tweet(multas,medicamentos).
+aparece_tweet(multas,urgencias).
+aparece_tweet(multas,afectados).
+aparece_tweet(multas,gobierno).
+aparece_tweet(multas,cuidados).
+aparece_tweet(multas,promedio).
+aparece_tweet(multas,brote).
+aparece_tweet(multas,hospitalizaciones).
+aparece_tweet(multas,cuadro).
+aparece_tweet(multas,enfermedades).
+aparece_tweet(multas,recoleccion).
+aparece_tweet(multas,basuras).
+aparece_tweet(multas,riesgo).
+aparece_tweet(multas,lluvias).
+aparece_tweet(multas,concienciacion).
+aparece_tweet(multas,inaccion).
+aparece_tweet(multas,baldios).
+aparece_tweet(multas,crecimiento).
+aparece_tweet(multas,rio).
+aparece_tweet(multas,epoca).
+aparece_tweet(multas,plastico).
+aparece_tweet(multas,bolsitas).
+aparece_tweet(multas,inundaciones).
+aparece_tweet(titular,ciudad).
+aparece_tweet(titular,instalaciones).
+aparece_tweet(titular,vector).
+aparece_tweet(titular,educacion).
+aparece_tweet(titular,disposicion).
+aparece_tweet(titular,recursos).
+aparece_tweet(titular,lucha).
+aparece_tweet(titular,denuncias).
+aparece_tweet(titular,neumaticos).
+aparece_tweet(titular,chatarras).
+aparece_tweet(titular,ayudarnos).
+aparece_tweet(titular,supuesto).
+aparece_tweet(titular,senadora).
+aparece_tweet(titular,emergencia).
+aparece_tweet(titular,terrenos).
+aparece_tweet(titular,mosquito).
+aparece_tweet(titular,calles).
+aparece_tweet(titular,servicios).
+aparece_tweet(titular,aumento).
+aparece_tweet(titular,dr).
+aparece_tweet(titular,pacientes).
+aparece_tweet(titular,conciencia).
+aparece_tweet(titular,dispersion).
+aparece_tweet(titular,notifaciones).
+aparece_tweet(titular,epidemia).
+aparece_tweet(titular,funcionarios).
+aparece_tweet(titular,extincion).
+aparece_tweet(titular,barrio).
+aparece_tweet(titular,cuadra).
+aparece_tweet(titular,basura).
+aparece_tweet(titular,eliminacion).
+aparece_tweet(titular,instituciones).
+aparece_tweet(titular,trabajos).
+aparece_tweet(titular,rastrillaje).
+aparece_tweet(titular,autoridades).
+aparece_tweet(titular,institucion).
+aparece_tweet(titular,intendentes).
+aparece_tweet(titular,municipalidad).
+aparece_tweet(titular,acciones).
+aparece_tweet(titular,sanciones).
+aparece_tweet(titular,limpieza).
+aparece_tweet(titular,yuyales).
+aparece_tweet(titular,propagacion).
+aparece_tweet(titular,ministerio).
+aparece_tweet(titular,rebrote).
+aparece_tweet(titular,problema).
+aparece_tweet(titular,capacidad).
+aparece_tweet(titular,propiedad).
+aparece_tweet(titular,antecedentes).
+aparece_tweet(titular,recomendaciones).
+aparece_tweet(titular,causa).
+aparece_tweet(titular,sospecha).
+aparece_tweet(titular,infestacion).
+aparece_tweet(titular,imputacion).
+aparece_tweet(titular,serotipo).
+aparece_tweet(titular,comunidad).
+aparece_tweet(titular,combate).
+aparece_tweet(titular,muertes).
+aparece_tweet(titular,cifra).
+aparece_tweet(titular,sintomas).
+aparece_tweet(titular,medicamentos).
+aparece_tweet(titular,urgencias).
+aparece_tweet(titular,afectados).
+aparece_tweet(titular,gobierno).
+aparece_tweet(titular,cuidados).
+aparece_tweet(titular,promedio).
+aparece_tweet(titular,brote).
+aparece_tweet(titular,hospitalizaciones).
+aparece_tweet(titular,cuadro).
+aparece_tweet(titular,enfermedades).
+aparece_tweet(titular,recoleccion).
+aparece_tweet(titular,basuras).
+aparece_tweet(titular,riesgo).
+aparece_tweet(titular,lluvias).
+aparece_tweet(titular,concienciacion).
+aparece_tweet(titular,inaccion).
+aparece_tweet(titular,baldios).
+aparece_tweet(titular,crecimiento).
+aparece_tweet(titular,rio).
+aparece_tweet(titular,epoca).
+aparece_tweet(titular,plastico).
+aparece_tweet(titular,bolsitas).
+aparece_tweet(titular,inundaciones).
+aparece_tweet(ciudad,instalaciones).
+aparece_tweet(ciudad,vector).
+aparece_tweet(ciudad,educacion).
+aparece_tweet(ciudad,disposicion).
+aparece_tweet(ciudad,recursos).
+aparece_tweet(ciudad,lucha).
+aparece_tweet(ciudad,denuncias).
+aparece_tweet(ciudad,neumaticos).
+aparece_tweet(ciudad,chatarras).
+aparece_tweet(ciudad,ayudarnos).
+aparece_tweet(ciudad,supuesto).
+aparece_tweet(ciudad,senadora).
+aparece_tweet(ciudad,emergencia).
+aparece_tweet(ciudad,terrenos).
+aparece_tweet(ciudad,mosquito).
+aparece_tweet(ciudad,calles).
+aparece_tweet(ciudad,servicios).
+aparece_tweet(ciudad,aumento).
+aparece_tweet(ciudad,dr).
+aparece_tweet(ciudad,pacientes).
+aparece_tweet(ciudad,conciencia).
+aparece_tweet(ciudad,dispersion).
+aparece_tweet(ciudad,notifaciones).
+aparece_tweet(ciudad,epidemia).
+aparece_tweet(ciudad,funcionarios).
+aparece_tweet(ciudad,extincion).
+aparece_tweet(ciudad,barrio).
+aparece_tweet(ciudad,cuadra).
+aparece_tweet(ciudad,basura).
+aparece_tweet(ciudad,eliminacion).
+aparece_tweet(ciudad,instituciones).
+aparece_tweet(ciudad,trabajos).
+aparece_tweet(ciudad,rastrillaje).
+aparece_tweet(ciudad,autoridades).
+aparece_tweet(ciudad,institucion).
+aparece_tweet(ciudad,intendentes).
+aparece_tweet(ciudad,municipalidad).
+aparece_tweet(ciudad,acciones).
+aparece_tweet(ciudad,sanciones).
+aparece_tweet(ciudad,limpieza).
+aparece_tweet(ciudad,yuyales).
+aparece_tweet(ciudad,propagacion).
+aparece_tweet(ciudad,ministerio).
+aparece_tweet(ciudad,rebrote).
+aparece_tweet(ciudad,problema).
+aparece_tweet(ciudad,capacidad).
+aparece_tweet(ciudad,propiedad).
+aparece_tweet(ciudad,antecedentes).
+aparece_tweet(ciudad,recomendaciones).
+aparece_tweet(ciudad,causa).
+aparece_tweet(ciudad,sospecha).
+aparece_tweet(ciudad,infestacion).
+aparece_tweet(ciudad,imputacion).
+aparece_tweet(ciudad,serotipo).
+aparece_tweet(ciudad,comunidad).
+aparece_tweet(ciudad,combate).
+aparece_tweet(ciudad,muertes).
+aparece_tweet(ciudad,cifra).
+aparece_tweet(ciudad,sintomas).
+aparece_tweet(ciudad,medicamentos).
+aparece_tweet(ciudad,urgencias).
+aparece_tweet(ciudad,afectados).
+aparece_tweet(ciudad,gobierno).
+aparece_tweet(ciudad,cuidados).
+aparece_tweet(ciudad,promedio).
+aparece_tweet(ciudad,brote).
+aparece_tweet(ciudad,hospitalizaciones).
+aparece_tweet(ciudad,cuadro).
+aparece_tweet(ciudad,enfermedades).
+aparece_tweet(ciudad,recoleccion).
+aparece_tweet(ciudad,basuras).
+aparece_tweet(ciudad,riesgo).
+aparece_tweet(ciudad,lluvias).
+aparece_tweet(ciudad,concienciacion).
+aparece_tweet(ciudad,inaccion).
+aparece_tweet(ciudad,baldios).
+aparece_tweet(ciudad,crecimiento).
+aparece_tweet(ciudad,rio).
+aparece_tweet(ciudad,epoca).
+aparece_tweet(ciudad,plastico).
+aparece_tweet(ciudad,bolsitas).
+aparece_tweet(ciudad,inundaciones).
+aparece_tweet(instalaciones,vector).
+aparece_tweet(instalaciones,educacion).
+aparece_tweet(instalaciones,disposicion).
+aparece_tweet(instalaciones,recursos).
+aparece_tweet(instalaciones,lucha).
+aparece_tweet(instalaciones,denuncias).
+aparece_tweet(instalaciones,neumaticos).
+aparece_tweet(instalaciones,chatarras).
+aparece_tweet(instalaciones,ayudarnos).
+aparece_tweet(instalaciones,supuesto).
+aparece_tweet(instalaciones,senadora).
+aparece_tweet(instalaciones,emergencia).
+aparece_tweet(instalaciones,terrenos).
+aparece_tweet(instalaciones,mosquito).
+aparece_tweet(instalaciones,calles).
+aparece_tweet(instalaciones,servicios).
+aparece_tweet(instalaciones,aumento).
+aparece_tweet(instalaciones,dr).
+aparece_tweet(instalaciones,pacientes).
+aparece_tweet(instalaciones,conciencia).
+aparece_tweet(instalaciones,dispersion).
+aparece_tweet(instalaciones,notifaciones).
+aparece_tweet(instalaciones,epidemia).
+aparece_tweet(instalaciones,funcionarios).
+aparece_tweet(instalaciones,extincion).
+aparece_tweet(instalaciones,barrio).
+aparece_tweet(instalaciones,cuadra).
+aparece_tweet(instalaciones,basura).
+aparece_tweet(instalaciones,eliminacion).
+aparece_tweet(instalaciones,instituciones).
+aparece_tweet(instalaciones,trabajos).
+aparece_tweet(instalaciones,rastrillaje).
+aparece_tweet(instalaciones,autoridades).
+aparece_tweet(instalaciones,institucion).
+aparece_tweet(instalaciones,intendentes).
+aparece_tweet(instalaciones,municipalidad).
+aparece_tweet(instalaciones,acciones).
+aparece_tweet(instalaciones,sanciones).
+aparece_tweet(instalaciones,limpieza).
+aparece_tweet(instalaciones,yuyales).
+aparece_tweet(instalaciones,propagacion).
+aparece_tweet(instalaciones,ministerio).
+aparece_tweet(instalaciones,rebrote).
+aparece_tweet(instalaciones,problema).
+aparece_tweet(instalaciones,capacidad).
+aparece_tweet(instalaciones,propiedad).
+aparece_tweet(instalaciones,antecedentes).
+aparece_tweet(instalaciones,recomendaciones).
+aparece_tweet(instalaciones,causa).
+aparece_tweet(instalaciones,sospecha).
+aparece_tweet(instalaciones,infestacion).
+aparece_tweet(instalaciones,imputacion).
+aparece_tweet(instalaciones,serotipo).
+aparece_tweet(instalaciones,comunidad).
+aparece_tweet(instalaciones,combate).
+aparece_tweet(instalaciones,muertes).
+aparece_tweet(instalaciones,cifra).
+aparece_tweet(instalaciones,sintomas).
+aparece_tweet(instalaciones,medicamentos).
+aparece_tweet(instalaciones,urgencias).
+aparece_tweet(instalaciones,afectados).
+aparece_tweet(instalaciones,gobierno).
+aparece_tweet(instalaciones,cuidados).
+aparece_tweet(instalaciones,promedio).
+aparece_tweet(instalaciones,brote).
+aparece_tweet(instalaciones,hospitalizaciones).
+aparece_tweet(instalaciones,cuadro).
+aparece_tweet(instalaciones,enfermedades).
+aparece_tweet(instalaciones,recoleccion).
+aparece_tweet(instalaciones,basuras).
+aparece_tweet(instalaciones,riesgo).
+aparece_tweet(instalaciones,lluvias).
+aparece_tweet(instalaciones,concienciacion).
+aparece_tweet(instalaciones,inaccion).
+aparece_tweet(instalaciones,baldios).
+aparece_tweet(instalaciones,crecimiento).
+aparece_tweet(instalaciones,rio).
+aparece_tweet(instalaciones,epoca).
+aparece_tweet(instalaciones,plastico).
+aparece_tweet(instalaciones,bolsitas).
+aparece_tweet(instalaciones,inundaciones).
+aparece_tweet(vector,educacion).
+aparece_tweet(vector,disposicion).
+aparece_tweet(vector,recursos).
+aparece_tweet(vector,lucha).
+aparece_tweet(vector,denuncias).
+aparece_tweet(vector,neumaticos).
+aparece_tweet(vector,chatarras).
+aparece_tweet(vector,ayudarnos).
+aparece_tweet(vector,supuesto).
+aparece_tweet(vector,senadora).
+aparece_tweet(vector,emergencia).
+aparece_tweet(vector,terrenos).
+aparece_tweet(vector,mosquito).
+aparece_tweet(vector,calles).
+aparece_tweet(vector,servicios).
+aparece_tweet(vector,aumento).
+aparece_tweet(vector,dr).
+aparece_tweet(vector,pacientes).
+aparece_tweet(vector,conciencia).
+aparece_tweet(vector,dispersion).
+aparece_tweet(vector,notifaciones).
+aparece_tweet(vector,epidemia).
+aparece_tweet(vector,funcionarios).
+aparece_tweet(vector,extincion).
+aparece_tweet(vector,barrio).
+aparece_tweet(vector,cuadra).
+aparece_tweet(vector,basura).
+aparece_tweet(vector,eliminacion).
+aparece_tweet(vector,instituciones).
+aparece_tweet(vector,trabajos).
+aparece_tweet(vector,rastrillaje).
+aparece_tweet(vector,autoridades).
+aparece_tweet(vector,institucion).
+aparece_tweet(vector,intendentes).
+aparece_tweet(vector,municipalidad).
+aparece_tweet(vector,acciones).
+aparece_tweet(vector,sanciones).
+aparece_tweet(vector,limpieza).
+aparece_tweet(vector,yuyales).
+aparece_tweet(vector,propagacion).
+aparece_tweet(vector,ministerio).
+aparece_tweet(vector,rebrote).
+aparece_tweet(vector,problema).
+aparece_tweet(vector,capacidad).
+aparece_tweet(vector,propiedad).
+aparece_tweet(vector,antecedentes).
+aparece_tweet(vector,recomendaciones).
+aparece_tweet(vector,causa).
+aparece_tweet(vector,sospecha).
+aparece_tweet(vector,infestacion).
+aparece_tweet(vector,imputacion).
+aparece_tweet(vector,serotipo).
+aparece_tweet(vector,comunidad).
+aparece_tweet(vector,combate).
+aparece_tweet(vector,muertes).
+aparece_tweet(vector,cifra).
+aparece_tweet(vector,sintomas).
+aparece_tweet(vector,medicamentos).
+aparece_tweet(vector,urgencias).
+aparece_tweet(vector,afectados).
+aparece_tweet(vector,gobierno).
+aparece_tweet(vector,cuidados).
+aparece_tweet(vector,promedio).
+aparece_tweet(vector,brote).
+aparece_tweet(vector,hospitalizaciones).
+aparece_tweet(vector,cuadro).
+aparece_tweet(vector,enfermedades).
+aparece_tweet(vector,recoleccion).
+aparece_tweet(vector,basuras).
+aparece_tweet(vector,riesgo).
+aparece_tweet(vector,lluvias).
+aparece_tweet(vector,concienciacion).
+aparece_tweet(vector,inaccion).
+aparece_tweet(vector,baldios).
+aparece_tweet(vector,crecimiento).
+aparece_tweet(vector,rio).
+aparece_tweet(vector,epoca).
+aparece_tweet(vector,plastico).
+aparece_tweet(vector,bolsitas).
+aparece_tweet(vector,inundaciones).
+aparece_tweet(educacion,disposicion).
+aparece_tweet(educacion,recursos).
+aparece_tweet(educacion,lucha).
+aparece_tweet(educacion,denuncias).
+aparece_tweet(educacion,neumaticos).
+aparece_tweet(educacion,chatarras).
+aparece_tweet(educacion,ayudarnos).
+aparece_tweet(educacion,supuesto).
+aparece_tweet(educacion,senadora).
+aparece_tweet(educacion,emergencia).
+aparece_tweet(educacion,terrenos).
+aparece_tweet(educacion,mosquito).
+aparece_tweet(educacion,calles).
+aparece_tweet(educacion,servicios).
+aparece_tweet(educacion,aumento).
+aparece_tweet(educacion,dr).
+aparece_tweet(educacion,pacientes).
+aparece_tweet(educacion,conciencia).
+aparece_tweet(educacion,dispersion).
+aparece_tweet(educacion,notifaciones).
+aparece_tweet(educacion,epidemia).
+aparece_tweet(educacion,funcionarios).
+aparece_tweet(educacion,extincion).
+aparece_tweet(educacion,barrio).
+aparece_tweet(educacion,cuadra).
+aparece_tweet(educacion,basura).
+aparece_tweet(educacion,eliminacion).
+aparece_tweet(educacion,instituciones).
+aparece_tweet(educacion,trabajos).
+aparece_tweet(educacion,rastrillaje).
+aparece_tweet(educacion,autoridades).
+aparece_tweet(educacion,institucion).
+aparece_tweet(educacion,intendentes).
+aparece_tweet(educacion,municipalidad).
+aparece_tweet(educacion,acciones).
+aparece_tweet(educacion,sanciones).
+aparece_tweet(educacion,limpieza).
+aparece_tweet(educacion,yuyales).
+aparece_tweet(educacion,propagacion).
+aparece_tweet(educacion,ministerio).
+aparece_tweet(educacion,rebrote).
+aparece_tweet(educacion,problema).
+aparece_tweet(educacion,capacidad).
+aparece_tweet(educacion,propiedad).
+aparece_tweet(educacion,antecedentes).
+aparece_tweet(educacion,recomendaciones).
+aparece_tweet(educacion,causa).
+aparece_tweet(educacion,sospecha).
+aparece_tweet(educacion,infestacion).
+aparece_tweet(educacion,imputacion).
+aparece_tweet(educacion,serotipo).
+aparece_tweet(educacion,comunidad).
+aparece_tweet(educacion,combate).
+aparece_tweet(educacion,muertes).
+aparece_tweet(educacion,cifra).
+aparece_tweet(educacion,sintomas).
+aparece_tweet(educacion,medicamentos).
+aparece_tweet(educacion,urgencias).
+aparece_tweet(educacion,afectados).
+aparece_tweet(educacion,gobierno).
+aparece_tweet(educacion,cuidados).
+aparece_tweet(educacion,promedio).
+aparece_tweet(educacion,brote).
+aparece_tweet(educacion,hospitalizaciones).
+aparece_tweet(educacion,cuadro).
+aparece_tweet(educacion,enfermedades).
+aparece_tweet(educacion,recoleccion).
+aparece_tweet(educacion,basuras).
+aparece_tweet(educacion,riesgo).
+aparece_tweet(educacion,lluvias).
+aparece_tweet(educacion,concienciacion).
+aparece_tweet(educacion,inaccion).
+aparece_tweet(educacion,baldios).
+aparece_tweet(educacion,crecimiento).
+aparece_tweet(educacion,rio).
+aparece_tweet(educacion,epoca).
+aparece_tweet(educacion,plastico).
+aparece_tweet(educacion,bolsitas).
+aparece_tweet(educacion,inundaciones).
+aparece_tweet(disposicion,recursos).
+aparece_tweet(disposicion,lucha).
+aparece_tweet(disposicion,denuncias).
+aparece_tweet(disposicion,neumaticos).
+aparece_tweet(disposicion,chatarras).
+aparece_tweet(disposicion,ayudarnos).
+aparece_tweet(disposicion,supuesto).
+aparece_tweet(disposicion,senadora).
+aparece_tweet(disposicion,emergencia).
+aparece_tweet(disposicion,terrenos).
+aparece_tweet(disposicion,mosquito).
+aparece_tweet(disposicion,calles).
+aparece_tweet(disposicion,servicios).
+aparece_tweet(disposicion,aumento).
+aparece_tweet(disposicion,dr).
+aparece_tweet(disposicion,pacientes).
+aparece_tweet(disposicion,conciencia).
+aparece_tweet(disposicion,dispersion).
+aparece_tweet(disposicion,notifaciones).
+aparece_tweet(disposicion,epidemia).
+aparece_tweet(disposicion,funcionarios).
+aparece_tweet(disposicion,extincion).
+aparece_tweet(disposicion,barrio).
+aparece_tweet(disposicion,cuadra).
+aparece_tweet(disposicion,basura).
+aparece_tweet(disposicion,eliminacion).
+aparece_tweet(disposicion,instituciones).
+aparece_tweet(disposicion,trabajos).
+aparece_tweet(disposicion,rastrillaje).
+aparece_tweet(disposicion,autoridades).
+aparece_tweet(disposicion,institucion).
+aparece_tweet(disposicion,intendentes).
+aparece_tweet(disposicion,municipalidad).
+aparece_tweet(disposicion,acciones).
+aparece_tweet(disposicion,sanciones).
+aparece_tweet(disposicion,limpieza).
+aparece_tweet(disposicion,yuyales).
+aparece_tweet(disposicion,propagacion).
+aparece_tweet(disposicion,ministerio).
+aparece_tweet(disposicion,rebrote).
+aparece_tweet(disposicion,problema).
+aparece_tweet(disposicion,capacidad).
+aparece_tweet(disposicion,propiedad).
+aparece_tweet(disposicion,antecedentes).
+aparece_tweet(disposicion,recomendaciones).
+aparece_tweet(disposicion,causa).
+aparece_tweet(disposicion,sospecha).
+aparece_tweet(disposicion,infestacion).
+aparece_tweet(disposicion,imputacion).
+aparece_tweet(disposicion,serotipo).
+aparece_tweet(disposicion,comunidad).
+aparece_tweet(disposicion,combate).
+aparece_tweet(disposicion,muertes).
+aparece_tweet(disposicion,cifra).
+aparece_tweet(disposicion,sintomas).
+aparece_tweet(disposicion,medicamentos).
+aparece_tweet(disposicion,urgencias).
+aparece_tweet(disposicion,afectados).
+aparece_tweet(disposicion,gobierno).
+aparece_tweet(disposicion,cuidados).
+aparece_tweet(disposicion,promedio).
+aparece_tweet(disposicion,brote).
+aparece_tweet(disposicion,hospitalizaciones).
+aparece_tweet(disposicion,cuadro).
+aparece_tweet(disposicion,enfermedades).
+aparece_tweet(disposicion,recoleccion).
+aparece_tweet(disposicion,basuras).
+aparece_tweet(disposicion,riesgo).
+aparece_tweet(disposicion,lluvias).
+aparece_tweet(disposicion,concienciacion).
+aparece_tweet(disposicion,inaccion).
+aparece_tweet(disposicion,baldios).
+aparece_tweet(disposicion,crecimiento).
+aparece_tweet(disposicion,rio).
+aparece_tweet(disposicion,epoca).
+aparece_tweet(disposicion,plastico).
+aparece_tweet(disposicion,bolsitas).
+aparece_tweet(disposicion,inundaciones).
+aparece_tweet(recursos,lucha).
+aparece_tweet(recursos,denuncias).
+aparece_tweet(recursos,neumaticos).
+aparece_tweet(recursos,chatarras).
+aparece_tweet(recursos,ayudarnos).
+aparece_tweet(recursos,supuesto).
+aparece_tweet(recursos,senadora).
+aparece_tweet(recursos,emergencia).
+aparece_tweet(recursos,terrenos).
+aparece_tweet(recursos,mosquito).
+aparece_tweet(recursos,calles).
+aparece_tweet(recursos,servicios).
+aparece_tweet(recursos,aumento).
+aparece_tweet(recursos,dr).
+aparece_tweet(recursos,pacientes).
+aparece_tweet(recursos,conciencia).
+aparece_tweet(recursos,dispersion).
+aparece_tweet(recursos,notifaciones).
+aparece_tweet(recursos,epidemia).
+aparece_tweet(recursos,funcionarios).
+aparece_tweet(recursos,extincion).
+aparece_tweet(recursos,barrio).
+aparece_tweet(recursos,cuadra).
+aparece_tweet(recursos,basura).
+aparece_tweet(recursos,eliminacion).
+aparece_tweet(recursos,instituciones).
+aparece_tweet(recursos,trabajos).
+aparece_tweet(recursos,rastrillaje).
+aparece_tweet(recursos,autoridades).
+aparece_tweet(recursos,institucion).
+aparece_tweet(recursos,intendentes).
+aparece_tweet(recursos,municipalidad).
+aparece_tweet(recursos,acciones).
+aparece_tweet(recursos,sanciones).
+aparece_tweet(recursos,limpieza).
+aparece_tweet(recursos,yuyales).
+aparece_tweet(recursos,propagacion).
+aparece_tweet(recursos,ministerio).
+aparece_tweet(recursos,rebrote).
+aparece_tweet(recursos,problema).
+aparece_tweet(recursos,capacidad).
+aparece_tweet(recursos,propiedad).
+aparece_tweet(recursos,antecedentes).
+aparece_tweet(recursos,recomendaciones).
+aparece_tweet(recursos,causa).
+aparece_tweet(recursos,sospecha).
+aparece_tweet(recursos,infestacion).
+aparece_tweet(recursos,imputacion).
+aparece_tweet(recursos,serotipo).
+aparece_tweet(recursos,comunidad).
+aparece_tweet(recursos,combate).
+aparece_tweet(recursos,muertes).
+aparece_tweet(recursos,cifra).
+aparece_tweet(recursos,sintomas).
+aparece_tweet(recursos,medicamentos).
+aparece_tweet(recursos,urgencias).
+aparece_tweet(recursos,afectados).
+aparece_tweet(recursos,gobierno).
+aparece_tweet(recursos,cuidados).
+aparece_tweet(recursos,promedio).
+aparece_tweet(recursos,brote).
+aparece_tweet(recursos,hospitalizaciones).
+aparece_tweet(recursos,cuadro).
+aparece_tweet(recursos,enfermedades).
+aparece_tweet(recursos,recoleccion).
+aparece_tweet(recursos,basuras).
+aparece_tweet(recursos,riesgo).
+aparece_tweet(recursos,lluvias).
+aparece_tweet(recursos,concienciacion).
+aparece_tweet(recursos,inaccion).
+aparece_tweet(recursos,baldios).
+aparece_tweet(recursos,crecimiento).
+aparece_tweet(recursos,rio).
+aparece_tweet(recursos,epoca).
+aparece_tweet(recursos,plastico).
+aparece_tweet(recursos,bolsitas).
+aparece_tweet(recursos,inundaciones).
+aparece_tweet(lucha,denuncias).
+aparece_tweet(lucha,neumaticos).
+aparece_tweet(lucha,chatarras).
+aparece_tweet(lucha,ayudarnos).
+aparece_tweet(lucha,supuesto).
+aparece_tweet(lucha,senadora).
+aparece_tweet(lucha,emergencia).
+aparece_tweet(lucha,terrenos).
+aparece_tweet(lucha,mosquito).
+aparece_tweet(lucha,calles).
+aparece_tweet(lucha,servicios).
+aparece_tweet(lucha,aumento).
+aparece_tweet(lucha,dr).
+aparece_tweet(lucha,pacientes).
+aparece_tweet(lucha,conciencia).
+aparece_tweet(lucha,dispersion).
+aparece_tweet(lucha,notifaciones).
+aparece_tweet(lucha,epidemia).
+aparece_tweet(lucha,funcionarios).
+aparece_tweet(lucha,extincion).
+aparece_tweet(lucha,barrio).
+aparece_tweet(lucha,cuadra).
+aparece_tweet(lucha,basura).
+aparece_tweet(lucha,eliminacion).
+aparece_tweet(lucha,instituciones).
+aparece_tweet(lucha,trabajos).
+aparece_tweet(lucha,rastrillaje).
+aparece_tweet(lucha,autoridades).
+aparece_tweet(lucha,institucion).
+aparece_tweet(lucha,intendentes).
+aparece_tweet(lucha,municipalidad).
+aparece_tweet(lucha,acciones).
+aparece_tweet(lucha,sanciones).
+aparece_tweet(lucha,limpieza).
+aparece_tweet(lucha,yuyales).
+aparece_tweet(lucha,propagacion).
+aparece_tweet(lucha,ministerio).
+aparece_tweet(lucha,rebrote).
+aparece_tweet(lucha,problema).
+aparece_tweet(lucha,capacidad).
+aparece_tweet(lucha,propiedad).
+aparece_tweet(lucha,antecedentes).
+aparece_tweet(lucha,recomendaciones).
+aparece_tweet(lucha,causa).
+aparece_tweet(lucha,sospecha).
+aparece_tweet(lucha,infestacion).
+aparece_tweet(lucha,imputacion).
+aparece_tweet(lucha,serotipo).
+aparece_tweet(lucha,comunidad).
+aparece_tweet(lucha,combate).
+aparece_tweet(lucha,muertes).
+aparece_tweet(lucha,cifra).
+aparece_tweet(lucha,sintomas).
+aparece_tweet(lucha,medicamentos).
+aparece_tweet(lucha,urgencias).
+aparece_tweet(lucha,afectados).
+aparece_tweet(lucha,gobierno).
+aparece_tweet(lucha,cuidados).
+aparece_tweet(lucha,promedio).
+aparece_tweet(lucha,brote).
+aparece_tweet(lucha,hospitalizaciones).
+aparece_tweet(lucha,cuadro).
+aparece_tweet(lucha,enfermedades).
+aparece_tweet(lucha,recoleccion).
+aparece_tweet(lucha,basuras).
+aparece_tweet(lucha,riesgo).
+aparece_tweet(lucha,lluvias).
+aparece_tweet(lucha,concienciacion).
+aparece_tweet(lucha,inaccion).
+aparece_tweet(lucha,baldios).
+aparece_tweet(lucha,crecimiento).
+aparece_tweet(lucha,rio).
+aparece_tweet(lucha,epoca).
+aparece_tweet(lucha,plastico).
+aparece_tweet(lucha,bolsitas).
+aparece_tweet(lucha,inundaciones).
+aparece_tweet(denuncias,neumaticos).
+aparece_tweet(denuncias,chatarras).
+aparece_tweet(denuncias,ayudarnos).
+aparece_tweet(denuncias,supuesto).
+aparece_tweet(denuncias,senadora).
+aparece_tweet(denuncias,emergencia).
+aparece_tweet(denuncias,terrenos).
+aparece_tweet(denuncias,mosquito).
+aparece_tweet(denuncias,calles).
+aparece_tweet(denuncias,servicios).
+aparece_tweet(denuncias,aumento).
+aparece_tweet(denuncias,dr).
+aparece_tweet(denuncias,pacientes).
+aparece_tweet(denuncias,conciencia).
+aparece_tweet(denuncias,dispersion).
+aparece_tweet(denuncias,notifaciones).
+aparece_tweet(denuncias,epidemia).
+aparece_tweet(denuncias,funcionarios).
+aparece_tweet(denuncias,extincion).
+aparece_tweet(denuncias,barrio).
+aparece_tweet(denuncias,cuadra).
+aparece_tweet(denuncias,basura).
+aparece_tweet(denuncias,eliminacion).
+aparece_tweet(denuncias,instituciones).
+aparece_tweet(denuncias,trabajos).
+aparece_tweet(denuncias,rastrillaje).
+aparece_tweet(denuncias,autoridades).
+aparece_tweet(denuncias,institucion).
+aparece_tweet(denuncias,intendentes).
+aparece_tweet(denuncias,municipalidad).
+aparece_tweet(denuncias,acciones).
+aparece_tweet(denuncias,sanciones).
+aparece_tweet(denuncias,limpieza).
+aparece_tweet(denuncias,yuyales).
+aparece_tweet(denuncias,propagacion).
+aparece_tweet(denuncias,ministerio).
+aparece_tweet(denuncias,rebrote).
+aparece_tweet(denuncias,problema).
+aparece_tweet(denuncias,capacidad).
+aparece_tweet(denuncias,propiedad).
+aparece_tweet(denuncias,antecedentes).
+aparece_tweet(denuncias,recomendaciones).
+aparece_tweet(denuncias,causa).
+aparece_tweet(denuncias,sospecha).
+aparece_tweet(denuncias,infestacion).
+aparece_tweet(denuncias,imputacion).
+aparece_tweet(denuncias,serotipo).
+aparece_tweet(denuncias,comunidad).
+aparece_tweet(denuncias,combate).
+aparece_tweet(denuncias,muertes).
+aparece_tweet(denuncias,cifra).
+aparece_tweet(denuncias,sintomas).
+aparece_tweet(denuncias,medicamentos).
+aparece_tweet(denuncias,urgencias).
+aparece_tweet(denuncias,afectados).
+aparece_tweet(denuncias,gobierno).
+aparece_tweet(denuncias,cuidados).
+aparece_tweet(denuncias,promedio).
+aparece_tweet(denuncias,brote).
+aparece_tweet(denuncias,hospitalizaciones).
+aparece_tweet(denuncias,cuadro).
+aparece_tweet(denuncias,enfermedades).
+aparece_tweet(denuncias,recoleccion).
+aparece_tweet(denuncias,basuras).
+aparece_tweet(denuncias,riesgo).
+aparece_tweet(denuncias,lluvias).
+aparece_tweet(denuncias,concienciacion).
+aparece_tweet(denuncias,inaccion).
+aparece_tweet(denuncias,baldios).
+aparece_tweet(denuncias,crecimiento).
+aparece_tweet(denuncias,rio).
+aparece_tweet(denuncias,epoca).
+aparece_tweet(denuncias,plastico).
+aparece_tweet(denuncias,bolsitas).
+aparece_tweet(denuncias,inundaciones).
+aparece_tweet(neumaticos,chatarras).
+aparece_tweet(neumaticos,ayudarnos).
+aparece_tweet(neumaticos,supuesto).
+aparece_tweet(neumaticos,senadora).
+aparece_tweet(neumaticos,emergencia).
+aparece_tweet(neumaticos,terrenos).
+aparece_tweet(neumaticos,mosquito).
+aparece_tweet(neumaticos,calles).
+aparece_tweet(neumaticos,servicios).
+aparece_tweet(neumaticos,aumento).
+aparece_tweet(neumaticos,dr).
+aparece_tweet(neumaticos,pacientes).
+aparece_tweet(neumaticos,conciencia).
+aparece_tweet(neumaticos,dispersion).
+aparece_tweet(neumaticos,notifaciones).
+aparece_tweet(neumaticos,epidemia).
+aparece_tweet(neumaticos,funcionarios).
+aparece_tweet(neumaticos,extincion).
+aparece_tweet(neumaticos,barrio).
+aparece_tweet(neumaticos,cuadra).
+aparece_tweet(neumaticos,basura).
+aparece_tweet(neumaticos,eliminacion).
+aparece_tweet(neumaticos,instituciones).
+aparece_tweet(neumaticos,trabajos).
+aparece_tweet(neumaticos,rastrillaje).
+aparece_tweet(neumaticos,autoridades).
+aparece_tweet(neumaticos,institucion).
+aparece_tweet(neumaticos,intendentes).
+aparece_tweet(neumaticos,municipalidad).
+aparece_tweet(neumaticos,acciones).
+aparece_tweet(neumaticos,sanciones).
+aparece_tweet(neumaticos,limpieza).
+aparece_tweet(neumaticos,yuyales).
+aparece_tweet(neumaticos,propagacion).
+aparece_tweet(neumaticos,ministerio).
+aparece_tweet(neumaticos,rebrote).
+aparece_tweet(neumaticos,problema).
+aparece_tweet(neumaticos,capacidad).
+aparece_tweet(neumaticos,propiedad).
+aparece_tweet(neumaticos,antecedentes).
+aparece_tweet(neumaticos,recomendaciones).
+aparece_tweet(neumaticos,causa).
+aparece_tweet(neumaticos,sospecha).
+aparece_tweet(neumaticos,infestacion).
+aparece_tweet(neumaticos,imputacion).
+aparece_tweet(neumaticos,serotipo).
+aparece_tweet(neumaticos,comunidad).
+aparece_tweet(neumaticos,combate).
+aparece_tweet(neumaticos,muertes).
+aparece_tweet(neumaticos,cifra).
+aparece_tweet(neumaticos,sintomas).
+aparece_tweet(neumaticos,medicamentos).
+aparece_tweet(neumaticos,urgencias).
+aparece_tweet(neumaticos,afectados).
+aparece_tweet(neumaticos,gobierno).
+aparece_tweet(neumaticos,cuidados).
+aparece_tweet(neumaticos,promedio).
+aparece_tweet(neumaticos,brote).
+aparece_tweet(neumaticos,hospitalizaciones).
+aparece_tweet(neumaticos,cuadro).
+aparece_tweet(neumaticos,enfermedades).
+aparece_tweet(neumaticos,recoleccion).
+aparece_tweet(neumaticos,basuras).
+aparece_tweet(neumaticos,riesgo).
+aparece_tweet(neumaticos,lluvias).
+aparece_tweet(neumaticos,concienciacion).
+aparece_tweet(neumaticos,inaccion).
+aparece_tweet(neumaticos,baldios).
+aparece_tweet(neumaticos,crecimiento).
+aparece_tweet(neumaticos,rio).
+aparece_tweet(neumaticos,epoca).
+aparece_tweet(neumaticos,plastico).
+aparece_tweet(neumaticos,bolsitas).
+aparece_tweet(neumaticos,inundaciones).
+aparece_tweet(chatarras,ayudarnos).
+aparece_tweet(chatarras,supuesto).
+aparece_tweet(chatarras,senadora).
+aparece_tweet(chatarras,emergencia).
+aparece_tweet(chatarras,terrenos).
+aparece_tweet(chatarras,mosquito).
+aparece_tweet(chatarras,calles).
+aparece_tweet(chatarras,servicios).
+aparece_tweet(chatarras,aumento).
+aparece_tweet(chatarras,dr).
+aparece_tweet(chatarras,pacientes).
+aparece_tweet(chatarras,conciencia).
+aparece_tweet(chatarras,dispersion).
+aparece_tweet(chatarras,notifaciones).
+aparece_tweet(chatarras,epidemia).
+aparece_tweet(chatarras,funcionarios).
+aparece_tweet(chatarras,extincion).
+aparece_tweet(chatarras,barrio).
+aparece_tweet(chatarras,cuadra).
+aparece_tweet(chatarras,basura).
+aparece_tweet(chatarras,eliminacion).
+aparece_tweet(chatarras,instituciones).
+aparece_tweet(chatarras,trabajos).
+aparece_tweet(chatarras,rastrillaje).
+aparece_tweet(chatarras,autoridades).
+aparece_tweet(chatarras,institucion).
+aparece_tweet(chatarras,intendentes).
+aparece_tweet(chatarras,municipalidad).
+aparece_tweet(chatarras,acciones).
+aparece_tweet(chatarras,sanciones).
+aparece_tweet(chatarras,limpieza).
+aparece_tweet(chatarras,yuyales).
+aparece_tweet(chatarras,propagacion).
+aparece_tweet(chatarras,ministerio).
+aparece_tweet(chatarras,rebrote).
+aparece_tweet(chatarras,problema).
+aparece_tweet(chatarras,capacidad).
+aparece_tweet(chatarras,propiedad).
+aparece_tweet(chatarras,antecedentes).
+aparece_tweet(chatarras,recomendaciones).
+aparece_tweet(chatarras,causa).
+aparece_tweet(chatarras,sospecha).
+aparece_tweet(chatarras,infestacion).
+aparece_tweet(chatarras,imputacion).
+aparece_tweet(chatarras,serotipo).
+aparece_tweet(chatarras,comunidad).
+aparece_tweet(chatarras,combate).
+aparece_tweet(chatarras,muertes).
+aparece_tweet(chatarras,cifra).
+aparece_tweet(chatarras,sintomas).
+aparece_tweet(chatarras,medicamentos).
+aparece_tweet(chatarras,urgencias).
+aparece_tweet(chatarras,afectados).
+aparece_tweet(chatarras,gobierno).
+aparece_tweet(chatarras,cuidados).
+aparece_tweet(chatarras,promedio).
+aparece_tweet(chatarras,brote).
+aparece_tweet(chatarras,hospitalizaciones).
+aparece_tweet(chatarras,cuadro).
+aparece_tweet(chatarras,enfermedades).
+aparece_tweet(chatarras,recoleccion).
+aparece_tweet(chatarras,basuras).
+aparece_tweet(chatarras,riesgo).
+aparece_tweet(chatarras,lluvias).
+aparece_tweet(chatarras,concienciacion).
+aparece_tweet(chatarras,inaccion).
+aparece_tweet(chatarras,baldios).
+aparece_tweet(chatarras,crecimiento).
+aparece_tweet(chatarras,rio).
+aparece_tweet(chatarras,epoca).
+aparece_tweet(chatarras,plastico).
+aparece_tweet(chatarras,bolsitas).
+aparece_tweet(chatarras,inundaciones).
+aparece_tweet(ayudarnos,supuesto).
+aparece_tweet(ayudarnos,senadora).
+aparece_tweet(ayudarnos,emergencia).
+aparece_tweet(ayudarnos,terrenos).
+aparece_tweet(ayudarnos,mosquito).
+aparece_tweet(ayudarnos,calles).
+aparece_tweet(ayudarnos,servicios).
+aparece_tweet(ayudarnos,aumento).
+aparece_tweet(ayudarnos,dr).
+aparece_tweet(ayudarnos,pacientes).
+aparece_tweet(ayudarnos,conciencia).
+aparece_tweet(ayudarnos,dispersion).
+aparece_tweet(ayudarnos,notifaciones).
+aparece_tweet(ayudarnos,epidemia).
+aparece_tweet(ayudarnos,funcionarios).
+aparece_tweet(ayudarnos,extincion).
+aparece_tweet(ayudarnos,barrio).
+aparece_tweet(ayudarnos,cuadra).
+aparece_tweet(ayudarnos,basura).
+aparece_tweet(ayudarnos,eliminacion).
+aparece_tweet(ayudarnos,instituciones).
+aparece_tweet(ayudarnos,trabajos).
+aparece_tweet(ayudarnos,rastrillaje).
+aparece_tweet(ayudarnos,autoridades).
+aparece_tweet(ayudarnos,institucion).
+aparece_tweet(ayudarnos,intendentes).
+aparece_tweet(ayudarnos,municipalidad).
+aparece_tweet(ayudarnos,acciones).
+aparece_tweet(ayudarnos,sanciones).
+aparece_tweet(ayudarnos,limpieza).
+aparece_tweet(ayudarnos,yuyales).
+aparece_tweet(ayudarnos,propagacion).
+aparece_tweet(ayudarnos,ministerio).
+aparece_tweet(ayudarnos,rebrote).
+aparece_tweet(ayudarnos,problema).
+aparece_tweet(ayudarnos,capacidad).
+aparece_tweet(ayudarnos,propiedad).
+aparece_tweet(ayudarnos,antecedentes).
+aparece_tweet(ayudarnos,recomendaciones).
+aparece_tweet(ayudarnos,causa).
+aparece_tweet(ayudarnos,sospecha).
+aparece_tweet(ayudarnos,infestacion).
+aparece_tweet(ayudarnos,imputacion).
+aparece_tweet(ayudarnos,serotipo).
+aparece_tweet(ayudarnos,comunidad).
+aparece_tweet(ayudarnos,combate).
+aparece_tweet(ayudarnos,muertes).
+aparece_tweet(ayudarnos,cifra).
+aparece_tweet(ayudarnos,sintomas).
+aparece_tweet(ayudarnos,medicamentos).
+aparece_tweet(ayudarnos,urgencias).
+aparece_tweet(ayudarnos,afectados).
+aparece_tweet(ayudarnos,gobierno).
+aparece_tweet(ayudarnos,cuidados).
+aparece_tweet(ayudarnos,promedio).
+aparece_tweet(ayudarnos,brote).
+aparece_tweet(ayudarnos,hospitalizaciones).
+aparece_tweet(ayudarnos,cuadro).
+aparece_tweet(ayudarnos,enfermedades).
+aparece_tweet(ayudarnos,recoleccion).
+aparece_tweet(ayudarnos,basuras).
+aparece_tweet(ayudarnos,riesgo).
+aparece_tweet(ayudarnos,lluvias).
+aparece_tweet(ayudarnos,concienciacion).
+aparece_tweet(ayudarnos,inaccion).
+aparece_tweet(ayudarnos,baldios).
+aparece_tweet(ayudarnos,crecimiento).
+aparece_tweet(ayudarnos,rio).
+aparece_tweet(ayudarnos,epoca).
+aparece_tweet(ayudarnos,plastico).
+aparece_tweet(ayudarnos,bolsitas).
+aparece_tweet(ayudarnos,inundaciones).
+aparece_tweet(supuesto,senadora).
+aparece_tweet(supuesto,emergencia).
+aparece_tweet(supuesto,terrenos).
+aparece_tweet(supuesto,mosquito).
+aparece_tweet(supuesto,calles).
+aparece_tweet(supuesto,servicios).
+aparece_tweet(supuesto,aumento).
+aparece_tweet(supuesto,dr).
+aparece_tweet(supuesto,pacientes).
+aparece_tweet(supuesto,conciencia).
+aparece_tweet(supuesto,dispersion).
+aparece_tweet(supuesto,notifaciones).
+aparece_tweet(supuesto,epidemia).
+aparece_tweet(supuesto,funcionarios).
+aparece_tweet(supuesto,extincion).
+aparece_tweet(supuesto,barrio).
+aparece_tweet(supuesto,cuadra).
+aparece_tweet(supuesto,basura).
+aparece_tweet(supuesto,eliminacion).
+aparece_tweet(supuesto,instituciones).
+aparece_tweet(supuesto,trabajos).
+aparece_tweet(supuesto,rastrillaje).
+aparece_tweet(supuesto,autoridades).
+aparece_tweet(supuesto,institucion).
+aparece_tweet(supuesto,intendentes).
+aparece_tweet(supuesto,municipalidad).
+aparece_tweet(supuesto,acciones).
+aparece_tweet(supuesto,sanciones).
+aparece_tweet(supuesto,limpieza).
+aparece_tweet(supuesto,yuyales).
+aparece_tweet(supuesto,propagacion).
+aparece_tweet(supuesto,ministerio).
+aparece_tweet(supuesto,rebrote).
+aparece_tweet(supuesto,problema).
+aparece_tweet(supuesto,capacidad).
+aparece_tweet(supuesto,propiedad).
+aparece_tweet(supuesto,antecedentes).
+aparece_tweet(supuesto,recomendaciones).
+aparece_tweet(supuesto,causa).
+aparece_tweet(supuesto,sospecha).
+aparece_tweet(supuesto,infestacion).
+aparece_tweet(supuesto,imputacion).
+aparece_tweet(supuesto,serotipo).
+aparece_tweet(supuesto,comunidad).
+aparece_tweet(supuesto,combate).
+aparece_tweet(supuesto,muertes).
+aparece_tweet(supuesto,cifra).
+aparece_tweet(supuesto,sintomas).
+aparece_tweet(supuesto,medicamentos).
+aparece_tweet(supuesto,urgencias).
+aparece_tweet(supuesto,afectados).
+aparece_tweet(supuesto,gobierno).
+aparece_tweet(supuesto,cuidados).
+aparece_tweet(supuesto,promedio).
+aparece_tweet(supuesto,brote).
+aparece_tweet(supuesto,hospitalizaciones).
+aparece_tweet(supuesto,cuadro).
+aparece_tweet(supuesto,enfermedades).
+aparece_tweet(supuesto,recoleccion).
+aparece_tweet(supuesto,basuras).
+aparece_tweet(supuesto,riesgo).
+aparece_tweet(supuesto,lluvias).
+aparece_tweet(supuesto,concienciacion).
+aparece_tweet(supuesto,inaccion).
+aparece_tweet(supuesto,baldios).
+aparece_tweet(supuesto,crecimiento).
+aparece_tweet(supuesto,rio).
+aparece_tweet(supuesto,epoca).
+aparece_tweet(supuesto,plastico).
+aparece_tweet(supuesto,bolsitas).
+aparece_tweet(supuesto,inundaciones).
+aparece_tweet(senadora,emergencia).
+aparece_tweet(senadora,terrenos).
+aparece_tweet(senadora,mosquito).
+aparece_tweet(senadora,calles).
+aparece_tweet(senadora,servicios).
+aparece_tweet(senadora,aumento).
+aparece_tweet(senadora,dr).
+aparece_tweet(senadora,pacientes).
+aparece_tweet(senadora,conciencia).
+aparece_tweet(senadora,dispersion).
+aparece_tweet(senadora,notifaciones).
+aparece_tweet(senadora,epidemia).
+aparece_tweet(senadora,funcionarios).
+aparece_tweet(senadora,extincion).
+aparece_tweet(senadora,barrio).
+aparece_tweet(senadora,cuadra).
+aparece_tweet(senadora,basura).
+aparece_tweet(senadora,eliminacion).
+aparece_tweet(senadora,instituciones).
+aparece_tweet(senadora,trabajos).
+aparece_tweet(senadora,rastrillaje).
+aparece_tweet(senadora,autoridades).
+aparece_tweet(senadora,institucion).
+aparece_tweet(senadora,intendentes).
+aparece_tweet(senadora,municipalidad).
+aparece_tweet(senadora,acciones).
+aparece_tweet(senadora,sanciones).
+aparece_tweet(senadora,limpieza).
+aparece_tweet(senadora,yuyales).
+aparece_tweet(senadora,propagacion).
+aparece_tweet(senadora,ministerio).
+aparece_tweet(senadora,rebrote).
+aparece_tweet(senadora,problema).
+aparece_tweet(senadora,capacidad).
+aparece_tweet(senadora,propiedad).
+aparece_tweet(senadora,antecedentes).
+aparece_tweet(senadora,recomendaciones).
+aparece_tweet(senadora,causa).
+aparece_tweet(senadora,sospecha).
+aparece_tweet(senadora,infestacion).
+aparece_tweet(senadora,imputacion).
+aparece_tweet(senadora,serotipo).
+aparece_tweet(senadora,comunidad).
+aparece_tweet(senadora,combate).
+aparece_tweet(senadora,muertes).
+aparece_tweet(senadora,cifra).
+aparece_tweet(senadora,sintomas).
+aparece_tweet(senadora,medicamentos).
+aparece_tweet(senadora,urgencias).
+aparece_tweet(senadora,afectados).
+aparece_tweet(senadora,gobierno).
+aparece_tweet(senadora,cuidados).
+aparece_tweet(senadora,promedio).
+aparece_tweet(senadora,brote).
+aparece_tweet(senadora,hospitalizaciones).
+aparece_tweet(senadora,cuadro).
+aparece_tweet(senadora,enfermedades).
+aparece_tweet(senadora,recoleccion).
+aparece_tweet(senadora,basuras).
+aparece_tweet(senadora,riesgo).
+aparece_tweet(senadora,lluvias).
+aparece_tweet(senadora,concienciacion).
+aparece_tweet(senadora,inaccion).
+aparece_tweet(senadora,baldios).
+aparece_tweet(senadora,crecimiento).
+aparece_tweet(senadora,rio).
+aparece_tweet(senadora,epoca).
+aparece_tweet(senadora,plastico).
+aparece_tweet(senadora,bolsitas).
+aparece_tweet(senadora,inundaciones).
+aparece_tweet(emergencia,terrenos).
+aparece_tweet(emergencia,mosquito).
+aparece_tweet(emergencia,calles).
+aparece_tweet(emergencia,servicios).
+aparece_tweet(emergencia,aumento).
+aparece_tweet(emergencia,dr).
+aparece_tweet(emergencia,pacientes).
+aparece_tweet(emergencia,conciencia).
+aparece_tweet(emergencia,dispersion).
+aparece_tweet(emergencia,notifaciones).
+aparece_tweet(emergencia,epidemia).
+aparece_tweet(emergencia,funcionarios).
+aparece_tweet(emergencia,extincion).
+aparece_tweet(emergencia,barrio).
+aparece_tweet(emergencia,cuadra).
+aparece_tweet(emergencia,basura).
+aparece_tweet(emergencia,eliminacion).
+aparece_tweet(emergencia,instituciones).
+aparece_tweet(emergencia,trabajos).
+aparece_tweet(emergencia,rastrillaje).
+aparece_tweet(emergencia,autoridades).
+aparece_tweet(emergencia,institucion).
+aparece_tweet(emergencia,intendentes).
+aparece_tweet(emergencia,municipalidad).
+aparece_tweet(emergencia,acciones).
+aparece_tweet(emergencia,sanciones).
+aparece_tweet(emergencia,limpieza).
+aparece_tweet(emergencia,yuyales).
+aparece_tweet(emergencia,propagacion).
+aparece_tweet(emergencia,ministerio).
+aparece_tweet(emergencia,rebrote).
+aparece_tweet(emergencia,problema).
+aparece_tweet(emergencia,capacidad).
+aparece_tweet(emergencia,propiedad).
+aparece_tweet(emergencia,antecedentes).
+aparece_tweet(emergencia,recomendaciones).
+aparece_tweet(emergencia,causa).
+aparece_tweet(emergencia,sospecha).
+aparece_tweet(emergencia,infestacion).
+aparece_tweet(emergencia,imputacion).
+aparece_tweet(emergencia,serotipo).
+aparece_tweet(emergencia,comunidad).
+aparece_tweet(emergencia,combate).
+aparece_tweet(emergencia,muertes).
+aparece_tweet(emergencia,cifra).
+aparece_tweet(emergencia,sintomas).
+aparece_tweet(emergencia,medicamentos).
+aparece_tweet(emergencia,urgencias).
+aparece_tweet(emergencia,afectados).
+aparece_tweet(emergencia,gobierno).
+aparece_tweet(emergencia,cuidados).
+aparece_tweet(emergencia,promedio).
+aparece_tweet(emergencia,brote).
+aparece_tweet(emergencia,hospitalizaciones).
+aparece_tweet(emergencia,cuadro).
+aparece_tweet(emergencia,enfermedades).
+aparece_tweet(emergencia,recoleccion).
+aparece_tweet(emergencia,basuras).
+aparece_tweet(emergencia,riesgo).
+aparece_tweet(emergencia,lluvias).
+aparece_tweet(emergencia,concienciacion).
+aparece_tweet(emergencia,inaccion).
+aparece_tweet(emergencia,baldios).
+aparece_tweet(emergencia,crecimiento).
+aparece_tweet(emergencia,rio).
+aparece_tweet(emergencia,epoca).
+aparece_tweet(emergencia,plastico).
+aparece_tweet(emergencia,bolsitas).
+aparece_tweet(emergencia,inundaciones).
+aparece_tweet(terrenos,mosquito).
+aparece_tweet(terrenos,calles).
+aparece_tweet(terrenos,servicios).
+aparece_tweet(terrenos,aumento).
+aparece_tweet(terrenos,dr).
+aparece_tweet(terrenos,pacientes).
+aparece_tweet(terrenos,conciencia).
+aparece_tweet(terrenos,dispersion).
+aparece_tweet(terrenos,notifaciones).
+aparece_tweet(terrenos,epidemia).
+aparece_tweet(terrenos,funcionarios).
+aparece_tweet(terrenos,extincion).
+aparece_tweet(terrenos,barrio).
+aparece_tweet(terrenos,cuadra).
+aparece_tweet(terrenos,basura).
+aparece_tweet(terrenos,eliminacion).
+aparece_tweet(terrenos,instituciones).
+aparece_tweet(terrenos,trabajos).
+aparece_tweet(terrenos,rastrillaje).
+aparece_tweet(terrenos,autoridades).
+aparece_tweet(terrenos,institucion).
+aparece_tweet(terrenos,intendentes).
+aparece_tweet(terrenos,municipalidad).
+aparece_tweet(terrenos,acciones).
+aparece_tweet(terrenos,sanciones).
+aparece_tweet(terrenos,limpieza).
+aparece_tweet(terrenos,yuyales).
+aparece_tweet(terrenos,propagacion).
+aparece_tweet(terrenos,ministerio).
+aparece_tweet(terrenos,rebrote).
+aparece_tweet(terrenos,problema).
+aparece_tweet(terrenos,capacidad).
+aparece_tweet(terrenos,propiedad).
+aparece_tweet(terrenos,antecedentes).
+aparece_tweet(terrenos,recomendaciones).
+aparece_tweet(terrenos,causa).
+aparece_tweet(terrenos,sospecha).
+aparece_tweet(terrenos,infestacion).
+aparece_tweet(terrenos,imputacion).
+aparece_tweet(terrenos,serotipo).
+aparece_tweet(terrenos,comunidad).
+aparece_tweet(terrenos,combate).
+aparece_tweet(terrenos,muertes).
+aparece_tweet(terrenos,cifra).
+aparece_tweet(terrenos,sintomas).
+aparece_tweet(terrenos,medicamentos).
+aparece_tweet(terrenos,urgencias).
+aparece_tweet(terrenos,afectados).
+aparece_tweet(terrenos,gobierno).
+aparece_tweet(terrenos,cuidados).
+aparece_tweet(terrenos,promedio).
+aparece_tweet(terrenos,brote).
+aparece_tweet(terrenos,hospitalizaciones).
+aparece_tweet(terrenos,cuadro).
+aparece_tweet(terrenos,enfermedades).
+aparece_tweet(terrenos,recoleccion).
+aparece_tweet(terrenos,basuras).
+aparece_tweet(terrenos,riesgo).
+aparece_tweet(terrenos,lluvias).
+aparece_tweet(terrenos,concienciacion).
+aparece_tweet(terrenos,inaccion).
+aparece_tweet(terrenos,baldios).
+aparece_tweet(terrenos,crecimiento).
+aparece_tweet(terrenos,rio).
+aparece_tweet(terrenos,epoca).
+aparece_tweet(terrenos,plastico).
+aparece_tweet(terrenos,bolsitas).
+aparece_tweet(terrenos,inundaciones).
+aparece_tweet(mosquito,calles).
+aparece_tweet(mosquito,servicios).
+aparece_tweet(mosquito,aumento).
+aparece_tweet(mosquito,dr).
+aparece_tweet(mosquito,pacientes).
+aparece_tweet(mosquito,conciencia).
+aparece_tweet(mosquito,dispersion).
+aparece_tweet(mosquito,notifaciones).
+aparece_tweet(mosquito,epidemia).
+aparece_tweet(mosquito,funcionarios).
+aparece_tweet(mosquito,extincion).
+aparece_tweet(mosquito,barrio).
+aparece_tweet(mosquito,cuadra).
+aparece_tweet(mosquito,basura).
+aparece_tweet(mosquito,eliminacion).
+aparece_tweet(mosquito,instituciones).
+aparece_tweet(mosquito,trabajos).
+aparece_tweet(mosquito,rastrillaje).
+aparece_tweet(mosquito,autoridades).
+aparece_tweet(mosquito,institucion).
+aparece_tweet(mosquito,intendentes).
+aparece_tweet(mosquito,municipalidad).
+aparece_tweet(mosquito,acciones).
+aparece_tweet(mosquito,sanciones).
+aparece_tweet(mosquito,limpieza).
+aparece_tweet(mosquito,yuyales).
+aparece_tweet(mosquito,propagacion).
+aparece_tweet(mosquito,ministerio).
+aparece_tweet(mosquito,rebrote).
+aparece_tweet(mosquito,problema).
+aparece_tweet(mosquito,capacidad).
+aparece_tweet(mosquito,propiedad).
+aparece_tweet(mosquito,antecedentes).
+aparece_tweet(mosquito,recomendaciones).
+aparece_tweet(mosquito,causa).
+aparece_tweet(mosquito,sospecha).
+aparece_tweet(mosquito,infestacion).
+aparece_tweet(mosquito,imputacion).
+aparece_tweet(mosquito,serotipo).
+aparece_tweet(mosquito,comunidad).
+aparece_tweet(mosquito,combate).
+aparece_tweet(mosquito,muertes).
+aparece_tweet(mosquito,cifra).
+aparece_tweet(mosquito,sintomas).
+aparece_tweet(mosquito,medicamentos).
+aparece_tweet(mosquito,urgencias).
+aparece_tweet(mosquito,afectados).
+aparece_tweet(mosquito,gobierno).
+aparece_tweet(mosquito,cuidados).
+aparece_tweet(mosquito,promedio).
+aparece_tweet(mosquito,brote).
+aparece_tweet(mosquito,hospitalizaciones).
+aparece_tweet(mosquito,cuadro).
+aparece_tweet(mosquito,enfermedades).
+aparece_tweet(mosquito,recoleccion).
+aparece_tweet(mosquito,basuras).
+aparece_tweet(mosquito,riesgo).
+aparece_tweet(mosquito,lluvias).
+aparece_tweet(mosquito,concienciacion).
+aparece_tweet(mosquito,inaccion).
+aparece_tweet(mosquito,baldios).
+aparece_tweet(mosquito,crecimiento).
+aparece_tweet(mosquito,rio).
+aparece_tweet(mosquito,epoca).
+aparece_tweet(mosquito,plastico).
+aparece_tweet(mosquito,bolsitas).
+aparece_tweet(mosquito,inundaciones).
+aparece_tweet(calles,servicios).
+aparece_tweet(calles,aumento).
+aparece_tweet(calles,dr).
+aparece_tweet(calles,pacientes).
+aparece_tweet(calles,conciencia).
+aparece_tweet(calles,dispersion).
+aparece_tweet(calles,notifaciones).
+aparece_tweet(calles,epidemia).
+aparece_tweet(calles,funcionarios).
+aparece_tweet(calles,extincion).
+aparece_tweet(calles,barrio).
+aparece_tweet(calles,cuadra).
+aparece_tweet(calles,basura).
+aparece_tweet(calles,eliminacion).
+aparece_tweet(calles,instituciones).
+aparece_tweet(calles,trabajos).
+aparece_tweet(calles,rastrillaje).
+aparece_tweet(calles,autoridades).
+aparece_tweet(calles,institucion).
+aparece_tweet(calles,intendentes).
+aparece_tweet(calles,municipalidad).
+aparece_tweet(calles,acciones).
+aparece_tweet(calles,sanciones).
+aparece_tweet(calles,limpieza).
+aparece_tweet(calles,yuyales).
+aparece_tweet(calles,propagacion).
+aparece_tweet(calles,ministerio).
+aparece_tweet(calles,rebrote).
+aparece_tweet(calles,problema).
+aparece_tweet(calles,capacidad).
+aparece_tweet(calles,propiedad).
+aparece_tweet(calles,antecedentes).
+aparece_tweet(calles,recomendaciones).
+aparece_tweet(calles,causa).
+aparece_tweet(calles,sospecha).
+aparece_tweet(calles,infestacion).
+aparece_tweet(calles,imputacion).
+aparece_tweet(calles,serotipo).
+aparece_tweet(calles,comunidad).
+aparece_tweet(calles,combate).
+aparece_tweet(calles,muertes).
+aparece_tweet(calles,cifra).
+aparece_tweet(calles,sintomas).
+aparece_tweet(calles,medicamentos).
+aparece_tweet(calles,urgencias).
+aparece_tweet(calles,afectados).
+aparece_tweet(calles,gobierno).
+aparece_tweet(calles,cuidados).
+aparece_tweet(calles,promedio).
+aparece_tweet(calles,brote).
+aparece_tweet(calles,hospitalizaciones).
+aparece_tweet(calles,cuadro).
+aparece_tweet(calles,enfermedades).
+aparece_tweet(calles,recoleccion).
+aparece_tweet(calles,basuras).
+aparece_tweet(calles,riesgo).
+aparece_tweet(calles,lluvias).
+aparece_tweet(calles,concienciacion).
+aparece_tweet(calles,inaccion).
+aparece_tweet(calles,baldios).
+aparece_tweet(calles,crecimiento).
+aparece_tweet(calles,rio).
+aparece_tweet(calles,epoca).
+aparece_tweet(calles,plastico).
+aparece_tweet(calles,bolsitas).
+aparece_tweet(calles,inundaciones).
+aparece_tweet(servicios,aumento).
+aparece_tweet(servicios,dr).
+aparece_tweet(servicios,pacientes).
+aparece_tweet(servicios,conciencia).
+aparece_tweet(servicios,dispersion).
+aparece_tweet(servicios,notifaciones).
+aparece_tweet(servicios,epidemia).
+aparece_tweet(servicios,funcionarios).
+aparece_tweet(servicios,extincion).
+aparece_tweet(servicios,barrio).
+aparece_tweet(servicios,cuadra).
+aparece_tweet(servicios,basura).
+aparece_tweet(servicios,eliminacion).
+aparece_tweet(servicios,instituciones).
+aparece_tweet(servicios,trabajos).
+aparece_tweet(servicios,rastrillaje).
+aparece_tweet(servicios,autoridades).
+aparece_tweet(servicios,institucion).
+aparece_tweet(servicios,intendentes).
+aparece_tweet(servicios,municipalidad).
+aparece_tweet(servicios,acciones).
+aparece_tweet(servicios,sanciones).
+aparece_tweet(servicios,limpieza).
+aparece_tweet(servicios,yuyales).
+aparece_tweet(servicios,propagacion).
+aparece_tweet(servicios,ministerio).
+aparece_tweet(servicios,rebrote).
+aparece_tweet(servicios,problema).
+aparece_tweet(servicios,capacidad).
+aparece_tweet(servicios,propiedad).
+aparece_tweet(servicios,antecedentes).
+aparece_tweet(servicios,recomendaciones).
+aparece_tweet(servicios,causa).
+aparece_tweet(servicios,sospecha).
+aparece_tweet(servicios,infestacion).
+aparece_tweet(servicios,imputacion).
+aparece_tweet(servicios,serotipo).
+aparece_tweet(servicios,comunidad).
+aparece_tweet(servicios,combate).
+aparece_tweet(servicios,muertes).
+aparece_tweet(servicios,cifra).
+aparece_tweet(servicios,sintomas).
+aparece_tweet(servicios,medicamentos).
+aparece_tweet(servicios,urgencias).
+aparece_tweet(servicios,afectados).
+aparece_tweet(servicios,gobierno).
+aparece_tweet(servicios,cuidados).
+aparece_tweet(servicios,promedio).
+aparece_tweet(servicios,brote).
+aparece_tweet(servicios,hospitalizaciones).
+aparece_tweet(servicios,cuadro).
+aparece_tweet(servicios,enfermedades).
+aparece_tweet(servicios,recoleccion).
+aparece_tweet(servicios,basuras).
+aparece_tweet(servicios,riesgo).
+aparece_tweet(servicios,lluvias).
+aparece_tweet(servicios,concienciacion).
+aparece_tweet(servicios,inaccion).
+aparece_tweet(servicios,baldios).
+aparece_tweet(servicios,crecimiento).
+aparece_tweet(servicios,rio).
+aparece_tweet(servicios,epoca).
+aparece_tweet(servicios,plastico).
+aparece_tweet(servicios,bolsitas).
+aparece_tweet(servicios,inundaciones).
+aparece_tweet(aumento,dr).
+aparece_tweet(aumento,pacientes).
+aparece_tweet(aumento,conciencia).
+aparece_tweet(aumento,dispersion).
+aparece_tweet(aumento,notifaciones).
+aparece_tweet(aumento,epidemia).
+aparece_tweet(aumento,funcionarios).
+aparece_tweet(aumento,extincion).
+aparece_tweet(aumento,barrio).
+aparece_tweet(aumento,cuadra).
+aparece_tweet(aumento,basura).
+aparece_tweet(aumento,eliminacion).
+aparece_tweet(aumento,instituciones).
+aparece_tweet(aumento,trabajos).
+aparece_tweet(aumento,rastrillaje).
+aparece_tweet(aumento,autoridades).
+aparece_tweet(aumento,institucion).
+aparece_tweet(aumento,intendentes).
+aparece_tweet(aumento,municipalidad).
+aparece_tweet(aumento,acciones).
+aparece_tweet(aumento,sanciones).
+aparece_tweet(aumento,limpieza).
+aparece_tweet(aumento,yuyales).
+aparece_tweet(aumento,propagacion).
+aparece_tweet(aumento,ministerio).
+aparece_tweet(aumento,rebrote).
+aparece_tweet(aumento,problema).
+aparece_tweet(aumento,capacidad).
+aparece_tweet(aumento,propiedad).
+aparece_tweet(aumento,antecedentes).
+aparece_tweet(aumento,recomendaciones).
+aparece_tweet(aumento,causa).
+aparece_tweet(aumento,sospecha).
+aparece_tweet(aumento,infestacion).
+aparece_tweet(aumento,imputacion).
+aparece_tweet(aumento,serotipo).
+aparece_tweet(aumento,comunidad).
+aparece_tweet(aumento,combate).
+aparece_tweet(aumento,muertes).
+aparece_tweet(aumento,cifra).
+aparece_tweet(aumento,sintomas).
+aparece_tweet(aumento,medicamentos).
+aparece_tweet(aumento,urgencias).
+aparece_tweet(aumento,afectados).
+aparece_tweet(aumento,gobierno).
+aparece_tweet(aumento,cuidados).
+aparece_tweet(aumento,promedio).
+aparece_tweet(aumento,brote).
+aparece_tweet(aumento,hospitalizaciones).
+aparece_tweet(aumento,cuadro).
+aparece_tweet(aumento,enfermedades).
+aparece_tweet(aumento,recoleccion).
+aparece_tweet(aumento,basuras).
+aparece_tweet(aumento,riesgo).
+aparece_tweet(aumento,lluvias).
+aparece_tweet(aumento,concienciacion).
+aparece_tweet(aumento,inaccion).
+aparece_tweet(aumento,baldios).
+aparece_tweet(aumento,crecimiento).
+aparece_tweet(aumento,rio).
+aparece_tweet(aumento,epoca).
+aparece_tweet(aumento,plastico).
+aparece_tweet(aumento,bolsitas).
+aparece_tweet(aumento,inundaciones).
+aparece_tweet(dr,pacientes).
+aparece_tweet(dr,conciencia).
+aparece_tweet(dr,dispersion).
+aparece_tweet(dr,notifaciones).
+aparece_tweet(dr,epidemia).
+aparece_tweet(dr,funcionarios).
+aparece_tweet(dr,extincion).
+aparece_tweet(dr,barrio).
+aparece_tweet(dr,cuadra).
+aparece_tweet(dr,basura).
+aparece_tweet(dr,eliminacion).
+aparece_tweet(dr,instituciones).
+aparece_tweet(dr,trabajos).
+aparece_tweet(dr,rastrillaje).
+aparece_tweet(dr,autoridades).
+aparece_tweet(dr,institucion).
+aparece_tweet(dr,intendentes).
+aparece_tweet(dr,municipalidad).
+aparece_tweet(dr,acciones).
+aparece_tweet(dr,sanciones).
+aparece_tweet(dr,limpieza).
+aparece_tweet(dr,yuyales).
+aparece_tweet(dr,propagacion).
+aparece_tweet(dr,ministerio).
+aparece_tweet(dr,rebrote).
+aparece_tweet(dr,problema).
+aparece_tweet(dr,capacidad).
+aparece_tweet(dr,propiedad).
+aparece_tweet(dr,antecedentes).
+aparece_tweet(dr,recomendaciones).
+aparece_tweet(dr,causa).
+aparece_tweet(dr,sospecha).
+aparece_tweet(dr,infestacion).
+aparece_tweet(dr,imputacion).
+aparece_tweet(dr,serotipo).
+aparece_tweet(dr,comunidad).
+aparece_tweet(dr,combate).
+aparece_tweet(dr,muertes).
+aparece_tweet(dr,cifra).
+aparece_tweet(dr,sintomas).
+aparece_tweet(dr,medicamentos).
+aparece_tweet(dr,urgencias).
+aparece_tweet(dr,afectados).
+aparece_tweet(dr,gobierno).
+aparece_tweet(dr,cuidados).
+aparece_tweet(dr,promedio).
+aparece_tweet(dr,brote).
+aparece_tweet(dr,hospitalizaciones).
+aparece_tweet(dr,cuadro).
+aparece_tweet(dr,enfermedades).
+aparece_tweet(dr,recoleccion).
+aparece_tweet(dr,basuras).
+aparece_tweet(dr,riesgo).
+aparece_tweet(dr,lluvias).
+aparece_tweet(dr,concienciacion).
+aparece_tweet(dr,inaccion).
+aparece_tweet(dr,baldios).
+aparece_tweet(dr,crecimiento).
+aparece_tweet(dr,rio).
+aparece_tweet(dr,epoca).
+aparece_tweet(dr,plastico).
+aparece_tweet(dr,bolsitas).
+aparece_tweet(dr,inundaciones).
+aparece_tweet(pacientes,conciencia).
+aparece_tweet(pacientes,dispersion).
+aparece_tweet(pacientes,notifaciones).
+aparece_tweet(pacientes,epidemia).
+aparece_tweet(pacientes,funcionarios).
+aparece_tweet(pacientes,extincion).
+aparece_tweet(pacientes,barrio).
+aparece_tweet(pacientes,cuadra).
+aparece_tweet(pacientes,basura).
+aparece_tweet(pacientes,eliminacion).
+aparece_tweet(pacientes,instituciones).
+aparece_tweet(pacientes,trabajos).
+aparece_tweet(pacientes,rastrillaje).
+aparece_tweet(pacientes,autoridades).
+aparece_tweet(pacientes,institucion).
+aparece_tweet(pacientes,intendentes).
+aparece_tweet(pacientes,municipalidad).
+aparece_tweet(pacientes,acciones).
+aparece_tweet(pacientes,sanciones).
+aparece_tweet(pacientes,limpieza).
+aparece_tweet(pacientes,yuyales).
+aparece_tweet(pacientes,propagacion).
+aparece_tweet(pacientes,ministerio).
+aparece_tweet(pacientes,rebrote).
+aparece_tweet(pacientes,problema).
+aparece_tweet(pacientes,capacidad).
+aparece_tweet(pacientes,propiedad).
+aparece_tweet(pacientes,antecedentes).
+aparece_tweet(pacientes,recomendaciones).
+aparece_tweet(pacientes,causa).
+aparece_tweet(pacientes,sospecha).
+aparece_tweet(pacientes,infestacion).
+aparece_tweet(pacientes,imputacion).
+aparece_tweet(pacientes,serotipo).
+aparece_tweet(pacientes,comunidad).
+aparece_tweet(pacientes,combate).
+aparece_tweet(pacientes,muertes).
+aparece_tweet(pacientes,cifra).
+aparece_tweet(pacientes,sintomas).
+aparece_tweet(pacientes,medicamentos).
+aparece_tweet(pacientes,urgencias).
+aparece_tweet(pacientes,afectados).
+aparece_tweet(pacientes,gobierno).
+aparece_tweet(pacientes,cuidados).
+aparece_tweet(pacientes,promedio).
+aparece_tweet(pacientes,brote).
+aparece_tweet(pacientes,hospitalizaciones).
+aparece_tweet(pacientes,cuadro).
+aparece_tweet(pacientes,enfermedades).
+aparece_tweet(pacientes,recoleccion).
+aparece_tweet(pacientes,basuras).
+aparece_tweet(pacientes,riesgo).
+aparece_tweet(pacientes,lluvias).
+aparece_tweet(pacientes,concienciacion).
+aparece_tweet(pacientes,inaccion).
+aparece_tweet(pacientes,baldios).
+aparece_tweet(pacientes,crecimiento).
+aparece_tweet(pacientes,rio).
+aparece_tweet(pacientes,epoca).
+aparece_tweet(pacientes,plastico).
+aparece_tweet(pacientes,bolsitas).
+aparece_tweet(pacientes,inundaciones).
+aparece_tweet(conciencia,dispersion).
+aparece_tweet(conciencia,notifaciones).
+aparece_tweet(conciencia,epidemia).
+aparece_tweet(conciencia,funcionarios).
+aparece_tweet(conciencia,extincion).
+aparece_tweet(conciencia,barrio).
+aparece_tweet(conciencia,cuadra).
+aparece_tweet(conciencia,basura).
+aparece_tweet(conciencia,eliminacion).
+aparece_tweet(conciencia,instituciones).
+aparece_tweet(conciencia,trabajos).
+aparece_tweet(conciencia,rastrillaje).
+aparece_tweet(conciencia,autoridades).
+aparece_tweet(conciencia,institucion).
+aparece_tweet(conciencia,intendentes).
+aparece_tweet(conciencia,municipalidad).
+aparece_tweet(conciencia,acciones).
+aparece_tweet(conciencia,sanciones).
+aparece_tweet(conciencia,limpieza).
+aparece_tweet(conciencia,yuyales).
+aparece_tweet(conciencia,propagacion).
+aparece_tweet(conciencia,ministerio).
+aparece_tweet(conciencia,rebrote).
+aparece_tweet(conciencia,problema).
+aparece_tweet(conciencia,capacidad).
+aparece_tweet(conciencia,propiedad).
+aparece_tweet(conciencia,antecedentes).
+aparece_tweet(conciencia,recomendaciones).
+aparece_tweet(conciencia,causa).
+aparece_tweet(conciencia,sospecha).
+aparece_tweet(conciencia,infestacion).
+aparece_tweet(conciencia,imputacion).
+aparece_tweet(conciencia,serotipo).
+aparece_tweet(conciencia,comunidad).
+aparece_tweet(conciencia,combate).
+aparece_tweet(conciencia,muertes).
+aparece_tweet(conciencia,cifra).
+aparece_tweet(conciencia,sintomas).
+aparece_tweet(conciencia,medicamentos).
+aparece_tweet(conciencia,urgencias).
+aparece_tweet(conciencia,afectados).
+aparece_tweet(conciencia,gobierno).
+aparece_tweet(conciencia,cuidados).
+aparece_tweet(conciencia,promedio).
+aparece_tweet(conciencia,brote).
+aparece_tweet(conciencia,hospitalizaciones).
+aparece_tweet(conciencia,cuadro).
+aparece_tweet(conciencia,enfermedades).
+aparece_tweet(conciencia,recoleccion).
+aparece_tweet(conciencia,basuras).
+aparece_tweet(conciencia,riesgo).
+aparece_tweet(conciencia,lluvias).
+aparece_tweet(conciencia,concienciacion).
+aparece_tweet(conciencia,inaccion).
+aparece_tweet(conciencia,baldios).
+aparece_tweet(conciencia,crecimiento).
+aparece_tweet(conciencia,rio).
+aparece_tweet(conciencia,epoca).
+aparece_tweet(conciencia,plastico).
+aparece_tweet(conciencia,bolsitas).
+aparece_tweet(conciencia,inundaciones).
+aparece_tweet(dispersion,notifaciones).
+aparece_tweet(dispersion,epidemia).
+aparece_tweet(dispersion,funcionarios).
+aparece_tweet(dispersion,extincion).
+aparece_tweet(dispersion,barrio).
+aparece_tweet(dispersion,cuadra).
+aparece_tweet(dispersion,basura).
+aparece_tweet(dispersion,eliminacion).
+aparece_tweet(dispersion,instituciones).
+aparece_tweet(dispersion,trabajos).
+aparece_tweet(dispersion,rastrillaje).
+aparece_tweet(dispersion,autoridades).
+aparece_tweet(dispersion,institucion).
+aparece_tweet(dispersion,intendentes).
+aparece_tweet(dispersion,municipalidad).
+aparece_tweet(dispersion,acciones).
+aparece_tweet(dispersion,sanciones).
+aparece_tweet(dispersion,limpieza).
+aparece_tweet(dispersion,yuyales).
+aparece_tweet(dispersion,propagacion).
+aparece_tweet(dispersion,ministerio).
+aparece_tweet(dispersion,rebrote).
+aparece_tweet(dispersion,problema).
+aparece_tweet(dispersion,capacidad).
+aparece_tweet(dispersion,propiedad).
+aparece_tweet(dispersion,antecedentes).
+aparece_tweet(dispersion,recomendaciones).
+aparece_tweet(dispersion,causa).
+aparece_tweet(dispersion,sospecha).
+aparece_tweet(dispersion,infestacion).
+aparece_tweet(dispersion,imputacion).
+aparece_tweet(dispersion,serotipo).
+aparece_tweet(dispersion,comunidad).
+aparece_tweet(dispersion,combate).
+aparece_tweet(dispersion,muertes).
+aparece_tweet(dispersion,cifra).
+aparece_tweet(dispersion,sintomas).
+aparece_tweet(dispersion,medicamentos).
+aparece_tweet(dispersion,urgencias).
+aparece_tweet(dispersion,afectados).
+aparece_tweet(dispersion,gobierno).
+aparece_tweet(dispersion,cuidados).
+aparece_tweet(dispersion,promedio).
+aparece_tweet(dispersion,brote).
+aparece_tweet(dispersion,hospitalizaciones).
+aparece_tweet(dispersion,cuadro).
+aparece_tweet(dispersion,enfermedades).
+aparece_tweet(dispersion,recoleccion).
+aparece_tweet(dispersion,basuras).
+aparece_tweet(dispersion,riesgo).
+aparece_tweet(dispersion,lluvias).
+aparece_tweet(dispersion,concienciacion).
+aparece_tweet(dispersion,inaccion).
+aparece_tweet(dispersion,baldios).
+aparece_tweet(dispersion,crecimiento).
+aparece_tweet(dispersion,rio).
+aparece_tweet(dispersion,epoca).
+aparece_tweet(dispersion,plastico).
+aparece_tweet(dispersion,bolsitas).
+aparece_tweet(dispersion,inundaciones).
+aparece_tweet(notifaciones,epidemia).
+aparece_tweet(notifaciones,funcionarios).
+aparece_tweet(notifaciones,extincion).
+aparece_tweet(notifaciones,barrio).
+aparece_tweet(notifaciones,cuadra).
+aparece_tweet(notifaciones,basura).
+aparece_tweet(notifaciones,eliminacion).
+aparece_tweet(notifaciones,instituciones).
+aparece_tweet(notifaciones,trabajos).
+aparece_tweet(notifaciones,rastrillaje).
+aparece_tweet(notifaciones,autoridades).
+aparece_tweet(notifaciones,institucion).
+aparece_tweet(notifaciones,intendentes).
+aparece_tweet(notifaciones,municipalidad).
+aparece_tweet(notifaciones,acciones).
+aparece_tweet(notifaciones,sanciones).
+aparece_tweet(notifaciones,limpieza).
+aparece_tweet(notifaciones,yuyales).
+aparece_tweet(notifaciones,propagacion).
+aparece_tweet(notifaciones,ministerio).
+aparece_tweet(notifaciones,rebrote).
+aparece_tweet(notifaciones,problema).
+aparece_tweet(notifaciones,capacidad).
+aparece_tweet(notifaciones,propiedad).
+aparece_tweet(notifaciones,antecedentes).
+aparece_tweet(notifaciones,recomendaciones).
+aparece_tweet(notifaciones,causa).
+aparece_tweet(notifaciones,sospecha).
+aparece_tweet(notifaciones,infestacion).
+aparece_tweet(notifaciones,imputacion).
+aparece_tweet(notifaciones,serotipo).
+aparece_tweet(notifaciones,comunidad).
+aparece_tweet(notifaciones,combate).
+aparece_tweet(notifaciones,muertes).
+aparece_tweet(notifaciones,cifra).
+aparece_tweet(notifaciones,sintomas).
+aparece_tweet(notifaciones,medicamentos).
+aparece_tweet(notifaciones,urgencias).
+aparece_tweet(notifaciones,afectados).
+aparece_tweet(notifaciones,gobierno).
+aparece_tweet(notifaciones,cuidados).
+aparece_tweet(notifaciones,promedio).
+aparece_tweet(notifaciones,brote).
+aparece_tweet(notifaciones,hospitalizaciones).
+aparece_tweet(notifaciones,cuadro).
+aparece_tweet(notifaciones,enfermedades).
+aparece_tweet(notifaciones,recoleccion).
+aparece_tweet(notifaciones,basuras).
+aparece_tweet(notifaciones,riesgo).
+aparece_tweet(notifaciones,lluvias).
+aparece_tweet(notifaciones,concienciacion).
+aparece_tweet(notifaciones,inaccion).
+aparece_tweet(notifaciones,baldios).
+aparece_tweet(notifaciones,crecimiento).
+aparece_tweet(notifaciones,rio).
+aparece_tweet(notifaciones,epoca).
+aparece_tweet(notifaciones,plastico).
+aparece_tweet(notifaciones,bolsitas).
+aparece_tweet(notifaciones,inundaciones).
+aparece_tweet(epidemia,funcionarios).
+aparece_tweet(epidemia,extincion).
+aparece_tweet(epidemia,barrio).
+aparece_tweet(epidemia,cuadra).
+aparece_tweet(epidemia,basura).
+aparece_tweet(epidemia,eliminacion).
+aparece_tweet(epidemia,instituciones).
+aparece_tweet(epidemia,trabajos).
+aparece_tweet(epidemia,rastrillaje).
+aparece_tweet(epidemia,autoridades).
+aparece_tweet(epidemia,institucion).
+aparece_tweet(epidemia,intendentes).
+aparece_tweet(epidemia,municipalidad).
+aparece_tweet(epidemia,acciones).
+aparece_tweet(epidemia,sanciones).
+aparece_tweet(epidemia,limpieza).
+aparece_tweet(epidemia,yuyales).
+aparece_tweet(epidemia,propagacion).
+aparece_tweet(epidemia,ministerio).
+aparece_tweet(epidemia,rebrote).
+aparece_tweet(epidemia,problema).
+aparece_tweet(epidemia,capacidad).
+aparece_tweet(epidemia,propiedad).
+aparece_tweet(epidemia,antecedentes).
+aparece_tweet(epidemia,recomendaciones).
+aparece_tweet(epidemia,causa).
+aparece_tweet(epidemia,sospecha).
+aparece_tweet(epidemia,infestacion).
+aparece_tweet(epidemia,imputacion).
+aparece_tweet(epidemia,serotipo).
+aparece_tweet(epidemia,comunidad).
+aparece_tweet(epidemia,combate).
+aparece_tweet(epidemia,muertes).
+aparece_tweet(epidemia,cifra).
+aparece_tweet(epidemia,sintomas).
+aparece_tweet(epidemia,medicamentos).
+aparece_tweet(epidemia,urgencias).
+aparece_tweet(epidemia,afectados).
+aparece_tweet(epidemia,gobierno).
+aparece_tweet(epidemia,cuidados).
+aparece_tweet(epidemia,promedio).
+aparece_tweet(epidemia,brote).
+aparece_tweet(epidemia,hospitalizaciones).
+aparece_tweet(epidemia,cuadro).
+aparece_tweet(epidemia,enfermedades).
+aparece_tweet(epidemia,recoleccion).
+aparece_tweet(epidemia,basuras).
+aparece_tweet(epidemia,riesgo).
+aparece_tweet(epidemia,lluvias).
+aparece_tweet(epidemia,concienciacion).
+aparece_tweet(epidemia,inaccion).
+aparece_tweet(epidemia,baldios).
+aparece_tweet(epidemia,crecimiento).
+aparece_tweet(epidemia,rio).
+aparece_tweet(epidemia,epoca).
+aparece_tweet(epidemia,plastico).
+aparece_tweet(epidemia,bolsitas).
+aparece_tweet(epidemia,inundaciones).
+aparece_tweet(funcionarios,extincion).
+aparece_tweet(funcionarios,barrio).
+aparece_tweet(funcionarios,cuadra).
+aparece_tweet(funcionarios,basura).
+aparece_tweet(funcionarios,eliminacion).
+aparece_tweet(funcionarios,instituciones).
+aparece_tweet(funcionarios,trabajos).
+aparece_tweet(funcionarios,rastrillaje).
+aparece_tweet(funcionarios,autoridades).
+aparece_tweet(funcionarios,institucion).
+aparece_tweet(funcionarios,intendentes).
+aparece_tweet(funcionarios,municipalidad).
+aparece_tweet(funcionarios,acciones).
+aparece_tweet(funcionarios,sanciones).
+aparece_tweet(funcionarios,limpieza).
+aparece_tweet(funcionarios,yuyales).
+aparece_tweet(funcionarios,propagacion).
+aparece_tweet(funcionarios,ministerio).
+aparece_tweet(funcionarios,rebrote).
+aparece_tweet(funcionarios,problema).
+aparece_tweet(funcionarios,capacidad).
+aparece_tweet(funcionarios,propiedad).
+aparece_tweet(funcionarios,antecedentes).
+aparece_tweet(funcionarios,recomendaciones).
+aparece_tweet(funcionarios,causa).
+aparece_tweet(funcionarios,sospecha).
+aparece_tweet(funcionarios,infestacion).
+aparece_tweet(funcionarios,imputacion).
+aparece_tweet(funcionarios,serotipo).
+aparece_tweet(funcionarios,comunidad).
+aparece_tweet(funcionarios,combate).
+aparece_tweet(funcionarios,muertes).
+aparece_tweet(funcionarios,cifra).
+aparece_tweet(funcionarios,sintomas).
+aparece_tweet(funcionarios,medicamentos).
+aparece_tweet(funcionarios,urgencias).
+aparece_tweet(funcionarios,afectados).
+aparece_tweet(funcionarios,gobierno).
+aparece_tweet(funcionarios,cuidados).
+aparece_tweet(funcionarios,promedio).
+aparece_tweet(funcionarios,brote).
+aparece_tweet(funcionarios,hospitalizaciones).
+aparece_tweet(funcionarios,cuadro).
+aparece_tweet(funcionarios,enfermedades).
+aparece_tweet(funcionarios,recoleccion).
+aparece_tweet(funcionarios,basuras).
+aparece_tweet(funcionarios,riesgo).
+aparece_tweet(funcionarios,lluvias).
+aparece_tweet(funcionarios,concienciacion).
+aparece_tweet(funcionarios,inaccion).
+aparece_tweet(funcionarios,baldios).
+aparece_tweet(funcionarios,crecimiento).
+aparece_tweet(funcionarios,rio).
+aparece_tweet(funcionarios,epoca).
+aparece_tweet(funcionarios,plastico).
+aparece_tweet(funcionarios,bolsitas).
+aparece_tweet(funcionarios,inundaciones).
+aparece_tweet(extincion,barrio).
+aparece_tweet(extincion,cuadra).
+aparece_tweet(extincion,basura).
+aparece_tweet(extincion,eliminacion).
+aparece_tweet(extincion,instituciones).
+aparece_tweet(extincion,trabajos).
+aparece_tweet(extincion,rastrillaje).
+aparece_tweet(extincion,autoridades).
+aparece_tweet(extincion,institucion).
+aparece_tweet(extincion,intendentes).
+aparece_tweet(extincion,municipalidad).
+aparece_tweet(extincion,acciones).
+aparece_tweet(extincion,sanciones).
+aparece_tweet(extincion,limpieza).
+aparece_tweet(extincion,yuyales).
+aparece_tweet(extincion,propagacion).
+aparece_tweet(extincion,ministerio).
+aparece_tweet(extincion,rebrote).
+aparece_tweet(extincion,problema).
+aparece_tweet(extincion,capacidad).
+aparece_tweet(extincion,propiedad).
+aparece_tweet(extincion,antecedentes).
+aparece_tweet(extincion,recomendaciones).
+aparece_tweet(extincion,causa).
+aparece_tweet(extincion,sospecha).
+aparece_tweet(extincion,infestacion).
+aparece_tweet(extincion,imputacion).
+aparece_tweet(extincion,serotipo).
+aparece_tweet(extincion,comunidad).
+aparece_tweet(extincion,combate).
+aparece_tweet(extincion,muertes).
+aparece_tweet(extincion,cifra).
+aparece_tweet(extincion,sintomas).
+aparece_tweet(extincion,medicamentos).
+aparece_tweet(extincion,urgencias).
+aparece_tweet(extincion,afectados).
+aparece_tweet(extincion,gobierno).
+aparece_tweet(extincion,cuidados).
+aparece_tweet(extincion,promedio).
+aparece_tweet(extincion,brote).
+aparece_tweet(extincion,hospitalizaciones).
+aparece_tweet(extincion,cuadro).
+aparece_tweet(extincion,enfermedades).
+aparece_tweet(extincion,recoleccion).
+aparece_tweet(extincion,basuras).
+aparece_tweet(extincion,riesgo).
+aparece_tweet(extincion,lluvias).
+aparece_tweet(extincion,concienciacion).
+aparece_tweet(extincion,inaccion).
+aparece_tweet(extincion,baldios).
+aparece_tweet(extincion,crecimiento).
+aparece_tweet(extincion,rio).
+aparece_tweet(extincion,epoca).
+aparece_tweet(extincion,plastico).
+aparece_tweet(extincion,bolsitas).
+aparece_tweet(extincion,inundaciones).
+aparece_tweet(barrio,cuadra).
+aparece_tweet(barrio,basura).
+aparece_tweet(barrio,eliminacion).
+aparece_tweet(barrio,instituciones).
+aparece_tweet(barrio,trabajos).
+aparece_tweet(barrio,rastrillaje).
+aparece_tweet(barrio,autoridades).
+aparece_tweet(barrio,institucion).
+aparece_tweet(barrio,intendentes).
+aparece_tweet(barrio,municipalidad).
+aparece_tweet(barrio,acciones).
+aparece_tweet(barrio,sanciones).
+aparece_tweet(barrio,limpieza).
+aparece_tweet(barrio,yuyales).
+aparece_tweet(barrio,propagacion).
+aparece_tweet(barrio,ministerio).
+aparece_tweet(barrio,rebrote).
+aparece_tweet(barrio,problema).
+aparece_tweet(barrio,capacidad).
+aparece_tweet(barrio,propiedad).
+aparece_tweet(barrio,antecedentes).
+aparece_tweet(barrio,recomendaciones).
+aparece_tweet(barrio,causa).
+aparece_tweet(barrio,sospecha).
+aparece_tweet(barrio,infestacion).
+aparece_tweet(barrio,imputacion).
+aparece_tweet(barrio,serotipo).
+aparece_tweet(barrio,comunidad).
+aparece_tweet(barrio,combate).
+aparece_tweet(barrio,muertes).
+aparece_tweet(barrio,cifra).
+aparece_tweet(barrio,sintomas).
+aparece_tweet(barrio,medicamentos).
+aparece_tweet(barrio,urgencias).
+aparece_tweet(barrio,afectados).
+aparece_tweet(barrio,gobierno).
+aparece_tweet(barrio,cuidados).
+aparece_tweet(barrio,promedio).
+aparece_tweet(barrio,brote).
+aparece_tweet(barrio,hospitalizaciones).
+aparece_tweet(barrio,cuadro).
+aparece_tweet(barrio,enfermedades).
+aparece_tweet(barrio,recoleccion).
+aparece_tweet(barrio,basuras).
+aparece_tweet(barrio,riesgo).
+aparece_tweet(barrio,lluvias).
+aparece_tweet(barrio,concienciacion).
+aparece_tweet(barrio,inaccion).
+aparece_tweet(barrio,baldios).
+aparece_tweet(barrio,crecimiento).
+aparece_tweet(barrio,rio).
+aparece_tweet(barrio,epoca).
+aparece_tweet(barrio,plastico).
+aparece_tweet(barrio,bolsitas).
+aparece_tweet(barrio,inundaciones).
+aparece_tweet(cuadra,basura).
+aparece_tweet(cuadra,eliminacion).
+aparece_tweet(cuadra,instituciones).
+aparece_tweet(cuadra,trabajos).
+aparece_tweet(cuadra,rastrillaje).
+aparece_tweet(cuadra,autoridades).
+aparece_tweet(cuadra,institucion).
+aparece_tweet(cuadra,intendentes).
+aparece_tweet(cuadra,municipalidad).
+aparece_tweet(cuadra,acciones).
+aparece_tweet(cuadra,sanciones).
+aparece_tweet(cuadra,limpieza).
+aparece_tweet(cuadra,yuyales).
+aparece_tweet(cuadra,propagacion).
+aparece_tweet(cuadra,ministerio).
+aparece_tweet(cuadra,rebrote).
+aparece_tweet(cuadra,problema).
+aparece_tweet(cuadra,capacidad).
+aparece_tweet(cuadra,propiedad).
+aparece_tweet(cuadra,antecedentes).
+aparece_tweet(cuadra,recomendaciones).
+aparece_tweet(cuadra,causa).
+aparece_tweet(cuadra,sospecha).
+aparece_tweet(cuadra,infestacion).
+aparece_tweet(cuadra,imputacion).
+aparece_tweet(cuadra,serotipo).
+aparece_tweet(cuadra,comunidad).
+aparece_tweet(cuadra,combate).
+aparece_tweet(cuadra,muertes).
+aparece_tweet(cuadra,cifra).
+aparece_tweet(cuadra,sintomas).
+aparece_tweet(cuadra,medicamentos).
+aparece_tweet(cuadra,urgencias).
+aparece_tweet(cuadra,afectados).
+aparece_tweet(cuadra,gobierno).
+aparece_tweet(cuadra,cuidados).
+aparece_tweet(cuadra,promedio).
+aparece_tweet(cuadra,brote).
+aparece_tweet(cuadra,hospitalizaciones).
+aparece_tweet(cuadra,cuadro).
+aparece_tweet(cuadra,enfermedades).
+aparece_tweet(cuadra,recoleccion).
+aparece_tweet(cuadra,basuras).
+aparece_tweet(cuadra,riesgo).
+aparece_tweet(cuadra,lluvias).
+aparece_tweet(cuadra,concienciacion).
+aparece_tweet(cuadra,inaccion).
+aparece_tweet(cuadra,baldios).
+aparece_tweet(cuadra,crecimiento).
+aparece_tweet(cuadra,rio).
+aparece_tweet(cuadra,epoca).
+aparece_tweet(cuadra,plastico).
+aparece_tweet(cuadra,bolsitas).
+aparece_tweet(cuadra,inundaciones).
+aparece_tweet(basura,eliminacion).
+aparece_tweet(basura,instituciones).
+aparece_tweet(basura,trabajos).
+aparece_tweet(basura,rastrillaje).
+aparece_tweet(basura,autoridades).
+aparece_tweet(basura,institucion).
+aparece_tweet(basura,intendentes).
+aparece_tweet(basura,municipalidad).
+aparece_tweet(basura,acciones).
+aparece_tweet(basura,sanciones).
+aparece_tweet(basura,limpieza).
+aparece_tweet(basura,yuyales).
+aparece_tweet(basura,propagacion).
+aparece_tweet(basura,ministerio).
+aparece_tweet(basura,rebrote).
+aparece_tweet(basura,problema).
+aparece_tweet(basura,capacidad).
+aparece_tweet(basura,propiedad).
+aparece_tweet(basura,antecedentes).
+aparece_tweet(basura,recomendaciones).
+aparece_tweet(basura,causa).
+aparece_tweet(basura,sospecha).
+aparece_tweet(basura,infestacion).
+aparece_tweet(basura,imputacion).
+aparece_tweet(basura,serotipo).
+aparece_tweet(basura,comunidad).
+aparece_tweet(basura,combate).
+aparece_tweet(basura,muertes).
+aparece_tweet(basura,cifra).
+aparece_tweet(basura,sintomas).
+aparece_tweet(basura,medicamentos).
+aparece_tweet(basura,urgencias).
+aparece_tweet(basura,afectados).
+aparece_tweet(basura,gobierno).
+aparece_tweet(basura,cuidados).
+aparece_tweet(basura,promedio).
+aparece_tweet(basura,brote).
+aparece_tweet(basura,hospitalizaciones).
+aparece_tweet(basura,cuadro).
+aparece_tweet(basura,enfermedades).
+aparece_tweet(basura,recoleccion).
+aparece_tweet(basura,basuras).
+aparece_tweet(basura,riesgo).
+aparece_tweet(basura,lluvias).
+aparece_tweet(basura,concienciacion).
+aparece_tweet(basura,inaccion).
+aparece_tweet(basura,baldios).
+aparece_tweet(basura,crecimiento).
+aparece_tweet(basura,rio).
+aparece_tweet(basura,epoca).
+aparece_tweet(basura,plastico).
+aparece_tweet(basura,bolsitas).
+aparece_tweet(basura,inundaciones).
+aparece_tweet(eliminacion,instituciones).
+aparece_tweet(eliminacion,trabajos).
+aparece_tweet(eliminacion,rastrillaje).
+aparece_tweet(eliminacion,autoridades).
+aparece_tweet(eliminacion,institucion).
+aparece_tweet(eliminacion,intendentes).
+aparece_tweet(eliminacion,municipalidad).
+aparece_tweet(eliminacion,acciones).
+aparece_tweet(eliminacion,sanciones).
+aparece_tweet(eliminacion,limpieza).
+aparece_tweet(eliminacion,yuyales).
+aparece_tweet(eliminacion,propagacion).
+aparece_tweet(eliminacion,ministerio).
+aparece_tweet(eliminacion,rebrote).
+aparece_tweet(eliminacion,problema).
+aparece_tweet(eliminacion,capacidad).
+aparece_tweet(eliminacion,propiedad).
+aparece_tweet(eliminacion,antecedentes).
+aparece_tweet(eliminacion,recomendaciones).
+aparece_tweet(eliminacion,causa).
+aparece_tweet(eliminacion,sospecha).
+aparece_tweet(eliminacion,infestacion).
+aparece_tweet(eliminacion,imputacion).
+aparece_tweet(eliminacion,serotipo).
+aparece_tweet(eliminacion,comunidad).
+aparece_tweet(eliminacion,combate).
+aparece_tweet(eliminacion,muertes).
+aparece_tweet(eliminacion,cifra).
+aparece_tweet(eliminacion,sintomas).
+aparece_tweet(eliminacion,medicamentos).
+aparece_tweet(eliminacion,urgencias).
+aparece_tweet(eliminacion,afectados).
+aparece_tweet(eliminacion,gobierno).
+aparece_tweet(eliminacion,cuidados).
+aparece_tweet(eliminacion,promedio).
+aparece_tweet(eliminacion,brote).
+aparece_tweet(eliminacion,hospitalizaciones).
+aparece_tweet(eliminacion,cuadro).
+aparece_tweet(eliminacion,enfermedades).
+aparece_tweet(eliminacion,recoleccion).
+aparece_tweet(eliminacion,basuras).
+aparece_tweet(eliminacion,riesgo).
+aparece_tweet(eliminacion,lluvias).
+aparece_tweet(eliminacion,concienciacion).
+aparece_tweet(eliminacion,inaccion).
+aparece_tweet(eliminacion,baldios).
+aparece_tweet(eliminacion,crecimiento).
+aparece_tweet(eliminacion,rio).
+aparece_tweet(eliminacion,epoca).
+aparece_tweet(eliminacion,plastico).
+aparece_tweet(eliminacion,bolsitas).
+aparece_tweet(eliminacion,inundaciones).
+aparece_tweet(instituciones,trabajos).
+aparece_tweet(instituciones,rastrillaje).
+aparece_tweet(instituciones,autoridades).
+aparece_tweet(instituciones,institucion).
+aparece_tweet(instituciones,intendentes).
+aparece_tweet(instituciones,municipalidad).
+aparece_tweet(instituciones,acciones).
+aparece_tweet(instituciones,sanciones).
+aparece_tweet(instituciones,limpieza).
+aparece_tweet(instituciones,yuyales).
+aparece_tweet(instituciones,propagacion).
+aparece_tweet(instituciones,ministerio).
+aparece_tweet(instituciones,rebrote).
+aparece_tweet(instituciones,problema).
+aparece_tweet(vector,municipalidad).
+aparece_tweet(instituciones,propiedad).
+aparece_tweet(instituciones,antecedentes).
+aparece_tweet(instituciones,recomendaciones).
+aparece_tweet(instituciones,causa).
+aparece_tweet(instituciones,sospecha).
+aparece_tweet(instituciones,infestacion).
+aparece_tweet(instituciones,imputacion).
+aparece_tweet(instituciones,serotipo).
+aparece_tweet(instituciones,comunidad).
+aparece_tweet(instituciones,combate).
+aparece_tweet(instituciones,muertes).
+aparece_tweet(instituciones,cifra).
+aparece_tweet(instituciones,sintomas).
+aparece_tweet(instituciones,medicamentos).
+aparece_tweet(instituciones,urgencias).
+aparece_tweet(instituciones,afectados).
+aparece_tweet(instituciones,gobierno).
+aparece_tweet(instituciones,cuidados).
+aparece_tweet(instituciones,promedio).
+aparece_tweet(instituciones,brote).
+aparece_tweet(instituciones,hospitalizaciones).
+aparece_tweet(instituciones,cuadro).
+aparece_tweet(instituciones,enfermedades).
+aparece_tweet(instituciones,recoleccion).
+aparece_tweet(instituciones,basuras).
+aparece_tweet(instituciones,riesgo).
+aparece_tweet(instituciones,lluvias).
+aparece_tweet(instituciones,concienciacion).
+aparece_tweet(instituciones,inaccion).
+aparece_tweet(instituciones,baldios).
+aparece_tweet(instituciones,crecimiento).
+aparece_tweet(instituciones,rio).
+aparece_tweet(instituciones,epoca).
+aparece_tweet(instituciones,plastico).
+aparece_tweet(instituciones,bolsitas).
+aparece_tweet(instituciones,inundaciones).
+aparece_tweet(trabajos,rastrillaje).
+aparece_tweet(trabajos,autoridades).
+aparece_tweet(trabajos,institucion).
+aparece_tweet(trabajos,intendentes).
+aparece_tweet(trabajos,municipalidad).
+aparece_tweet(trabajos,acciones).
+aparece_tweet(trabajos,sanciones).
+aparece_tweet(trabajos,limpieza).
+aparece_tweet(trabajos,yuyales).
+aparece_tweet(trabajos,propagacion).
+aparece_tweet(trabajos,ministerio).
+aparece_tweet(trabajos,rebrote).
+aparece_tweet(trabajos,problema).
+aparece_tweet(trabajos,capacidad).
+aparece_tweet(trabajos,propiedad).
+aparece_tweet(trabajos,antecedentes).
+aparece_tweet(trabajos,recomendaciones).
+aparece_tweet(trabajos,causa).
+aparece_tweet(trabajos,sospecha).
+aparece_tweet(trabajos,infestacion).
+aparece_tweet(trabajos,imputacion).
+aparece_tweet(trabajos,serotipo).
+aparece_tweet(trabajos,comunidad).
+aparece_tweet(trabajos,combate).
+aparece_tweet(trabajos,muertes).
+aparece_tweet(trabajos,cifra).
+aparece_tweet(trabajos,sintomas).
+aparece_tweet(trabajos,medicamentos).
+aparece_tweet(trabajos,urgencias).
+aparece_tweet(trabajos,afectados).
+aparece_tweet(trabajos,gobierno).
+aparece_tweet(trabajos,cuidados).
+aparece_tweet(trabajos,promedio).
+aparece_tweet(trabajos,brote).
+aparece_tweet(trabajos,hospitalizaciones).
+aparece_tweet(trabajos,cuadro).
+aparece_tweet(trabajos,enfermedades).
+aparece_tweet(trabajos,recoleccion).
+aparece_tweet(trabajos,basuras).
+aparece_tweet(trabajos,riesgo).
+aparece_tweet(trabajos,lluvias).
+aparece_tweet(trabajos,concienciacion).
+aparece_tweet(trabajos,inaccion).
+aparece_tweet(trabajos,baldios).
+aparece_tweet(trabajos,crecimiento).
+aparece_tweet(trabajos,rio).
+aparece_tweet(trabajos,epoca).
+aparece_tweet(trabajos,plastico).
+aparece_tweet(trabajos,bolsitas).
+aparece_tweet(trabajos,inundaciones).
+aparece_tweet(rastrillaje,autoridades).
+aparece_tweet(rastrillaje,institucion).
+aparece_tweet(rastrillaje,intendentes).
+aparece_tweet(rastrillaje,municipalidad).
+aparece_tweet(rastrillaje,acciones).
+aparece_tweet(rastrillaje,sanciones).
+aparece_tweet(rastrillaje,limpieza).
+aparece_tweet(rastrillaje,yuyales).
+aparece_tweet(rastrillaje,propagacion).
+aparece_tweet(rastrillaje,ministerio).
+aparece_tweet(rastrillaje,rebrote).
+aparece_tweet(rastrillaje,problema).
+aparece_tweet(rastrillaje,capacidad).
+aparece_tweet(rastrillaje,propiedad).
+aparece_tweet(rastrillaje,antecedentes).
+aparece_tweet(rastrillaje,recomendaciones).
+aparece_tweet(rastrillaje,causa).
+aparece_tweet(rastrillaje,sospecha).
+aparece_tweet(rastrillaje,infestacion).
+aparece_tweet(rastrillaje,imputacion).
+aparece_tweet(rastrillaje,serotipo).
+aparece_tweet(rastrillaje,comunidad).
+aparece_tweet(rastrillaje,combate).
+aparece_tweet(rastrillaje,muertes).
+aparece_tweet(rastrillaje,cifra).
+aparece_tweet(rastrillaje,sintomas).
+aparece_tweet(rastrillaje,medicamentos).
+aparece_tweet(rastrillaje,urgencias).
+aparece_tweet(rastrillaje,afectados).
+aparece_tweet(rastrillaje,gobierno).
+aparece_tweet(rastrillaje,cuidados).
+aparece_tweet(rastrillaje,promedio).
+aparece_tweet(rastrillaje,brote).
+aparece_tweet(rastrillaje,hospitalizaciones).
+aparece_tweet(rastrillaje,cuadro).
+aparece_tweet(rastrillaje,enfermedades).
+aparece_tweet(rastrillaje,recoleccion).
+aparece_tweet(rastrillaje,basuras).
+aparece_tweet(rastrillaje,riesgo).
+aparece_tweet(rastrillaje,lluvias).
+aparece_tweet(rastrillaje,concienciacion).
+aparece_tweet(rastrillaje,inaccion).
+aparece_tweet(rastrillaje,baldios).
+aparece_tweet(rastrillaje,crecimiento).
+aparece_tweet(rastrillaje,rio).
+aparece_tweet(rastrillaje,epoca).
+aparece_tweet(rastrillaje,plastico).
+aparece_tweet(rastrillaje,bolsitas).
+aparece_tweet(rastrillaje,inundaciones).
+aparece_tweet(autoridades,institucion).
+aparece_tweet(autoridades,intendentes).
+aparece_tweet(autoridades,municipalidad).
+aparece_tweet(autoridades,acciones).
+aparece_tweet(autoridades,sanciones).
+aparece_tweet(autoridades,limpieza).
+aparece_tweet(autoridades,yuyales).
+aparece_tweet(autoridades,propagacion).
+aparece_tweet(autoridades,ministerio).
+aparece_tweet(autoridades,rebrote).
+aparece_tweet(autoridades,problema).
+aparece_tweet(autoridades,capacidad).
+aparece_tweet(autoridades,propiedad).
+aparece_tweet(autoridades,antecedentes).
+aparece_tweet(autoridades,recomendaciones).
+aparece_tweet(autoridades,causa).
+aparece_tweet(autoridades,sospecha).
+aparece_tweet(autoridades,infestacion).
+aparece_tweet(autoridades,imputacion).
+aparece_tweet(autoridades,serotipo).
+aparece_tweet(autoridades,comunidad).
+aparece_tweet(autoridades,combate).
+aparece_tweet(autoridades,muertes).
+aparece_tweet(autoridades,cifra).
+aparece_tweet(autoridades,sintomas).
+aparece_tweet(autoridades,medicamentos).
+aparece_tweet(autoridades,urgencias).
+aparece_tweet(autoridades,afectados).
+aparece_tweet(autoridades,gobierno).
+aparece_tweet(autoridades,cuidados).
+aparece_tweet(autoridades,promedio).
+aparece_tweet(autoridades,brote).
+aparece_tweet(autoridades,hospitalizaciones).
+aparece_tweet(autoridades,cuadro).
+aparece_tweet(autoridades,enfermedades).
+aparece_tweet(autoridades,recoleccion).
+aparece_tweet(autoridades,basuras).
+aparece_tweet(autoridades,riesgo).
+aparece_tweet(autoridades,lluvias).
+aparece_tweet(autoridades,concienciacion).
+aparece_tweet(autoridades,inaccion).
+aparece_tweet(autoridades,baldios).
+aparece_tweet(autoridades,crecimiento).
+aparece_tweet(autoridades,rio).
+aparece_tweet(autoridades,epoca).
+aparece_tweet(autoridades,plastico).
+aparece_tweet(autoridades,bolsitas).
+aparece_tweet(autoridades,inundaciones).
+aparece_tweet(institucion,intendentes).
+aparece_tweet(institucion,municipalidad).
+aparece_tweet(institucion,acciones).
+aparece_tweet(institucion,sanciones).
+aparece_tweet(institucion,limpieza).
+aparece_tweet(institucion,yuyales).
+aparece_tweet(institucion,propagacion).
+aparece_tweet(institucion,ministerio).
+aparece_tweet(institucion,rebrote).
+aparece_tweet(institucion,problema).
+aparece_tweet(institucion,capacidad).
+aparece_tweet(institucion,propiedad).
+aparece_tweet(institucion,antecedentes).
+aparece_tweet(institucion,recomendaciones).
+aparece_tweet(institucion,causa).
+aparece_tweet(institucion,sospecha).
+aparece_tweet(institucion,infestacion).
+aparece_tweet(institucion,imputacion).
+aparece_tweet(institucion,serotipo).
+aparece_tweet(institucion,comunidad).
+aparece_tweet(institucion,combate).
+aparece_tweet(institucion,muertes).
+aparece_tweet(institucion,cifra).
+aparece_tweet(institucion,sintomas).
+aparece_tweet(institucion,medicamentos).
+aparece_tweet(institucion,urgencias).
+aparece_tweet(institucion,afectados).
+aparece_tweet(institucion,gobierno).
+aparece_tweet(institucion,cuidados).
+aparece_tweet(institucion,promedio).
+aparece_tweet(institucion,brote).
+aparece_tweet(institucion,hospitalizaciones).
+aparece_tweet(institucion,cuadro).
+aparece_tweet(institucion,enfermedades).
+aparece_tweet(institucion,recoleccion).
+aparece_tweet(institucion,basuras).
+aparece_tweet(institucion,riesgo).
+aparece_tweet(institucion,lluvias).
+aparece_tweet(institucion,concienciacion).
+aparece_tweet(institucion,inaccion).
+aparece_tweet(institucion,baldios).
+aparece_tweet(institucion,crecimiento).
+aparece_tweet(institucion,rio).
+aparece_tweet(institucion,epoca).
+aparece_tweet(institucion,plastico).
+aparece_tweet(institucion,bolsitas).
+aparece_tweet(institucion,inundaciones).
+aparece_tweet(intendentes,municipalidad).
+aparece_tweet(intendentes,acciones).
+aparece_tweet(intendentes,sanciones).
+aparece_tweet(intendentes,limpieza).
+aparece_tweet(intendentes,yuyales).
+aparece_tweet(intendentes,propagacion).
+aparece_tweet(intendentes,ministerio).
+aparece_tweet(intendentes,rebrote).
+aparece_tweet(intendentes,problema).
+aparece_tweet(intendentes,capacidad).
+aparece_tweet(intendentes,propiedad).
+aparece_tweet(intendentes,antecedentes).
+aparece_tweet(intendentes,recomendaciones).
+aparece_tweet(intendentes,causa).
+aparece_tweet(intendentes,sospecha).
+aparece_tweet(intendentes,infestacion).
+aparece_tweet(intendentes,imputacion).
+aparece_tweet(intendentes,serotipo).
+aparece_tweet(intendentes,comunidad).
+aparece_tweet(intendentes,combate).
+aparece_tweet(intendentes,muertes).
+aparece_tweet(intendentes,cifra).
+aparece_tweet(intendentes,sintomas).
+aparece_tweet(intendentes,medicamentos).
+aparece_tweet(intendentes,urgencias).
+aparece_tweet(intendentes,afectados).
+aparece_tweet(intendentes,gobierno).
+aparece_tweet(intendentes,cuidados).
+aparece_tweet(intendentes,promedio).
+aparece_tweet(intendentes,brote).
+aparece_tweet(intendentes,hospitalizaciones).
+aparece_tweet(intendentes,cuadro).
+aparece_tweet(intendentes,enfermedades).
+aparece_tweet(intendentes,recoleccion).
+aparece_tweet(intendentes,basuras).
+aparece_tweet(intendentes,riesgo).
+aparece_tweet(intendentes,lluvias).
+aparece_tweet(intendentes,concienciacion).
+aparece_tweet(intendentes,inaccion).
+aparece_tweet(intendentes,baldios).
+aparece_tweet(intendentes,crecimiento).
+aparece_tweet(intendentes,rio).
+aparece_tweet(intendentes,epoca).
+aparece_tweet(intendentes,plastico).
+aparece_tweet(intendentes,bolsitas).
+aparece_tweet(intendentes,inundaciones).
+aparece_tweet(municipalidad,acciones).
+aparece_tweet(municipalidad,sanciones).
+aparece_tweet(municipalidad,limpieza).
+aparece_tweet(municipalidad,yuyales).
+aparece_tweet(municipalidad,propagacion).
+aparece_tweet(municipalidad,ministerio).
+aparece_tweet(municipalidad,rebrote).
+aparece_tweet(municipalidad,problema).
+aparece_tweet(municipalidad,capacidad).
+aparece_tweet(municipalidad,propiedad).
+aparece_tweet(municipalidad,antecedentes).
+aparece_tweet(municipalidad,recomendaciones).
+aparece_tweet(municipalidad,causa).
+aparece_tweet(municipalidad,sospecha).
+aparece_tweet(municipalidad,infestacion).
+aparece_tweet(municipalidad,imputacion).
+aparece_tweet(municipalidad,serotipo).
+aparece_tweet(municipalidad,comunidad).
+aparece_tweet(municipalidad,combate).
+aparece_tweet(municipalidad,muertes).
+aparece_tweet(municipalidad,cifra).
+aparece_tweet(municipalidad,sintomas).
+aparece_tweet(municipalidad,medicamentos).
+aparece_tweet(municipalidad,urgencias).
+aparece_tweet(municipalidad,afectados).
+aparece_tweet(municipalidad,gobierno).
+aparece_tweet(municipalidad,cuidados).
+aparece_tweet(municipalidad,promedio).
+aparece_tweet(municipalidad,brote).
+aparece_tweet(municipalidad,hospitalizaciones).
+aparece_tweet(municipalidad,cuadro).
+aparece_tweet(municipalidad,enfermedades).
+aparece_tweet(municipalidad,recoleccion).
+aparece_tweet(municipalidad,basuras).
+aparece_tweet(municipalidad,riesgo).
+aparece_tweet(municipalidad,lluvias).
+aparece_tweet(municipalidad,concienciacion).
+aparece_tweet(municipalidad,inaccion).
+aparece_tweet(municipalidad,baldios).
+aparece_tweet(municipalidad,crecimiento).
+aparece_tweet(municipalidad,rio).
+aparece_tweet(municipalidad,epoca).
+aparece_tweet(municipalidad,plastico).
+aparece_tweet(municipalidad,bolsitas).
+aparece_tweet(municipalidad,inundaciones).
+aparece_tweet(acciones,sanciones).
+aparece_tweet(acciones,limpieza).
+aparece_tweet(acciones,yuyales).
+aparece_tweet(acciones,propagacion).
+aparece_tweet(acciones,ministerio).
+aparece_tweet(acciones,rebrote).
+aparece_tweet(acciones,problema).
+aparece_tweet(acciones,capacidad).
+aparece_tweet(acciones,propiedad).
+aparece_tweet(acciones,antecedentes).
+aparece_tweet(acciones,recomendaciones).
+aparece_tweet(acciones,causa).
+aparece_tweet(acciones,sospecha).
+aparece_tweet(acciones,infestacion).
+aparece_tweet(acciones,imputacion).
+aparece_tweet(acciones,serotipo).
+aparece_tweet(acciones,comunidad).
+aparece_tweet(acciones,combate).
+aparece_tweet(acciones,muertes).
+aparece_tweet(acciones,cifra).
+aparece_tweet(acciones,sintomas).
+aparece_tweet(acciones,medicamentos).
+aparece_tweet(acciones,urgencias).
+aparece_tweet(acciones,afectados).
+aparece_tweet(acciones,gobierno).
+aparece_tweet(acciones,cuidados).
+aparece_tweet(acciones,promedio).
+aparece_tweet(acciones,brote).
+aparece_tweet(acciones,hospitalizaciones).
+aparece_tweet(acciones,cuadro).
+aparece_tweet(acciones,enfermedades).
+aparece_tweet(acciones,recoleccion).
+aparece_tweet(acciones,basuras).
+aparece_tweet(acciones,riesgo).
+aparece_tweet(acciones,lluvias).
+aparece_tweet(acciones,concienciacion).
+aparece_tweet(acciones,inaccion).
+aparece_tweet(acciones,baldios).
+aparece_tweet(acciones,crecimiento).
+aparece_tweet(acciones,rio).
+aparece_tweet(acciones,epoca).
+aparece_tweet(acciones,plastico).
+aparece_tweet(acciones,bolsitas).
+aparece_tweet(acciones,inundaciones).
+aparece_tweet(sanciones,limpieza).
+aparece_tweet(sanciones,yuyales).
+aparece_tweet(sanciones,propagacion).
+aparece_tweet(sanciones,ministerio).
+aparece_tweet(sanciones,rebrote).
+aparece_tweet(sanciones,problema).
+aparece_tweet(sanciones,capacidad).
+aparece_tweet(sanciones,propiedad).
+aparece_tweet(sanciones,antecedentes).
+aparece_tweet(sanciones,recomendaciones).
+aparece_tweet(sanciones,causa).
+aparece_tweet(sanciones,sospecha).
+aparece_tweet(sanciones,infestacion).
+aparece_tweet(sanciones,imputacion).
+aparece_tweet(sanciones,serotipo).
+aparece_tweet(sanciones,comunidad).
+aparece_tweet(sanciones,combate).
+aparece_tweet(sanciones,muertes).
+aparece_tweet(sanciones,cifra).
+aparece_tweet(sanciones,sintomas).
+aparece_tweet(sanciones,medicamentos).
+aparece_tweet(sanciones,urgencias).
+aparece_tweet(sanciones,afectados).
+aparece_tweet(sanciones,gobierno).
+aparece_tweet(sanciones,cuidados).
+aparece_tweet(sanciones,promedio).
+aparece_tweet(sanciones,brote).
+aparece_tweet(sanciones,hospitalizaciones).
+aparece_tweet(sanciones,cuadro).
+aparece_tweet(sanciones,enfermedades).
+aparece_tweet(sanciones,recoleccion).
+aparece_tweet(sanciones,basuras).
+aparece_tweet(sanciones,riesgo).
+aparece_tweet(sanciones,lluvias).
+aparece_tweet(sanciones,concienciacion).
+aparece_tweet(sanciones,inaccion).
+aparece_tweet(sanciones,baldios).
+aparece_tweet(sanciones,crecimiento).
+aparece_tweet(sanciones,rio).
+aparece_tweet(sanciones,epoca).
+aparece_tweet(sanciones,plastico).
+aparece_tweet(sanciones,bolsitas).
+aparece_tweet(sanciones,inundaciones).
+aparece_tweet(limpieza,yuyales).
+aparece_tweet(limpieza,propagacion).
+aparece_tweet(limpieza,ministerio).
+aparece_tweet(limpieza,rebrote).
+aparece_tweet(limpieza,problema).
+aparece_tweet(limpieza,capacidad).
+aparece_tweet(limpieza,propiedad).
+aparece_tweet(limpieza,antecedentes).
+aparece_tweet(limpieza,recomendaciones).
+aparece_tweet(limpieza,causa).
+aparece_tweet(limpieza,sospecha).
+aparece_tweet(limpieza,infestacion).
+aparece_tweet(limpieza,imputacion).
+aparece_tweet(limpieza,serotipo).
+aparece_tweet(limpieza,comunidad).
+aparece_tweet(limpieza,combate).
+aparece_tweet(limpieza,muertes).
+aparece_tweet(limpieza,cifra).
+aparece_tweet(limpieza,sintomas).
+aparece_tweet(limpieza,medicamentos).
+aparece_tweet(limpieza,urgencias).
+aparece_tweet(limpieza,afectados).
+aparece_tweet(limpieza,gobierno).
+aparece_tweet(limpieza,cuidados).
+aparece_tweet(limpieza,promedio).
+aparece_tweet(limpieza,brote).
+aparece_tweet(limpieza,hospitalizaciones).
+aparece_tweet(limpieza,cuadro).
+aparece_tweet(limpieza,enfermedades).
+aparece_tweet(limpieza,recoleccion).
+aparece_tweet(limpieza,basuras).
+aparece_tweet(limpieza,riesgo).
+aparece_tweet(limpieza,lluvias).
+aparece_tweet(limpieza,concienciacion).
+aparece_tweet(limpieza,inaccion).
+aparece_tweet(limpieza,baldios).
+aparece_tweet(limpieza,crecimiento).
+aparece_tweet(limpieza,rio).
+aparece_tweet(limpieza,epoca).
+aparece_tweet(limpieza,plastico).
+aparece_tweet(limpieza,bolsitas).
+aparece_tweet(limpieza,inundaciones).
+aparece_tweet(yuyales,propagacion).
+aparece_tweet(yuyales,ministerio).
+aparece_tweet(yuyales,rebrote).
+aparece_tweet(yuyales,problema).
+aparece_tweet(yuyales,capacidad).
+aparece_tweet(yuyales,propiedad).
+aparece_tweet(yuyales,antecedentes).
+aparece_tweet(yuyales,recomendaciones).
+aparece_tweet(yuyales,causa).
+aparece_tweet(yuyales,sospecha).
+aparece_tweet(yuyales,infestacion).
+aparece_tweet(yuyales,imputacion).
+aparece_tweet(yuyales,serotipo).
+aparece_tweet(yuyales,comunidad).
+aparece_tweet(yuyales,combate).
+aparece_tweet(yuyales,muertes).
+aparece_tweet(yuyales,cifra).
+aparece_tweet(yuyales,sintomas).
+aparece_tweet(yuyales,medicamentos).
+aparece_tweet(yuyales,urgencias).
+aparece_tweet(yuyales,afectados).
+aparece_tweet(yuyales,gobierno).
+aparece_tweet(yuyales,cuidados).
+aparece_tweet(yuyales,promedio).
+aparece_tweet(yuyales,brote).
+aparece_tweet(yuyales,hospitalizaciones).
+aparece_tweet(yuyales,cuadro).
+aparece_tweet(yuyales,enfermedades).
+aparece_tweet(yuyales,recoleccion).
+aparece_tweet(yuyales,basuras).
+aparece_tweet(yuyales,riesgo).
+aparece_tweet(yuyales,lluvias).
+aparece_tweet(yuyales,concienciacion).
+aparece_tweet(yuyales,inaccion).
+aparece_tweet(yuyales,baldios).
+aparece_tweet(yuyales,crecimiento).
+aparece_tweet(yuyales,rio).
+aparece_tweet(yuyales,epoca).
+aparece_tweet(yuyales,plastico).
+aparece_tweet(yuyales,bolsitas).
+aparece_tweet(yuyales,inundaciones).
+aparece_tweet(propagacion,ministerio).
+aparece_tweet(propagacion,rebrote).
+aparece_tweet(propagacion,problema).
+aparece_tweet(propagacion,capacidad).
+aparece_tweet(propagacion,propiedad).
+aparece_tweet(propagacion,antecedentes).
+aparece_tweet(propagacion,recomendaciones).
+aparece_tweet(propagacion,causa).
+aparece_tweet(propagacion,sospecha).
+aparece_tweet(propagacion,infestacion).
+aparece_tweet(propagacion,imputacion).
+aparece_tweet(propagacion,serotipo).
+aparece_tweet(propagacion,comunidad).
+aparece_tweet(propagacion,combate).
+aparece_tweet(propagacion,muertes).
+aparece_tweet(propagacion,cifra).
+aparece_tweet(propagacion,sintomas).
+aparece_tweet(propagacion,medicamentos).
+aparece_tweet(propagacion,urgencias).
+aparece_tweet(propagacion,afectados).
+aparece_tweet(propagacion,gobierno).
+aparece_tweet(propagacion,cuidados).
+aparece_tweet(propagacion,promedio).
+aparece_tweet(propagacion,brote).
+aparece_tweet(propagacion,hospitalizaciones).
+aparece_tweet(propagacion,cuadro).
+aparece_tweet(propagacion,enfermedades).
+aparece_tweet(propagacion,recoleccion).
+aparece_tweet(propagacion,basuras).
+aparece_tweet(propagacion,riesgo).
+aparece_tweet(propagacion,lluvias).
+aparece_tweet(propagacion,concienciacion).
+aparece_tweet(propagacion,inaccion).
+aparece_tweet(propagacion,baldios).
+aparece_tweet(propagacion,crecimiento).
+aparece_tweet(propagacion,rio).
+aparece_tweet(propagacion,epoca).
+aparece_tweet(propagacion,plastico).
+aparece_tweet(propagacion,bolsitas).
+aparece_tweet(propagacion,inundaciones).
+aparece_tweet(ministerio,rebrote).
+aparece_tweet(ministerio,problema).
+aparece_tweet(ministerio,capacidad).
+aparece_tweet(ministerio,propiedad).
+aparece_tweet(ministerio,antecedentes).
+aparece_tweet(ministerio,recomendaciones).
+aparece_tweet(ministerio,causa).
+aparece_tweet(ministerio,sospecha).
+aparece_tweet(ministerio,infestacion).
+aparece_tweet(ministerio,imputacion).
+aparece_tweet(ministerio,serotipo).
+aparece_tweet(ministerio,comunidad).
+aparece_tweet(ministerio,combate).
+aparece_tweet(ministerio,muertes).
+aparece_tweet(ministerio,cifra).
+aparece_tweet(ministerio,sintomas).
+aparece_tweet(ministerio,medicamentos).
+aparece_tweet(ministerio,urgencias).
+aparece_tweet(ministerio,afectados).
+aparece_tweet(ministerio,gobierno).
+aparece_tweet(ministerio,cuidados).
+aparece_tweet(ministerio,promedio).
+aparece_tweet(ministerio,brote).
+aparece_tweet(ministerio,hospitalizaciones).
+aparece_tweet(ministerio,cuadro).
+aparece_tweet(ministerio,enfermedades).
+aparece_tweet(ministerio,recoleccion).
+aparece_tweet(ministerio,basuras).
+aparece_tweet(ministerio,riesgo).
+aparece_tweet(ministerio,lluvias).
+aparece_tweet(ministerio,concienciacion).
+aparece_tweet(ministerio,inaccion).
+aparece_tweet(ministerio,baldios).
+aparece_tweet(ministerio,crecimiento).
+aparece_tweet(ministerio,rio).
+aparece_tweet(ministerio,epoca).
+aparece_tweet(ministerio,plastico).
+aparece_tweet(ministerio,bolsitas).
+aparece_tweet(ministerio,inundaciones).
+aparece_tweet(rebrote,problema).
+aparece_tweet(rebrote,capacidad).
+aparece_tweet(rebrote,propiedad).
+aparece_tweet(rebrote,antecedentes).
+aparece_tweet(rebrote,recomendaciones).
+aparece_tweet(rebrote,causa).
+aparece_tweet(rebrote,sospecha).
+aparece_tweet(rebrote,infestacion).
+aparece_tweet(rebrote,imputacion).
+aparece_tweet(rebrote,serotipo).
+aparece_tweet(rebrote,comunidad).
+aparece_tweet(rebrote,combate).
+aparece_tweet(rebrote,muertes).
+aparece_tweet(rebrote,cifra).
+aparece_tweet(rebrote,sintomas).
+aparece_tweet(rebrote,medicamentos).
+aparece_tweet(rebrote,urgencias).
+aparece_tweet(rebrote,afectados).
+aparece_tweet(rebrote,gobierno).
+aparece_tweet(rebrote,cuidados).
+aparece_tweet(rebrote,promedio).
+aparece_tweet(rebrote,brote).
+aparece_tweet(rebrote,hospitalizaciones).
+aparece_tweet(rebrote,cuadro).
+aparece_tweet(rebrote,enfermedades).
+aparece_tweet(rebrote,recoleccion).
+aparece_tweet(rebrote,basuras).
+aparece_tweet(rebrote,riesgo).
+aparece_tweet(rebrote,lluvias).
+aparece_tweet(rebrote,concienciacion).
+aparece_tweet(rebrote,inaccion).
+aparece_tweet(rebrote,baldios).
+aparece_tweet(rebrote,crecimiento).
+aparece_tweet(rebrote,rio).
+aparece_tweet(rebrote,epoca).
+aparece_tweet(rebrote,plastico).
+aparece_tweet(rebrote,bolsitas).
+aparece_tweet(rebrote,inundaciones).
+aparece_tweet(problema,capacidad).
+aparece_tweet(problema,propiedad).
+aparece_tweet(problema,antecedentes).
+aparece_tweet(problema,recomendaciones).
+aparece_tweet(problema,causa).
+aparece_tweet(problema,sospecha).
+aparece_tweet(problema,infestacion).
+aparece_tweet(problema,imputacion).
+aparece_tweet(problema,serotipo).
+aparece_tweet(problema,comunidad).
+aparece_tweet(problema,combate).
+aparece_tweet(problema,muertes).
+aparece_tweet(problema,cifra).
+aparece_tweet(problema,sintomas).
+aparece_tweet(problema,medicamentos).
+aparece_tweet(problema,urgencias).
+aparece_tweet(problema,afectados).
+aparece_tweet(problema,gobierno).
+aparece_tweet(problema,cuidados).
+aparece_tweet(problema,promedio).
+aparece_tweet(problema,brote).
+aparece_tweet(problema,hospitalizaciones).
+aparece_tweet(problema,cuadro).
+aparece_tweet(problema,enfermedades).
+aparece_tweet(problema,recoleccion).
+aparece_tweet(problema,basuras).
+aparece_tweet(problema,riesgo).
+aparece_tweet(problema,lluvias).
+aparece_tweet(problema,concienciacion).
+aparece_tweet(problema,inaccion).
+aparece_tweet(problema,baldios).
+aparece_tweet(problema,crecimiento).
+aparece_tweet(problema,rio).
+aparece_tweet(problema,epoca).
+aparece_tweet(problema,plastico).
+aparece_tweet(problema,bolsitas).
+aparece_tweet(problema,inundaciones).
+aparece_tweet(capacidad,propiedad).
+aparece_tweet(capacidad,antecedentes).
+aparece_tweet(capacidad,recomendaciones).
+aparece_tweet(capacidad,causa).
+aparece_tweet(capacidad,sospecha).
+aparece_tweet(capacidad,infestacion).
+aparece_tweet(capacidad,imputacion).
+aparece_tweet(capacidad,serotipo).
+aparece_tweet(capacidad,comunidad).
+aparece_tweet(capacidad,combate).
+aparece_tweet(capacidad,muertes).
+aparece_tweet(capacidad,cifra).
+aparece_tweet(capacidad,sintomas).
+aparece_tweet(capacidad,medicamentos).
+aparece_tweet(capacidad,urgencias).
+aparece_tweet(capacidad,afectados).
+aparece_tweet(capacidad,gobierno).
+aparece_tweet(capacidad,cuidados).
+aparece_tweet(capacidad,promedio).
+aparece_tweet(capacidad,brote).
+aparece_tweet(capacidad,hospitalizaciones).
+aparece_tweet(capacidad,cuadro).
+aparece_tweet(capacidad,enfermedades).
+aparece_tweet(capacidad,recoleccion).
+aparece_tweet(capacidad,basuras).
+aparece_tweet(capacidad,riesgo).
+aparece_tweet(capacidad,lluvias).
+aparece_tweet(capacidad,concienciacion).
+aparece_tweet(capacidad,inaccion).
+aparece_tweet(capacidad,baldios).
+aparece_tweet(capacidad,crecimiento).
+aparece_tweet(capacidad,rio).
+aparece_tweet(capacidad,epoca).
+aparece_tweet(capacidad,plastico).
+aparece_tweet(capacidad,bolsitas).
+aparece_tweet(capacidad,inundaciones).
+aparece_tweet(propiedad,antecedentes).
+aparece_tweet(propiedad,recomendaciones).
+aparece_tweet(propiedad,causa).
+aparece_tweet(propiedad,sospecha).
+aparece_tweet(propiedad,infestacion).
+aparece_tweet(propiedad,imputacion).
+aparece_tweet(propiedad,serotipo).
+aparece_tweet(propiedad,comunidad).
+aparece_tweet(propiedad,combate).
+aparece_tweet(propiedad,muertes).
+aparece_tweet(propiedad,cifra).
+aparece_tweet(propiedad,sintomas).
+aparece_tweet(propiedad,medicamentos).
+aparece_tweet(propiedad,urgencias).
+aparece_tweet(propiedad,afectados).
+aparece_tweet(propiedad,gobierno).
+aparece_tweet(propiedad,cuidados).
+aparece_tweet(propiedad,promedio).
+aparece_tweet(propiedad,brote).
+aparece_tweet(propiedad,hospitalizaciones).
+aparece_tweet(propiedad,cuadro).
+aparece_tweet(propiedad,enfermedades).
+aparece_tweet(propiedad,recoleccion).
+aparece_tweet(propiedad,basuras).
+aparece_tweet(propiedad,riesgo).
+aparece_tweet(propiedad,lluvias).
+aparece_tweet(propiedad,concienciacion).
+aparece_tweet(propiedad,inaccion).
+aparece_tweet(propiedad,baldios).
+aparece_tweet(propiedad,crecimiento).
+aparece_tweet(propiedad,rio).
+aparece_tweet(propiedad,epoca).
+aparece_tweet(propiedad,plastico).
+aparece_tweet(propiedad,bolsitas).
+aparece_tweet(propiedad,inundaciones).
+aparece_tweet(antecedentes,recomendaciones).
+aparece_tweet(antecedentes,causa).
+aparece_tweet(antecedentes,sospecha).
+aparece_tweet(antecedentes,infestacion).
+aparece_tweet(antecedentes,imputacion).
+aparece_tweet(antecedentes,serotipo).
+aparece_tweet(antecedentes,comunidad).
+aparece_tweet(antecedentes,combate).
+aparece_tweet(antecedentes,muertes).
+aparece_tweet(antecedentes,cifra).
+aparece_tweet(antecedentes,sintomas).
+aparece_tweet(antecedentes,medicamentos).
+aparece_tweet(antecedentes,urgencias).
+aparece_tweet(antecedentes,afectados).
+aparece_tweet(antecedentes,gobierno).
+aparece_tweet(antecedentes,cuidados).
+aparece_tweet(antecedentes,promedio).
+aparece_tweet(antecedentes,brote).
+aparece_tweet(antecedentes,hospitalizaciones).
+aparece_tweet(antecedentes,cuadro).
+aparece_tweet(antecedentes,enfermedades).
+aparece_tweet(antecedentes,recoleccion).
+aparece_tweet(antecedentes,basuras).
+aparece_tweet(antecedentes,riesgo).
+aparece_tweet(antecedentes,lluvias).
+aparece_tweet(antecedentes,concienciacion).
+aparece_tweet(antecedentes,inaccion).
+aparece_tweet(antecedentes,baldios).
+aparece_tweet(antecedentes,crecimiento).
+aparece_tweet(antecedentes,rio).
+aparece_tweet(antecedentes,epoca).
+aparece_tweet(antecedentes,plastico).
+aparece_tweet(antecedentes,bolsitas).
+aparece_tweet(antecedentes,inundaciones).
+aparece_tweet(recomendaciones,causa).
+aparece_tweet(recomendaciones,sospecha).
+aparece_tweet(recomendaciones,infestacion).
+aparece_tweet(recomendaciones,imputacion).
+aparece_tweet(recomendaciones,serotipo).
+aparece_tweet(recomendaciones,comunidad).
+aparece_tweet(recomendaciones,combate).
+aparece_tweet(recomendaciones,muertes).
+aparece_tweet(recomendaciones,cifra).
+aparece_tweet(recomendaciones,sintomas).
+aparece_tweet(recomendaciones,medicamentos).
+aparece_tweet(recomendaciones,urgencias).
+aparece_tweet(recomendaciones,afectados).
+aparece_tweet(recomendaciones,gobierno).
+aparece_tweet(recomendaciones,cuidados).
+aparece_tweet(recomendaciones,promedio).
+aparece_tweet(recomendaciones,brote).
+aparece_tweet(recomendaciones,hospitalizaciones).
+aparece_tweet(recomendaciones,cuadro).
+aparece_tweet(recomendaciones,enfermedades).
+aparece_tweet(recomendaciones,recoleccion).
+aparece_tweet(recomendaciones,basuras).
+aparece_tweet(recomendaciones,riesgo).
+aparece_tweet(recomendaciones,lluvias).
+aparece_tweet(recomendaciones,concienciacion).
+aparece_tweet(recomendaciones,inaccion).
+aparece_tweet(recomendaciones,baldios).
+aparece_tweet(recomendaciones,crecimiento).
+aparece_tweet(recomendaciones,rio).
+aparece_tweet(recomendaciones,epoca).
+aparece_tweet(recomendaciones,plastico).
+aparece_tweet(recomendaciones,bolsitas).
+aparece_tweet(recomendaciones,inundaciones).
+aparece_tweet(causa,sospecha).
+aparece_tweet(causa,infestacion).
+aparece_tweet(causa,imputacion).
+aparece_tweet(causa,serotipo).
+aparece_tweet(causa,comunidad).
+aparece_tweet(causa,combate).
+aparece_tweet(causa,muertes).
+aparece_tweet(causa,cifra).
+aparece_tweet(causa,sintomas).
+aparece_tweet(causa,medicamentos).
+aparece_tweet(causa,urgencias).
+aparece_tweet(causa,afectados).
+aparece_tweet(causa,gobierno).
+aparece_tweet(causa,cuidados).
+aparece_tweet(causa,promedio).
+aparece_tweet(causa,brote).
+aparece_tweet(causa,hospitalizaciones).
+aparece_tweet(causa,cuadro).
+aparece_tweet(causa,enfermedades).
+aparece_tweet(causa,recoleccion).
+aparece_tweet(causa,basuras).
+aparece_tweet(causa,riesgo).
+aparece_tweet(causa,lluvias).
+aparece_tweet(causa,concienciacion).
+aparece_tweet(causa,inaccion).
+aparece_tweet(causa,baldios).
+aparece_tweet(causa,crecimiento).
+aparece_tweet(causa,rio).
+aparece_tweet(causa,epoca).
+aparece_tweet(causa,plastico).
+aparece_tweet(causa,bolsitas).
+aparece_tweet(causa,inundaciones).
+aparece_tweet(sospecha,infestacion).
+aparece_tweet(sospecha,imputacion).
+aparece_tweet(sospecha,serotipo).
+aparece_tweet(sospecha,comunidad).
+aparece_tweet(sospecha,combate).
+aparece_tweet(sospecha,muertes).
+aparece_tweet(sospecha,cifra).
+aparece_tweet(sospecha,sintomas).
+aparece_tweet(sospecha,medicamentos).
+aparece_tweet(sospecha,urgencias).
+aparece_tweet(sospecha,afectados).
+aparece_tweet(sospecha,gobierno).
+aparece_tweet(sospecha,cuidados).
+aparece_tweet(sospecha,promedio).
+aparece_tweet(sospecha,brote).
+aparece_tweet(sospecha,hospitalizaciones).
+aparece_tweet(sospecha,cuadro).
+aparece_tweet(sospecha,enfermedades).
+aparece_tweet(sospecha,recoleccion).
+aparece_tweet(sospecha,basuras).
+aparece_tweet(sospecha,riesgo).
+aparece_tweet(sospecha,lluvias).
+aparece_tweet(sospecha,concienciacion).
+aparece_tweet(sospecha,inaccion).
+aparece_tweet(sospecha,baldios).
+aparece_tweet(sospecha,crecimiento).
+aparece_tweet(sospecha,rio).
+aparece_tweet(sospecha,epoca).
+aparece_tweet(sospecha,plastico).
+aparece_tweet(sospecha,bolsitas).
+aparece_tweet(sospecha,inundaciones).
+aparece_tweet(infestacion,imputacion).
+aparece_tweet(infestacion,serotipo).
+aparece_tweet(infestacion,comunidad).
+aparece_tweet(infestacion,combate).
+aparece_tweet(infestacion,muertes).
+aparece_tweet(infestacion,cifra).
+aparece_tweet(infestacion,sintomas).
+aparece_tweet(infestacion,medicamentos).
+aparece_tweet(infestacion,urgencias).
+aparece_tweet(infestacion,afectados).
+aparece_tweet(infestacion,gobierno).
+aparece_tweet(infestacion,cuidados).
+aparece_tweet(infestacion,promedio).
+aparece_tweet(infestacion,brote).
+aparece_tweet(infestacion,hospitalizaciones).
+aparece_tweet(infestacion,cuadro).
+aparece_tweet(infestacion,enfermedades).
+aparece_tweet(infestacion,recoleccion).
+aparece_tweet(infestacion,basuras).
+aparece_tweet(infestacion,riesgo).
+aparece_tweet(infestacion,lluvias).
+aparece_tweet(infestacion,concienciacion).
+aparece_tweet(infestacion,inaccion).
+aparece_tweet(infestacion,baldios).
+aparece_tweet(infestacion,crecimiento).
+aparece_tweet(infestacion,rio).
+aparece_tweet(infestacion,epoca).
+aparece_tweet(infestacion,plastico).
+aparece_tweet(infestacion,bolsitas).
+aparece_tweet(infestacion,inundaciones).
+aparece_tweet(imputacion,serotipo).
+aparece_tweet(imputacion,comunidad).
+aparece_tweet(imputacion,combate).
+aparece_tweet(imputacion,muertes).
+aparece_tweet(imputacion,cifra).
+aparece_tweet(imputacion,sintomas).
+aparece_tweet(imputacion,medicamentos).
+aparece_tweet(imputacion,urgencias).
+aparece_tweet(imputacion,afectados).
+aparece_tweet(imputacion,gobierno).
+aparece_tweet(imputacion,cuidados).
+aparece_tweet(imputacion,promedio).
+aparece_tweet(imputacion,brote).
+aparece_tweet(imputacion,hospitalizaciones).
+aparece_tweet(imputacion,cuadro).
+aparece_tweet(imputacion,enfermedades).
+aparece_tweet(imputacion,recoleccion).
+aparece_tweet(imputacion,basuras).
+aparece_tweet(imputacion,riesgo).
+aparece_tweet(imputacion,lluvias).
+aparece_tweet(imputacion,concienciacion).
+aparece_tweet(imputacion,inaccion).
+aparece_tweet(imputacion,baldios).
+aparece_tweet(imputacion,crecimiento).
+aparece_tweet(imputacion,rio).
+aparece_tweet(imputacion,epoca).
+aparece_tweet(imputacion,plastico).
+aparece_tweet(imputacion,bolsitas).
+aparece_tweet(imputacion,inundaciones).
+aparece_tweet(serotipo,comunidad).
+aparece_tweet(serotipo,combate).
+aparece_tweet(serotipo,muertes).
+aparece_tweet(serotipo,cifra).
+aparece_tweet(serotipo,sintomas).
+aparece_tweet(serotipo,medicamentos).
+aparece_tweet(serotipo,urgencias).
+aparece_tweet(serotipo,afectados).
+aparece_tweet(serotipo,gobierno).
+aparece_tweet(serotipo,cuidados).
+aparece_tweet(serotipo,promedio).
+aparece_tweet(serotipo,brote).
+aparece_tweet(serotipo,hospitalizaciones).
+aparece_tweet(serotipo,cuadro).
+aparece_tweet(serotipo,enfermedades).
+aparece_tweet(serotipo,recoleccion).
+aparece_tweet(serotipo,basuras).
+aparece_tweet(serotipo,riesgo).
+aparece_tweet(serotipo,lluvias).
+aparece_tweet(serotipo,concienciacion).
+aparece_tweet(serotipo,inaccion).
+aparece_tweet(serotipo,baldios).
+aparece_tweet(serotipo,crecimiento).
+aparece_tweet(serotipo,rio).
+aparece_tweet(serotipo,epoca).
+aparece_tweet(serotipo,plastico).
+aparece_tweet(serotipo,bolsitas).
+aparece_tweet(serotipo,inundaciones).
+aparece_tweet(comunidad,combate).
+aparece_tweet(comunidad,muertes).
+aparece_tweet(comunidad,cifra).
+aparece_tweet(comunidad,sintomas).
+aparece_tweet(comunidad,medicamentos).
+aparece_tweet(comunidad,urgencias).
+aparece_tweet(comunidad,afectados).
+aparece_tweet(comunidad,gobierno).
+aparece_tweet(comunidad,cuidados).
+aparece_tweet(comunidad,promedio).
+aparece_tweet(comunidad,brote).
+aparece_tweet(comunidad,hospitalizaciones).
+aparece_tweet(comunidad,cuadro).
+aparece_tweet(comunidad,enfermedades).
+aparece_tweet(comunidad,recoleccion).
+aparece_tweet(comunidad,basuras).
+aparece_tweet(comunidad,riesgo).
+aparece_tweet(comunidad,lluvias).
+aparece_tweet(comunidad,concienciacion).
+aparece_tweet(comunidad,inaccion).
+aparece_tweet(comunidad,baldios).
+aparece_tweet(comunidad,crecimiento).
+aparece_tweet(comunidad,rio).
+aparece_tweet(comunidad,epoca).
+aparece_tweet(comunidad,plastico).
+aparece_tweet(comunidad,bolsitas).
+aparece_tweet(comunidad,inundaciones).
+aparece_tweet(combate,muertes).
+aparece_tweet(combate,cifra).
+aparece_tweet(combate,sintomas).
+aparece_tweet(combate,medicamentos).
+aparece_tweet(combate,urgencias).
+aparece_tweet(combate,afectados).
+aparece_tweet(combate,gobierno).
+aparece_tweet(combate,cuidados).
+aparece_tweet(combate,promedio).
+aparece_tweet(combate,brote).
+aparece_tweet(combate,hospitalizaciones).
+aparece_tweet(combate,cuadro).
+aparece_tweet(combate,enfermedades).
+aparece_tweet(combate,recoleccion).
+aparece_tweet(combate,basuras).
+aparece_tweet(combate,riesgo).
+aparece_tweet(combate,lluvias).
+aparece_tweet(combate,concienciacion).
+aparece_tweet(combate,inaccion).
+aparece_tweet(combate,baldios).
+aparece_tweet(combate,crecimiento).
+aparece_tweet(combate,rio).
+aparece_tweet(combate,epoca).
+aparece_tweet(combate,plastico).
+aparece_tweet(combate,bolsitas).
+aparece_tweet(combate,inundaciones).
+aparece_tweet(muertes,cifra).
+aparece_tweet(muertes,sintomas).
+aparece_tweet(muertes,medicamentos).
+aparece_tweet(muertes,urgencias).
+aparece_tweet(muertes,afectados).
+aparece_tweet(muertes,gobierno).
+aparece_tweet(muertes,cuidados).
+aparece_tweet(muertes,promedio).
+aparece_tweet(muertes,brote).
+aparece_tweet(muertes,hospitalizaciones).
+aparece_tweet(muertes,cuadro).
+aparece_tweet(muertes,enfermedades).
+aparece_tweet(muertes,recoleccion).
+aparece_tweet(muertes,basuras).
+aparece_tweet(muertes,riesgo).
+aparece_tweet(muertes,lluvias).
+aparece_tweet(muertes,concienciacion).
+aparece_tweet(muertes,inaccion).
+aparece_tweet(muertes,baldios).
+aparece_tweet(muertes,crecimiento).
+aparece_tweet(muertes,rio).
+aparece_tweet(muertes,epoca).
+aparece_tweet(muertes,plastico).
+aparece_tweet(muertes,bolsitas).
+aparece_tweet(muertes,inundaciones).
+aparece_tweet(cifra,sintomas).
+aparece_tweet(cifra,medicamentos).
+aparece_tweet(cifra,urgencias).
+aparece_tweet(cifra,afectados).
+aparece_tweet(cifra,gobierno).
+aparece_tweet(cifra,cuidados).
+aparece_tweet(cifra,promedio).
+aparece_tweet(cifra,brote).
+aparece_tweet(cifra,hospitalizaciones).
+aparece_tweet(cifra,cuadro).
+aparece_tweet(cifra,enfermedades).
+aparece_tweet(cifra,recoleccion).
+aparece_tweet(cifra,basuras).
+aparece_tweet(cifra,riesgo).
+aparece_tweet(cifra,lluvias).
+aparece_tweet(cifra,concienciacion).
+aparece_tweet(cifra,inaccion).
+aparece_tweet(cifra,baldios).
+aparece_tweet(cifra,crecimiento).
+aparece_tweet(cifra,rio).
+aparece_tweet(cifra,epoca).
+aparece_tweet(cifra,plastico).
+aparece_tweet(cifra,bolsitas).
+aparece_tweet(cifra,inundaciones).
+aparece_tweet(sintomas,medicamentos).
+aparece_tweet(sintomas,urgencias).
+aparece_tweet(sintomas,afectados).
+aparece_tweet(sintomas,gobierno).
+aparece_tweet(sintomas,cuidados).
+aparece_tweet(sintomas,promedio).
+aparece_tweet(sintomas,brote).
+aparece_tweet(sintomas,hospitalizaciones).
+aparece_tweet(sintomas,cuadro).
+aparece_tweet(sintomas,enfermedades).
+aparece_tweet(sintomas,recoleccion).
+aparece_tweet(sintomas,basuras).
+aparece_tweet(sintomas,riesgo).
+aparece_tweet(sintomas,lluvias).
+aparece_tweet(sintomas,concienciacion).
+aparece_tweet(sintomas,inaccion).
+aparece_tweet(sintomas,baldios).
+aparece_tweet(sintomas,crecimiento).
+aparece_tweet(sintomas,rio).
+aparece_tweet(sintomas,epoca).
+aparece_tweet(sintomas,plastico).
+aparece_tweet(sintomas,bolsitas).
+aparece_tweet(sintomas,inundaciones).
+aparece_tweet(medicamentos,urgencias).
+aparece_tweet(medicamentos,afectados).
+aparece_tweet(medicamentos,gobierno).
+aparece_tweet(medicamentos,cuidados).
+aparece_tweet(medicamentos,promedio).
+aparece_tweet(medicamentos,brote).
+aparece_tweet(medicamentos,hospitalizaciones).
+aparece_tweet(medicamentos,cuadro).
+aparece_tweet(medicamentos,enfermedades).
+aparece_tweet(medicamentos,recoleccion).
+aparece_tweet(medicamentos,basuras).
+aparece_tweet(medicamentos,riesgo).
+aparece_tweet(medicamentos,lluvias).
+aparece_tweet(medicamentos,concienciacion).
+aparece_tweet(medicamentos,inaccion).
+aparece_tweet(medicamentos,baldios).
+aparece_tweet(medicamentos,crecimiento).
+aparece_tweet(medicamentos,rio).
+aparece_tweet(medicamentos,epoca).
+aparece_tweet(medicamentos,plastico).
+aparece_tweet(medicamentos,bolsitas).
+aparece_tweet(medicamentos,inundaciones).
+aparece_tweet(urgencias,afectados).
+aparece_tweet(urgencias,gobierno).
+aparece_tweet(urgencias,cuidados).
+aparece_tweet(urgencias,promedio).
+aparece_tweet(urgencias,brote).
+aparece_tweet(urgencias,hospitalizaciones).
+aparece_tweet(urgencias,cuadro).
+aparece_tweet(urgencias,enfermedades).
+aparece_tweet(urgencias,recoleccion).
+aparece_tweet(urgencias,basuras).
+aparece_tweet(urgencias,riesgo).
+aparece_tweet(urgencias,lluvias).
+aparece_tweet(urgencias,concienciacion).
+aparece_tweet(urgencias,inaccion).
+aparece_tweet(urgencias,baldios).
+aparece_tweet(urgencias,crecimiento).
+aparece_tweet(urgencias,rio).
+aparece_tweet(urgencias,epoca).
+aparece_tweet(urgencias,plastico).
+aparece_tweet(urgencias,bolsitas).
+aparece_tweet(urgencias,inundaciones).
+aparece_tweet(afectados,gobierno).
+aparece_tweet(afectados,cuidados).
+aparece_tweet(afectados,promedio).
+aparece_tweet(afectados,brote).
+aparece_tweet(afectados,hospitalizaciones).
+aparece_tweet(afectados,cuadro).
+aparece_tweet(afectados,enfermedades).
+aparece_tweet(afectados,recoleccion).
+aparece_tweet(afectados,basuras).
+aparece_tweet(afectados,riesgo).
+aparece_tweet(afectados,lluvias).
+aparece_tweet(afectados,concienciacion).
+aparece_tweet(afectados,inaccion).
+aparece_tweet(afectados,baldios).
+aparece_tweet(afectados,crecimiento).
+aparece_tweet(afectados,rio).
+aparece_tweet(afectados,epoca).
+aparece_tweet(afectados,plastico).
+aparece_tweet(afectados,bolsitas).
+aparece_tweet(afectados,inundaciones).
+aparece_tweet(gobierno,cuidados).
+aparece_tweet(gobierno,promedio).
+aparece_tweet(gobierno,brote).
+aparece_tweet(gobierno,hospitalizaciones).
+aparece_tweet(gobierno,cuadro).
+aparece_tweet(gobierno,enfermedades).
+aparece_tweet(gobierno,recoleccion).
+aparece_tweet(gobierno,basuras).
+aparece_tweet(gobierno,riesgo).
+aparece_tweet(gobierno,lluvias).
+aparece_tweet(gobierno,concienciacion).
+aparece_tweet(gobierno,inaccion).
+aparece_tweet(gobierno,baldios).
+aparece_tweet(gobierno,crecimiento).
+aparece_tweet(gobierno,rio).
+aparece_tweet(gobierno,epoca).
+aparece_tweet(gobierno,plastico).
+aparece_tweet(gobierno,bolsitas).
+aparece_tweet(gobierno,inundaciones).
+aparece_tweet(cuidados,promedio).
+aparece_tweet(cuidados,brote).
+aparece_tweet(cuidados,hospitalizaciones).
+aparece_tweet(cuidados,cuadro).
+aparece_tweet(cuidados,enfermedades).
+aparece_tweet(cuidados,recoleccion).
+aparece_tweet(cuidados,basuras).
+aparece_tweet(cuidados,riesgo).
+aparece_tweet(cuidados,lluvias).
+aparece_tweet(cuidados,concienciacion).
+aparece_tweet(cuidados,inaccion).
+aparece_tweet(cuidados,baldios).
+aparece_tweet(cuidados,crecimiento).
+aparece_tweet(cuidados,rio).
+aparece_tweet(cuidados,epoca).
+aparece_tweet(cuidados,plastico).
+aparece_tweet(cuidados,bolsitas).
+aparece_tweet(cuidados,inundaciones).
+aparece_tweet(promedio,brote).
+aparece_tweet(promedio,hospitalizaciones).
+aparece_tweet(promedio,cuadro).
+aparece_tweet(promedio,enfermedades).
+aparece_tweet(promedio,recoleccion).
+aparece_tweet(promedio,basuras).
+aparece_tweet(promedio,riesgo).
+aparece_tweet(promedio,lluvias).
+aparece_tweet(promedio,concienciacion).
+aparece_tweet(promedio,inaccion).
+aparece_tweet(promedio,baldios).
+aparece_tweet(promedio,crecimiento).
+aparece_tweet(promedio,rio).
+aparece_tweet(promedio,epoca).
+aparece_tweet(promedio,plastico).
+aparece_tweet(promedio,bolsitas).
+aparece_tweet(promedio,inundaciones).
+aparece_tweet(brote,hospitalizaciones).
+aparece_tweet(brote,cuadro).
+aparece_tweet(brote,enfermedades).
+aparece_tweet(brote,recoleccion).
+aparece_tweet(brote,basuras).
+aparece_tweet(brote,riesgo).
+aparece_tweet(brote,lluvias).
+aparece_tweet(brote,concienciacion).
+aparece_tweet(brote,inaccion).
+aparece_tweet(brote,baldios).
+aparece_tweet(brote,crecimiento).
+aparece_tweet(brote,rio).
+aparece_tweet(brote,epoca).
+aparece_tweet(brote,plastico).
+aparece_tweet(brote,bolsitas).
+aparece_tweet(brote,inundaciones).
+aparece_tweet(hospitalizaciones,cuadro).
+aparece_tweet(hospitalizaciones,enfermedades).
+aparece_tweet(hospitalizaciones,recoleccion).
+aparece_tweet(hospitalizaciones,basuras).
+aparece_tweet(hospitalizaciones,riesgo).
+aparece_tweet(hospitalizaciones,lluvias).
+aparece_tweet(hospitalizaciones,concienciacion).
+aparece_tweet(hospitalizaciones,inaccion).
+aparece_tweet(hospitalizaciones,baldios).
+aparece_tweet(hospitalizaciones,crecimiento).
+aparece_tweet(hospitalizaciones,rio).
+aparece_tweet(hospitalizaciones,epoca).
+aparece_tweet(hospitalizaciones,plastico).
+aparece_tweet(hospitalizaciones,bolsitas).
+aparece_tweet(hospitalizaciones,inundaciones).
+aparece_tweet(cuadro,enfermedades).
+aparece_tweet(cuadro,recoleccion).
+aparece_tweet(cuadro,basuras).
+aparece_tweet(cuadro,riesgo).
+aparece_tweet(cuadro,lluvias).
+aparece_tweet(cuadro,concienciacion).
+aparece_tweet(cuadro,inaccion).
+aparece_tweet(cuadro,baldios).
+aparece_tweet(cuadro,crecimiento).
+aparece_tweet(cuadro,rio).
+aparece_tweet(cuadro,epoca).
+aparece_tweet(cuadro,plastico).
+aparece_tweet(cuadro,bolsitas).
+aparece_tweet(cuadro,inundaciones).
+aparece_tweet(enfermedades,recoleccion).
+aparece_tweet(enfermedades,basuras).
+aparece_tweet(enfermedades,riesgo).
+aparece_tweet(enfermedades,lluvias).
+aparece_tweet(enfermedades,concienciacion).
+aparece_tweet(enfermedades,inaccion).
+aparece_tweet(enfermedades,baldios).
+aparece_tweet(enfermedades,crecimiento).
+aparece_tweet(enfermedades,rio).
+aparece_tweet(enfermedades,epoca).
+aparece_tweet(enfermedades,plastico).
+aparece_tweet(enfermedades,bolsitas).
+aparece_tweet(enfermedades,inundaciones).
+aparece_tweet(recoleccion,basuras).
+aparece_tweet(recoleccion,riesgo).
+aparece_tweet(recoleccion,lluvias).
+aparece_tweet(recoleccion,concienciacion).
+aparece_tweet(recoleccion,inaccion).
+aparece_tweet(recoleccion,baldios).
+aparece_tweet(recoleccion,crecimiento).
+aparece_tweet(recoleccion,rio).
+aparece_tweet(recoleccion,epoca).
+aparece_tweet(recoleccion,plastico).
+aparece_tweet(recoleccion,bolsitas).
+aparece_tweet(recoleccion,inundaciones).
+aparece_tweet(basuras,riesgo).
+aparece_tweet(basuras,lluvias).
+aparece_tweet(basuras,concienciacion).
+aparece_tweet(basuras,inaccion).
+aparece_tweet(basuras,baldios).
+aparece_tweet(basuras,crecimiento).
+aparece_tweet(basuras,rio).
+aparece_tweet(basuras,epoca).
+aparece_tweet(basuras,plastico).
+aparece_tweet(basuras,bolsitas).
+aparece_tweet(basuras,inundaciones).
+aparece_tweet(riesgo,lluvias).
+aparece_tweet(riesgo,concienciacion).
+aparece_tweet(riesgo,inaccion).
+aparece_tweet(riesgo,baldios).
+aparece_tweet(riesgo,crecimiento).
+aparece_tweet(riesgo,rio).
+aparece_tweet(riesgo,epoca).
+aparece_tweet(riesgo,plastico).
+aparece_tweet(riesgo,bolsitas).
+aparece_tweet(riesgo,inundaciones).
+aparece_tweet(lluvias,concienciacion).
+aparece_tweet(lluvias,inaccion).
+aparece_tweet(lluvias,baldios).
+aparece_tweet(lluvias,crecimiento).
+aparece_tweet(lluvias,rio).
+aparece_tweet(lluvias,epoca).
+aparece_tweet(lluvias,plastico).
+aparece_tweet(lluvias,bolsitas).
+aparece_tweet(lluvias,inundaciones).
+aparece_tweet(concienciacion,inaccion).
+aparece_tweet(concienciacion,baldios).
+aparece_tweet(concienciacion,crecimiento).
+aparece_tweet(concienciacion,rio).
+aparece_tweet(concienciacion,epoca).
+aparece_tweet(concienciacion,plastico).
+aparece_tweet(concienciacion,bolsitas).
+aparece_tweet(concienciacion,inundaciones).
+aparece_tweet(inaccion,baldios).
+aparece_tweet(inaccion,crecimiento).
+aparece_tweet(inaccion,rio).
+aparece_tweet(inaccion,epoca).
+aparece_tweet(inaccion,plastico).
+aparece_tweet(inaccion,bolsitas).
+aparece_tweet(inaccion,inundaciones).
+aparece_tweet(baldios,crecimiento).
+aparece_tweet(baldios,rio).
+aparece_tweet(baldios,epoca).
+aparece_tweet(baldios,plastico).
+aparece_tweet(baldios,bolsitas).
+aparece_tweet(baldios,inundaciones).
+aparece_tweet(crecimiento,rio).
+aparece_tweet(crecimiento,epoca).
+aparece_tweet(crecimiento,plastico).
+aparece_tweet(crecimiento,bolsitas).
+aparece_tweet(crecimiento,inundaciones).
+aparece_tweet(rio,epoca).
+aparece_tweet(rio,plastico).
+aparece_tweet(rio,bolsitas).
+aparece_tweet(rio,inundaciones).
+aparece_tweet(epoca,plastico).
+aparece_tweet(epoca,bolsitas).
+aparece_tweet(epoca,inundaciones).
+aparece_tweet(plastico,bolsitas).
+aparece_tweet(plastico,inundaciones).
+aparece_tweet(bolsitas,inundaciones).
+
+% Conocimiento Base
+
 es_sustantivo_dengue(compromiso).
 es_sustantivo_dengue(sector).
 es_sustantivo_dengue(herramientas).
@@ -8136,7 +8145,7 @@ es_sustantivo_dengue(persona).
 es_sustantivo_dengue(casos).
 es_sustantivo_dengue(enfermedad).
 es_sustantivo_dengue(calle).
-es_sustantivo_dengue(intervención).
+es_sustantivo_dengue(intervencion).
 es_sustantivo_dengue(culpa).
 es_sustantivo_dengue(ciudadano).
 es_sustantivo_dengue(plaza).
@@ -8146,7 +8155,7 @@ es_sustantivo_dengue(ruinas).
 es_sustantivo_dengue(predio).
 es_sustantivo_dengue(avenida).
 es_sustantivo_dengue(chikungunya).
-es_sustantivo_dengue(población).
+es_sustantivo_dengue(poblacion).
 es_sustantivo_dengue(patios).
 es_sustantivo_dengue(criaderos).
 es_sustantivo_dengue(ministro).
@@ -8176,12 +8185,12 @@ es_sustantivo_dengue(titular).
 es_sustantivo_dengue(ciudad).
 es_sustantivo_dengue(instalaciones).
 es_sustantivo_dengue(vector).
-es_sustantivo_dengue(educación).
-es_sustantivo_dengue(disposición).
+es_sustantivo_dengue(educacion).
+es_sustantivo_dengue(disposicion).
 es_sustantivo_dengue(recursos).
 es_sustantivo_dengue(lucha).
 es_sustantivo_dengue(denuncias).
-es_sustantivo_dengue(neumáticos).
+es_sustantivo_dengue(neumaticos).
 es_sustantivo_dengue(chatarras).
 es_sustantivo_dengue(ayudarnos).
 es_sustantivo_dengue(supuesto).
@@ -8195,27 +8204,27 @@ es_sustantivo_dengue(aumento).
 es_sustantivo_dengue(dr).
 es_sustantivo_dengue(pacientes).
 es_sustantivo_dengue(conciencia).
-es_sustantivo_dengue(dispersión).
+es_sustantivo_dengue(dispersion).
 es_sustantivo_dengue(notifaciones).
 es_sustantivo_dengue(epidemia).
 es_sustantivo_dengue(funcionarios).
-es_sustantivo_dengue(extinción).
+es_sustantivo_dengue(extincion).
 es_sustantivo_dengue(barrio).
 es_sustantivo_dengue(cuadra).
 es_sustantivo_dengue(basura).
-es_sustantivo_dengue(eliminación).
+es_sustantivo_dengue(eliminacion).
 es_sustantivo_dengue(instituciones).
 es_sustantivo_dengue(trabajos).
 es_sustantivo_dengue(rastrillaje).
 es_sustantivo_dengue(autoridades).
-es_sustantivo_dengue(institución).
+es_sustantivo_dengue(institucion).
 es_sustantivo_dengue(intendentes).
 es_sustantivo_dengue(municipalidad).
 es_sustantivo_dengue(acciones).
 es_sustantivo_dengue(sanciones).
 es_sustantivo_dengue(limpieza).
 es_sustantivo_dengue(yuyales).
-es_sustantivo_dengue(propagación).
+es_sustantivo_dengue(propagacion).
 es_sustantivo_dengue(ministerio).
 es_sustantivo_dengue(rebrote).
 es_sustantivo_dengue(problema).
@@ -8225,14 +8234,14 @@ es_sustantivo_dengue(antecedentes).
 es_sustantivo_dengue(recomendaciones).
 es_sustantivo_dengue(causa).
 es_sustantivo_dengue(sospecha).
-es_sustantivo_dengue(infestación).
-es_sustantivo_dengue(imputación).
+es_sustantivo_dengue(infestacion).
+es_sustantivo_dengue(imputacion).
 es_sustantivo_dengue(serotipo).
 es_sustantivo_dengue(comunidad).
 es_sustantivo_dengue(combate).
 es_sustantivo_dengue(muertes).
 es_sustantivo_dengue(cifra).
-es_sustantivo_dengue(síntomas).
+es_sustantivo_dengue(sintomas).
 es_sustantivo_dengue(medicamentos).
 es_sustantivo_dengue(urgencias).
 es_sustantivo_dengue(afectados).
@@ -8243,17 +8252,54 @@ es_sustantivo_dengue(brote).
 es_sustantivo_dengue(hospitalizaciones).
 es_sustantivo_dengue(cuadro).
 es_sustantivo_dengue(enfermedades).
-es_sustantivo_dengue(recolección).
+es_sustantivo_dengue(recoleccion).
 es_sustantivo_dengue(basuras).
 es_sustantivo_dengue(riesgo).
 es_sustantivo_dengue(lluvias).
-es_sustantivo_dengue(concienciación).
-es_sustantivo_dengue(inacción).
-es_sustantivo_dengue(baldíos).
+es_sustantivo_dengue(concienciacion).
+es_sustantivo_dengue(inaccion).
+es_sustantivo_dengue(baldios).
 es_sustantivo_dengue(crecimiento).
-es_sustantivo_dengue(río).
+es_sustantivo_dengue(rio).
 es_sustantivo_dengue(emergencia).
-es_sustantivo_dengue(época).
-es_sustantivo_dengue(plástico).
+es_sustantivo_dengue(epoca).
+es_sustantivo_dengue(plastico).
 es_sustantivo_dengue(bolsitas).
 es_sustantivo_dengue(inundaciones).
+
+
+factor_genera(basuras,criaderos).
+factor_genera(agua,criaderos).
+factor_genera(brotes,sector).
+factor_genera(brote,dengue).
+factor_genera(brote,barrios).
+factor_genera(brote,ciudad).
+factor_genera(enfermedad,mosquito).
+factor_genera(basuras,brote).
+factor_genera(lluvias,brote).
+factor_genera(inundaciones,brote).
+factor_genera(neumaticos,vector).
+factor_genera(chatarras,vector).
+factor_genera(agua,vector).
+factor_genera(inundaciones,vector).
+factor_genera(basuras,vector).
+factor_genera(yuyales,vector).
+factor_genera(lluvias,focos).
+factor_genera(inundaciones,focos).
+factor_genera(baldios,focos).
+factor_genera(yuyales,focos).
+factor_genera(vector,barrios).
+factor_genera(gente,dengue).
+factor_genera(basura,sector).
+
+
+factor_genera(vector,sector).
+factor_genera(vector,ciudad).
+
+epidemia_dengue(X,Z):- genera(X,Y), genera(Z,Y).
+
+
+
+
+
+

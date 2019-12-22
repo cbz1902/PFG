@@ -1,51 +1,45 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+"""************************************SE IMPORTAN LAS LIBRERIAS A UTILIZAR********************************************************************************"""
 import  itertools
 from itertools import combinations
+from trabajar_archivos import leer_txt, escribir_txt, escribir_archivo_positivo_pl
 
-#funcion que permite eliminar los duplicados y realizar las combinaciones
 def combinar_sustantivos(lista_sustantivos):
+    """Método que realiza las combinaciones de los sustantivos
+    @lista_sustantivo: lista de sustantivos a ser combinados
+    @combinaciones: lista de combinaciones realizada"""
     lista_nueva = []
     for elemento in lista_sustantivos:
         if elemento not in lista_nueva:
+            elemento = elemento.replace('\n','')
             lista_nueva.append(elemento)
     combinaciones = list(itertools.combinations(lista_nueva, 2))  # iterador que realiza las combinaciones
     return combinaciones
-def leer_txt(path):
-    lista = []
-    try:
-        with open(path,'r') as File:
-            for item in File:
-                line = item.rstrip("\n")
-                lista.append(line)
-            
-    except:
-       print("path de lectura "+path+" incorrecto..")
-       exit(0)
-    File.close()
-    return lista
-
-def escribir_archivo_positivo(lista_combinada):
-    f = open('data/ejemplos_positivos.pl', 'w')
-    f.write('%Ejemplos positivos' + '\n')
-    for elemento in lista_combinada:
-        line = ', '.join(str(x) for x in elemento)
-        f.write('combinado_con(' + line + ').' + '\n')
-    f.close()
 
 def conocimiento_base(data):
+    """Método que define el conocimiento base
+    @data: lista de sustantivos utilizados para generar el conocimiento base
+    """
     conocimiento_base = []
     for i in data:
+        i = i.replace('\n','')
         conocimiento_base.append("es_sustantivo_dengue("+i+").")
     return conocimiento_base
-def escribir_txt(path,data):
-    try:
-        with open(path, 'w+') as File:
-            for i in data:
-                File.write(str(i)+'\n')
-    except:
-        print("path de escritura "+path+" incorrecto..")
-        exit(0)
-    File.close()
 
-resp = leer_txt('data/tweets_sustantivos.txt')
-escribir_txt('data/es_sustantivos.pl',conocimiento_base(resp))
-escribir_archivo_positivo(combinar_sustantivos(resp))
+def unir():
+    """Método utilizado para generar el dataset final
+    """
+    ejemplos_positivos= open ('data/ejemplos_positivos.pl','r')
+    conocimiento_sustantivo= open ('data/es_sustantivos.pl','r')
+    dataset = open ('dataset.pl','w')
+    dataset.write(ejemplos_positivos.read())
+    dataset.write('%Conocimiento Base' + '\n')
+    dataset.write(conocimiento_sustantivo.read())
+    dataset.close()
+
+if __name__ == "__main__":
+    resp = leer_txt('data/tweets_sustantivos.txt')
+    escribir_archivo_positivo_pl(combinar_sustantivos(resp))
+    escribir_txt('data/es_sustantivos.pl',conocimiento_base(resp))
+    unir()
